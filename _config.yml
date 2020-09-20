@@ -1,59 +1,79 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
+# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+# 'jekyll serve'. If you change this file, please restart the server process.
+encoding: utf-8
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: Conge
+brief-intro: 精进
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://conge.github.io' # the base hostname & protocol for your site
 
-title: 收心阁
-email: congel@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://conge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:year/:month/:day/:title/
+
+# other links
+twitter_username: conge
+facebook_username:
 github_username: conge
-highlighter: rouge
-paginate: 20
-svg:
-  optimize: true
+email: congel@gmail.com
+weibo_username:
+zhihu_username:
+linkedIn_username: conge
+dribbble_username:
+
+description_footer: 
+
+# comments
+# 三种评论插件，选一个就好了
+disqus_shortname: #lework
+gitalk:
+  enable: #false
+  clientID: #0f2905fdcd849f08a1c5
+  clientSecret: #c6bfab960df0d7c3af036756e7e2bcd00a44a9e6
+  repo: #lework.github.io
+  owner: #lework
+  admin: #lework
+utteranc_es:
+  enable: #true
+  repo: '#lework/lework.github.io'
+  issue-term: #pathname
+  theme: #github-light
+
+# 赞赏
+reward:
+  enable: fase
+  wechat: /assets/images/reward/wechat.png
+  alipay: /assets/images/reward/alipay.png
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id:
+google_analytics_id:
+
 # Build settings
-# theme: minima
-highlighter-theme: monokai
-date_format: "%Y-%M-%D"
-plugins:
-  - jekyll-feed
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
 category_dir: category/
 tag_dir: tag/
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+plugins: [jekyll-paginate]
+paginate: 10
+
+exclude: [ "LICENSE", ".post-template", ".gitignore", "start.bat"]
+
