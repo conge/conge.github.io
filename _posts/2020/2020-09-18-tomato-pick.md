@@ -2,7 +2,7 @@
 layout: post
 title: "新爸五年计划 ｜167 捡果子（三） 西红柿"
 date: "2020-09-18 11:32:11"
-categories: 新爸五年计划点
+categories: 父范学堂
 excerpt: "捡李子或者黑莓，没人管，因为差不多是野生半野生。这次说的摘西红柿，则是邻居的善意了..."
 auth: conge
 
