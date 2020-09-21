@@ -50,7 +50,7 @@ tags: [雾霾, 口罩]
 
 ## Running log
 
-![Running log, week 38, 2020](../assets/images/折返点/2020_wk38.png)
+![Running log, week 38, 2020](/assets/images/折返点/2020_wk38.png)
 
 ## 折返点
 
