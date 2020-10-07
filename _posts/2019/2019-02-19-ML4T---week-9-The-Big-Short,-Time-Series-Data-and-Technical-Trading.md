@@ -4,7 +4,7 @@ title: "ML4T | week9 The Big Short, Time Series Data and Technical Trading"
 date: "2019-02-19 02:20:20"
 categories: 计算机科学
 excerpt: "This week, you should watch ... well, no lessons, but a few video..."
-tags: [ML4T, Machine Learning, ]
+tags: [ML4T, Machine_Learning ]
 auth: conge
 ---
 * content

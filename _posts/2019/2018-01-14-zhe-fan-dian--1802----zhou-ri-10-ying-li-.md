@@ -5,7 +5,7 @@ date: "2018-01-14 01:14:14"
 categories: 折返点
 excerpt: "上个周末10英里的long run之后，我的右脚脚踝脚腕附近开始疼。具体位置不是特别容易确定，也不是很妨碍走路，但是特定姿势的时候会很不舒服..."
 auth: conge
-tags: [跑步, long run]
+tags: [跑步, Long_Run]
 ---
 * content
 {:toc}
