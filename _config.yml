@@ -15,7 +15,7 @@ permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: conge
-facebook_username:
+facebook_username: psychattic
 github_username: conge
 email: congel@gmail.com
 weibo_username:
@@ -36,14 +36,14 @@ gitalk:
   owner: #lework
   admin: #lework
 utteranc_es:
-  enable: #true
-  repo: '#lework/lework.github.io'
-  issue-term: #pathname
-  theme: #github-light
+  enable: true
+  repo: 'conge/conge.github.io'
+  issue-term: title
+  theme: github-light
 
 # 赞赏
 reward:
-  enable: fase
+  enable: false
   wechat: /assets/images/reward/wechat.png
   alipay: /assets/images/reward/alipay.png
 
