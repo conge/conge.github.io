@@ -16,8 +16,7 @@ tags: [FCS, 跑步]
 
 | ![Running log, week 42, 2020](/assets/images/折返点/2020_wk42.png) |   
 |:--:|   
-| *Running log, week 42, 2020* |. 
-
+| *Running log, week 42, 2020* |  
 
 
 当一周的天气从多数晴天，变成多数阴天，西雅图的夏季就结束，秋季也就来了。
