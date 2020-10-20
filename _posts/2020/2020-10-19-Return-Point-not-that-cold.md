@@ -3,7 +3,7 @@ layout: post
 title: "折返点 2042｜ 不怕冷的人"
 date: "2020-10-19 13:21:00"
 categories: 折返点
-auth: conge
+author: conge
 tags: [FCS, 跑步]
 
 ---
@@ -13,12 +13,12 @@ tags: [FCS, 跑步]
 
 
 ## Running log
-| ![Running log, week 42, 2020](/assets/images/折返点/2020_wk42.png) | 
-|:--:| 
-| *Running log, week 42, 2020* |
+
+| ![Running log, week 42, 2020](/assets/images/折返点/2020_wk42.png) |   
+|:--:|   
+| *Running log, week 42, 2020* |. 
 
 
-## 
 
 当一周的天气从多数晴天，变成多数阴天，西雅图的夏季就结束，秋季也就来了。
 
@@ -27,6 +27,7 @@ tags: [FCS, 跑步]
 黄金户外活动时间结束了，金黄的收获季节开始了。
 
 蓝天少见了，灰色多云的天空多了。
+
 
 
 
