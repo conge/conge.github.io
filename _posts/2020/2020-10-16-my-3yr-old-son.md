@@ -3,14 +3,14 @@ layout: post
 title: "新爸五年计划 | 172 儿子二三事"
 date: "2020-10-16 00:10:11"
 categories: 父范学堂
-auth: conge
+author: conge
 tags: 孩子
 
 ---
 * content
 {:toc}
 
- ![father-son by ](../assets/images/父范学堂/father_son.jpg)
+ ![father-son](/assets/images/父范学堂/father_son.jpg)
  > Photo by [Tobi Law](https://unsplash.com/@waiheng_tobi) on Unsplash
 
 前几天都在写女儿，做 [女儿的车夫](https://conge.github.io/2020/10/04/push-daughter-to-school/)啦，见证[女儿在学校的庆生](https://conge.github.io/2020/10/09/daughter-birthday-celebration-in-school/)啦。反而对儿子的事儿比较少提。
