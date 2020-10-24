@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: conge
 dribbble_username:
 
-description_footer: 
+description_footer: 脚踏实地
 
 # comments
 # 三种评论插件，选一个就好了
@@ -76,4 +76,3 @@ plugins: [jekyll-paginate]
 paginate: 10
 
 exclude: [ "LICENSE", ".post-template", ".gitignore", "start.bat"]
-
