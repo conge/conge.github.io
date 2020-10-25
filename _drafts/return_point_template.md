@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "折返点 2040｜"
-date: "2020-10-03 15:23:00"
+title: "折返点 2043｜ "
+date: "2020-10-24 23:56:00"
 categories: 折返点
 excerpt: ""
 auth: conge
-tags: [FCS, 跑步]
+tags: [ 跑步]
 
 ---
 * content
@@ -16,11 +16,11 @@ tags: [FCS, 跑步]
 
 ## Running log
 
-![Running log, week 40, 2020](/assets/images/折返点/2020_wk40.png)
+![Running log, week 40, 2020](/assets/images/折返点/2020_wk43.png)
 
 ## 折返点
 
-![20201011.jpg](/assets/images/折返点/)  ß
+![20201011.jpg](/assets/images/折返点/)
 ![20201012.jpg](/assets/images/折返点/)  
 ![20201013.jpg](/assets/images/折返点/)  
 ![20201014.jpg](/assets/images/折返点/)  
