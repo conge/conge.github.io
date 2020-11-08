@@ -3,7 +3,6 @@ layout: post
 title: "折返点 2045｜ "
 date: "2020-11-07 20:18:00"
 categories: 折返点
-excerpt: ""
 auth: conge
 tags: [ 跑步]
 
@@ -16,9 +15,10 @@ tags: [ 跑步]
 
 ## Running log
 
-![Running log, week 40, 2020](/assets/images/折返点/2020_wk43.png)
+![Running log, week 44, 2020](/assets/images/折返点/2020_wk44.png)
 
 ## 折返点
+
 
 ![20201101.jpg](/assets/images/折返点/20201101.jpg)  
 ![20201102.jpg](/assets/images/折返点/20201102.jpg)  
@@ -31,4 +31,3 @@ tags: [ 跑步]
 ```
 2020-11-07 初稿
 ```
-
