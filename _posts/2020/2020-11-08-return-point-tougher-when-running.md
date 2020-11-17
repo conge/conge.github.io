@@ -15,7 +15,11 @@ tags: [ 跑步]
 
 ## Running log
 
-![Running log, week 40, 2020](../assets/images/折返点/2020_wk43.png)
+|Running log|
+|:----:|
+|![Running log, week 40, 2020](/assets/images/折返点/2020_wk43.png)|
+|week 40, 2020|
+
 
 秋风起，秋意凉。
 
@@ -59,14 +63,15 @@ tags: [ 跑步]
 他的话对了一半儿，我只是跑步的时候不怕冷而已……
 
 ## 折返点
-
-![20201101.jpg](/assets/images/折返点/20201101.jpg)  
-![20201102.jpg](/assets/images/折返点/20201102.jpg)  
-![20201103.jpg](/assets/images/折返点/20201103.jpg)  
-![20201104.jpg](/assets/images/折返点/20201104.jpg)  
-![20201105.jpg](/assets/images/折返点/20201105.jpg)  
-![20201106.jpg](/assets/images/折返点/20201106.jpg)  
-![20201107.jpg](/assets/images/折返点/20201107.jpg)
+|Date|Pics|
+|----|----|
+|20201101|![20201101.jpg](/assets/images/折返点/20201101.jpg)|  
+|20201102|![20201102.jpg](/assets/images/折返点/20201102.jpg)|  
+|20201103|![20201103.jpg](/assets/images/折返点/20201103.jpg)|  
+|20201104|![20201104.jpg](/assets/images/折返点/20201104.jpg)|  
+|20201105|![20201105.jpg](/assets/images/折返点/20201105.jpg)|  
+|20201106|![20201106.jpg](/assets/images/折返点/20201106.jpg)|  
+|20201107|![20201107.jpg](/assets/images/折返点/20201107.jpg)|
 
 ```
 2020-11-08 初稿
