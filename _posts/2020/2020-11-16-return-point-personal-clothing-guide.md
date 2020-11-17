@@ -16,7 +16,7 @@ tags: [ 跑步]
 ## Running log
 |  Running log |
 |:----:|
-|![Running log, week 46, 2020](../assets/images/折返点/2020_wk46.png)|
+|![Running log, week 46, 2020](/assets/images/折返点/2020_wk46.png)|
 |week 46, 2020|
 
 我自己对自己有一个不成文的规定，来指导自己的跑步时候的穿着。此规定很简单，就是从温度判断穿怎样的衣服跑步。基本的目标，当然是为了跑步的舒服。
@@ -52,19 +52,19 @@ tags: [ 跑步]
 
 | 折返点 照片 |
 |:----:|
-|![20201108.jpg](../assets/images/折返点/20201108.jpg) |
+|![20201108.jpg](/assets/images/折返点/20201108.jpg) |
 |20201108.jpg|
-|![20201109.jpg](../assets/images/折返点/20201109.jpg)  |
+|![20201109.jpg](/assets/images/折返点/20201109.jpg)  |
 |20201109.jpg|
-|![20201110.jpg](../assets/images/折返点/20201110.jpg)  |
+|![20201110.jpg](/assets/images/折返点/20201110.jpg)  |
 |20201110.jpg|
-|![20201111.jpg](../assets/images/折返点/20201111.jpg)  |
+|![20201111.jpg](/assets/images/折返点/20201111.jpg)  |
 |20201111.jpg|
-|![20201112.jpg](../assets/images/折返点/20201112.jpg)  |
+|![20201112.jpg](/assets/images/折返点/20201112.jpg)  |
 |20201112.jpg|
-|![20201113.jpg](../assets/images/折返点/20201113.jpg)  |
+|![20201113.jpg](/assets/images/折返点/20201113.jpg)  |
 |20201113.jpg|
-|![20201114.jpg](../assets/images/折返点/20201114.jpg)|
+|![20201114.jpg](/assets/images/折返点/20201114.jpg)|
 |20201114.jpg|
 
 
