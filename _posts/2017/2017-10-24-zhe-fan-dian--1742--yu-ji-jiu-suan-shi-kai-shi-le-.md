@@ -30,6 +30,7 @@ auth: conge
 ![20171015.jpg](/assets/images/折返点/118382-85e6b05e5739b019.jpg)
 
 ![20171016.jpg](/assets/images/折返点/118382-3fbe25be12258641.jpg)
+
 ![20171017.jpg](/assets/images/折返点/118382-0987d6b8db8fb5e3.jpg)
 
 ![20171018.jpg](/assets/images/折返点/118382-4259a89e9fd97748.jpg)
@@ -39,3 +40,8 @@ auth: conge
 ![20171020.jpg](/assets/images/折返点/118382-5179416099f18e13.jpg)
 
 ![20171021.jpg](/assets/images/折返点/118382-e8851d0f90c97e9e.jpg)
+
+
+```
+2017-10-24 初稿
+```
