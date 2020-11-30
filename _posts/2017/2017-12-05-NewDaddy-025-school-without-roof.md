@@ -4,7 +4,7 @@ title: "新爸五年计划 | 025 没有屋顶的幼儿园"
 date: 2017-12-05 12:05:05
 categories: 父范学堂
 auth: conge
-tags: [孩子 女儿 育儿 新爸五年计划]
+tags: 孩子 女儿 育儿 新爸五年计划
 ---
 * content
 {:toc}

@@ -4,7 +4,7 @@ title: "新爸五年计划 | 018 在幼儿园里没有流的眼泪，留到了�
 date: 2017-10-20 10:20:20
 categories: 父范学堂
 auth: conge
-tags: [新爸五年计划 育儿 女儿]
+tags: 新爸五年计划 育儿 女儿
 ---
 * content
 {:toc}

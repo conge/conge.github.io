@@ -4,7 +4,7 @@ title: "新爸五年计划 ｜ 023 江表虎臣"
 date: 2017-11-29 11:29:29
 categories: 父范学堂
 auth: conge
-tags: [女儿 新爸五年计划 育儿]
+tags: 女儿 新爸五年计划 育儿
 ---
 * content
 {:toc}
