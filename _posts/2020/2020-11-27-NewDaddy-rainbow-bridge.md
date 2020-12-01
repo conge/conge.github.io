@@ -69,9 +69,8 @@ tags: [孩子, 兔子, 新爸五年计划]
 
 最后，一起看看我的兔子们的生前的样子吧。
 
-|{% include youtubePlayer.html id= CB8FChk2CjI %}|
-|:----:|
-|小七(黑)和嘟嘟(白)|
+{% include youtubePlayer.html id=CB8FChk2CjI %}
+
 
 ----
 
