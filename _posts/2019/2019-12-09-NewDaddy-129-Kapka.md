@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "新爸五年计划 | 129 Kapka"
-date:
+date: "2019-12-09 12:09:09"
 categories: 父范学堂
 tags: 新爸五年计划 育儿 女儿 学校 小学
 auth: conge
@@ -12,6 +12,7 @@ auth: conge
 |![Kapka](/assets/images/父范学堂/118382-cb32dd602668d1be.png)|
 |:----:|
 |Kapka|
+
 Kapka是一所学校，私立学校，招收K-5的学生。
 
 K5指的是Kindergarten to 5th grade，也就是从学前班到年级的美国小学教育。
