@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "折返点-2004---曼巴精神"
+title: "折返点 2004｜曼巴精神"
 date: "2020-01-28 01:28:20"
 categories: 折返点
-excerpt: "科比 布莱恩特，是个伟大的篮球球员。他去世了。私人飞机失事..."
+tags: 跑步 自律 
 auth: conge
 ---
 * content
 {:toc}
+
+## Running log
+
+|![Running Log Week 04, 2020](/assets/images/折返点/118382-693f12a3de17e1bf.png)|
+|:----:|
+|Running Log Week 04, 2020|
 
 科比 布莱恩特，是个伟大的篮球球员。他去世了。私人飞机失事。
 
@@ -16,6 +22,10 @@ auth: conge
 我的弟弟们，喜欢的是科比这代的球星。
 
 我对他的了解，仅限于“清晨四点的洛杉矶”。他，从17岁开始，就每天四点钟起床，开始他的训练。
+
+
+
+
 
 在2002年奥运会的时候，他入选国家队。当时执教的教练之一，在清晨四点接到科比的电话，需要指导。他五点钟赶到体育场时，科比已经练了一个小时。他们一起练了一个小时后，教练先回去睡了。早上十一点，全队集训的时间，教练回到体育场。他和科比闲聊，赞他起的真早。
 
@@ -47,23 +57,19 @@ auth: conge
 
 -----------
 
-## Running log
-![Running Log Week 04, 2020](/assets/images/折返点/118382-693f12a3de17e1bf.png)
+
 
 ## 折返点
-![20200119.jpg](/assets/images/折返点/118382-a83c242f2a96ac5a.jpg)
 
-![20200120.jpg](/assets/images/折返点/118382-891357ff41e5e7fe.jpg)
-
-![20200121.jpg](/assets/images/折返点/118382-57a28990521af88f.jpg)
-
-![20200122.jpg](/assets/images/折返点/118382-d73edcf28c45ff38.jpg)
-
-![20200123.jpg](/assets/images/折返点/118382-f7c27b747fbf776b.jpg)
-
-![20200124.jpg](/assets/images/折返点/118382-4e9f2ff37de9bfb4.jpg)
-
-![20200125.jpg](/assets/images/折返点/118382-ffee50de8c0e23f7.jpg)
+|date|pics|
+|:----:|:----:|
+| 20200119|![20200119.jpg](/assets/images/折返点/118382-a83c242f2a96ac5a.jpg)|
+| 20200120|![20200120.jpg](/assets/images/折返点/118382-891357ff41e5e7fe.jpg)|
+| 20200121|![20200121.jpg](/assets/images/折返点/118382-57a28990521af88f.jpg)|
+| 20200122|![20200122.jpg](/assets/images/折返点/118382-d73edcf28c45ff38.jpg)|
+| 20200123|![20200123.jpg](/assets/images/折返点/118382-f7c27b747fbf776b.jpg)|
+| 20200124|![20200124.jpg](/assets/images/折返点/118382-4e9f2ff37de9bfb4.jpg)|
+| 20200125|![20200125.jpg](/assets/images/折返点/118382-ffee50de8c0e23f7.jpg)|
 
 ```
 2020-01-28

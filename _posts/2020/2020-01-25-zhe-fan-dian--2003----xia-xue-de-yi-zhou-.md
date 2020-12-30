@@ -3,7 +3,7 @@ layout: post
 title: "折返点-2003---下雪的一周"
 date: "2020-01-25 01:01:01"
 categories: 折返点
-excerpt: "西雅图最冷的，大概也就是这周了吧。 居然连续三天下雪..."
+tags: 跑步 下雪
 auth: conge
 ---
 * content
