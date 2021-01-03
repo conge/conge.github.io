@@ -4,7 +4,7 @@ title: "折返点 2046｜ 我都跑步穿衣指导原则"
 date: "2020-11-16 20:18:00"
 categories: 折返点
 auth: conge
-tags: [ 跑步]
+tags: 跑步 跑步装备
 
 ---
 * content
