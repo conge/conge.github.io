@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "折返点 2051｜ "
-date: "2020-12-27 13:54:00"
+title: "折返点 2101｜ "
+date: "2021-01-27 13:54:00"
 categories: 折返点
 auth: conge
 tags: 跑步
@@ -14,24 +14,24 @@ tags: 跑步
 ----
 
 ## Running log
-|week 51, 2020|
+|week 01, 2021|
 |:----:|
-|![Running log, week 47, 2020](/assets/images/折返点/2020_wk51.png)|
+|![Running log, week 47, 20201(/assets/images/折返点/2021_wk01.png)|
 
 
 ## 折返点
 
 |Date|Pics|
 |:----|:----:|
-|20201213|![20201213.jpg](/assets/images/折返点/20201213.jpg)  |
-|20201214|![20201214.jpg](/assets/images/折返点/20201214.jpg)  |
-|20201215|![20201215.jpg](/assets/images/折返点/20201215.jpg)  |
-|20201216|![20201216.jpg](/assets/images/折返点/20201216.jpg)  |
-|20201217|![20201217.jpg](/assets/images/折返点/20201217.jpg)  |
-|20201218|![20201218.jpg](/assets/images/折返点/20201218.jpg)  |
-|20201219|![20201219.jpg](/assets/images/折返点/20201219.jpg)  |
+|20210113|![20210113.jpg](/assets/images/折返点/20210113.jpg)  |
+|20210114|![20210114.jpg](/assets/images/折返点/20210114.jpg)  |
+|20210115|![20210115.jpg](/assets/images/折返点/20210115.jpg)  |
+|20210116|![20210116.jpg](/assets/images/折返点/20210116.jpg)  |
+|20210117|![20210117.jpg](/assets/images/折返点/20210117.jpg)  |
+|20210118|![20210118.jpg](/assets/images/折返点/20210118.jpg)  |
+|20210119|![20210119.jpg](/assets/images/折返点/20210119.jpg)  |
 
 
 ```
-2020-12-19 初稿
+2021-01-19 初稿
 ```
