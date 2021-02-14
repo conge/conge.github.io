@@ -14,7 +14,7 @@ tags: 跑步
 ----
 
 
-|![SCH BIKE](../assets/images/折返点/sch_bike.jpg)|
+|![SCH BIKE](/assets/images/折返点/sch_bike.jpg)|
 |:----:|
 |Company Bike|
 
