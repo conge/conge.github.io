@@ -4,7 +4,7 @@ title: "新爸五年计划 | 191 无条件的爱孩子"
 date: "2021-02-27 21:34:11"
 categories: 父范学堂
 auth: conge
-tags: 新爸五年计划 育儿
+tags: 新爸五年计划 育儿 读书
 
 ---
 * content
@@ -13,7 +13,7 @@ tags: 新爸五年计划 育儿
 
 ||
 |----|
-| ![book](https://img9.doubanio.com/view/subject/l/public/s28960928.jpg)|
+|![book](https://img9.doubanio.com/view/subject/l/public/s28960928.jpg)|
 
 
 这一周，我读了《好妈妈胜过好老师2:自由的孩子最自觉》。我的孩子觉出了我的不同。
