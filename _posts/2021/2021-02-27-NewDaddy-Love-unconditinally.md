@@ -13,8 +13,7 @@ tags: 新爸五年计划 育儿 读书
 
 ||
 |----|
-|![book](https://img9.doubanio.com/view/subject/l/public/s28960928.jpg)|
-
+|![自由的孩子最自觉 封面](https://img9.doubanio.com/view/subject/l/public/s28960928.jpg)|
 
 这一周，我读了《好妈妈胜过好老师2:自由的孩子最自觉》。我的孩子觉出了我的不同。
 
