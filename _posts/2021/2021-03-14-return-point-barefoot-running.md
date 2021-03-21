@@ -14,7 +14,7 @@ tags: 跑步
 ----
 
 
-|![](../assets/images/折返点/2021-03-14-barefoot.jpeg)|
+|![](/assets/images/折返点/2021-03-14-barefoot.jpeg)|
 |:----:|
 |赤脚跑步或可减少受伤|
 
