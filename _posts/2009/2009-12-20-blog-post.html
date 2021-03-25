@@ -1,0 +1,13 @@
+---
+layout: post
+title: "[电脑网络]卡巴斯基与网盘的冲突解决一例"
+date: '2009-12-20T12:32:00.003-09:00'
+author: Qingyang
+tags:
+- 电脑网络
+modified_time: '2009-12-20T16:30:18.021-09:00'
+blogger_id: tag:blogger.com,1999:blog-25302544.post-1936362969310966952
+blogger_orig_url: https://psychattic.blogspot.com/2009/12/blog-post.html
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://i374.photobucket.com/albums/oo188/psychattic/kaspersky_300.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px; height: 200px;" src="http://i374.photobucket.com/albums/oo188/psychattic/kaspersky_300.jpg" alt="" border="0" /></a><br />今天上传文件到megaupload，试了多次都不成功。症状是无论多大的文件都是瞬间完成，然后出现一个undifined，却没有给我链接。到账户设置里查看，也没有新文件上传。之后我又实验了多次，也换了好几个网盘尝试，都是上传失败。<br /><br />上网找了一圈，很多人报告这个问题，然而成功解决的却不多。有人建议卸载了卡巴斯基，这不是解决而是逃避问题。<a href="http://www.ycool.com/space.php?uid=1353562" target="_blank">MaaJiaa </a>建议添加地址信任（<a href="http://maajiaa.ycool.com/post.2957973.html">见这里</a>），但我试了一下，不起作用。<br />在同一篇博客中，<a href="http://www.ycool.com/space.php?uid=1353562" target="_blank">MaaJiaa </a>的<a href="http://maajiaa.ycool.com/post.2957973.html">文章</a>提到了端口监控，并且通过将卡巴对80和443端口的监控给关闭而解决网盘上传不能的。不过，80和443是最容易受攻击的两个端口啊，禁止了对他们的监控那不就是给小偷开狗洞了么！这跟没装杀毒软件是一样的啊，还是要不得。完全不监控则会提高被病毒木马攻击成功的概率不开这两个端口，则又上传不能。二者折中一下，如果只对上传的软件开放端口，而继续检测其他软件对这两个端口的检测，就会好多了。而卡巴斯基恰好有这样的功能。<br /><br />思路：因为我用的网盘都是网页上传，且基本没有用到https链接，因此只需要浏览器能够访问80端口就好。如果你选择的网盘支持https链接，则需要打开443端口。我用到的是浏览器是firefox和Chrome，那么我只需要让卡巴斯基允许这两个软件使用80端口就可以了。个人不建议开放IE的80端口检测，因为，微软的东西往往是黑客们的首要目标。<br /><br />卡巴斯基啊设置方法：打开卡巴斯基=>设置=>威胁和排除=》排除对象 设置=》信任程序=》添加=》应用程序=》选中 Firefox.exe =>勾选“不扫描网络流量”=>选择特定端口=》在弹出的对话框中填入80 （或者443），然后一路“确定”。<br />同样方法设这卡巴斯基对Chrome的监控。<br /><br />如果你希望有一个图片教程，可以参加卡巴斯基的官方网站（<a href="http://www.kaba365.com/5060000.asp?id=1118">点击这里进入</a>）。 <br /><br />这些设置好之后，网盘上传就不再有问题了。

@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'turorial: installing AFNI on a Windows machine using Cynwin'
+date: '2010-03-05T07:19:00.003-09:00'
+author: Qingyang
+tags:
+- 心理文萃
+- 电脑网络
+modified_time: '2010-03-05T07:45:29.242-09:00'
+blogger_id: tag:blogger.com,1999:blog-25302544.post-697140291452632119
+blogger_orig_url: https://psychattic.blogspot.com/2010/03/turorial-installing-afni-on-windows.html
+---
+
+Our lab bought a new server which allows only one network protocol at a time. We can not mount it to both Windows machine and Linux machine at the same time. Right now we can access the server using Windows machine.<br /><br />The software we are using for fMRI data analysis is AFNI, which works the best on a Linux environment. To get it work with Windows, I found this tutorial document online. If you follow the document exactly, you can have AFNI running on Windows. <br /><br />There is one problem though. If you run AFNI following the tutorial document, you will not be able to move the AFNI Window around. That's very annoying (test it by yourself and you will know what I mean here).<br /><br />The solution is very simple: on page 8 of the document, you will see "typing 'startx'- use the standard X Window system ". Do not do that. Type <b>startxwin</b> instead. You will see the difference.<br /><br />One more thing, on the AFNI download page, it says the afni for cynwin is "not recommended". My colleague Ben Austin contacted the AFNI people asking why is that. Here is the response from afni<br /><blockquote> Author: Daniel Glen (---.nimh.nih.gov)<br />Date:   03-02-10 13:18<br /><br />As far as I can tell, the cygwin version of AFNI does not include any of the plug-ins, 3dSkullStrip and the SUMA software (because of problems with OpenGL support). Also I vaguely remember it uses the LessTif library, and menu items in the AFNI GUI sometimes have strange behavior. </blockquote><br /><br /><span class='fullpost'><br />If you can not see the tutorial, please click <a href="http://www.docstoc.com/docs/document-preview.aspx?doc_id=22252125">here</a> <br />  <br /><object id="_ds_22252125" name="_ds_22252125" width="670" height="550" type="application/x-shockwave-flash" data="http://viewer.docstoc.com/"><param name="FlashVars" value="doc_id=22252125&mem_id=2434112&doc_type=pdf&fullscreen=0&allowdownload=1&showrelated=0&showotherdocs=0" /><param name="movie" value="http://viewer.docstoc.com/"/><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /></object><br /><font size="1"><a href="http://www.docstoc.com/docs/22252125/How-to-Run-AFNI-on-Microsoft-Windows-Using-Cygwin">How to Run AFNI on Microsoft Windows Using Cygwin</a></font><br /><br />BTW, we are not currently using this method to run AFNI. There is a better solution: VirtualBox + Linux.<br /></span>

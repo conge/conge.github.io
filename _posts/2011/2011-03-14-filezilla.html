@@ -1,0 +1,13 @@
+---
+layout: post
+title: "[电脑网络]Filezilla 以明文方式存储密码"
+date: '2011-03-14T09:17:00.000-08:00'
+author: Qingyang
+tags:
+- 电脑网络
+modified_time: '2011-03-14T09:45:40.207-08:00'
+blogger_id: tag:blogger.com,1999:blog-25302544.post-7649834547828513552
+blogger_orig_url: https://psychattic.blogspot.com/2011/03/filezilla.html
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.tech2hell.com/wp-content/uploads/2011/01/filezilla.png"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 250px; height: 250px;" src="http://www.tech2hell.com/wp-content/uploads/2011/01/filezilla.png" alt="" border="0" /></a>Picture from <a href="http://www.tech2hell.com/2011/01/filezilla-340-beta-1-download/">tech2hell.com</a><div><a href="http://www.tech2hell.com/2011/01/filezilla-340-beta-1-download/"></a><br /><div><br />今天我要登录一个数据处理服务器，不幸的是，俺把密码给忘记了。苦思冥想的试了好多密码，还是不得门而入。后来我想起，我曾经用filezilla上传文件到那个server，而filezilla默认是保存密码的，于是就想去试试能不能从中找回密码。恩，这个任务，不到五分钟就让我搞定了。原因是<span style="font-weight: bold;">Filezilla是以明文方式存储密码的</span>。换句话说，密码没有经过加密，只要你找到保存密码的文件，用任何文本编辑器将其打开，就可以看到密码了。<br /></div><br /><div>这对于我是好事：我因此找到了自己的密码。但是如果是共用或者公用计算机，你就要小心了。泄露密码是在太容易了。下面是我从一个<a href="http://bbs.idcspy.com/thread-47988-1-1.html">论坛</a>看来的，贴在这里给给自己，也给大家提个醒。当然，不仅是Filezilla有这样的问题，许多软件都是这样做的，比如你正在用的<a href="http://littlecabin.blogbus.com/logs/63981253.html">浏览器</a>。<br />   当然了，即便是加密保存密码，也是防君子不防小人的。最好的办法，就是不保存任何密码，所有的密码都记录在脑子了，就好了 :) 如果你愿意这么做，我向你推荐《<a href="http://psychattic.blogspot.com/2011/03/blog-post_12.html">右脑超常记忆术</a>》这本书。<br /><br /><blockquote>以下三个文件包含你的FTP密码：<br /><br /><ol><li>filezilla.xml - 存贮所有你访问过的服务器信息.</li><li>recentservers.xml - 存贮最近你访问过的服务器信息.</li><li>sitemanager.xml - 存贮你保存的站点信息.</li></ol><br />这些文件通常存放于这些目录下：<br /><br /><ul><li>Windows XP/2K: "C:\Documents and Settings\username\Application Data\FileZilla"</li><li>Windows 7: "C:\Users\username\AppData\Roaming\FileZilla\"</li><li>Linux: "/home/username/.filezilla/"</li></ul><br /><br />解决办法：<br /><br />采用“询问密码”或“交互式”方式登陆，这样密码不保存在磁盘上。</blockquote><br /><br /></div></div>

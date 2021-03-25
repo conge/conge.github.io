@@ -1,0 +1,13 @@
+---
+layout: post
+title: "[电脑网络]bloggerspaces的倒掉及blogspot的访问方法。"
+date: '2007-11-03T05:26:00.000-08:00'
+author: Qingyang
+tags:
+- 电脑网络
+modified_time: '2007-11-03T14:04:26.664-08:00'
+blogger_id: tag:blogger.com,1999:blog-25302544.post-5262774397776775041
+blogger_orig_url: https://psychattic.blogspot.com/2007/11/bloggerspacesblogspot.html
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://blog.bsdos.cn/archives/482"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px;" src="http://blog.bsdos.cn/wp-content/uploads/2006/09/great_firewall.jpg" alt="" border="0" /></a><br />先普及一下，<a href="http://congel.blogspot.com/">blogspot.com</a>是<a href="http://www.google.com/">google</a>的博客服务blogger.com的网页托管服务器。这是一款非常优秀的blog服务（不然我也不会用它，呵呵），但是却经常被中国伟大的防火墙给挡住，造成中国大陆的用户无法访问。<br /><br />bloggerspaces.com（现在已经无法访问），由一些blogger的爱好者搭建，是为了解决这一问题而出现的。bloggerspaces利用了blogger的ftp发布功能，向许多blogger提供了免费的空间，存放博客内容。不幸的是，在党的十七大召开前夕，这个服务被有关部门勒令关闭。于是我托管在上面的《收心阁 镜像站》也就无法访问，不复存在了。在党的十七大胜利闭幕之后，这项服务也没有恢复的迹象，具体原因不明。不知道是这台服务器已经被没收，还是他的拥有者彻底心冷，反正我也不期待它能再次恢复了。因为我心里也明白，即便它能恢复，不知什么时候还得再次面对被关闭的情形。<br /><br />当然，bloggerspaces的被关闭与blogspot的被屏蔽，其原因并不是它们上面有什么有害信息，而是因为google的服务没有按照我们的政府的要求进行关键词屏蔽和那什么可笑的备案。 西方社会一直攻击我们国家没有言论自由，我以前是不相信的，现在我信了。我们的政府总是说中国没有互联网审查，我以前是相信的，现在我不信了。<br /><br /><br />我写这篇文章的主要目的，并不是为了纪念或者抱怨，而是想提供一些方法，让大家能<span class="fullpost">方便的访问收心阁。这样，各位再看到我的文章想回复的时候不会在遇到“该站点无法连接”之类的错误。毕竟，看着80左右的订阅数，而每篇文章都没有人回复，是一件让人沮丧的事情。<br /><br />其实，网上介绍突破网络屏蔽的方法有很多，比如<a href="http://www.google.com/search?q=host+%E6%96%87%E4%BB%B6+blogspot">这里</a>。我现在介绍的方法来自于<a href="http://my.opera.com/fermi/blog/2007-03-22-how-to-visit-the-banned-blogspot">Fermi的blog</a>，Fermi介绍了如何在firefox中实现，我这里只讲IE，毕竟我的访客多数使用IE。不过在这里，我还是推荐大家使用Firefox，能将你中毒的机会降低很多。<br />首先，打开记事本，将下面的内容复制件去:<br /><blockquote>function FindProxyForURL(url,host){<br />if(dnsDomainIs(host, ".blogspot.com")){<br />    return "PROXY 72.14.219.190:80";<br />}<br />}</blockquote><br />然后，将这个文本文件另存为 proxy.pac(注意，不要存成了proxy.pac.txt)，放到到C盘的根目录下。<br /><br />第二步：<br />1. 在 Internet Explorer 中，单击工具菜单中的 <span style="font-weight: bold;">Internet 选项</span>。<br />2. 单击<span style="font-weight: bold;">局域网设置</span>，再单击<span style="font-weight: bold;">以选中使用自动配置脚本复选框</span>，在下面的<span style="font-weight: bold;">地址</span>中填写：<blockquote>file:///C:/proxy.pac</blockquote>单击<span style="font-weight: bold;">确定</span>，然后单击<span style="font-weight: bold;">确定</span>。<br /><br />使用这个方法，各位访问我的<a href="http://congel.blogspot.com/">收心阁</a>就不会再受到干扰了。<br /><br />当然，如果你想绕过封锁访问其他被屏蔽的网站，到这里学一学穿墙术还是非常有必要的。<br /><br />最后，在这里感谢一下提供这些绕墙技术的高手们，再逼视一下屏蔽互联网的那些混蛋。<br /><br />本文前面的插画作者为Riku。<br /></span>

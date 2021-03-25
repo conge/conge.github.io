@@ -1,0 +1,13 @@
+---
+layout: post
+title: "[电脑网络]SPSS16在Vista下的安装问题"
+date: '2008-12-08T05:49:00.003-09:00'
+author: Qingyang
+tags:
+- 电脑网络
+modified_time: '2008-12-08T06:13:19.913-09:00'
+blogger_id: tag:blogger.com,1999:blog-25302544.post-151372285766254608
+blogger_orig_url: https://psychattic.blogspot.com/2008/12/spss16vista.html
+---
+
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://img.verycd.com/posts/0711/post-435367-1194236823.png"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 209px; height: 165px;" src="http://img.verycd.com/posts/0711/post-435367-1194236823.png" alt="" border="0" /></a><br />之前在WinXP系统的电脑上装过很多次的SPSS，已经是驾轻就熟。原以为在Vista下也不会有什么问题。可偏偏换了Vista系统后，就有了问题了。<br />问题出现在激活那一步上：我在运行license authorization wizard时，系统报错然后退出向导。错误信息为"please run this utility from your product's installation folder.(echoid.dat)" 。我到网上搜索了一下，好像有不少人遇到了这个问题，却没有解决办法。经过几分钟的折腾，我在俄亥俄州立大学的网页上找到了<a href="http://8help.ohio.edu/3653.html">解决办法</a>，现在这里跟大家分享一下。<br />出现这个问题的原因是在SPSS安装过程中,vista系统或者安装程序未能正确的生成echoid.dat这个文件。<br />解决方法如下：<br /><br />   1. 下载下面的文件并解压缩：<br /><span class="fullpost"><br />      ftp://ftp.spss.com/pub/spss/windows/74746.zip<br />   <br />   2.  解压后的文件为echoid.dat。将其复制到SPSS的安装文件夹。SPSS16的默认文件夹为：<br /><br />         SPSS for Windows - C:\Program Files\SPSSInc\SPSS16<br /><br />   3. 运行 License Authorization Wizard.<br /><br />相关文章：<br /><a href="http://psychattic.blogspot.com/2007/10/spss-11-072.html"><br />[心理藏书]SPSS 11统计分析教程.基础篇 高级篇 (072)</a><br /></span>
