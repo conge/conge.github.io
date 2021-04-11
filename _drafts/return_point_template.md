@@ -18,20 +18,20 @@ tags: 跑步
 
 |week 13, 2021|
 |:----:|
-|![Running log, week 13, 2021](/assets/images/折返点/2021_wk13.png)|
+|![Running log, week 13, 2021](/assets/images/折返点/2021_wk1.png)|
 
 
 ## 折返点
 
 |Date|Pics|
 |:----|:----:|
-|20210328|![20210328.jpg](/assets/images/折返点/20210328.jpg)  |
-|20210329|![20210329.jpg](/assets/images/折返点/20210329.jpg)  |
-|20210330|![20210330.jpg](/assets/images/折返点/20210330.jpg)  |
-|20210331|![20210331.jpg](/assets/images/折返点/20210331.jpg)  |
-|20210401|![20210401.jpg](/assets/images/折返点/20210401.jpg)  |
-|20210402|![20210402.jpg](/assets/images/折返点/20210402.jpg)  |
-|20210403|![20210403.jpg](/assets/images/折返点/20210403.jpg)  |
+|202104|![.jpg](/assets/images/折返点/.jpg)  |
+|202104|![.jpg](/assets/images/折返点/.jpg)  |
+|202104|![.jpg](/assets/images/折返点/.jpg)  |
+|202104|![.jpg](/assets/images/折返点/.jpg)  |
+|202104|![.jpg](/assets/images/折返点/.jpg)  |
+|202104|![.jpg](/assets/images/折返点/.jpg)  |
+|202104|![.jpg](/assets/images/折返点/.jpg)  |
 
 
 ```
