@@ -3,6 +3,7 @@ layout: post
 title: "折返点 1733 耳机与脚底板"
 date: "2017-08-22 01:52:33"
 categories: 折返点
+tags: 跑步 耳机 赤脚跑步 跑步装备
 excerpt: "耳机又坏了 为什么要说又呢？因为不是第一次了。 我在16年12月份买了一副蓝牙耳机，耳机的型号是  TT-BH16 TaoTronics Blu..."
 auth: conge
 ---
