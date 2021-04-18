@@ -10,9 +10,6 @@ tags: 新爸五年计划 儿子 育儿 女儿
 * content
 {:toc}
 
-
-
-
 ## Kapka's Museum of Kindergarten Wonders
 
 春季到了，学校要放春假。
@@ -31,12 +28,12 @@ Museum of Wonders，算是一项学习成果的展示吧。孩子们互相合作
 
 ||
 |----|
-| ![candies](../assets/images/父范学堂/20210409_MKW02.jpeg)|
+| ![candies](/assets/images/父范学堂/20210409_MKW02.jpeg)|
 
 
 |入口|
 |----|
-| ![Museum of Kindergarten Wonders](../assets/images/父范学堂/20210409_MKW01.jpg)|
+| ![Museum of Kindergarten Wonders](/assets/images/父范学堂/20210409_MKW01.jpg)|
 
 看得出，每个小朋友都为这次活动，感受到了开心和自豪：自己制作的各种融合了各种知识，锻炼了动手的能力的有趣项目，并且展示给自己的父母，真的是非常有成就感的一件事儿。
 
