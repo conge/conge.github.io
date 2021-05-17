@@ -4,7 +4,7 @@ title: "HCI笔记 | Week-09-Interfaces-and-Politics-and-Conclusions-to-Principle
 date: "2018-07-14 07:14:14"
 categories: 计算机科学
 excerpt: "Can artifacts personify specific forms of authority or power, whether for good or bad？- Yes..."
-tags: HCI
+tags: HCI OMSCS
 auth: conge
 ---
 * content
