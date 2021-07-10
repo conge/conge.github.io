@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折返点 2127｜ 500米都跑不了，该怎么开始？"
+title: "折返点 2126｜ 500米都跑不了，该怎么开始？"
 date: "2021-07-04 17:15:00"
 categories: 折返点
 auth: conge
