@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新爸五年计划 | 205 Sand Point State Park"
+title: "新爸五年计划 | 205 DashPoint State Park"
 date: "2021-06-08 23:41:11"
 categories: 父范学堂
 auth: conge
@@ -10,11 +10,11 @@ tags: 新爸五年计划 儿子 育儿 女儿 露营
 * content
 {:toc}
 
-上个周末和上上个周末，我们都出去露营了。都是集体露营。上上周末是跟儿子班上的两个同学的家庭，上个周末是和女儿班上7个同学的家庭。孩子们都非常喜欢。第一次去的是Sand Point State Park，第二次去的是Penrose Point State Park，这里记录第一次的Sand Point State Park之旅。
+上个周末和上上个周末，我们都出去露营了。都是集体露营。上上周末是跟儿子班上的两个同学的家庭，上个周末是和女儿班上7个同学的家庭。孩子们都非常喜欢。第一次去的是Dash Point State Park，第二次去的是Penrose Point State Park，这里记录第一次的Dash Point State Park之旅。
 
 ### 第一天
 
-Sand Point State Park离我们家只有四十多分钟的车程，不远。
+Dash Point State Park离我们家只有四十多分钟的车程，不远。
 
 我们下午出发，妻子开车，我和孩子们坐在后面，睡了一觉，就到了。
 
@@ -51,7 +51,7 @@ Sand Point State Park离我们家只有四十多分钟的车程，不远。
 
 前一天在沙滩上玩儿的累了，所以我们与韩国一家都决定上午就在营地，吃过午饭收了帐篷再去海滩。韩国一家人又来了一个亲戚，一个大人两个孩子。两个孩子的年龄比我们的孩子都大。她家的儿子三年前也上过TinyTree，是儿子现在的老师 Ms. Tess再TinyTree的第一批学生之一。他们给大家带来了Tacos，做午饭。而我午饭的时候在火上又烤了几个蛤蜊。发觉，烤的比煮的还要好吃。
 
-然而，等到我们吃完饭再去海滩的时候，海滩人满，不让进了。因为是Memorial Day假期，而且是这个海滩的收获季节的最后一天，所以来sand point海滩的人超多。没办法，我们只能离开。
+然而，等到我们吃完饭再去海滩的时候，海滩人满，不让进了。因为是Memorial Day假期，而且是这个海滩的收获季节的最后一天，所以来Dash point海滩的人超多。没办法，我们只能离开。
 
 短暂商量后，我们决定去一个叫做Salt water的公园。那里也有沙滩。
 
