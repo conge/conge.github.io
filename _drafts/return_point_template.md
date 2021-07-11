@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "折返点 2123｜ 运动手表要买吗？"
-date: "2021-06-04 09:41:00"
+title: "折返点 2127｜？"
+date: "2021-07-04 09:41:00"
 categories: 折返点
 auth: conge
-tags: 跑步
+tags: 跑步 跑步问答
 
 ---
 * content
@@ -16,22 +16,22 @@ tags: 跑步
 
 ## Running log
 
-|week 23, 2021|
+|week 27, 2021|
 |:----:|
-|![Running log, week 13, 2021](/assets/images/折返点/2021_wk1.png)|
+|![Running log, week 13, 2021](/assets/images/折返点/2021_wk27.png)|
 
 
 ## 折返点
 
 |Date|Pics|
 |:----|:----:|
-|202106|![.jpg](/assets/images/折返点/.jpg)  |
-|202106|![.jpg](/assets/images/折返点/.jpg)  |
-|202106|![.jpg](/assets/images/折返点/.jpg)  |
-|202106|![.jpg](/assets/images/折返点/.jpg)  |
-|202106|![.jpg](/assets/images/折返点/.jpg)  |
-|202106|![.jpg](/assets/images/折返点/.jpg)  |
-|202106|![.jpg](/assets/images/折返点/.jpg)  |
+|202107|![.jpg](/assets/images/折返点/.jpg)  |
+|202107|![.jpg](/assets/images/折返点/.jpg)  |
+|202107|![.jpg](/assets/images/折返点/.jpg)  |
+|202107|![.jpg](/assets/images/折返点/.jpg)  |
+|202107|![.jpg](/assets/images/折返点/.jpg)  |
+|202107|![.jpg](/assets/images/折返点/.jpg)  |
+|202107|![.jpg](/assets/images/折返点/.jpg)  |
 
 
 ```
