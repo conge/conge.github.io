@@ -247,7 +247,7 @@ tags: 跑步 跑步问答
 
 |week 26, 2021|
 |:----:|
-|![Running log, week 26, 2021](../assets/images/折返点/2021_wk26.png)|
+|![Running log, week 26, 2021](/assets/images/折返点/2021_wk26.png)|
 
 
 ## 折返点
