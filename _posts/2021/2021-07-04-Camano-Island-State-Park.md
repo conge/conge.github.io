@@ -45,7 +45,7 @@ Camano Island是可以捉螃蟹的，捕捞季从7月开始。这周末正是捕
 
 |螃蟹|
 |----|
-| ![Crabbing](../assets/images/父范学堂/2021-07-03-crabbing.jpg)|
+| ![Crabbing](/assets/images/父范学堂/2021-07-03-crabbing.jpg)|
 
 
 
