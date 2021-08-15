@@ -51,7 +51,7 @@ tags: 新爸五年计划 儿子 育儿 女儿 度假
 
 |新月|
 |----|
-| ![New Moon](../assets/images/父范学堂/20210810_new_moon.jpg)|
+| ![New Moon](/assets/images/父范学堂/20210810_new_moon.jpg)|
 
 
 
