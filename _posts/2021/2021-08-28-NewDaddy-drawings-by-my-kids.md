@@ -42,7 +42,7 @@ tags: 新爸五年计划 儿子 育儿 女儿 画
 
 |Drawings by my son|
 |----|
-| ![](../assets/images/父范学堂/20210828_drawings-by-son.jpg)|
+| ![](/assets/images/父范学堂/20210828_drawings-by-son.jpg)|
 
 ```
 2021-08-28 初稿
