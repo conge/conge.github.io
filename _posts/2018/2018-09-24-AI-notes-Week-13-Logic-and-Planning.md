@@ -2,7 +2,7 @@
 layout: post
 title: "AI 笔记 Week 13 Logic & Planning"
 date: "2018-09-24 14:31:07"
-categories: 计算机科学
+categories: 计算机科学 AI OMSCS
 excerpt: "This week you should do  Lesson 9, Logic & Planning ,and read Chapters 7..."
 auth: conge
 ---
@@ -12,7 +12,7 @@ auth: conge
 > This week you should do  **Lesson 9**, [Logic & Planning](https://www.udacity.com/course/viewer#!/c-ud954/l-6389079269) , 
  and read **Chapters 7-10** in Russell & Norvig.  Additional readings can be found on the course schedule.
 
-> Readings on Logic and Planning
+> Readings on Logic and Planning. 
 > AIMA: Chapter 7-10 (Logic), Chapter 11-12 (Planning)
 
 # Introduction
@@ -27,6 +27,7 @@ auth: conge
 * Once we've made some statements about the world, we can then reason completely within the logic to come to some conclusions. if original statements correctly represent the world, so too will the conclusions be correct. 
 
 # Situation Calculus
+
 ![Situation Calculus](/assets/images/计算机科学/118382-14bad62b7e2fecd2.png)
 
 * Initial state S<sub>0</sub> and goal state S can be expressed by language in the ordinary language of first-order logic.
@@ -38,17 +39,20 @@ auth: conge
 ![](/assets/images/计算机科学/118382-fdddeeefd9712520.png)
 
 ## historical perspective on the topic:
+
 * AI started with the idea coming up better languages and systems for writing down logical statements. and use logic to solve all problems. Result: Some worked great but others failed. 
 * Issues that cause failing: 1) make statements only in Boolean logic; 2) writing all statement by hand.
 * solution: 1) introducing probability to deal with the uncertainty of the world; 2) learning about the world from data.
 * __And still logic has its place.__ 
 
 ## How is logic used today?
+
 A: Eliminating much of the uncertainty of the real world and solving significant problems using logic. E.g., FedEx planning all the deliveries of its packages using its huge fleet of vehicles. 
 * Expert systems
 * Logical representations to planning algorithms for when actions or even the world is uncertain. 
 
 ## What directions do you think we will be seeing for planning algorithms in the future? 
+
 A: 1) learning from examples would be an important area. 2) Transfer learning across domains, 3) interactive planning. 
 
 ## In this section, we will cover:
@@ -70,6 +74,7 @@ How AI managing complexity and uncertainty？
 This unit will concentrate on that third aspect of representation, showing how the tools of logic can be used by an agent to better model the world. 
 
 ##  Propositional Logic 
+
 ![How to write logic statement](/assets/images/计算机科学/118382-b2a42e054c3eaab4.png)
 
  * Propositional symbols B, E, A, M, and J corresponding to (B)urglary occurring, (E)arthquake occurring, (A)larm going off, (M)ary calling, and (J)ohn calling. This is the example used in the probabalistic models.
@@ -100,6 +105,7 @@ Given the truth table above, choose the box where the proposition sentence is Tr
 * and they agree with each other all the time, so the last column should be all selected.
 
 ## Quiz: Propositional Logic Question
+
 In a particular model of the world, we know the following sentences are true. (E V B) => A, A => (J ^ M), and B.  Of the propositional symbols, is that symbol true or false, or unknown in this model?
 
 ![Answer to the Propositional Logic Question](/assets/images/计算机科学/118382-a574bb42766c38fd.png)
@@ -111,7 +117,9 @@ In a particular model of the world, we know the following sentences are true. (E
 * __Valid sentence__ is one that is true in every possible model, for every combination of values of the propositional symbols. 
 * Satisfiable sentence is one that is true in some models but not necessarily in all the models. 
 * So, for each of these sentences, whether it is valid, satisfiable but not valid, or unsatisfiable, in other words, false for all models. 
+
 ![Answer to the valid and satisfiable models](/assets/images/计算机科学/118382-f6c201431271a5ee.png)
+
 * The first four are easy to understand, just look at the Tureth table to get the answers.
 * the last one, Food => Party is False, Drinks => party is also False, so ((Food => Party) V (Drinks => party) is False. According to the Truth table, when P is False P => Q is True, no matter what Q is. Here ((Food ^ Drink)=> party) is Q.
 
@@ -126,7 +134,6 @@ In a particular model of the world, we know the following sentences are true. (E
 
 
 ------
-
 
 # First-Order Logic 
 
@@ -152,6 +159,7 @@ Probability theory | facts (the symbols or variables) |real number {0, 1}
 __How does first-order logic work? What does it do?__
 
 ## Models
+
 ![Model in First-order logic](/assets/images/计算机科学/118382-128fc7e747bc4bf2.png)
 
 * In propositional logic a model was a value for each propositional symbol. 
@@ -162,6 +170,7 @@ __How does first-order logic work? What does it do?__
   * Relations. E.g., __Above relation__, _unary relation_ (vowel), __Rainy__ (which doesn't refer to any objects, can be represented by an empty set or a set of the empty list)
 
 ## Syntax 
+
 ![image.png](/assets/images/计算机科学/118382-d44bb519bf85e8b3.png)
 
 * Sentences: which describe facts that are true or false. 
@@ -175,6 +184,7 @@ __How does first-order logic work? What does it do?__
   * sometimes we'll omit the quantifier
 
 ## Vaccum world
+
 ![Vacuum World](/assets/images/计算机科学/118382-53adb1a9014e5b47.png)
 
 * terms: left location A and the right location B and the vacuum V, and the dirt--say, D1 and D2. 
@@ -185,6 +195,7 @@ __How does first-order logic work? What does it do?__
   * A notion of a transitive relation talking about relations itself is valid In higher-order logic, but invalid in first-order logic
 
 ## Quiz: FOL Question
+
 For each sentences, tell if it is 1) valid: O is true; 2)satisfiable, but not valid: that is, there's some models for which it is true; or 3) unsatisfiable: there are no models for which it is true. 
 
 ![](/assets/images/计算机科学/118382-1b2acad6ad232882.png)
@@ -194,6 +205,7 @@ For each sentences, tell if it is 1) valid: O is true; 2)satisfiable, but not va
 * The fourth: Satisfiable. it's true for the models in which there is some x that is a member of P. it's false when P is an empty relation, so this is satisfiable.
 
 ### FOL Question 2
+
 Can the sentences represents: 1) "Sam has 2 jobs," 2) I want to represent the idea of set membership.  And 3), define the notion of adjacent squares on, say, a checkerboard, where the squares are numbered with x and y coordinates and we want to just talk about adjacency in the horizontal and vertical direction. 
 
 ![](/assets/images/计算机科学/118382-5bb37d2429dbe450.png)
@@ -201,6 +213,7 @@ Can the sentences represents: 1) "Sam has 2 jobs," 2) I want to represent the id
 Answer: the first one is but the second and third ones are not. Both the second and the third are incomplete. Second defines what is a member but did not define what is not. The third only defined adjacency in one direction. 
 
 # Planning
+
 ## Problem Solving Vs Planning
 
 ![](/assets/images/计算机科学/118382-7b4c804e7961f5b3.png)
@@ -210,6 +223,7 @@ Answer: the first one is but the second and third ones are not. Both the second 
 * The moral is we need some feedback from the environment and  interleave planning and executing.
 
 ## Planning Vs Execution
+
 ![](/assets/images/计算机科学/118382-49c70521009df55a.png)
 
 Now why do we have to interleave planning and execution? 
@@ -221,6 +235,7 @@ Now why do we have to interleave planning and execution?
 Solution: Instead of planning in the space of world states, we plan in the space of belief states. 
 
 ### Vacuum Cleaner Example
+
 ![](/assets/images/计算机科学/118382-fe1eb470fd906eae.png)
 
 State space diagram: a room with 2 locations(A, and B),  a vacuum cleaner, and dirt, and so that gives us 8 total states.  3 possible actions (moving right, moving left, and sucking up dirt)
@@ -228,6 +243,7 @@ State space diagram: a room with 2 locations(A, and B),  a vacuum cleaner, and d
 * Let make the world unobservable: suppose our robot vacuum can no longer perceive location or dirt. So we believe that we're in 1 of these 8 states, and now when we execute an action, we're going to get to another __belief state__. 
 
 ### Sensorless Vacumm Cleaner Problem
+
 ![](/assets/images/计算机科学/118382-7ea67a551c803aee.png)
 
 1. belief states: contain multiple possible states. but if we execute actions, we can gain knowledge about the world even without sensing. E.g.: moving right will take the robot to the right-hand location; sucking can make the current location clear.
@@ -236,6 +252,7 @@ State space diagram: a room with 2 locations(A, and B),  a vacuum cleaner, and d
 4. quiz question, How to get from the state my current square is clean, but know nothing else, to the belief state where I know that I'm in the right-hand side location and that that location is clean?
 
 ## Partially Observable Vacuum Cleaner Example (still in a deterministic world)
+
 ![](/assets/images/计算机科学/118382-a25481884748298c.png)
 
  * Partially observable planning in a deterministic world. we have local sensing (can sense current location only). 
@@ -244,6 +261,7 @@ State space diagram: a room with 2 locations(A, and B),  a vacuum cleaner, and d
   * Observation, can split that world into two believe states.
 
 ## Stochastic Environment Problem
+
 ![quize](/assets/images/计算机科学/118382-0cbfda4d03c32899.png)
 
 * stochastic environments. slippery wheels: the Left or Right action is not always successful. The suck action works perfectly. Observation works so it can split believe state.
@@ -262,6 +280,7 @@ Continue with the example above, if we observe after the move action, and if the
 The process to find a plan is to establish a tree structure of the sequence and do a search from the start state to the target state.
 
 ### Problem Solving Via Mathematical Notation
+
 We could use Mathematical Notation to see if a sequence of questions can lead to goals.
 
 ![](/assets/images/计算机科学/118382-bea8b6ee8c61464b.png)
@@ -271,18 +290,21 @@ We could use Mathematical Notation to see if a sequence of questions can lead to
 ![](/assets/images/计算机科学/118382-c904c89264d4ad95.png)
 * example of the mathematical notation, __suck__, __Right__ are actions; __[A, Clean]__, __[B, Dirty]__ are observations.
 
-## Classical Planning 1
+### Classical Planning 1
+
 ![](/assets/images/计算机科学/118382-ce82818d20b846d7.png)
 
 * Representation of the classical planning problem with the state space, world state, belief state, and actions. An action is represented by a schema. E.g. the example above shows the action flying a plane from x to y. There is also __Precondition__ to define all the elements and __Effect__ of the action.
 
 
 ### Classical Planning 2
+
 ![image.png](/assets/images/计算机科学/118382-3c114a4fe86898c2.png)
 * above is an example of the initial state, goal state and action schemas of problem
 * the problem is to transport cargo C1 from SFO to JFK and C2 from JFK to SFO with two planes, P1 and P2.
 
 ### Progression Search
+
 ![](/assets/images/计算机科学/118382-dc21b587cf9de2af.png)
 
 __Forward or progression state space search__:  Just like __problem solving__. Start in an initial state, and then start branching on the possible actions, and continue branching out like that until we hit a state which satisfied the goal predicate. 
