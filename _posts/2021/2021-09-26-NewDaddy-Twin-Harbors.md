@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "新爸五年计划 | 221 Twin Harbors State Park"
-date: "2021-09-06 08:24:11"
+date: "2021-09-27 01:32:11"
 categories: 父范学堂
 auth: conge
 tags: 新爸五年计划 儿子 育儿 女儿 度假 露营
@@ -166,5 +166,5 @@ Aberdeen是我和妻子年轻时共同的偶像乐队涅槃主创成员Curt Coba
 
 
 ```
-2021-09-26 初稿
+2021-09-27 初稿
 ```
