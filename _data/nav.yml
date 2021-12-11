@@ -4,9 +4,9 @@ toc:
       - name: Github
         url: https://about.github.com/
         desc: 代码仓库
-      - name: Docker
-        url: https://www.docker.com/
-        desc: 容器
+      - name: 67工具网
+        url: https://www.67tool.com/
+        desc: 目前开发了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制。
       - name: Kubernetes
         url: https://kubernetes.io
         desc: 容器编排
@@ -27,11 +27,11 @@ toc:
       - name: InfoQ
         url: https://www.infoq.cn/topic/operation
         desc: 促进软件开发领域知识与创新的传播
-  - title: 实用工具
+  - title: 课程
     items:
-      - name: asciinema
-        url: https://asciinema.org/
-        desc: 终端录屏工具
+      - name: Scrimba.com
+        url: https://scrimba.com/
+        desc: 互动式编程学习课程,前端
       - name: git.io
         url: https://git.io/
         desc: 短域名链接生成
