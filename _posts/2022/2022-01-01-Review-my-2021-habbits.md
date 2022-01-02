@@ -58,7 +58,7 @@ tags: 总结 习惯养成 冥想 生活
 以下是我比较喜欢的一些冥想视频的播放列表，随着时间的推移，我肯定会继续丰富它们：
 
 * [10-min Meditations](https://www.youtube.com/playlist?list=PLj-9Z_Q4SWVg2_OqywBBYMzp5A1K8axMH)
-& [15-min Meditations](https://www.youtube.com/playlist?list=PLj-9Z_Q4SWVh829uNgTcTu0jUcxPmNHQI)
+* [15-min Meditations](https://www.youtube.com/playlist?list=PLj-9Z_Q4SWVh829uNgTcTu0jUcxPmNHQI)
 * [20-min Meditations](https://www.youtube.com/playlist?list=PLj-9Z_Q4SWViN5-husDmrweOjAvFWfNgl)
 
 ### 手写日记
