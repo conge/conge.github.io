@@ -30,7 +30,7 @@ layout: default
 
             <div class="label-card">
               <small style="color: #586069;">
-                本文 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字，阅读全文约需 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }}  分钟 
+                本文 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字，阅读全文约需 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }}  分钟
               </small>
             </div>
 
@@ -71,10 +71,10 @@ layout: default
         {% endif %}
 
         {% include previousAndNext.html %}
-		
+
         <h2 id="comments">Comments</h2>
 		{% include comments.html %}
-		
+
     </div>
     <button class="anchor"><i class="fa fa-anchor"></i></button>
     <div class="right">
