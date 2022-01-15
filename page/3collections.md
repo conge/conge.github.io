@@ -11,12 +11,18 @@ type: page
 
 > 收集了自用的一些工具
 
+## 读书
+
+- [微信读书](https://r.qq.com)
+- [Libby App](https://libbyapp.com/shelf)
+- [Z-libray](https://z-lib.org/)
+- [mediafire](https://app.mediafire.com/myfiles)
+
 ## 工具
 
 - 数据库管理: [Aginity Pro](https://www.aginity.com/products/aginity-pro/)
 - 虚拟化: [Dockr](https://www.docker.com/)
-- 网络调试：[Wireshark]() []
-- 浏览器: [Chrome](https://www.google.com/chrome/) [Firefox]()
+- 浏览器: [Chrome](https://www.google.com/chrome/)
 - IM: [QQ]() [WeChat]() [Telegram]()
 - IDE: [PyCharm]()
 - 笔记: [OneNote]()
