@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折返点 2201｜运动手表的数据误差"
+title: "折返点 2206｜运动手表的数据误差"
 date: "2022-02-13 12:10:09"
 categories: 折返点
 auth: conge
