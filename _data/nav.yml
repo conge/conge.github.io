@@ -13,26 +13,12 @@ toc:
       - name: scarsu
         url: https://www.scarsu.com
         desc: 自我管理 前端技术 认知输出
+      - name: 中文独立博客列表
+        url: https://github.com/timqian/chinese-independent-blogs
+        desc: 互联网 博客
+
   - title: 课程
     items:
       - name: Scrimba.com
         url: https://scrimba.com/
         desc: 互动式编程学习课程,前端
-
-  - title: 科学上网
-    items:
-      - name: jsproxy
-        url: https://jsproxy.gq/
-        desc: 使用js代理节点访问国外网站
-      - name: 谷歌镜像1
-        url: http://ac.scmor.com/
-        desc: 谷歌镜像网站
-      - name: 谷歌镜像2
-        url: http://www.liu16.com/g.html
-        desc: 谷歌镜像网站
-      - name: 免费ssr
-        url: https://lncn.org/
-        desc: 免费ssr地址
-      - name: ssr订阅地址
-        url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/stable
-        desc: 免费ssr地址
