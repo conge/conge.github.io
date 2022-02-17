@@ -4,7 +4,7 @@ title: "新爸五年计划 | 035 极简春节"
 date: 2018-02-19 02:19:19
 categories: 父范学堂
 auth: conge
-tags: 新爸五年计划
+tags: 新爸五年计划 极简主义 生活
 ---
 * content
 {:toc}
@@ -47,7 +47,5 @@ tags: 新爸五年计划
 
 ```
 2018-02-19 first draft
+2022-02-17 add tags
 ```
-
-
-
