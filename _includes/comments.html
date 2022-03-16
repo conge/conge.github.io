@@ -54,3 +54,13 @@ gitalk.render('gitalk-container')
         async>
 </script>
 {% endif %}
+{% if site.Valine.enable %}
+<div id="vcomments"></div>
+<script>
+        new Valine({
+            el: '#vcomments',
+            appId: '{{ site.Valine.appId}}',
+            appKey: '{{ site.Valine.appKey}}'
+        })
+</script>
+{% endif %}
