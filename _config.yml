@@ -44,7 +44,7 @@ Valine:
   enable: true
   appId: QnQbes9X5MDCOlhdOY9t1i9U-MdYXbMMI
   appKey: D5rcVAJvL99P6vc37t4hcxK9
-  placeholder: 欢迎留言交流
+  placeholder: yes
   visitor: true
   recordIP: true
   pageSize: 10
@@ -53,8 +53,8 @@ Valine:
 # 赞赏
 reward:
   enable: false
-  wechat: /assets/images/reward/wechat.png
-  alipay: /assets/images/reward/alipay.png
+  wechat: #/assets/images/reward/wechat.png
+  alipay: #/assets/images/reward/alipay.png
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
