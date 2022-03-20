@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "新爸五年计划 | 246 磨蹭与浪费"
-date: "2022-01-06 08:24:11"
+date: "2022-03-19 08:24:11"
 categories: 父范学堂
 auth: conge
-tags: 新爸五年计划 儿子 育儿 女儿 度假 露营
+tags: 新爸五年计划 儿子 育儿 女儿
 
 ---
 * content
