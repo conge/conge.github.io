@@ -4,7 +4,7 @@ title: "信守对自己的承诺"
 date: "2022-03-31 21:59:11"
 categories: 隨筆
 auth: conge
-tags:
+tags: 思维方式 减压 习惯养成
 
 ---
 * content
