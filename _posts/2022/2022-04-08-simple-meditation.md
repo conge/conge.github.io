@@ -2,7 +2,7 @@
 layout: post
 title: "简单冥想"
 date: "2022-04-08 11:03:43"
-categories: 折返点
+categories: 隨筆
 auth: conge
 tags: 冥想
 
