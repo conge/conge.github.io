@@ -5,6 +5,7 @@ date: "2020-05-01 09:04:31"
 categories: 折返点
 excerpt: "冥想的定义，维基百科上是这样说的： Meditation is a practice where an individual uses a te..."
 auth: conge
+tags: 冥想 跑步
 ---
 * content
 {:toc}

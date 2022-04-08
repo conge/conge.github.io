@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "折返点-2006---呼吸的冥想"
+title: "折返点-2006 ｜ 呼吸的冥想"
 date: "2020-02-10 02:02:02"
 categories: 折返点
 excerpt: "为什么呼吸在冥想练习中这么重要呢..."
 auth: conge
+tags: 跑步 冥想
 ---
 * content
 {:toc}
