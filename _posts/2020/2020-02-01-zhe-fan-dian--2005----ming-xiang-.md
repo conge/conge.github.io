@@ -5,6 +5,7 @@ date: "2020-02-01 20:02:02"
 categories: 折返点
 excerpt: "世界上所有人类问题的根本，是人无法面对自己..."
 auth: conge
+tags: 冥想 
 ---
 * content
 {:toc}
