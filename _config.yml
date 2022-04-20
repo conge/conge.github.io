@@ -47,8 +47,8 @@ Valine:
 
 # 赞赏
 reward:
-  enable: false
-  wechat: #/assets/images/reward/wechat.png
+  enable: true
+  wechat: /assets/images/WechatIMG26.jpeg
   alipay: #/assets/images/reward/alipay.png
 
 # statistic analysis 统计代码
