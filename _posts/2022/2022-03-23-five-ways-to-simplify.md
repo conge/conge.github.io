@@ -4,7 +4,7 @@ title: "简化生活五法"
 date: "2022-03-23 09:54:55"
 categories: 隨筆
 auth: conge
-tags: 极简主义  生活  习惯养成  健康
+tags: 极简主义  生活  习惯养成  健康 思维方式 减压 
 
 ---
 * content
