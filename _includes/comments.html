@@ -56,21 +56,23 @@ gitalk.render('gitalk-container')
 {% endif %}
 
 {% if site.Valine.enable %}
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <div id="vcomments"></div>
 <script>
-        new Valine({
-            el: '#vcomments',
-            appId: '{{ site.Valine.appId }}',
-            appKey: '{{ site.Valine.appKey }}',
-            placeholder: '{{ site.Valine.placeholder }}',
-            visitor: true,
-            recordIP: true,
-            pageSize: 10,
-            avatar: 'identicon'
-            //visitor: {{ site.Valine.visitor }},
-            //recordIP: {{ site.Valine.recordIP }},
-            //pageSize: site.Valine.pageSize,
-            //avatar: '{{ site.Valine.avatar }}'
+    var valine = new Valine();
+
+    valine.init({
+      el: '#vcomments',
+      serverURLs:'https://qnqbes9x.api.lncldglobal.com',
+      appId: '{{ site.Valine.appId }}',
+      appKey: '{{ site.Valine.appKey }}',
+      placeholder: '欢迎留言。留下邮箱可收到回复提醒 :)',
+      path:'{{ site.url }}{{ page.url }}',
+      visitor: true,
+      recordIP: true,
+      pageSize: 10,
+      avatar: 'identicon'
+
         })
 </script>
 {% endif %}

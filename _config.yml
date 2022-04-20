@@ -44,11 +44,6 @@ Valine:
   enable: true
   appId: QnQbes9X5MDCOlhdOY9t1i9U-MdYXbMMI
   appKey: D5rcVAJvL99P6vc37t4hcxK9
-  placeholder: yes
-  visitor: true
-  recordIP: true
-  pageSize: 10
-  avatar: identicon
 
 # 赞赏
 reward:
