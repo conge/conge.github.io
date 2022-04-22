@@ -1,12 +1,4 @@
 toc:
-  - title: 热门
-    items:
-      - name: Github
-        url: https://about.github.com/
-        desc: 代码仓库
-      - name: 67工具网
-        url: https://www.67tool.com/
-        desc: 目前开发了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制。
 
   - title: 推荐博客
     items:
@@ -25,3 +17,6 @@ toc:
       - name: 国家中小学网络云平台
         url: https://ykt.eduyun.cn/
         desc: 小学到高中的网络课程。 另有经典阅读，蒋英教育，生命安全教育资源，另有经典影视教育资源。
+      - name: 67工具网
+        url: https://www.67tool.com/
+        desc: 目前开发了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制。
