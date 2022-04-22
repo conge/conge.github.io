@@ -18,6 +18,8 @@ type: page
 - [Libby App](https://libbyapp.com/shelf)
 - [Z-libray](https://z-lib.org/)
 - [mediafire](https://app.mediafire.com/myfiles)
+- [相似词查询](https://kmcha.com/similar)
+- [DeepL Translator](https://www.deepl.com/translator)
 
 ## 工具
 

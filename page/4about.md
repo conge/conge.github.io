@@ -2,22 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+icon: heart
+type: page
 ---
 
-## 简介
+## 个人简介
 
 我是清阳，网名conge。
 
-这是我的weblog。
+这是我的weblog。内容上，目前主要写跑步，育儿周记和习惯养成。最近在关注冥想。
 
-## 联系我
+## 网站状态
 
-* [Twitter](https://twitter.com/conge)
-* [Facebook](https://www.facebook.com/psychattic)
-* [linkedin](https://www.linkedin.com/in/qingyang-li/)
-* [v2ex](https://www.v2ex.com/member/conge)
-* [Github](https://GitHub.com/conge)
-* [Seattle, WA, US](http://www.google.com/maps?q=Seattle,%20WA,%20USA)
+自 2019 年 09 月 19 日起，本站已运行 <span id="days"></span> 天，截至 {{ site.time | date: "%Y 年 %m 月 %d 日" }}，写了博文 {{ site.posts.size }} 篇，{% assign count = 0 %}{% for post in site.posts %}{% assign single_count = post.content | strip_html | strip_newlines | remove: ' ' | size %}{% assign count = count | plus: single_count %}{% endfor %}{% if count > 10000 %}{{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }}{% else %}{{ count }}{% endif %} 字。
+
 
 ## 建站缘由
 
@@ -41,7 +39,40 @@ permalink: /about/
 
 Lework帮了我的大忙，在这里鸣谢一下。没有他的的script，我大概还会忍受jianshu.com一阵子。
 
+## 联系我
+
+* [Twitter](https://twitter.com/conge)
+* [Facebook](https://www.facebook.com/psychattic)
+* [linkedin](https://www.linkedin.com/in/qingyang-li/)
+* [v2ex](https://www.v2ex.com/member/conge)
+* [Github](https://GitHub.com/conge)
+* [Seattle, WA, US](http://www.google.com/maps?q=Seattle,%20WA,%20USA)
+
+## 赞赏奖励
+
+若您觉得本博客所创造的内容对您有所帮助，可考虑略表心意，支持一下。
+
+{% include reward.html %}
+
+
+## 本页历史
 ```
-2020-09-19
+2020-09-19 created
+2022-04-22 增加站点状态，页面历史，赞赏
 ```
 
+{% include comments.html %}
+
+<script>
+var days = 0, daysMax = Math.floor((Date.now() / 1000 - {{ "2019-09-19" | date: "%s" }}) / (60 * 60 * 24));
+(function daysCount(){
+    if(days > daysMax){
+        document.getElementById('days').innerHTML = daysMax;
+        return;
+    } else {
+        document.getElementById('days').innerHTML = days;
+        days += 10;
+        setTimeout(daysCount, 1);
+    }
+})();
+</script>
