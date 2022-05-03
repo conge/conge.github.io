@@ -111,8 +111,8 @@ tags: 冥想
 
 这些记录，会是你练习冥想路上的一笔经验式“财富”。
 
-|![2022-05-03.jpeg](https://s2.loli.net/2022/05/04/8ik4VzLjB6qAt9f.jpg)|
-|::|
+|![unsettling](https://s2.loli.net/2022/05/04/8ik4VzLjB6qAt9f.jpg)|
+|:--------------------------------------------------------------------:|
 |Photo by [Joshua Fuller](https://unsplash.com/es/@joshuafuller?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash|
 
 ```
