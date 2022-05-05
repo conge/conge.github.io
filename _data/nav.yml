@@ -1,15 +1,27 @@
 toc:
 
-  - title: 推荐博客
+  - title: 博客导航站点
     items:
-      - name: scarsu
-        url: https://www.scarsu.com
-        desc: 自我管理 前端技术 认知输出
+      - name: 十年之约
+        url: https://www.foreverblog.cn/
+        desc: 一个人的寂寞，一群人的狂欢
+      - name: 博客志
+        url: http://www.jetli.com.cn/
+        desc: 优秀个人独立博客导航
+      - name: 博客大全 by 大魏教练
+        url: https://link.wwwsheep.com/
+        desc: 大魏教练
       - name: 中文独立博客列表
         url: https://github.com/timqian/chinese-independent-blogs
         desc: 互联网 博客
 
-  - title: 课程
+  - title: 友情链接
+    items:
+      - name: scarsu
+        url: https://www.scarsu.com
+        desc: 自我管理 前端技术 认知输出
+
+  - title: 自用收集
     items:
       - name: Scrimba.com
         url: https://scrimba.com/
