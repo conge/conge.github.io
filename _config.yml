@@ -26,7 +26,9 @@ dribbble_username:
 description_footer: 脚踏实地
 
 # comments
-# 三种评论插件，选一个就好了
+# 四种评论插件，选一个就好了。
+# 推荐国内使用Waline， before use it you need to setit up to get serverURL
+# https://waline.js.org/guide/get-started.html
 disqus_shortname: #lework
 gitalk:
   enable: #false
@@ -41,9 +43,14 @@ utteranc_es:
   issue-term: title
   theme: github-light
 Valine:
+  enable:
+  appId:
+  appKey:
+  serverURLs: https://xxxx.api.lncldglobal.com
+  placeholder:
+Waline:
   enable: true
-  appId: QnQbes9X5MDCOlhdOY9t1i9U-MdYXbMMI
-  appKey: D5rcVAJvL99P6vc37t4hcxK9
+  serverURL: https://waline-deploy.vercel.app
 
 # 赞赏
 reward:

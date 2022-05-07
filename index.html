@@ -153,6 +153,28 @@ layout: default
                 </div>
             </div>
 
+            {% if site.Waline.enable %}
+
+            <div class="side">
+                <div>
+                    <a href="{{ site.Waline.serverURL }}/ui" title="评论管理" target="_blank" rel="noopener noreferrer"> <i class="fa fa-comment-o" aria-hidden="true"></i></a>
+                    新评论
+
+                </div>
+                <div id="waline-recent"></div>
+                <script>
+                  window.addEventListener('load', () => {
+                    Waline.RecentComments({
+                      el: '#waline-recent',
+                      serverURL: '{{ site.Waline.serverURL }}',
+                      count: 5,
+                    });
+                  });
+                </script>
+
+            </div>
+            {% endif%}
+
             <!-- <div class="side">
                 <div>
                     <i class="fa fa-external-link"></i>

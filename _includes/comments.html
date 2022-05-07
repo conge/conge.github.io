@@ -76,3 +76,14 @@ gitalk.render('gitalk-container')
         })
 </script>
 {% endif %}
+
+{% if site.Waline.enable %}
+<div id="waline"></div>
+  <script>
+    Waline.init({
+      el: '#waline',
+      serverURL: '{{ site.Waline.serverURL }}',
+      comment: true, // 评论数统计
+    });
+  </script>
+{% endif %}
