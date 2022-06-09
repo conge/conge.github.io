@@ -32,11 +32,11 @@ description_footer: 脚踏实地
 disqus_shortname: #lework
 gitalk:
   enable: #false
-  clientID: #0f2905fdcd849f08a1c5
-  clientSecret: #c6bfab960df0d7c3af036756e7e2bcd00a44a9e6
-  repo: #lework.github.io
-  owner: #lework
-  admin: #lework
+  clientID: #
+  clientSecret: #
+  repo: #conge.github.io
+  owner: #conge
+  admin: #conge
 utteranc_es:
   enable: #true
   repo: 'conge/conge.github.io'

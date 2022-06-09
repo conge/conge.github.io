@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 icon: heart
 type: page
 ---
-
 * content
-{:toc}
+  {:toc}
 
 ## 个人简介
 
@@ -17,8 +16,7 @@ type: page
 
 ## 网站状态
 
-自 2019 年 09 月 19 日起，本站已运行 <span id="days"></span> 天，截至 {{ site.time | date: "%Y 年 %m 月 %d 日" }}，写了博文 {{ site.posts.size }} 篇，{% assign count = 0 %}{% for post in site.posts %}{% assign single_count = post.content | strip_html | strip_newlines | remove: ' ' | size %}{% assign count = count | plus: single_count %}{% endfor %}{% if count > 10000 %}{{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }}{% else %}{{ count }}{% endif %} 字。
-
+自 2019 年 09 月 19 日起，本站已运行 `<span id="days">` 天，截至 {{ site.time | date: "%Y 年 %m 月 %d 日" }}，写了博文 {{ site.posts.size }} 篇，{% assign count = 0 %}{% for post in site.posts %}{% assign single_count = post.content | strip_html | strip_newlines | remove: ' ' | size %}{% assign count = count | plus: single_count %}{% endfor %}{% if count > 10000 %}{{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }}{% else %}{{ count }}{% endif %} 字。
 
 ## 建站缘由
 
@@ -36,7 +34,7 @@ type: page
 
 ## 感谢
 
-从简书到Jekyll文章的转换，我使用了Lework的一个Python script（[文章链接]( https://lework.github.io/2019/06/15/jianshu-to-jekyll/)）。
+从简书到Jekyll文章的转换，我使用了Lework的一个Python script（[文章链接](https://lework.github.io/2019/06/15/jianshu-to-jekyll/)）。
 
 这个script把我在简书的800多篇文章给批量转换了一些。转换过程有400多篇成功。剩下的400多篇，只是没有找到发表日期等信息，没能完美转换。但是文章的内容都转换的很好，所有的相关图片也都拉到了本地。有了这些个底子，我应该可以尽快的把所有的文章都修改好。
 
@@ -57,8 +55,8 @@ Lework帮了我的大忙，在这里鸣谢一下。没有他的的script，我�
 
 {% include reward.html %}
 
-
 ## 本页历史
+
 ```
 2020-09-19 created
 2022-04-22 增加站点状态，页面历史，赞赏
