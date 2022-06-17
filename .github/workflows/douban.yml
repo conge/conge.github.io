@@ -22,7 +22,7 @@ jobs:
         format: csv
         dir: ./_data/douban
 
-     - name: movie
+    - name: movie
       uses: lizheming/doumark-action@master
       with:
         id: conge
