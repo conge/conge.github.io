@@ -470,3 +470,13 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 为自己改变这种看法会是什么样子？
 
 通过www.DeepL.com/Translator（免费版）翻译
+
+
+------------
+
+
+data = pd.read_csv(filenamepath,dtype={'encid': int, 'DischargeYear': int, 'CRRT_IND':category,'AgeDays': float,
+                                       'Sex': "category",'Race': "category", 'LOS': float, 'AdmitUnit': "category",
+                                       'AdmitDiagnosisCodeCategory': "category", 'CPR_flag': bool, 'Cancer_flag': bool,
+                                       'Ventilator_flag': bool, 'PupilReaction__last': "category", 'PupilReaction__sec_last': "category",
+                                       'PupilReaction__first': "category"})
