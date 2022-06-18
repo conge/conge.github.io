@@ -5,8 +5,9 @@ permalink: /about/
 icon: heart
 type: page
 ---
+
 * content
-  {:toc}
+{:toc}
 
 
 ## 个人简介
