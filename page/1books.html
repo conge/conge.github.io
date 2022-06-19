@@ -144,7 +144,7 @@ type: page
           <div class="sc-fujyAs eysHZq">
             <span class="sc-jSFjdj jcTaHb">
               {% for star in (seq 0 2 8) %}
-              <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi {{if gt (book.rating) star}}lhtmRw{{else}}gaztka{% endif %}">
+              <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi {% if gt (book.rating) > star %}lhtmRw{% else %}gaztka{% endif %}">
                 <path fill="none" d="M0 0h24v24H0z"></path>
                 <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
               </svg>
