@@ -20,7 +20,7 @@ jobs:
         id: conge
         type: book
         format: csv
-        dir: ./_data/douban
+        dir: ./_data
 
     - name: movie
       uses: lizheming/doumark-action@master
@@ -28,10 +28,10 @@ jobs:
         id: conge
         type: movie
         format: csv
-        dir: ./_data/douban
+        dir: ./_data
 
     - name: Commit
       uses: EndBug/add-and-commit@v8
       with:
         message: 'chore: update douban data'
-        add: './_data/douban'
+        add: './_data'
