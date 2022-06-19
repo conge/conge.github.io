@@ -128,6 +128,10 @@ type: page
       //{{if ne $idx 0 }}
       //id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time
       {% for book in site.data.book %}
+      {% if forloop.first %}
+        {% continue %}
+      {% else %}
+
       <div
         class="sc-gKAaRy dfdORB"
         data-year="{{book.star_time}}"
@@ -154,6 +158,7 @@ type: page
           </div>
         </a>
       </div>
+      {% endif %}
       {% endfor %}
       //{% endfor %}
     </div>
