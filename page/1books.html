@@ -102,7 +102,7 @@ type: page
     //  {{$scratch.Set "genres" (union ($scratch.Get "genres") (split (book.rating) ","))}}
     //{{end}}
   //{{end}}
-  {% for book in site.data.book %}
+  //{% for book in site.data.book %}
   <div class="sc-ksluID gFnzgG">
     <div class="sc-bdnxRM">
       <a href="javascript:void 0;" class="sc-gtsrHT kEoOHR" data-search="year" data-method="equal" data-value="">全部</a>
@@ -155,6 +155,7 @@ type: page
         </a>
       </div>
       {% endfor %}
+      //{% endfor %}
     </div>
   </div>
 </div>
