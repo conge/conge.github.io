@@ -4,191 +4,289 @@ title: 阅读
 permalink: /books/
 icon: book
 type: page
+description: 读万卷书，行万里路
+note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master/3books.html
 ---
 
-<div class="page clearfix">
-    <div class="left">
-        <h1>{{page.title}}</h1>
-        <hr>
-        <style>
-    .gFnzgG,.gFnzgG *{box-sizing:border-box}
-    .fIuTG{display:flex;flex-wrap:wrap;margin:0 -2%;background:0 0;line-height:100%}
-    .dfdORB{width:16%;margin:0 2% 30px;padding:0;font-size:15px}
-    .dfdORB a{text-decoration:none}
-    .kMthTr{margin-top:12px;line-height:1.3;max-height:2.6rem;overflow:hidden}
-    .eysHZq{display:flex;-webkit-box-align:center;align-items:center;margin-top:5px;min-height:16px;line-height:1}
-    .HPRth{position:relative;min-height:87px;overflow:hidden;color:transparent}
-    .HPRth:hover{box-shadow:rgb(48 55 66 / 30%) 0 1rem 2.1rem}
-    .jcTaHb{display:flex;-webkit-box-align:center;align-items:center}
-    .lhtmRw{margin-right:1px;width:12px;height:12px;color:#fccd59}
-    .gaztka{margin-right:1px;width:12px;height:12px;color:#eee}
-    .iibjPt{margin-left:5px;color:#555;font-size:14px}
-    .jvCTkj{margin-bottom:10px}
-    .kEoOHR{display:inline-block;margin-right:15px;text-decoration:none;color:#157efb}
-    .dvtjjf{display:inline-block;color:#555;text-decoration:none;padding:0 5px}
-    .dvtjjf.active{background:rgba(85,85,85,.1)}
-    .hide{display:none}
-    .sort-by{text-align:right;margin-top:-15px}
-    .sort-by-item{margin-left:10px;padding:0 5px;line-height:20px}
-    .sort-by-item.active{background:rgba(85,85,85,.1)}
-    .sort-by-item svg{margin-right:5px}
-    .sc-hKFxyN img{max-width:100%!important;height:auto!important;display:block!important;vertical-align:middle!important}
-    @media(min-width:1024px){
-      .lg\:col-span-6{grid-column:span 6/span 6!important}
-      .lg\:col-start-2{grid-column-start:2!important}
-    }
-    @media (max-width:550px){
-      .jcTaHb,.sc-bdnxRM{display:none}
-    }
-  </style>
-  <script type="text/javascript">
-    function search(e) {
-      document.querySelectorAll('.dfdORB').forEach(item => item.classList.add('hide'));
-      document.querySelector(`.dvtjjf.active[data-search="${e.target.dataset.search}"]`)?.classList.remove('active');
-      if(e.target.dataset.value) {
-        e.target.classList.add('active');
-      }
-      const searchItems = document.querySelectorAll('.dvtjjf.active');
-      const attributes = Array.from(searchItems, searchItem => {
-        const property = `data-${searchItem.dataset.search}`;
-        const logic = searchItem.dataset.method === 'contain' ? '*' : '^';
-        const value = searchItem.dataset.method === 'contain' ? `${searchItem.dataset.value}` : searchItem.dataset.value;
-        return `[${property}${logic}='${value}']`;
-      });
-      const selector = `.dfdORB${attributes.join('')}`;
-      document.querySelectorAll(selector).forEach(item => item.classList.remove('hide'));
-    }
-    window.addEventListener('click', function(e) {
-      if(e.target.classList.contains('sc-gtsrHT')) {
-        e.preventDefault();
-        search(e);
-      }
-    });
-    function sort(e) {
-      const sortBy = e.target.dataset.order;
-      const style = document.createElement('style');
-      style.classList.add('sort-order-style');
-      document.querySelector('style.sort-order-style')?.remove();
-      document.querySelector('.sort-by-item.active')?.classList.remove('active');
-      e.target.classList.add('active');
-      if(sortBy === 'rating') {
-        const books = Array.from(document.querySelectorAll('.dfdORB'));
-        books.sort((bookA, bookB) => {
-          const ratingA = parseFloat(bookA.dataset.rating) || 0;
-          const ratingB = parseFloat(bookB.dataset.rating) || 0;
-          if(ratingA === ratingB) {
-            return 0;
-          }
-          return ratingA > ratingB ? -1 : 1;
-        });
-        const stylesheet = books.map((book, idx) => `.dfdORB[data-rating="${book.dataset.rating}"] { order: ${idx}; }`).join('\r\n');
-        style.innerHTML = stylesheet;
-        document.body.appendChild(style);
-      }
-    }
-    window.addEventListener('click', function(e) {
-      if(e.target.classList.contains('sort-by-item')) {
-        e.preventDefault();
-        sort(e);
-      }
-    });
-  </script>
-<div class="lg:col-start-2 lg:col-span-6">
-  //{{$books := getCSV "," "_data/douban/book.csv" }}
-  //{{$scratch := newScratch}}
-  //{{$scratch.Add "genres" slice}}
-//  {{range $idx, $book := $books}}
-    //{{if ne $idx 0}}
-    //  {{$scratch.Set "genres" (union ($scratch.Get "genres") (split (book.rating) ","))}}
-    //{{end}}
-  //{{end}}
-  //{% for book in site.data.book %}
-  <div class="sc-ksluID gFnzgG">
-    <div class="sc-bdnxRM">
-      <a href="javascript:void 0;" class="sc-gtsrHT kEoOHR" data-search="year" data-method="equal" data-value="">全部</a>
-      {% for year in (seq 2022 -1 2009) %}
-      <a href="javascript:void 0;" class="sc-gtsrHT dvtjjf" data-search="year" data-method="equal" data-value="{{year}}">{{year}}</a>
-      {% endfor %}
-    </div>
-    <div class="sc-bdnxRM">
-      <a href="javascript:void 0;" class="sc-gtsrHT kEoOHR" data-search="star" data-method="equal" data-value="">全部</a>
-      <a href="javascript:void 0;" class="sc-gtsrHT dvtjjf" data-search="star" data-method="equal" data-value="5">五星</a>
-      <a href="javascript:void 0;" class="sc-gtsrHT dvtjjf" data-search="star" data-method="equal" data-value="4">四星</a>
-      <a href="javascript:void 0;" class="sc-gtsrHT dvtjjf" data-search="star" data-method="equal" data-value="3">三星</a>
-      <a href="javascript:void 0;" class="sc-gtsrHT dvtjjf" data-search="star" data-method="equal" data-value="2">二星</a>
-      <a href="javascript:void 0;" class="sc-gtsrHT dvtjjf" data-search="star" data-method="equal" data-value="1">一星</a>
-      <a href="javascript:void 0;" class="sc-gtsrHT dvtjjf" data-search="star" data-method="equal" data-value="0">零星</a>
-    </div>
-    <div class="jvCTkj sort-by">
-      <a href="javascript:void 0;" class="sort-by-item active" data-order="time">时间排序</a>
-      <a href="javascript:void 0;" class="sort-by-item" data-order="rating">评分排序</a>
-    </div>
-    <div class="sc-dIsUp fIuTG">
-      //{{range $idx, $book := $books}}
-      //{{if ne $idx 0 }}
-      //id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time
-      {% for book in site.data.book %}
-      {% if forloop.first %}
-        {% continue %}
-      {% else %}
-
-      <div
-        class="sc-gKAaRy dfdORB"
-        data-year="{{book.star_time}}"
-        data-star="{{book.star}}"
-        data-rating="{{book.rating}}"
-      >
-        <a rel="link" href="{{book.url}}" target="_blank">
-          <div class="sc-hKFxyN HPRth">
-            <div class="lazyload-wrapper ">
-              <img class="avatar" src="{{book.poster}}" referrer-policy="no-referrer" loading="lazy" alt="{{book.title}}" width="150" height="220">
-            </div>
-          </div>
-          <div class="sc-iCoGMd kMthTr">{{book.title}}</div>
-          <div class="sc-fujyAs eysHZq">
-            <span class="sc-jSFjdj jcTaHb">
-              {% for star in (seq 0 2 8) %}
-              <svg viewBox="0 0 24 24" width="24" height="24" class="sc-dlnjwi {% if gt (book.rating) > star %}lhtmRw{% else %}gaztka{% endif %}">
-                <path fill="none" d="M0 0h24v24H0z"></path>
-                <path fill="currentColor" d="M12 18.26l-7.053 3.948 1.575-7.928L.587 8.792l8.027-.952L12 .5l3.386 7.34 8.027.952-5.935 5.488 1.575 7.928z"></path>
-              </svg>
-            {% endfor %}
-            </span>
-            <span class="sc-pNWdM iibjPt">{{book.rating}}</span>
-          </div>
-        </a>
-      </div>
-      {% endif %}
-      {% endfor %}
-      //{% endfor %}
-    </div>
-  </div>
-</div>
-
-    </div>
-    <button class="anchor"><i class="fa fa-anchor"></i></button>
-    <div class="right">
-        <div class="wrap">
-
-            <!-- Content -->
-            <div class="side content">
-                <div>
-                    Content
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading" id="tag-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <span class="subheading">{{ page.description }}</span>
                 </div>
-                <ul id="content-side" class="content-ul">
-                    {% for tag in sortedtags %}
-                    <li>
-                        <a data-scroll href="#{{ tag }}">
-                            {{ tag }} ({{ site.tags[tag].size }})
-                        </a>
-                    </li>
-                    {% endfor %}
-
-                </ul>
             </div>
-            <!-- 其他div框放到这里 -->
-            <!-- <div class="side">bbbb</div> -->
         </div>
     </div>
+<style>
+.hexo-douban-tabs {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.hexo-douban-tab {
+    padding: 5px;
+}
+
+.hexo-douban-active {
+    background: #657b83;
+    color: #fff;
+}
+
+.hexo-douban-active:hover{
+    background: #657b83;
+    color: red;
+}
+
+.hexo-douban-item {
+    padding-bottom: 10px;
+    position: relative;
+    clear: both;
+    min-height: 170px;
+    padding: 10px 0;
+    border-bottom: 1px #ddd solid;
+}
+
+@media screen and (max-width: 600px) {
+    .hexo-douban-item {
+        width: 100%;
+    }
+}
+
+.hexo-douban-picture {
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 100px;
+}
+
+.hexo-douban-info {
+    padding-left: 120px;
+}
+
+.hexo-douban-meta {
+    font-size: 12px;
+    padding-right: 10px;
+}
+
+.hexo-douban-comments {
+    font-size: 12px;
+}
+
+.hexo-douban-pagination {
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.hexo-douban-button {
+    padding: 5px;
+}
+
+.hexo-douban-button:hover {
+    background: #657b83;
+    color: #fff;
+}
+
+.hexo-douban-hide {
+    display: none;
+}
+
+.hexo-douban-show {
+    display: block;
+}
+
+.hexo-douban-picture img{
+    width:92px;
+    height:131px
+}
+</style>
+</header>
+
+<!-- Main Content start-->
+<div class="container">
+<!--
+<h1>这里是我的书籍清单</h1>
+-->
+<blockquote>
+    <p>"这是我的读书清单" </p>
+</blockquote>
+
+<!--div class="hexo-douban-tabs">
+    <a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
+        在读
+        ({{ site.data.bookstj.zdnum }})</a>
+    <a class="hexo-douban-tab" id="hexo-douban-tab2" href="javascript:;" rel="external">
+        想读
+        ({{ site.data.bookstj.xdnum }})</a>
+    <a class="hexo-douban-tab" id="hexo-douban-tab3" href="javascript:;" rel="external">
+        已读
+        ({{ site.data.bookstj.ydnum }})</a>
+</div-->
+
+<div>
+
+  <!--      已读 start      -->
+  <div id="hexo-douban-item3">
+    <!-- 已读000开始 -->
+    <!--id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time -->
+    {% for book in site.data.book %}
+    <div class="hexo-douban-item">
+      <div class="hexo-douban-picture"><img src="{{ book.poster }}" data-src="{{ book.poster }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-info">
+          <div class="hexo-douban-title"><a target="_blank" href="{{ book.url }}"> {{ book.title }}</a></div>
+          <div class="hexo-douban-meta">
+            {{ book.subtitle }}
+          </div>
+          <div class="hexo-douban-meta">{{ book.star_time }}
+            读过 | {{ book.star }} {{ book.rating }}</div>
+          <!--div class="hexo-douban-comments">我的书评：{{ book.review }}</div-->
+      </div>
+    </div>
+    {% endfor %}
+    <!-- 已读000结束 -->
+
+    <!-- 分页 开始 -->
+    <div class="hexo-douban-pagination">
+      <a class="hexo-douban-button hexo-douban-firstpage" href="javascript:;"> 首页</a>
+      <a class="hexo-douban-button hexo-douban-previouspage" href="javascript:;">上一页</a>
+      <span class="hexo-douban-pagenum">2 / 3</span>
+      <a class="hexo-douban-button hexo-douban-nextpage" href="javascript:;">下一页</a>
+      <a class="hexo-douban-button hexo-douban-lastpage" href="javascript:;">尾页</a>
+    </div>
+    <!-- 分页 结束 -->
+
+  </div>
+  <!--      已读 end      -->
+
 </div>
+
+    <!-- 书单统计 开始 -->
+    <div align="center">
+    已读书单共 <script language="JavaScript">
+    var numitem3 = document.getElementById('hexo-douban-item3').getElementsByClassName('hexo-douban-item').length;
+    document.write(numitem3)
+</script> 本
+    </div>
+    <!-- 书单统计 结束 -->
+
+</div>
+<!-- Main Content end-->
+
+
+<!-- 标签切换脚本 -->
+<script>
+    /**
+ * Created by myths on 18-2-8.
+ */
+
+Element.prototype.siblings = function () {
+    var siblingElement = [];
+    var sibs = this.parentNode.children;
+    for (var i = 0; i < sibs.length; i++) {
+        if (sibs[i] !== this) {
+            siblingElement.push(sibs[i]);
+        }
+    }
+    return siblingElement;
+};
+function tabClick() {
+    //修改标签样式
+    this.classList.add('hexo-douban-active');
+    var sibs = this.siblings();
+    for (var j = 0; j < sibs.length; j++) {
+        sibs[j].classList.remove('hexo-douban-active');
+    }
+    //显示对应板块
+    var itemId = this.id.replace('tab', 'item');
+    var target = document.getElementById(itemId);
+    target.classList.remove('hexo-douban-hide');
+    target.classList.add('hexo-douban-show');
+    sibs = document.getElementById(itemId).siblings();
+    for (var k = 0; k < sibs.length; k++) {
+        sibs[k].classList.remove('hexo-douban-show');
+        sibs[k].classList.add('hexo-douban-hide');
+    }
+}
+var tabs = document.getElementsByClassName("hexo-douban-tab");
+for (var i = 0; i < tabs.length; i++) {
+    tabs[i].onclick = tabClick;
+    tabs[i].onclick.apply(tabs[i]);
+}
+tabs[2].click();
+
+    var firstpages = document.getElementsByClassName("hexo-douban-firstpage");
+var previouspages = document.getElementsByClassName("hexo-douban-previouspage");
+var nextpages = document.getElementsByClassName("hexo-douban-nextpage");
+var lastpages = document.getElementsByClassName("hexo-douban-lastpage");
+var pagenums = document.getElementsByClassName("hexo-douban-pagenum");
+
+function makePageNum(num, arr) {
+    return (num + 1) + ' / ' + (Math.ceil(arr.length / 10 === 0 ? 1 : Math.ceil(arr.length / 10)));
+}
+
+function firstBtn() {
+    var sibs = this.parentNode.siblings();
+    displayPage(sibs, 0);
+    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(0, sibs);
+}
+
+function previousBtn() {
+    var sibs = this.parentNode.siblings();
+    var currNum = this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText;
+    currNum = currNum.substr(0, currNum.indexOf('/') - 1);
+    currNum = parseInt(currNum, 10) - 1;
+    if (currNum > 0) {
+        currNum--;
+    }
+    displayPage(sibs, currNum);
+    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(currNum, sibs);
+}
+
+function nextBtn() {
+    var sibs = this.parentNode.siblings();
+    var currNum = this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText;
+    currNum = currNum.substr(0, currNum.indexOf('/') - 1);
+    currNum = parseInt(currNum, 10) - 1;
+    if (currNum < Math.ceil(sibs.length / 10) - 1) {
+        currNum++;
+    }
+    displayPage(sibs, currNum);
+    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(currNum, sibs);
+}
+
+function lastBtn() {
+    var sibs = this.parentNode.siblings();
+    displayPage(sibs, Math.ceil(sibs.length / 10) - 1);
+    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(Math.ceil(sibs.length / 10) - 1 === -1 ? 0 : Math.ceil(sibs.length / 10) - 1, sibs);
+}
+
+function displayPage(arr, num) {
+    for (var i = 0; i < arr.length; i++) {
+        if (Math.floor(i / 10) === num) {
+            arr[i].classList.remove('hexo-douban-hide');
+            var img = arr[i].getElementsByTagName('img')[0];
+            img.src = img.getAttribute('data-src');
+        } else {
+            arr[i].classList.add('hexo-douban-hide');
+        }
+    }
+}
+
+for (var i = 0; i < firstpages.length; i++) {
+
+    //add listener
+    firstpages[i].onclick = firstBtn;
+    previouspages[i].onclick = previousBtn;
+    nextpages[i].onclick = nextBtn;
+    lastpages[i].onclick = lastBtn;
+
+    //set page num
+    var size = pagenums[i].parentNode.siblings().length;
+    pagenums[i].innerText = '1 / ' + (Math.ceil(size / 10) === 0 ? 1 : Math.ceil(size / 10));
+    firstpages[i].click();
+}
+</script>
 <script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>
