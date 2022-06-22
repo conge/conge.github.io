@@ -118,12 +118,10 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 </blockquote>
 
 <div class="hexo-douban-tabs">
-    <!--a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
-        在读
-        ({{ site.data.bookstj.zdnum }})</a>
+    <a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
+        在读</a>
     <a class="hexo-douban-tab" id="hexo-douban-tab2" href="javascript:;" rel="external">
-        想读
-        ({{ site.data.bookstj.xdnum }})</a-->
+        想读</a>
     <a class="hexo-douban-tab" id="hexo-douban-tab3" href="javascript:;" rel="external">
         已读 <script language="JavaScript">
         var numitem3 = document.getElementById('hexo-douban-item3').getElementsByClassName('hexo-douban-item').length;
@@ -178,6 +176,120 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 
     <!-- 书单统计 结束 -->
   </div>
+
+  <!-- 标签切换脚本 -->
+  <script>
+      /**
+   * Created by myths on 18-2-8.
+   */
+
+  Element.prototype.siblings = function () {
+      var siblingElement = [];
+      var sibs = this.parentNode.children;
+      for (var i = 0; i < sibs.length; i++) {
+          if (sibs[i] !== this) {
+              siblingElement.push(sibs[i]);
+          }
+      }
+      return siblingElement;
+  };
+  function tabClick() {
+      //修改标签样式
+      this.classList.add('hexo-douban-active');
+      var sibs = this.siblings();
+      for (var j = 0; j < sibs.length; j++) {
+          sibs[j].classList.remove('hexo-douban-active');
+      }
+      //显示对应板块
+      var itemId = this.id.replace('tab', 'item');
+      var target = document.getElementById(itemId);
+      target.classList.remove('hexo-douban-hide');
+      target.classList.add('hexo-douban-show');
+      sibs = document.getElementById(itemId).siblings();
+      for (var k = 0; k < sibs.length; k++) {
+          sibs[k].classList.remove('hexo-douban-show');
+          sibs[k].classList.add('hexo-douban-hide');
+      }
+  }
+  var tabs = document.getElementsByClassName("hexo-douban-tab");
+  for (var i = 0; i < tabs.length; i++) {
+      tabs[i].onclick = tabClick;
+      tabs[i].onclick.apply(tabs[i]);
+  }
+  tabs[2].click();
+
+  var firstpages = document.getElementsByClassName("hexo-douban-firstpage");
+  var previouspages = document.getElementsByClassName("hexo-douban-previouspage");
+  var nextpages = document.getElementsByClassName("hexo-douban-nextpage");
+  var lastpages = document.getElementsByClassName("hexo-douban-lastpage");
+  var pagenums = document.getElementsByClassName("hexo-douban-pagenum");
+
+  function makePageNum(num, arr) {
+      return (num + 1) + ' / ' + (Math.ceil(arr.length / 10 === 0 ? 1 : Math.ceil(arr.length / 10)));
+  }
+
+  function firstBtn() {
+      var sibs = this.parentNode.siblings();
+      displayPage(sibs, 0);
+      this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(0, sibs);
+  }
+
+  function previousBtn() {
+      var sibs = this.parentNode.siblings();
+      var currNum = this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText;
+      currNum = currNum.substr(0, currNum.indexOf('/') - 1);
+      currNum = parseInt(currNum, 10) - 1;
+      if (currNum > 0) {
+          currNum--;
+      }
+      displayPage(sibs, currNum);
+      this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(currNum, sibs);
+  }
+
+  function nextBtn() {
+      var sibs = this.parentNode.siblings();
+      var currNum = this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText;
+      currNum = currNum.substr(0, currNum.indexOf('/') - 1);
+      currNum = parseInt(currNum, 10) - 1;
+      if (currNum < Math.ceil(sibs.length / 10) - 1) {
+          currNum++;
+      }
+      displayPage(sibs, currNum);
+      this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(currNum, sibs);
+  }
+
+  function lastBtn() {
+      var sibs = this.parentNode.siblings();
+      displayPage(sibs, Math.ceil(sibs.length / 10) - 1);
+      this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(Math.ceil(sibs.length / 10) - 1 === -1 ? 0 : Math.ceil(sibs.length / 10) - 1, sibs);
+  }
+
+  function displayPage(arr, num) {
+      for (var i = 0; i < arr.length; i++) {
+          if (Math.floor(i / 10) === num) {
+              arr[i].classList.remove('hexo-douban-hide');
+              var img = arr[i].getElementsByTagName('img')[0];
+              img.src = img.getAttribute('data-src');
+          } else {
+              arr[i].classList.add('hexo-douban-hide');
+          }
+      }
+  }
+
+  for (var i = 0; i < firstpages.length; i++) {
+
+      //add listener
+      firstpages[i].onclick = firstBtn;
+      previouspages[i].onclick = previousBtn;
+      nextpages[i].onclick = nextBtn;
+      lastpages[i].onclick = lastBtn;
+
+      //set page num
+      var size = pagenums[i].parentNode.siblings().length;
+      pagenums[i].innerText = '1 / ' + (Math.ceil(size / 10) === 0 ? 1 : Math.ceil(size / 10));
+      firstpages[i].click();
+  }
+  </script>
   <!-- Left -->
 
 
@@ -210,119 +322,3 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 
 </div>
 <!-- Main Content end-->
-
-
-<!-- 标签切换脚本 -->
-<script>
-    /**
- * Created by myths on 18-2-8.
- */
-
-Element.prototype.siblings = function () {
-    var siblingElement = [];
-    var sibs = this.parentNode.children;
-    for (var i = 0; i < sibs.length; i++) {
-        if (sibs[i] !== this) {
-            siblingElement.push(sibs[i]);
-        }
-    }
-    return siblingElement;
-};
-function tabClick() {
-    //修改标签样式
-    this.classList.add('hexo-douban-active');
-    var sibs = this.siblings();
-    for (var j = 0; j < sibs.length; j++) {
-        sibs[j].classList.remove('hexo-douban-active');
-    }
-    //显示对应板块
-    var itemId = this.id.replace('tab', 'item');
-    var target = document.getElementById(itemId);
-    target.classList.remove('hexo-douban-hide');
-    target.classList.add('hexo-douban-show');
-    sibs = document.getElementById(itemId).siblings();
-    for (var k = 0; k < sibs.length; k++) {
-        sibs[k].classList.remove('hexo-douban-show');
-        sibs[k].classList.add('hexo-douban-hide');
-    }
-}
-var tabs = document.getElementsByClassName("hexo-douban-tab");
-for (var i = 0; i < tabs.length; i++) {
-    tabs[i].onclick = tabClick;
-    tabs[i].onclick.apply(tabs[i]);
-}
-tabs[2].click();
-
-    var firstpages = document.getElementsByClassName("hexo-douban-firstpage");
-var previouspages = document.getElementsByClassName("hexo-douban-previouspage");
-var nextpages = document.getElementsByClassName("hexo-douban-nextpage");
-var lastpages = document.getElementsByClassName("hexo-douban-lastpage");
-var pagenums = document.getElementsByClassName("hexo-douban-pagenum");
-
-function makePageNum(num, arr) {
-    return (num + 1) + ' / ' + (Math.ceil(arr.length / 10 === 0 ? 1 : Math.ceil(arr.length / 10)));
-}
-
-function firstBtn() {
-    var sibs = this.parentNode.siblings();
-    displayPage(sibs, 0);
-    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(0, sibs);
-}
-
-function previousBtn() {
-    var sibs = this.parentNode.siblings();
-    var currNum = this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText;
-    currNum = currNum.substr(0, currNum.indexOf('/') - 1);
-    currNum = parseInt(currNum, 10) - 1;
-    if (currNum > 0) {
-        currNum--;
-    }
-    displayPage(sibs, currNum);
-    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(currNum, sibs);
-}
-
-function nextBtn() {
-    var sibs = this.parentNode.siblings();
-    var currNum = this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText;
-    currNum = currNum.substr(0, currNum.indexOf('/') - 1);
-    currNum = parseInt(currNum, 10) - 1;
-    if (currNum < Math.ceil(sibs.length / 10) - 1) {
-        currNum++;
-    }
-    displayPage(sibs, currNum);
-    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(currNum, sibs);
-}
-
-function lastBtn() {
-    var sibs = this.parentNode.siblings();
-    displayPage(sibs, Math.ceil(sibs.length / 10) - 1);
-    this.parentNode.getElementsByClassName('hexo-douban-pagenum')[0].innerText = makePageNum(Math.ceil(sibs.length / 10) - 1 === -1 ? 0 : Math.ceil(sibs.length / 10) - 1, sibs);
-}
-
-function displayPage(arr, num) {
-    for (var i = 0; i < arr.length; i++) {
-        if (Math.floor(i / 10) === num) {
-            arr[i].classList.remove('hexo-douban-hide');
-            var img = arr[i].getElementsByTagName('img')[0];
-            img.src = img.getAttribute('data-src');
-        } else {
-            arr[i].classList.add('hexo-douban-hide');
-        }
-    }
-}
-
-for (var i = 0; i < firstpages.length; i++) {
-
-    //add listener
-    firstpages[i].onclick = firstBtn;
-    previouspages[i].onclick = previousBtn;
-    nextpages[i].onclick = nextBtn;
-    lastpages[i].onclick = lastBtn;
-
-    //set page num
-    var size = pagenums[i].parentNode.siblings().length;
-    pagenums[i].innerText = '1 / ' + (Math.ceil(size / 10) === 0 ? 1 : Math.ceil(size / 10));
-    firstpages[i].click();
-}
-</script>
-<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>
