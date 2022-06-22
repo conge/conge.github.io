@@ -9,7 +9,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 ---
 
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<!--header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -19,7 +19,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
                 </div>
             </div>
         </div>
-    </div>
+    </div-->
 <style>
 .hexo-douban-tabs {
     margin-bottom: 15px;
@@ -106,7 +106,10 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 </header>
 
 <!-- Main Content start-->
-<div class="container">
+<div class="page clearfix">
+  <div class="left">
+      <h1>{{page.title}}</h1>
+      <hr>
 <!--
 <h1>这里是我的书籍清单</h1>
 -->
@@ -114,17 +117,17 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <p>"这是我的读书清单" </p>
 </blockquote>
 
-<!--div class="hexo-douban-tabs">
-    <a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
+<--div class="hexo-douban-tabs">
+    <!--a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
         在读
         ({{ site.data.bookstj.zdnum }})</a>
     <a class="hexo-douban-tab" id="hexo-douban-tab2" href="javascript:;" rel="external">
         想读
-        ({{ site.data.bookstj.xdnum }})</a>
+        ({{ site.data.bookstj.xdnum }})</a-->
     <a class="hexo-douban-tab" id="hexo-douban-tab3" href="javascript:;" rel="external">
         已读
         ({{ site.data.bookstj.ydnum }})</a>
-</div-->
+</div>
 
 <div>
 
@@ -140,8 +143,8 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
           <div class="hexo-douban-meta">
             {{ book.subtitle }}
           </div>
-          <div class="hexo-douban-meta">{{ book.star_time }}
-            读过 | {{ book.star }} {{ book.rating }}</div>
+          <div class="hexo-douban-meta">{{ book.star_time | date: "%Y-%m-%d" }}
+            读过 | {{ book.star }}星 评分 {{ book.rating }}</div>
           <!--div class="hexo-douban-comments">我的书评：{{ book.review }}</div-->
       </div>
     </div>
@@ -170,7 +173,38 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     document.write(numitem3)
 </script> 本
     </div>
+
     <!-- 书单统计 结束 -->
+  </div>
+  <!-- Left -->
+
+
+  <button class="anchor"><i class="fa fa-anchor"></i></button>
+  <div class="right">
+      <div class="wrap">
+
+          <!-- Content -->
+          <div class="side content">
+              <div>
+                  Content
+              </div>
+              <ul id="content-side" class="content-ul">
+                  {% for category in site.categories%}
+                      <li>
+                          <a data-scroll href="#{{ category | first }}">
+                              {{ category | first }} ({{ category | last | size }})
+                          </a>
+                      </li>
+                  {% endfor %}
+              </ul>
+          </div>
+          <!-- 其他div框放到这里 -->
+          <!-- <div class="side">bbbb</div> -->
+      </div>
+  </div>
+
+</div>
+
 
 </div>
 <!-- Main Content end-->
