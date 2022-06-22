@@ -117,7 +117,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <p>"这是我的读书清单" </p>
 </blockquote>
 
-<--div class="hexo-douban-tabs">
+<div class="hexo-douban-tabs">
     <!--a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
         在读
         ({{ site.data.bookstj.zdnum }})</a>
@@ -125,8 +125,10 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
         想读
         ({{ site.data.bookstj.xdnum }})</a-->
     <a class="hexo-douban-tab" id="hexo-douban-tab3" href="javascript:;" rel="external">
-        已读
-        ({{ site.data.bookstj.ydnum }})</a>
+        已读 <script language="JavaScript">
+        var numitem3 = document.getElementById('hexo-douban-item3').getElementsByClassName('hexo-douban-item').length;
+        document.write(numitem3)
+    </script> 本</a>
 </div>
 
 <div>
