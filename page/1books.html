@@ -368,7 +368,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
                  {% assign sortedtags = "100天阅读训练营 读书 读书笔记 阅读 哲学 心理藏书" | split:' ' | sort %}
                   {% for tag in sortedtags %}
                   <li>
-                      <a data-scroll href="#{{ tag }}">
+                      <a data-scroll href="{{ site.baseurl }}/tag/#{{ tag }}">
                           {{ tag }} ({{ site.tags[tag].size }})
                       </a>
                   </li>
