@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 阅读
+title: 书影
 permalink: /books/
 icon: book
 type: page
@@ -114,7 +114,9 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 <h1>这里是我的书籍清单</h1>
 -->
 <blockquote>
-    <p>"这是我的读书清单" </p>
+    <p>"这是我的读书观影清单" </p>
+    <p>数据同步使用：<a target="_blank" href="https://github.com/lizheming/doumark-action"> lizheming/doumark-action</a>，页面渲染：借鉴<a target="_blank" href="https://github.com/Duter2016/Duter2016.github.io/blob/master/3books.html"> Duter2016.github.io</a></p>
+    </p>
 </blockquote>
 
 <div class="hexo-douban-tabs">
@@ -123,10 +125,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <a class="hexo-douban-tab" id="hexo-douban-tab2" href="javascript:;" rel="external">
         </a>
     <a class="hexo-douban-tab" id="hexo-douban-tab3" href="javascript:;" rel="external">
-        图书 <script language="JavaScript">
-        var numitem3 = document.getElementById('hexo-douban-item3').getElementsByClassName('hexo-douban-item').length;
-        document.write(numitem3)
-    </script> 本</a>
+        图书
 </div>
 
 <div>
@@ -151,11 +150,11 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 
     <!-- 分页 开始 -->
     <div class="hexo-douban-pagination">
-      <a class="hexo-douban-button hexo-douban-firstpage" href="javascript:;"> -</a>
-      <a class="hexo-douban-button hexo-douban-previouspage" href="javascript:;">-</a>
+      <a class="hexo-douban-button hexo-douban-firstpage" href="javascript:;"> 首页</a>
+      <a class="hexo-douban-button hexo-douban-previouspage" href="javascript:;">上一页</a>
       <span class="hexo-douban-pagenum">2 / 3</span>
-      <a class="hexo-douban-button hexo-douban-nextpage" href="javascript:;">-</a>
-      <a class="hexo-douban-button hexo-douban-lastpage" href="javascript:;">-</a>
+      <a class="hexo-douban-button hexo-douban-nextpage" href="javascript:;">下一页</a>
+      <a class="hexo-douban-button hexo-douban-lastpage" href="javascript:;">尾页</a>
     </div>
     <!-- 分页 结束 -->
 
@@ -356,6 +355,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 
 
   <button class="anchor"><i class="fa fa-anchor"></i></button>
+
   <div class="right">
       <div class="wrap">
 
@@ -365,13 +365,15 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
                   Content
               </div>
               <ul id="content-side" class="content-ul">
-                  {% for category in site.categories%}
-                      <li>
-                          <a data-scroll href="#{{ category | first }}">
-                              {{ category | first }} ({{ category | last | size }})
-                          </a>
-                      </li>
+                 {% assign sortedtags = "100天阅读训练营 读书 读书笔记 阅读 哲学 心理藏书" | split:' ' | sort %}
+                  {% for tag in sortedtags %}
+                  <li>
+                      <a data-scroll href="#{{ tag }}">
+                          {{ tag }} ({{ site.tags[tag].size }})
+                      </a>
+                  </li>
                   {% endfor %}
+
               </ul>
           </div>
           <!-- 其他div框放到这里 -->
