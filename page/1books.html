@@ -119,11 +119,11 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 
 <div class="hexo-douban-tabs">
     <a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
-        在读</a>
+        电影</a>
     <a class="hexo-douban-tab" id="hexo-douban-tab2" href="javascript:;" rel="external">
-        想读</a>
+        </a>
     <a class="hexo-douban-tab" id="hexo-douban-tab3" href="javascript:;" rel="external">
-        已读 <script language="JavaScript">
+        图书 <script language="JavaScript">
         var numitem3 = document.getElementById('hexo-douban-item3').getElementsByClassName('hexo-douban-item').length;
         document.write(numitem3)
     </script> 本</a>
@@ -133,15 +133,16 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
   <!--      在读 start      -->
   <div id="hexo-douban-item1">
     <!-- 在读000开始 -->
-
+{% for m in site.data.movie %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ book.bookimg }}" data-src="{{ book.bookimg }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ m.poster }}" data-src="{{ m.poster }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href="{{ book.doubanurl }}"> </a></div>
+          <div class="hexo-douban-title"><a target="_blank" href="{{ m.url }}"> {{ m.title}}</a></div>
           <div class="hexo-douban-meta">
-
+            {{ m.subtitle }}
           </div>
-          <div class="hexo-douban-meta"></div>
+          <div class="hexo-douban-meta">{{ m.star_time | date: "%Y-%m-%d" }}
+            读过 | {{ m.star }}星 评分 {{ m.rating }}</div>
           <div class="hexo-douban-comments"></div>
       </div>
     </div>
@@ -165,7 +166,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
   <!-- 想读 start -->
   <div id="hexo-douban-item2">
     <!-- 想读000开始 -->
-    {% for book in site.data.booksxd %}
+    //{% for book in site.data.book %}
     <div class="hexo-douban-item">
       <div class="hexo-douban-picture"><img src="" data-src="" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
@@ -177,7 +178,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
           <div class="hexo-douban-comments"></div>
       </div>
     </div>
-    {% endfor %}
+//    {% endfor %}
     <!-- 想读000结束 -->
 
     <!-- 分页 开始 -->
