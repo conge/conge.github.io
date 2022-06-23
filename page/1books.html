@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 书影
+title: 书影音
 permalink: /books/
 icon: book
 type: page
@@ -123,9 +123,9 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <a class="hexo-douban-tab" id="hexo-douban-tab1" href="javascript:;" rel="external">
         电影</a>
     <a class="hexo-douban-tab" id="hexo-douban-tab2" href="javascript:;" rel="external">
-        </a>
+         音乐</a>
     <a class="hexo-douban-tab" id="hexo-douban-tab3" href="javascript:;" rel="external">
-        图书
+        图书</a>
 </div>
 
 <div>
@@ -165,15 +165,16 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
   <!-- 想读 start -->
   <div id="hexo-douban-item2">
     <!-- 想读000开始 -->
-    //{% for book in site.data.book %}
+    //{% for mu in site.data.music %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="" data-src="" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ mu.poster }}" data-src="{{ mu.poster }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href=""> </a></div>
+          <div class="hexo-douban-title"><a target="_blank" href="{{ mu.url }}"> {{ mu.title}}</a></div>
           <div class="hexo-douban-meta">
-
+            {{ mu.subtitle }}
           </div>
-          <div class="hexo-douban-meta"></div>
+          <div class="hexo-douban-meta">{{ mu.star_time | date: "%Y-%m-%d" }}
+            看过 | {{ mu.star }}星 评分 {{ mu.rating }}</div>
           <div class="hexo-douban-comments"></div>
       </div>
     </div>
