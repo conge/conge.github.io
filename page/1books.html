@@ -130,6 +130,67 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 </div>
 
 <div>
+  <!--      在读 start      -->
+  <div id="hexo-douban-item1">
+    <!-- 在读000开始 -->
+
+    <div class="hexo-douban-item">
+      <div class="hexo-douban-picture"><img src="{{ book.bookimg }}" data-src="{{ book.bookimg }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-info">
+          <div class="hexo-douban-title"><a target="_blank" href="{{ book.doubanurl }}"> </a></div>
+          <div class="hexo-douban-meta">
+
+          </div>
+          <div class="hexo-douban-meta"></div>
+          <div class="hexo-douban-comments"></div>
+      </div>
+    </div>
+    {% endfor %}
+    <!-- 在读000结束 -->
+
+    <!-- 分页 开始 -->
+    <div class="hexo-douban-pagination">
+      <a class="hexo-douban-button hexo-douban-firstpage" href="javascript:;"> -</a>
+      <a class="hexo-douban-button hexo-douban-previouspage" href="javascript:;">-</a>
+      <span class="hexo-douban-pagenum">2 / 3</span>
+      <a class="hexo-douban-button hexo-douban-nextpage" href="javascript:;">-</a>
+      <a class="hexo-douban-button hexo-douban-lastpage" href="javascript:;">-</a>
+    </div>
+    <!-- 分页 结束 -->
+
+  </div>
+  <!--      在读 end      -->
+
+
+  <!-- 想读 start -->
+  <div id="hexo-douban-item2">
+    <!-- 想读000开始 -->
+    {% for book in site.data.booksxd %}
+    <div class="hexo-douban-item">
+      <div class="hexo-douban-picture"><img src="" data-src="" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-info">
+          <div class="hexo-douban-title"><a target="_blank" href=""> </a></div>
+          <div class="hexo-douban-meta">
+
+          </div>
+          <div class="hexo-douban-meta"></div>
+          <div class="hexo-douban-comments"></div>
+      </div>
+    </div>
+    {% endfor %}
+    <!-- 想读000结束 -->
+
+    <!-- 分页 开始 -->
+    <div class="hexo-douban-pagination">
+      <a class="hexo-douban-button hexo-douban-firstpage" href="javascript:;"> -</a>
+      <a class="hexo-douban-button hexo-douban-previouspage" href="javascript:;">-</a>
+      <span class="hexo-douban-pagenum">2 / 3</span>
+      <a class="hexo-douban-button hexo-douban-nextpage" href="javascript:;">-</a>
+      <a class="hexo-douban-button hexo-douban-lastpage" href="javascript:;">-</a>
+    </div>
+    <!-- 分页 结束 -->
+
+  </div>
 
   <!--      已读 start      -->
   <div id="hexo-douban-item3">
