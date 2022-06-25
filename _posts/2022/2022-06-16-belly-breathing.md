@@ -4,7 +4,7 @@ title: "冥想与腹式呼吸"
 date: "2022-06-16 22:55:07"
 categories: 隨筆
 auth: conge
-tags: 冥想
+tags: 冥想 呼吸
 ---
 
 * content
