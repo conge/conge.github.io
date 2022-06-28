@@ -19,7 +19,7 @@ jobs:
       with:
         id: conge
         type: book
-        format: csv
+        format: json
         dir: ./_data
 
     - name: movie
@@ -27,14 +27,14 @@ jobs:
       with:
         id: conge
         type: movie
-        format: csv
+        format: json
         dir: ./_data
     - name: music
       uses: lizheming/doumark-action@master
       with:
         id: conge
         type: music
-        format: csv
+        format: json
         dir: ./_data
 
     - name: Commit
