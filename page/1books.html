@@ -14,7 +14,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading" id="tag-heading">
-                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <h1>{% if page.subject.title %}{{ page.subject.title }}{% else %}{{ site.subject.title }}{% endif %}</h1>
                     <span class="subheading">{{ page.description }}</span>
                 </div>
             </div>
@@ -108,7 +108,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
 <!-- Main Content start-->
 <div class="page clearfix">
   <div class="left">
-      <h1>{{page.title}}</h1>
+      <h1>{{page.subject.title}}</h1>
       <hr>
 <!--
 <h1>这里是我的书籍清单</h1>
@@ -134,15 +134,15 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!-- 在读000开始 -->
 {% for m in site.data.movie %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ m.poster }}" data-src="{{ m.poster }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ m.subject.cover_url }}" data-src="{{ m.subject.cover_url }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href="{{ m.url }}"> {{ m.title}}</a></div>
+          <div class="hexo-douban-title"><a target="_blank" href="{{ m.subject.url }}"> {{ m.subject.title}}</a></div>
           <div class="hexo-douban-meta">
             {{ m.subtitle }}
           </div>
           <div class="hexo-douban-meta">{{ m.star_time | date: "%Y-%m-%d" }}
-            看过 | {{ m.star }}星 评分 {{ m.rating }}</div>
-          <div class="hexo-douban-comments"></div>
+            看过 | 豆瓣评分 {{ m.subject.rating.value }}</div>
+          <div class="hexo-douban-comments">我的评价：【{{ m.rating.star_count }}星】 - {{ m.comment }}</div>
       </div>
     </div>
     {% endfor %}
@@ -167,15 +167,15 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!-- 想读000开始 -->
     {% for mu in site.data.music %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ mu.poster }}" data-src="{{ mu.poster }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ mu.subject.cover_url }}" data-src="{{ mu.subject.cover_url }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href="{{ mu.url }}"> {{ mu.title}}</a></div>
+          <div class="hexo-douban-title"><a target="_blank" href="{{ mu.subject.url }}"> {{ mu.subject.title}}</a></div>
           <div class="hexo-douban-meta">
             {{ mu.subtitle }}
           </div>
           <div class="hexo-douban-meta">{{ mu.star_time | date: "%Y-%m-%d" }}
-            看过 | {{ mu.star }}星 评分 {{ mu.rating }}</div>
-          <div class="hexo-douban-comments"></div>
+            看过 | 豆瓣 评分 {{ mu.subject.rating.value }}</div>
+          <div class="hexo-douban-comments">我的评价：【{{ mu.rating.star_count }}星】 - {{ mu.comment }}</div>
       </div>
     </div>
     {% endfor %}
@@ -199,15 +199,15 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!--id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time -->
     {% for book in site.data.book %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ book.poster }}" data-src="{{ book.poster }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ book.subject.cover_url }}" data-src="{{ book.subject.cover_url }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href="{{ book.url }}"> {{ book.title }}</a></div>
+          <div class="hexo-douban-title"><a target="_blank" href="{{ book.subject.url }}"> {{ book.subject.title }}</a></div>
           <div class="hexo-douban-meta">
             {{ book.subtitle }}
           </div>
           <div class="hexo-douban-meta">{{ book.star_time | date: "%Y-%m-%d" }}
-            读过 | {{ book.star }}星 评分 {{ book.rating }}</div>
-          <!--div class="hexo-douban-comments">我的书评：{{ book.review }}</div-->
+            读过 | 豆瓣评分 {{ book.subject.rating.value }}</div>
+          <div class="hexo-douban-comments">我的评价：【{{ book.rating.star_count }}星】 - {{ book.comment }}</div>
       </div>
     </div>
     {% endfor %}
