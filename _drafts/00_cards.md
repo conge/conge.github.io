@@ -272,3 +272,11 @@ being
 以上，送给有缘人。
 
 ====
+
+
+```
+mkdir fitbit-data
+cd fitbit-data/
+python3 -m venv venvsource venv/bin/activate
+pip install "fitbit-dump@git+https://github.com/u8sand/fitbit-dump"
+```
