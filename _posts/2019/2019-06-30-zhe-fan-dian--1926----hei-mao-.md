@@ -99,7 +99,7 @@ auth: conge
 
 
 ## Running log
-![Running log week 27, 2019](/assets/images/折返点/118382-e9114decc8f57163.png)
+![Running log week 26, 2019](/assets/images/折返点/118382-e9114decc8f57163.png)
 
 ## 折返点
 
