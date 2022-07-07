@@ -5,6 +5,7 @@ date: "2020-07-07 14:00:29"
 categories: 折返点
 excerpt: "借着黑人George Floyd被一个白人警察谋杀，全美各个州都出现了大规模的抗_议活动。西雅图作为左派急先锋的城市，更是上演了一场大戏：抗议人..."
 auth: conge
+tags: 跑步
 ---
 * content
 {:toc}
@@ -15,14 +16,22 @@ auth: conge
 
 不过有趣的是，围绕绿湖出现的口号，发生了一些有趣的事儿，我在这里记录一下。
 
+
+
+
+## BLM 的宣言
+
 疫情爆发一来，我的大部分跑步，都是围绕着绿湖进行的。
 
 绿湖湖边，有一圈儿柏油路，不是很宽，供人们走路，跑步，骑自行车，滑滑板，轮滑。行人可以双向行走或者跑步。其他带轮子的运动项目，必须单行。每间隔一英里，路面上印着标记，可以帮人们记录距离。
 
 大概三周前，我去跑步，发现路面上被喷绘了一些蓝色和红色的拳头图形，样子如下图1.再跑出去一英里左右，路面上有用黄色的涂料写成的口号，基本就是两种：defund the plicy（削减警局预算）和Invest in black community（注资黑人社区）。
-![图1](/assets/images/折返点/118382-80e2a547eec3d3ea.png)
+
+![图1](https://s2.loli.net/2022/07/07/74wvBKDktYOsCEN.png)
 
 这两种口号和拳头标志都是Black Lives Matter（BLM）这一次提出的口号和标志。许多主流媒体和民主党政客纷纷站队到BLM这一边，也是跟着叫这样的口号。而且许多市长已经提出具体削减方案，交给议会去投票了，至少西雅图是这样。
+
+## 保守派的反击
 
 然而，BLM的主张，却不是全部民意都支持的。
 
@@ -39,6 +48,8 @@ auth: conge
 如此反复，已经好几轮儿了。
 
 美国左派和保守派的民意，就这样在绿湖边上，无声的战斗了好几个回合了。
+
+## 宗教的介入
 
 不过，故事远没有结束，就这这个周末，美国国庆节期间，宗教又加入了战团。当然，它可能不是来参战的，只是来试图弥合二者的矛盾。无论是什么目的吧，我周末去跑步，绿湖边上的路面上，又出现了“God Loves You” 和“John 3:16” 的字样。
 
@@ -57,24 +68,25 @@ auth: conge
 ----
 
 ## Running log
-![Running log Wee 27，2020](/assets/images/折返点/118382-40f4f12af8be2f60.png)
 
- ## 折返点
- 
-![20200628.jpg](/assets/images/折返点/118382-dc76023a97bc2af2.jpg)
+|week 27, 2020|
+|:----:|
+|![2020_week27.png](https://s2.loli.net/2022/07/07/Khg4jYoefdwztV9.png)|
 
-![20200629.jpg](/assets/images/折返点/118382-b5244f61d23515f9.jpg)
 
-![20200630.jpg](/assets/images/折返点/118382-867a47ce50751c59.jpg)
+## 折返点
 
-![20200701.jpg](/assets/images/折返点/118382-3ff59ac4e7daba7d.jpg)
-
-![20200702.jpg](/assets/images/折返点/118382-174d3cf3ccbee966.jpg)
-
-![20200703.jpg](/assets/images/折返点/118382-0ca1adf2671fa08d.jpg)
-
-![20200704.jpg](/assets/images/折返点/118382-f701797ac26d7503.jpg)
+|Date|Pics|
+|:----|:----:|
+|20200628|![20200628.jpg](https://s2.loli.net/2022/07/07/LszbCOFZNjPX7ur.jpg)  |
+|20200629|![20200629.jpg](https://s2.loli.net/2022/07/07/cB7qS1bmoG6hEIH.jpg)  |
+|20200630|![20200630.jpg](https://s2.loli.net/2022/07/07/lcCexBDy7aAtHiW.jpg)  |
+|20200701|![20200701.jpg](https://s2.loli.net/2022/07/07/XEpaNlzRkq5YQDo.jpg)  |
+|20200702|![20200702.jpg](https://s2.loli.net/2022/07/07/ezShROcUjJF4t3n.jpg)  |
+|20200703|![20200703.jpg](https://s2.loli.net/2022/07/07/AL9axM7kgyz2vG3.jpg)  |
+|20200704|![20200704.jpg](https://s2.loli.net/2022/07/07/Ix1BXaTmCNe8P4M.jpg)  |
 
 ```
-2020-07-04
+2020-07-07 初稿
+2022-07-07 加副标题，换图床
 ```
