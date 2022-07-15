@@ -389,6 +389,8 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 当你不可避免地陷入旧观点时，反复练习这个方法。
 为自己改变这种看法会是什么样子？
 
+《[Mindset Shift to Deal with Overwhelm](https://zenhabits.net/mindset-overwhlem/)》by [Leo Babauta](https://leobabauta.com/)
+
 通过www.DeepL.com/Translator（免费版）翻译
 
 
@@ -398,7 +400,7 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 
 本周，若你开始感到“压力山大”，茫然无措、焦虑、沮丧、封闭......首先，你要照顾好自己。给自己一些同情心和自我护理。
 
-但在危险之中还用藏机会......你可以借此把好奇心引入你的日常。
+但在危险之中还藏有机会......你可以借此把好奇心引入你的日常。
 
 每一个时刻，都可以应用好奇心可以。
 
@@ -428,6 +430,191 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 
 在这一刻，我如何表达我的爱？
 
-Bring Curiosity to Your Day by Leo
+Bring Curiosity to Your Day by [Leo Babauta](https://leobabauta.com/)
 
 --------
+
+# The Removal of Wrongness
+
+One of the most fascinating things we do is make ourselves and other people wrong. It can really tie us up and add all kinds of extra fears, frustrations, complications.
+
+When you fail to eat or exercise as you hoped to do, you'll often feel bad about yourself. Because you make yourself wrong for what you didn't do. The same thing happens if you procrastinate, give in to distractions, don't get stuff done. Making ourselves wrong leads to discouragement.
+
+When people don't do things the way you want them to, you will tend to get frustrated or judgmental. Because we make other people wrong for how they act. This leads to difficult relationships, anger and resentment, all kinds of complications.
+
+What if we removed all the wrongness?
+
+I don't mean for obviously terrible acts like murder, abuse and sexual assault. I mean for everyday things like not doing things the "ideal" way or making mistakes. What if we removed the wrongness.
+
+What would be left is just human behavior, that we could be curious about.
+
+If you don't do your habits like you hoped to, instead of judging yourself and feeling bad, what if you could simply examine the behavior with curiosity and learn from it?
+
+If your spouse behaves in a "less-than-ideal" way, what if you could drop the judgment and simply be curious about what they're feeling and going through? If you do get frustrated with them, what if you could simply be curious about your frustration?
+
+What would the world be like if we could drop 99% of the wrongness we create every day?
+
+我们所做的最迷人的事情之一是让自己和其他人都错了。它真的可以把我们绑起来，增加各种额外的恐惧、挫折、并发症。
+
+当你没能按你希望的那样吃饭或锻炼时，你常常会对自己感到难过。因为你让自己为你没有做的事情而感到错误。如果你拖延，屈服于分心，没有完成事情，也会发生同样的事情。让自己犯错会导致灰心丧气。
+
+当人们没有按照你希望的方式做事情时，你会倾向于感到沮丧或评判。因为我们会因为别人的行为方式而使他们出错。这导致了困难的关系，愤怒和怨恨，各种复杂的情况。
+
+如果我们删除所有的错误呢？
+
+我的意思不是针对明显的可怕行为，如谋杀、虐待和性侵犯。我指的是日常的事情，如不按 "理想 "的方式做事或犯错。如果我们去掉了错误性，会怎么样？
+
+剩下的将只是人类的行为，我们可以对其感到好奇。
+
+如果你没有像你希望的那样做你的习惯，而不是评判自己和感觉不好，如果你可以简单地用好奇心检查行为并从中学习呢？
+
+如果你的配偶表现得 "不那么理想"，如果你能放下评判，只是对他们的感受和经历感到好奇呢？如果你确实对他们感到沮丧，如果你能简单地对你的沮丧感到好奇呢？
+
+如果我们能够放弃我们每天创造的99%的错误，世界会是什么样子？
+
+The Removal of Wrongness by [Leo Babauta](https://leobabauta.com/)
+
+通过www.DeepL.com/Translator（免费版）翻译
+
+-----
+
+Use Story to Change Your Life
+Most of us don’t realize how powerful stories are in our lives, because we don’t even notice that we’re telling ourselves a story. But stories shape everything.
+
+For example, the stories you tell yourself is the reason you feel:
+
+Resentment toward a loved one or coworker
+Guilty about what you haven’t done
+Overwhelmed by all that you need to do
+Anxious about the uncertainty of the world
+Stuck in your old habits
+Avoidant of your difficult tasks
+Bored or lonely
+Nothing in the basic reality of life makes us feel these things. It’s our stories about our reality that creates the feelings.
+
+Let’s look at how this works in our lives, then how we can use the power of story to change everything we want to change.
+
+How Story Shapes Our Lives
+
+If someone you know says to you, "Would you like some of this salad I’m making?" … what kind of reaction would that provoke in you?
+
+It depends on how you view the situation — what your narrative or story is of the situation:
+
+If you see this as a generous act of kindness and this person is contributing towards your healthy life, then you might feel grateful.
+If this question is seen as a part of a narrative of hundreds of times this person has criticized your weight or criticized you personally … then you might feel hurt and angry.
+Or maybe you have a narrative that salad is terrible, and you might feel disgusted and insulted, or you might feel oppressed by diet culture.
+
+These are three very different reactions to the same act. And they’re determined by your view of things, your narrative or story.
+
+Every day, our lives are shaped by the story we have of ourselves, of others, and of the reality around us. We have feelings about politics, world crises, our community, social media, our work, an upcoming meeting, a conversation we had this morning, how good we’ve been at keeping up with new habits.
+
+If you miss a day of meditation or exercise … depending on your story about yourself, you might feel that this is no big deal and just start again the next day … or you might feel that you’re terrible at this and you’ll never get it right and your life is meaningless. Very different reactions and results from the same act, and it’s all dependent on story.
+
+I invite you to reflect: What results are you getting in your life right now, and how are they shaped by your stories? What is your relationship like to others in your life right now, including yourself, and how is that shaped by your stories? What is your relationship to food, exercise, meditation, self-care, rest, work, play … and how are those relationships shaped by your stories?
+
+Once we can become aware of our stories and how they shape our lives, through the kind of reflection I’m inviting you to do right now … then we can start to reshape things through new stories.
+
+Take a few minutes to reflect.
+
+How to Use Story as a Change Tool
+
+You can completely change how you feel, change the results you’re getting, and change your relationship to anything, by changing your story.
+
+You definitely don’t have to change anything. If you want to keep resenting someone, want to keep feeling guilty or powerless or overwhelmed … you can keep your usual story and there is no problem.
+
+But if you’d like to change, consider using story as a tool for that change.
+
+Here’s how it could work:
+
+Identify the feeling, result or way of relating to something that you’d like to change. Examples: I eat a lot of junk food, I am constantly frustrated by people, I can’t stop looking at social media.
+See if you can identify the story that is responsible for that. Examples: Junk food comforts me when I’m stressed; people shouldn’t act that way; I need social media apps on my phone to stay connected.
+Identify a new result, feeling or way of relating to something that you’d like instead. Examples: I want to eat more vegetables and love healthy food; I want to see the good in people and be more accepting; I want to read books whenever I would normally look at social media.
+Draft a new story that will help you get that. Examples: Veggies and fruit nourish my body and make me feel amazing; there’s a loving heart behind every person’s action; when I have downtime, I treat myself to reading a good book.
+Remind yourself to tell yourself this new story every time it would help. This takes a lot of practice, so create a story that you don’t need to be perfect at this, but that you’ll be persistent because you care deeply about this.
+
+Create a new story for yourself, and practice.
+
+Here are some examples of stories that have helped me recently:
+
+Every moment is sacred and has something to teach me.
+I look for the light in each person.
+I need only simple, nourishing foods.
+I can be with any fear or emotion.
+I am deeply committed to the results I want to create.
+Movement and the outdoors light me up.
+I care for my life by tending to finances, my health, and messages to people I care about.
+I savor stillness and quiet.
+
+What stories would cause a powerful shift for you?
+
+我们大多数人没有意识到故事在我们的生活中是多么强大，因为我们甚至没有注意到我们在给自己讲故事。但故事塑造了一切。
+
+例如，你告诉自己的故事就是你感觉的原因。
+
+对所爱的人或同事的怨恨
+对你没有做的事情感到内疚
+被你需要做的所有事情压倒了
+对世界的不确定性感到焦虑
+停留在你的旧习惯中
+逃避你的困难任务
+无聊或孤独
+在基本的现实生活中，没有任何东西让我们感到这些东西。是我们关于现实的故事创造了这些感觉。
+
+让我们看看这在我们的生活中是如何运作的，然后看看我们如何利用故事的力量来改变我们想要改变的一切。
+
+故事如何塑造我们的生活
+
+如果你认识的人对你说："你想吃我做的这个沙拉吗？" ......这将在你身上激起什么样的反应？
+
+这取决于你如何看待这种情况--你对这种情况的叙述或故事是什么。
+
+如果你认为这是一个慷慨的善举，这个人在为你的健康生活做贡献，那么你可能会感到感激。
+如果这个问题被看作是这个人数百次批评你的体重或批评你个人的叙述的一部分......那么你可能会感到受伤和愤怒。
+或者你有一种说法，认为沙拉很糟糕，你可能会感到厌恶和侮辱，或者你可能感到被饮食文化压迫。
+
+这是对同一行为的三种非常不同的反应。而它们是由你对事物的看法、你的叙述或故事决定的。
+
+每天，我们的生活都被我们对自己、对他人和对周围现实的故事所塑造。我们对政治、世界危机、我们的社区、社交媒体、我们的工作、即将召开的会议、今天早上的谈话、我们在保持新习惯方面的表现如何，都有感受。
+
+如果你错过了一天的冥想或锻炼......根据你对自己的说法，你可能会觉得这没什么大不了的，第二天再开始吧......或者你可能会觉得你在这方面很糟糕，你永远也做不好，你的生活毫无意义。同样的行为有非常不同的反应和结果，而这一切都取决于故事。
+
+我邀请你反思。你现在在你的生活中得到了什么结果，它们是如何被你的故事塑造的？你现在与你生活中的其他人，包括你自己的关系是怎样的，这又是如何被你的故事所塑造的？你与食物、运动、冥想、自我保健、休息、工作、娱乐的关系是什么，这些关系是如何被你的故事塑造的？
+
+一旦我们能够意识到我们的故事以及它们如何塑造我们的生活，通过我现在邀请你做的那种反思......然后我们就可以开始通过新的故事来重塑事物。
+
+花几分钟时间进行反思。
+
+如何使用故事作为改变的工具
+
+通过改变你的故事，你可以完全改变你的感觉，改变你得到的结果，改变你与任何事物的关系。
+
+你绝对不需要改变任何东西。如果你想继续怨恨某人，想继续感到内疚或无力或不知所措......你可以保持你平常的故事，没有问题。
+
+但如果你想改变，可以考虑用故事作为改变的工具。
+
+以下是它的工作方式。
+
+找出你想改变的感觉、结果或与某事有关的方式。例如。我吃了很多垃圾食品，我经常被人挫败，我无法停止看社交媒体。
+看看你是否能找出造成这种情况的故事。例子。当我有压力时，垃圾食品会安慰我；人们不应该这样做；我需要手机上的社交媒体应用程序来保持联系。
+找出一个新的结果、感觉或与某件事情相关的方式，以代替你的想法。例如。我想吃更多的蔬菜，喜欢健康的食物；我想看到人们的优点，更加包容；我想在平时看社交媒体的时候看书。
+起草一个新的故事，帮助你实现这个目标。例如。蔬菜和水果滋养我的身体，让我感觉很奇妙；每个人的行为背后都有一颗爱的心；当我有闲暇时间时，我会犒劳自己，读一本好书。
+每次提醒自己告诉自己这个新故事会有帮助。这需要大量的练习，所以创造一个故事，你不需要在这方面做得很完美，但你会坚持下去，因为你对这件事非常关心。
+
+为自己创造一个新的故事，并进行练习。
+
+以下是最近帮助我的一些故事的例子。
+
+每一刻都是神圣的，都有东西要教我。
+我寻找每个人身上的光。
+我只需要简单的、有营养的食物。
+我可以与任何恐惧或情绪同在。
+我深深地致力于我想创造的结果。
+运动和户外活动点亮了我。
+我关心我的生活，照顾财务、我的健康和给我关心的人的信息。
+我喜欢静态和安静。
+
+什么故事会给你带来强大的转变？
+
+通过www.DeepL.com/Translator（免费版）翻译
+
+-
