@@ -46,96 +46,6 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 * 2022-03-31 Thu. [信守对自己的承诺](https://conge.github.io/2022/03/31/self-committed/)  
 * 2022-03-23 Wed. [简化生活五法](https://conge.github.io/2022/03/23/five-ways-to-simplify/)  
 
-
-----
-
-
-
-
-----
-
-《[My Simple, High Impact Productivity Protocol](https://zenhabits.net/highimpact/)
-
-# Leo Babauta 的高影响力效率协议
-
-一天中，我们的大部分时间里，不是瞎忙，就是分心。倒不是说这是坏事：瞎忙和分心也能很好的度过一天。但，有时候，我们也得把时间高效充实的利用起来。
-
-今天，我们来聊一些能增加影响力的工作方法。
-
-设想一份协议，你只要遵守它的规定，就能减少工作量同时提高工作影响力。问下你自己，是否愿意为此而适应一些少许的不适呢？
-
-所以，我们专注于只做少量工作，但要获得高影响力。（生活中的小事情，我们当然还是得做，以防它们变成大麻烦。）
-
-我所试图遵循的协议如下：
-
-1. 选择高影响力任务。
-2. 用专注时段类解锁那些任务。
-3. 为那些细小但重要的事情建立仪式。
-
-协议中的三条规则能给我更多空闲，更少压力，和那种我花时间所做的工作产生了有意义的影响的良好感觉
-
-让我们来分解详述一下这三条规则。
-
-## 1. 选择高影响力任务
-
-每一周，每一天，都要做选择。开始工作前，特意花时间选择一下高影响力任务。
-
-所以，每周开始，我思考一下，本周的工作要做什么，哪些是值得专注的高影响力任务？每天的开始，我会同样做：想一下今天我要完成哪些高影响任务。
-
-下面是我选择高影响力的任务时要考察的问题：
-
-* 它与我的长期目标一致吗？
-* 它对我和他人有重大影响吗？
-* 6个月后，我还会关心这件事吗？它是否重要到引起明显改变？
-
-三个问题都可用 "是 "或 "不是"来回答。也不太可能出现答案是一个“是”两个“否”的情形。回答这些问题有助于训练思维，识别高影响力的任务。训练一段时间后，你就可以做到无需它们们的帮助而轻松做出判断了。
-
-依你时间充裕的成都，在高影响力任务中重选1到3项，放到你日程的中去。
-
-## 2. 用专注时间来解锁高影响任务
-
-完成高影响力的任务很常常自带压力。因此，人们倾向于推迟它，常常一推再推。
-
-解锁任务，将其完成!
-
-“专注时间”法能帮你。每天我都会为自己创建至少一个“专注时间”。专注时间里，我特意用来面对高压任务带来的不适感，并提醒自己为这就是为什么这些任务重要。
-
-如果你发现自己仍不止一次地推掉高影响任务，那么还有升级版“专注时间”：约个人与你一起来一次“专注时间”。开个视频回忆，告诉对方你要专注某事，请对方监督。然后进入静音状态，开始去完成任务，并在一小时后报告任务进展情况。这每次都很有效。
-
-如果你遵循这部分协议，你将释放出自己的隐藏的力量!
-
-## 3. 创造仪式来处理琐碎的要事
-
-专注于大事情是了不起的。但人们发现，若专注于大事情，忽略小事情就会被漏掉。你的电子邮件开始堆积如山，你会因小事困扰，辜负他人。
-
-什么方法可以帮助我们平衡大事和琐碎却重要的事呢？
-
-例行任务（ritual）：将类似的小事归入一个例行任务表，在日程表上为专门为例行任务划出时间。
-
-一些例行任务的例子：
-
-* 信息管理：读每天的电子邮件和信息
-* 家政管理：洗衣服、家庭清洁、跑腿办事
-* 饮食光立：做饭、备餐、买菜
-* 健康管理：锻炼、冥想、散步
-* 家政管理：财务、税收、以及相关事务
-
-比如，你可以在周五处理家政（花一整天，或半天时间），每天两次30分钟处理电子邮件/信息，留出烹饪和吃饭的时间，专门为晨间冥想和锻炼划出时间。
-
-有了例行任务仪式（并把它们变成实际的仪式），琐碎的要事就会得到处理，而不会占用你的专注时间。
-
-> 翻译自《[My Simple, High Impact Productivity Protocol](https://zenhabits.net/highimpact/)》
-
-----
-
-
-
-#
-----
-
-
-
-
 ------
 
 ## 强大的思维训练
@@ -180,7 +90,7 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 
 你今天想训练自己尝试哪一个新思维模式？
 
-> 翻译自 《[Powerful Training for the Mind - Zen Habits](https://zenhabits.net/mindtraining/)》
+> 翻译自 《[Powerful Training for the Mind - Zen Habits](https://zenhabits.net/mindtraining/)》 by [Leo Babauta](https://leobabauta.com/)
 
 
 ======
@@ -222,13 +132,6 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 > 翻译自《Being Very Deliberate with Your Best Intentions》 by [Leo Babauta](https://leobabauta.com/)
 
 ======
-
-
-
-========
-
-========
-
 
 
 # 将生活设置为轻松模式
@@ -345,13 +248,11 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 
 ## 心态造成不堪重负
 
-如果你在生活中有很太任务和个人琐事......先问问自己是什么让你感到不堪重负？很多事情并不自带压力性属性，问题关键是我们如何看待它们。
+如果你在生活中有很多任务和个人琐事......先问问自己是什么让你感到不堪重负？很多事情并不自带压力性属性，问题关键是我们如何看待它们。
 
-=====
+如果你把每项任务看作是一个潜在的"翻车"时间，会让人失望或失败......那么一堆潜在的失败必然让人感到不堪重负。如果每封电子邮件或短信都有可能让他人们因你的不回复而对你心生不满，那么一长串未回复的电子邮件短信也一定会令你感到不堪重负。
 
-如果你把每项任务看作是一个潜在的 "丢球 "或让人失望或失败的方式......那么一堆潜在的失败和危险就会感到不堪重负。如果每封电子邮件和信息都有可能让人们因你不回复而感到沮丧，那么一长串未回复的电子邮件/信息就会感到不堪重负。
-
-如果你需要做的每一个决定都有可能犯错，那么面对很多决定，并意识到所有决定错误可能性，就会让人感到不堪重负。
+如果把每一个决定都有可能犯错，那么当你面对很多决定，并意识到所有决定都是潜在错误，就会感到不堪重负。
 
 有可能让人失望或失败 = 危险
 
@@ -359,21 +260,19 @@ David Denby 在 《Great Books》中记录了一堂课中，一个教授向学�
 
 因此，大量的任务和决定，尤其是有潜在风险的，会让人到不堪重负。
 
-如果我们认为任务和决定是危险的雷区......那我们怎样才能转变观点，消除压力感呢？
-
-======
+如果我们把任务和决定是危险的雷区......那我们怎样才能转变观点，消除压力感呢？
 
 ## 心态的转变
 
-如果你的任务清单和你的一堆日常决定......感觉像一个游乐场？或者是一次冒险？
+鹤步，将你的任务清单和你的一堆日常决定......当作一个游乐场？或者是一次冒险游戏？
 
-你可以想象自己进入一个巨大的游乐场，有许多不同的玩具和游戏可以玩。这可能是你的任务清单和收件箱。
+想象自己进入一个巨大的游乐场，有许多不同的玩具和游戏可以玩。这玩具就是你的任务清单和收件箱。
 
-如果你能把每一项任务都看成是一个机会--学习、成长、服务呢？那么它就是一堆礼物。
+如果你能把每一项任务都看成是一个机会--用来学习、成长、服务他人呢？那么它就是一堆礼物。
 
-机会和游戏，而不是危险。如果你这样看待你的生活，会是什么感觉？
+看做机会和游戏，而不是危险。如果你这样看待你的生活，会是什么感觉？
 
-这是一个心态转变的例子，可以改变你体验生活的方式。你可能会发现其他的人更能照亮你的生活!
+这是一个心态转变的例子，可以改变你体验生活的方式。你可能会发现其他的人能让你的生活更快乐!
 
 ## 日常练习
 
@@ -472,149 +371,83 @@ What would the world be like if we could drop 99% of the wrongness we create eve
 
 如果我们能够放弃我们每天创造的99%的错误，世界会是什么样子？
 
-The Removal of Wrongness by [Leo Babauta](https://leobabauta.com/)
+翻译自 《The Removal of Wrongness》 by [Leo Babauta](https://leobabauta.com/)
 
 通过www.DeepL.com/Translator（免费版）翻译
 
 -----
 
-Use Story to Change Your Life
-Most of us don’t realize how powerful stories are in our lives, because we don’t even notice that we’re telling ourselves a story. But stories shape everything.
+# 用故事改变生活
 
-For example, the stories you tell yourself is the reason you feel:
+> 我们无时无刻不在讲故事，自己便是自己故事的主角。我们给自己设定角色，选择面具，决定性格，然后，义无反顾的就扮演起这个角色起来了。然而，问题在于，我们对自己每天上演的故事，并不自知。
 
-Resentment toward a loved one or coworker
-Guilty about what you haven’t done
-Overwhelmed by all that you need to do
-Anxious about the uncertainty of the world
-Stuck in your old habits
-Avoidant of your difficult tasks
-Bored or lonely
-Nothing in the basic reality of life makes us feel these things. It’s our stories about our reality that creates the feelings.
+大多数人没有意识到故事在人们的生活中的强大作用，原因在于，我们根本就没有注意到我们自己讲给自己的故事。但，正是故事塑造了一切。
 
-Let’s look at how this works in our lives, then how we can use the power of story to change everything we want to change.
+例如，你的以下感觉，就来自于你给自己讲的故事：
 
-How Story Shapes Our Lives
+* 对所亲人或同事的__怨恨__
+* 对你没有做到的事情的__内疚__
+* 被你需要做的所有事情__淹没__
+* 对世界的不确定性感到__焦虑__
+* __停留__在你的旧习惯中
+* __逃避__你的困难任务
+* __无聊__或__孤独))
 
-If someone you know says to you, "Would you like some of this salad I’m making?" … what kind of reaction would that provoke in you?
+现实生活中并没有能使我们产生以上情绪或行动的原因，我们基于现实创造的故事带来了它们。
 
-It depends on how you view the situation — what your narrative or story is of the situation:
+让我们审视一下生活中故事如何产生情绪的过程，然后，试试利用故事的力量来改变我们想要改变的一切。
 
-If you see this as a generous act of kindness and this person is contributing towards your healthy life, then you might feel grateful.
-If this question is seen as a part of a narrative of hundreds of times this person has criticized your weight or criticized you personally … then you might feel hurt and angry.
-Or maybe you have a narrative that salad is terrible, and you might feel disgusted and insulted, or you might feel oppressed by diet culture.
+## 故事如何塑造我们的生活
 
-These are three very different reactions to the same act. And they’re determined by your view of things, your narrative or story.
+如果有熟人问你："你想吃我做的这个沙拉吗？" ......你通常会怎样反应？
 
-Every day, our lives are shaped by the story we have of ourselves, of others, and of the reality around us. We have feelings about politics, world crises, our community, social media, our work, an upcoming meeting, a conversation we had this morning, how good we’ve been at keeping up with new habits.
+这得看情况--你对这种情况的叙事或故事是什么。
 
-If you miss a day of meditation or exercise … depending on your story about yourself, you might feel that this is no big deal and just start again the next day … or you might feel that you’re terrible at this and you’ll never get it right and your life is meaningless. Very different reactions and results from the same act, and it’s all dependent on story.
+* 如果你认为这是慷慨的善举，他在为你的健康生活助力，那么你可能会感激他。
+* 如果他曾数百次嘲笑你的体重或批评你个人形象，你把它看做又一次攻击......那么你可能会受伤和愤怒。
+* 或者在你的叙事里，沙拉很糟糕，那你则可能会感到厌恶和受辱，或者你可能觉得被某种饮食文化侵犯。
 
-I invite you to reflect: What results are you getting in your life right now, and how are they shaped by your stories? What is your relationship like to others in your life right now, including yourself, and how is that shaped by your stories? What is your relationship to food, exercise, meditation, self-care, rest, work, play … and how are those relationships shaped by your stories?
+对同一行为可能有三种非常不同的反应。采取哪一种，是由你对自己与事物的看法、你的故事决定的。
 
-Once we can become aware of our stories and how they shape our lives, through the kind of reflection I’m inviting you to do right now … then we can start to reshape things through new stories.
+每天，我们对自己、对他人和对周围现实的故事都在塑造我们的生活。我们对政治、世界危机、我们的社区、社交媒体、我们的工作、即将召开的会议、今天早上的谈话、我们在保持新习惯方面的表现如何，都有所感受。
 
-Take a few minutes to reflect.
+比如，你错过了一天的冥想或锻炼......根据你对自己的说法，你可能会觉得这没什么大不了的，第二天再开始吧......抑或，你可能会认为自己在习惯方面很糟糕，你永远也做不好，你的生活毫无意义。同样的行为有非常不同的反应和结果，而这一切都取决于你在演哪个故事。
 
-How to Use Story as a Change Tool
+我邀请你反思。当下，你在你的生活中得到了什么结果，它们是如何被你的故事塑造的？你现在与你生活中的其他人，包括你自己的关系是怎样的，这又是如何被你的故事所塑造的？你与食物、运动、冥想、自我保健、休息、工作、娱乐的关系是什么，这些关系又是如何被你的故事塑造的？
 
-You can completely change how you feel, change the results you’re getting, and change your relationship to anything, by changing your story.
+一旦我们能够意识到我们的故事以及它们如何塑造我们的生活，我们就可以开始通过新的故事来重塑自己的世界。
 
-You definitely don’t have to change anything. If you want to keep resenting someone, want to keep feeling guilty or powerless or overwhelmed … you can keep your usual story and there is no problem.
+花几分钟时间进行反思吧。
 
-But if you’d like to change, consider using story as a tool for that change.
-
-Here’s how it could work:
-
-Identify the feeling, result or way of relating to something that you’d like to change. Examples: I eat a lot of junk food, I am constantly frustrated by people, I can’t stop looking at social media.
-See if you can identify the story that is responsible for that. Examples: Junk food comforts me when I’m stressed; people shouldn’t act that way; I need social media apps on my phone to stay connected.
-Identify a new result, feeling or way of relating to something that you’d like instead. Examples: I want to eat more vegetables and love healthy food; I want to see the good in people and be more accepting; I want to read books whenever I would normally look at social media.
-Draft a new story that will help you get that. Examples: Veggies and fruit nourish my body and make me feel amazing; there’s a loving heart behind every person’s action; when I have downtime, I treat myself to reading a good book.
-Remind yourself to tell yourself this new story every time it would help. This takes a lot of practice, so create a story that you don’t need to be perfect at this, but that you’ll be persistent because you care deeply about this.
-
-Create a new story for yourself, and practice.
-
-Here are some examples of stories that have helped me recently:
-
-Every moment is sacred and has something to teach me.
-I look for the light in each person.
-I need only simple, nourishing foods.
-I can be with any fear or emotion.
-I am deeply committed to the results I want to create.
-Movement and the outdoors light me up.
-I care for my life by tending to finances, my health, and messages to people I care about.
-I savor stillness and quiet.
-
-What stories would cause a powerful shift for you?
-
-我们大多数人没有意识到故事在我们的生活中是多么强大，因为我们甚至没有注意到我们在给自己讲故事。但故事塑造了一切。
-
-例如，你告诉自己的故事就是你感觉的原因。
-
-对所爱的人或同事的怨恨
-对你没有做的事情感到内疚
-被你需要做的所有事情压倒了
-对世界的不确定性感到焦虑
-停留在你的旧习惯中
-逃避你的困难任务
-无聊或孤独
-在基本的现实生活中，没有任何东西让我们感到这些东西。是我们关于现实的故事创造了这些感觉。
-
-让我们看看这在我们的生活中是如何运作的，然后看看我们如何利用故事的力量来改变我们想要改变的一切。
-
-故事如何塑造我们的生活
-
-如果你认识的人对你说："你想吃我做的这个沙拉吗？" ......这将在你身上激起什么样的反应？
-
-这取决于你如何看待这种情况--你对这种情况的叙述或故事是什么。
-
-如果你认为这是一个慷慨的善举，这个人在为你的健康生活做贡献，那么你可能会感到感激。
-如果这个问题被看作是这个人数百次批评你的体重或批评你个人的叙述的一部分......那么你可能会感到受伤和愤怒。
-或者你有一种说法，认为沙拉很糟糕，你可能会感到厌恶和侮辱，或者你可能感到被饮食文化压迫。
-
-这是对同一行为的三种非常不同的反应。而它们是由你对事物的看法、你的叙述或故事决定的。
-
-每天，我们的生活都被我们对自己、对他人和对周围现实的故事所塑造。我们对政治、世界危机、我们的社区、社交媒体、我们的工作、即将召开的会议、今天早上的谈话、我们在保持新习惯方面的表现如何，都有感受。
-
-如果你错过了一天的冥想或锻炼......根据你对自己的说法，你可能会觉得这没什么大不了的，第二天再开始吧......或者你可能会觉得你在这方面很糟糕，你永远也做不好，你的生活毫无意义。同样的行为有非常不同的反应和结果，而这一切都取决于故事。
-
-我邀请你反思。你现在在你的生活中得到了什么结果，它们是如何被你的故事塑造的？你现在与你生活中的其他人，包括你自己的关系是怎样的，这又是如何被你的故事所塑造的？你与食物、运动、冥想、自我保健、休息、工作、娱乐的关系是什么，这些关系是如何被你的故事塑造的？
-
-一旦我们能够意识到我们的故事以及它们如何塑造我们的生活，通过我现在邀请你做的那种反思......然后我们就可以开始通过新的故事来重塑事物。
-
-花几分钟时间进行反思。
-
-如何使用故事作为改变的工具
+## 如何使用故事作为改变的工具
 
 通过改变你的故事，你可以完全改变你的感觉，改变你得到的结果，改变你与任何事物的关系。
 
-你绝对不需要改变任何东西。如果你想继续怨恨某人，想继续感到内疚或无力或不知所措......你可以保持你平常的故事，没有问题。
+你不是非要改变任何东西。如果你想继续怨恨，想继续感到内疚、无力或不知所措......你可以保持你当前的故事，我对此没有问题。
 
-但如果你想改变，可以考虑用故事作为改变的工具。
+但如果你想改变，可以考虑用重新叙述自己的故事作为改变的工具。
 
 以下是它的工作方式。
 
-找出你想改变的感觉、结果或与某事有关的方式。例如。我吃了很多垃圾食品，我经常被人挫败，我无法停止看社交媒体。
-看看你是否能找出造成这种情况的故事。例子。当我有压力时，垃圾食品会安慰我；人们不应该这样做；我需要手机上的社交媒体应用程序来保持联系。
-找出一个新的结果、感觉或与某件事情相关的方式，以代替你的想法。例如。我想吃更多的蔬菜，喜欢健康的食物；我想看到人们的优点，更加包容；我想在平时看社交媒体的时候看书。
-起草一个新的故事，帮助你实现这个目标。例如。蔬菜和水果滋养我的身体，让我感觉很奇妙；每个人的行为背后都有一颗爱的心；当我有闲暇时间时，我会犒劳自己，读一本好书。
-每次提醒自己告诉自己这个新故事会有帮助。这需要大量的练习，所以创造一个故事，你不需要在这方面做得很完美，但你会坚持下去，因为你对这件事非常关心。
+1. 找出你想改变的感觉、结果或与某事关系。例如。我吃了很多垃圾食品，我经常感到挫败，我无法停止看社交媒体。
+2. 看看你是否能找出造成这种情况的故事。例子。当我有压力时，垃圾食品会安慰我；人们不应该怼我；我需要手机上的社交媒体应用程序来保持联系。
+3. 找出一个新的结果、感觉或关系，以代替你的就有的想法。例如。我想吃更多的蔬菜，喜欢健康的食物；我想看到人们的优点，更加包容；我想在平时看社交媒体的时候看书。
+4. 起草一个新的故事，帮助你实现这个目标。例如。蔬菜和水果滋养我的身体，让我感觉很奇妙；每个人的行为背后都有一颗爱的心；当我有闲暇时间时，我会犒劳自己，读一本好书。
+5. 提醒自己这个新故事会有帮助。这需要大量的练习：先创造一个故事，并不需要做得很完美。但一定要坚持下去，因为这事关重要。
 
-为自己创造一个新的故事，并进行练习。
+为自己创造一个新的故事，并践行。
 
-以下是最近帮助我的一些故事的例子。
+以下是对我有帮助的一些故事：
 
-每一刻都是神圣的，都有东西要教我。
-我寻找每个人身上的光。
-我只需要简单的、有营养的食物。
-我可以与任何恐惧或情绪同在。
-我深深地致力于我想创造的结果。
-运动和户外活动点亮了我。
-我关心我的生活，照顾财务、我的健康和给我关心的人的信息。
-我喜欢静态和安静。
+* 每一刻都是神圣的，都有东西可学习。
+* 我寻找每个人身上的闪光点。
+* 我只需要简朴且有营养的食物。
+* 我可以与任何恐惧或情绪相处。
+* 我深深地致力于我想创造的结果。
+* 运动和户外活动点使我开心。
+* 我关心自己生活，因此我关注理财、健康，并发消息给我所关心的人。
+* 我喜欢沉静与安宁。
 
 什么故事会给你带来强大的转变？
-
-通过www.DeepL.com/Translator（免费版）翻译
-
+[Use Story to Change Your Life](https://zenhabits.net/stories/) by [Leo Babauta](https://leobabauta.com/)
 -
