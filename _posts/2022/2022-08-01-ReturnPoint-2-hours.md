@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "折返点 20220801｜2小时我能跑多远"
-date: "2022-08-01 22:33:43"
+title: "折返点 2230｜2小时我能跑多远"
+date: "2022-08-01 17:49:26"
 categories: 折返点
 auth: conge
 tags: 跑步 半马 PB LSD
