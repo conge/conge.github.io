@@ -14,7 +14,11 @@ type: page
 
 我是清阳，网名conge。
 
-这是我的weblog。内容上，目前主要写跑步，育儿周记和习惯养成。最近在关注冥想。
+这是我的weblog。内容上，目前主要写[跑步](https://conge.github.io/category/#%E6%8A%98%E8%BF%94%E7%82%B9)，[育儿周记](https://conge.github.io/category/#%E7%88%B6%E8%8C%83%E5%AD%A6%E5%A0%82)和习惯养成。最近在关注[冥想](https://conge.github.io/tag/#%E5%86%A5%E6%83%B3)。
+
+我喜欢阅读和跑步，并且乐于记录自己[读过的书](/Books/)和[跑过的路](/running_page/)。
+
+我是罕见病[家族性高乳糜脂血症（FCS）](/category/#FCS)的患者，目前担任在美国注册的[FCS病友基金会](https://www.livingwithfcs.org/meet-the-board/)的董事和技术主席。
 
 目前每周更文二到四篇，请通过 RSS阅读器 订阅更新：https://conge.github.io/feed.xml。
 
@@ -63,6 +67,7 @@ Lework帮了我的大忙，在这里鸣谢一下。没有他的的script，我�
 ```
 2020-09-19 created
 2022-04-22 增加站点状态，页面历史，赞赏
+2022-08-13 增加链接到跑步、读书、冥想、FCS和周记等页面
 ```
 
 {% include comments.html %}
