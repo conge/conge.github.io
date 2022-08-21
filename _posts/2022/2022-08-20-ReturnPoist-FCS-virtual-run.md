@@ -10,14 +10,17 @@ tags: 跑步 比赛 FCS
 * content
 {:toc}
 
- 各位朋友，今天我想要邀请你参加一个线上欢乐跑活动。这是由 [FCS Foundation](www.livingwithfcs.org)发起的 [2022年 FCS 基金会第三届线上欢乐义跑](https://v.racery.com/r/fcsfoundationfunrun/?refcode=conge-91377)，目的是为FCS 基金会筹款。本次义跑报名费为$25，所有收益都将捐赠给FCS 基金会，用于基金会的公益项目和日常运营。
+ 各位朋友，今天我报名了一个线上欢乐跑活动，想要邀请你参加和请求你的志愿。
 
- 比赛日期定在9月18日的那个星期。如果你也准备参加这个活动，你需要在报名后，在9月19日的那个星期里跑个五公里，并且报告你的成绩即可。
+这是由 [FCS Foundation](www.livingwithfcs.org)发起的 [2022年 FCS 基金会第三届线上欢乐义跑](https://v.racery.com/r/fcsfoundationfunrun/?refcode=conge-91377)，目的是为FCS 基金会筹款。本次义跑报名费为$25，所有收益都将捐赠给FCS 基金会，用于基金会的公益项目和日常运营。
+
+ 比赛日期定在9月18日的那个星期。如果你也准备参加这个活动，你需要在报名后，在9月18日的那个星期里跑个五公里，并且报告你的成绩即可。
 
 
 
 
 
+![FCS-3rd-fun-run.jpeg](https://s2.loli.net/2022/08/21/bK8FoLNpZ74OqfX.jpg)
 
 ## 什么是 FCS 基金会
 
