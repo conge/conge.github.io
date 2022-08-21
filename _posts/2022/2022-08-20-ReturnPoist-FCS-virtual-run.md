@@ -14,8 +14,6 @@ tags: 跑步 比赛 FCS
 
 这是由 [FCS Foundation](www.livingwithfcs.org)发起的 [2022年 FCS 基金会第三届线上欢乐义跑](https://v.racery.com/r/fcsfoundationfunrun/?refcode=conge-91377)，目的是为FCS 基金会筹款。本次义跑报名费为$25，所有收益都将捐赠给FCS 基金会，用于基金会的公益项目和日常运营。
 
- 比赛日期定在9月18日的那个星期。如果你也准备参加这个活动，你需要在报名后，在9月18日的那个星期里跑个五公里，并且报告你的成绩即可。
-
 
 
 
@@ -50,7 +48,7 @@ FCS Foundation 创立我亲身参与，目前我担任基金会的技术主席�
 
 ## 你能如何参与
 
-1. 你可以作为参赛者，直接参加比赛：通过[比赛链接](https://v.racery.com/r/fcsfoundationfunrun/?refcode=conge-91377)报名参加比赛。每位参赛者应当都能收到一件 T-shirt 和 一张明信片，作为对您的感谢。这可能需要你人在北美。
+1. 你可以作为参赛者，直接参加比赛：通过[比赛链接](https://v.racery.com/r/fcsfoundationfunrun/?refcode=conge-91377)报名参加比赛。每位参赛者应当都能收到一件 T-shirt 和 一张明信片，作为对您的感谢。这可能需要你人在北美。比赛日期定在9月18日的那个星期。如果你也准备参加这个活动，你需要在报名后，在9月18日的那个星期里跑个五公里，并且报告你的成绩即可。
 2. 做我的赞助人赞助我参加比赛：
   * 如果您有可以在海外支付的信用卡，并且懂英文，可以直接到赛事报名网站（[Link](https://v.racery.com/r/fcsfoundationfunrun/?refcode=conge-91377))，打开页面后，找到“fundraising”选项卡，点击之后，选择“back a racer”，之后在下拉列表里找到鄙人的名字“Qingyang Li”，然后输入你要赞助的金额，一些必要信息，还可以给我留言说几句鼓励的话，之后点击“Contribute Now”按钮，完成支付。
   * 如果您在国内，无法用上面的方法直接支付，那么可以通过本文下方的赞赏按钮，使用微信支付。我会把您的捐赠直接转给基金会。
