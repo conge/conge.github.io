@@ -68,6 +68,7 @@ Lework帮了我的大忙，在这里鸣谢一下。没有他的的script，我�
 2020-09-19 created
 2022-04-22 增加站点状态，页面历史，赞赏
 2022-08-13 增加链接到跑步、读书、冥想、FCS和周记等页面
+2022-08-20 升级 fontawesome 到 Version 6.1.2 并且从换成 self-host
 ```
 
 {% include comments.html %}
