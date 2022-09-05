@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "折返点 2235｜FCS 5K 训练记（一）"
-date: "2022-09-05 23:50:50"
+date: "2022-09-04 23:50:50"
 categories: 折返点
 auth: conge
 tags: 跑步 比赛 FCS
