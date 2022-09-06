@@ -2,7 +2,7 @@
 name: douban
 on:
   schedule:
-  - cron: "20 0,8,16 * * *"
+  - cron: "20 11 * * *"
   watch:
     types: [started]
 
@@ -13,7 +13,12 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-
+      
+    - name: archive files
+      run: move ./_data/book.json ./_data/book.bak
+      run: move ./_data/music.json ./_data/music.bak
+      run: move ./_data/movie.json ./_data/movie.bak
+    
     - name: book
       uses: lizheming/doumark-action@master
       with:
