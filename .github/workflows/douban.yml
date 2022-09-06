@@ -15,9 +15,10 @@ jobs:
       uses: actions/checkout@v2
 
     - name: archive files
-      run: mv ./_data/book.json ./_data/book.bak
-      run: mv ./_data/music.json ./_data/music.bak
-      run: mv ./_data/movie.json ./_data/movie.bak
+      run: |
+        mv ./_data/book.json ./_data/book.bak 
+        mv ./_data/music.json ./_data/music.bak
+        mv ./_data/movie.json ./_data/movie.bak
 
     - name: book
       uses: lizheming/doumark-action@master
