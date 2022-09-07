@@ -18,7 +18,7 @@ jobs:
       run: |
         mv ./_data/book.json ./_data/douban/book_$(date +%Y-%m-%d).json.bak
         mv ./_data/music.json ./_data/douban/music_$(date +%Y-%m-%d).json.bak
-        mv ./_data/movie.json ./_data/doubn/movie_$(date +%Y-%m-%d).json.bak
+        mv ./_data/movie.json ./_data/douban/movie_$(date +%Y-%m-%d).json.bak
 
     - name: book
       uses: lizheming/doumark-action@master
