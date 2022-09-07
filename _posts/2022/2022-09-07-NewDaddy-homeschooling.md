@@ -15,6 +15,8 @@ tags: 新爸五年计划 儿子 育儿 女儿
 我家呢，开始尝试 Homeschooling，翻译成中文应该是在家学习简称“家学”。
 
 
+
+
 ![2022-09-07-homeschool.png](https://s2.loli.net/2022/09/08/e39v7ZAb5HzNUd1.png)
 
 ## 为什么选择在家学习
