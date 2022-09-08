@@ -2,7 +2,7 @@
 name: douban
 on:
   schedule:
-  - cron: "15 1 * * *"
+  - cron: "0 0 * * MON"
   watch:
     types: [started]
 
@@ -14,7 +14,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: archive files
+    - name: backup data files
       run: |
         mv ./_data/book.json ./_data/douban/book_$(date +%Y-%m-%d).json.bak
         mv ./_data/music.json ./_data/douban/music_$(date +%Y-%m-%d).json.bak
