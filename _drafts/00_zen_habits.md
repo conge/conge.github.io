@@ -1,3 +1,37 @@
+curl -X POST https://www.strava.com/oauth/token \
+-F client_id=89104 \
+-F client_secret=d948adb111fc9a06a14aec9066583ec6388aa295 \
+-F code=b348f171c6b85e88780eedebe264e11f0ee57f57 \
+-F grant_type=authorization_code
+
+https://www.strava.com/oauth/authorize?client_id=89104&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read_all,profile:read_all,activity:read_all,profile:write,activity:write
+
+python scripts/strava_sync.py ${{ secrets.}} ${{ secrets.STRAVA_CLIENT_SECRET }} ${{ secrets.STRAVA_CLIENT_REFRESH_TOKEN }}
+
+python3 scripts/strava_sync.py 89104 d948adb111fc9a06a14aec9066583ec6388aa295 8c1ac472fde85405d6fdcccf53b0cfc3bbf03beb
+
+client = make_strava_client(89104, "d948adb111fc9a06a14aec9066583ec6388aa295", "8c1ac472fde85405d6fdcccf53b0cfc3bbf03beb")
+
+def get_to_generate_files(last_time):
+    """
+    reuturn to values one dict for upload
+    and one sorted list for next time upload
+    """
+    file_names = os.listdir(TCX_FOLDER)
+    tcx_files = [
+        (TCXParser(os.path.join(TCX_FOLDER, i)), os.path.join(TCX_FOLDER, i))
+        for i in file_names
+        if i.endswith(".tcx")
+    ]
+    tcx_files_dict = {
+        int(i[0].time_objects()[0].timestamp()): i[1]
+        for i in tcx_files
+        if int(i[0].time_objects()[0].timestamp()) > last_time
+    }
+    return sorted(list(tcx_files_dict.keys())), tcx_files_dict
+
+
+
 ---
 layout: post
 title: "身体只是容器"
