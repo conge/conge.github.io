@@ -7,7 +7,7 @@ auth: conge
 tags: 新爸五年计划 生日 女儿
 ---
 * content
-  {:toc}
+{:toc}
 
 八月未过九月未到的时候，女儿就开始期待了。
 
