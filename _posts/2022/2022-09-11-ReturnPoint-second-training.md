@@ -4,7 +4,7 @@ title: "折返点 2236｜FCS 5K 训练记（二）"
 date: "2022-09-11 15:33:46"
 categories: 折返点
 auth: conge
-tags: 跑步 FCS
+tags: 跑步 FCS 5K
 
 ---
 * content
