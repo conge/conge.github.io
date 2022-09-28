@@ -50,7 +50,7 @@ Valine:
   placeholder:
 Waline:
   enable: true
-  serverURL: https://waline-deploy.vercel.app
+  serverURL: https://waline.livingwithfcs.org/
 
 # 赞赏
 reward:
