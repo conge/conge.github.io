@@ -5,10 +5,8 @@ permalink: /about/
 icon: heart
 type: page
 ---
-
 * content
 {:toc}
-
 
 ## 个人简介
 
@@ -32,11 +30,11 @@ type: page
 
 另外，自己的写作，从一开始的写给别人看，变成了写给自己的周记。也不靠这个吃饭，也不担心有没有人阅读。选择在Jianshu.com上写，一开始纯粹是因为他的编辑器好用，不用自己找图床。但现在，越来越觉得，自己写的东西，在自己手上留一份儿比较好。与其用别人的，不如用自己的。
 
-一开始，考虑过在Google Cloud或者其他云服务商找个free tier的主机搭个Wordpress就完了，但实在不想折腾。考察了一遍，干脆就用Jekyll和Github搭建个完了。<del>也先不开评论</del>，也不折腾美观如何。先把自己在jianshu.com上的文章转过来再说。
+一开始，考虑过在Google Cloud或者其他云服务商找个free tier的主机搭个Wordpress就完了，但实在不想折腾。考察了一遍，干脆就用Jekyll和Github搭建个完了。`<del>`也先不开评论`</del>`，也不折腾美观如何。先把自己在jianshu.com上的文章转过来再说。
 
 遂有此站。
 
-自 2019 年 09 月 19 日起，本站已运行 <span id="days"></span> 天，截至 {{ site.time | date: "%Y 年 %m 月 %d 日" }}，写了博文 {{ site.posts.size }} 篇，{% assign count = 0 %}{% for post in site.posts %}{% assign single_count = post.content | strip_html | strip_newlines | remove: ' ' | size %}{% assign count = count | plus: single_count %}{% endfor %}{% if count > 10000 %}{{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }}{% else %}{{ count }}{% endif %} 字。
+自 2019 年 09 月 19 日起，本站已运行 `<span id="days">` 天，截至 {{ site.time | date: "%Y 年 %m 月 %d 日" }}，写了博文 {{ site.posts.size }} 篇，{% assign count = 0 %}{% for post in site.posts %}{% assign single_count = post.content | strip_html | strip_newlines | remove: ' ' | size %}{% assign count = count | plus: single_count %}{% endfor %}{% if count > 10000 %}{{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }}{% else %}{{ count }}{% endif %} 字。
 
 ## 感谢
 
@@ -68,7 +66,8 @@ Lework帮了我的大忙，在这里鸣谢一下。没有他的的script，我�
 2020-09-19 created
 2022-04-22 增加站点状态，页面历史，赞赏
 2022-08-13 增加链接到跑步、读书、冥想、FCS和周记等页面
-2022-08-20 升级 fontawesome 到 Version 6.1.2 并且从换成 self-host
+2022-08-20 升级 fontawesome 到 Version 6.1.2 并且把 icons 换成了 self-host
+2022-09-28 把评论系统的数据库从 LeanCloud 换成了 MongoDB，并且解决了由 Vercel.app 被墙引起的国内 ip 无法评论的问题。住在墙内真悲哀。
 ```
 
 {% include comments.html %}
