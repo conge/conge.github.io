@@ -5,13 +5,18 @@ date: "2018-06-11 06:11:11"
 categories: 折返点
 excerpt: "跑鞋，大概是极简跑步者耗钱最多的装备了..."
 auth: conge
+tags: 跑步 跑鞋 跑步装备
 ---
 * content
 {:toc}
 
-![Xero Genesis](/assets/images/折返点/118382-426ef0f0679e4169.png)
+![2022-10-02-Xero-Genesis.png](https://s2.loli.net/2022/10/03/jZkLuG6WKb4hrtY.png)
 
 上图是我的新凉鞋，哦不，运动凉鞋，不对，并不见得适合所有运动，但是绝对可以跑步。
+
+
+
+
 
 跑鞋，大概是极简跑步者耗钱最多的装备了。
 
