@@ -36,7 +36,7 @@ tags: 跑步 赤脚 跑步装备 跑鞋
 | 8    | Xero01         | Xero Genesis                                            | 2442 | 2018年05月30日 | 备用           |
 | 9    | VaporGlove3    | MERRELL VAPOR GLOVE 3 TRAIL RUNNER                      | 268  | 2022年02月05日 | 备用           |
 | 10   | Native         | Native Jefferson Star Print Shoes                       | 23   |                | 使用中 |
-| 11   | Barefoot       |                                                         | 4947 |                | 完好     |
+| 11   | Barefoot       |                                                         | 4947 |                | 使用中    |
 
 ## 十双鞋子
 
