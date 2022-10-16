@@ -8,7 +8,12 @@ https://cn.linguee.com/
 7Db9oIilDh
 
 > 我近期些的有关[冥想](https://conge.github.io/tag/#冥想)的其他文章:
->
+> - 2022-07-27 Wed. [冥想中的端坐、引导音频、分神和腿麻问题](https://conge.github.io/2022/07/27/meditation-difficulties/)
+> - 2022-07-06 Wed. [冥想与太极](https://conge.github.io/2022/07/06/taichi/) 
+> - 2022-06-29 Wed. [冥想过程好不好，怎么评估呢?](https://conge.github.io/2022/06/29/no-judgement/)
+> - 2022-06-24 Fri. [冥想与逆腹式呼吸](https://conge.github.io/2022/06/24/alternative-breathing/) 
+> - 2022-06-16 Thu. [冥想与腹式呼吸](https://conge.github.io/2022/06/16/belly-breathing/) 
+> - 2022-06-09 Thu. [冥想可以不闭眼睛么？](https://conge.github.io/2022/06/09/eye/) 
 > - 2022-06-03 Fri. [冥想是有坏处的](https://conge.github.io/2022/06/03/disadvantages/)
 > - 2022-05-17 Tue. [冥想的最佳环境](/2022/05/17/meditation-env/)
 > - 2022-05-10 Tue. [冥想的根本](/2022/05/10/basics/)
