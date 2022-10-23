@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折返点 2242｜ 2022年的第22个半马"
+title: "折返点 2242｜ 2022年的22个半马"
 date: "2022-10-22 19:59:50"
 categories: 折返点
 auth: conge
