@@ -16,6 +16,8 @@ type: page
 - [微信读书](https://r.qq.com)
 - [Libby App](https://libbyapp.com/shelf)
 - [Z-libray](https://z-lib.org/)
+- [传硕](https://www.7sbook.com/): 公版书在线阅读与Epub下载
+- [中国哲学书电子化计划](https://ctext.org/zhs): 古籍公版书
 - [mediafire](https://app.mediafire.com/myfiles)
 - [相似词查询](https://kmcha.com/similar)
 - [DeepL Translator](https://www.deepl.com/translator)
