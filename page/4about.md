@@ -14,7 +14,7 @@ type: page
 
 这是我的weblog。内容上，目前主要写[跑步](https://conge.github.io/category/#%E6%8A%98%E8%BF%94%E7%82%B9)，[育儿周记](https://conge.github.io/category/#%E7%88%B6%E8%8C%83%E5%AD%A6%E5%A0%82)和习惯养成。最近在关注[冥想](https://conge.github.io/tag/#%E5%86%A5%E6%83%B3)。
 
-我喜欢阅读和跑步，并且乐于记录自己[读过的书](/Books/)和[跑过的路](/running_page/)。
+我喜欢阅读和跑步，并且乐于记录自己[读过的书](/books/)和[跑过的路](/running_page/)。
 
 我是罕见病[家族性高乳糜脂血症（FCS）](/category/#FCS)的患者，目前担任在美国注册的[FCS病友基金会](https://www.livingwithfcs.org/meet-the-board/)的董事和技术主席。
 
