@@ -4,7 +4,7 @@ title: "完美主义败事有余"
 date: "2022-03-16 22:22:15"
 categories: 隨筆
 auth: conge
-tags: 极简主义 习惯养成
+tags: 极简主义 习惯养成 Zen_Habbits
 
 ---
 * content

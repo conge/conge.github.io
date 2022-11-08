@@ -4,7 +4,7 @@ title: "打开生活的全屏模式"
 date: "2022-03-08 13:07:43"
 categories: 隨筆
 auth: conge
-tags: 极简主义 生活 习惯养成 健康
+tags: 极简主义 生活 习惯养成 健康 Zen_Habbits
 
 ---
 * content

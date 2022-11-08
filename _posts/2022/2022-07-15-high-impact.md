@@ -4,7 +4,7 @@ title: "一份高影响力高生产力规程"
 date: "2022-07-15 15:10:20"
 categories: 隨筆
 auth: conge
-tags: 思维方式 减压 习惯养成 GTD
+tags: 思维方式 减压 习惯养成 GTD Zen_Habbits
 
 ---
 * content

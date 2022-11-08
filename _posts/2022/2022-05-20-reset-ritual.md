@@ -4,7 +4,7 @@ title: "重置仪式，助你回归专注"
 date: "2022-05-20 10:27:15"
 categories: 隨筆
 auth: conge
-tags: 思维方式 减压 习惯养成
+tags: 思维方式 减压 习惯养成 Zen_Habbits
 
 ---
 * content

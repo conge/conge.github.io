@@ -4,7 +4,7 @@ title: "抽出片刻 肯定自己"
 date: "2022-04-19 17:51:04"
 categories: 隨筆
 auth: conge
-tags: 思维方式 减压 习惯养成
+tags: 思维方式 减压 习惯养成 Zen_Habbits
 
 ---
 * content

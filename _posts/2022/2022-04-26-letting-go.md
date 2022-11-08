@@ -4,7 +4,7 @@ title: "快乐地放手"
 date: "2022-04-26 10:38:19"
 categories: 隨筆
 auth: conge
-tags: 思维方式 减压 习惯养成
+tags: 思维方式 减压 习惯养成 Zen_Habbits
 
 ---
 * content
