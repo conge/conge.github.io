@@ -9,7 +9,7 @@ encoding: utf-8
 title: Conge
 brief-intro: 精进
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://conge.github.io' # the base hostname & protocol for your site
+url: 'https://conge.livingwithfcs.org' # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
