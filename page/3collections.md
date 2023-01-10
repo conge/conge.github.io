@@ -31,6 +31,7 @@ type: page
 
 ## 工具
 
+- [工具达人](https://toolsdar.com/): 专注分享实用工具应用。主要收录影视、小说、漫画、音乐、游戏、学习、设计等类别的网站和应用
 - [相似词查询](https://kmcha.com/similar)
 - [DeepL Translator](https://www.deepl.com/translator)
 - 数据库管理: [Aginity Pro](https://www.aginity.com/products/aginity-pro/)
