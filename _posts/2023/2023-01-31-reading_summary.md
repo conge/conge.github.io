@@ -22,9 +22,11 @@ tags: 阅读 读书 读书笔记 哲学 文化 政治 经济 历史
 
 -----
 
-![img](https://img1.doubanio.com/view/subject/l/public/s29486177.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
+
 
 ## [中央帝国的财政密码](https://book.douban.com/subject/27007549/)
+
+![img](https://img1.doubanio.com/view/subject/l/public/s29486177.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 郭建龙 / 2017 / 鹭江出版社
 
@@ -32,9 +34,10 @@ tags: 阅读 读书 读书笔记 哲学 文化 政治 经济 历史
 
 我给它【4星】：本书从秦开始，总结中国的帝王为了建立中央集权儿采用的财政政策和其重要作用。中国从秦开始建立大一统帝国，而这一切都需要用钱。民间管生产，官府分配。中央政府的财政来源，主要是收税，但收税需要对耕地和人口有明晰的统计，秦汉之前常常做不到这些。于是，政府常常通过铸币来收割民间财富。后来发行纸币，收割民间就更容易了。但也直接造成民间对货币的不信任。到了明朝，政府竟然发行没有准备金的货币，使得民间而转向了使用白银做结算，一直到了清朝。再者，就是官府专营某些项目，比如盐铁，赚取利润以养财政。不过，到了明清，政府的官僚组织已经能非常高效的对民间征税，到清朝，税种上也逐渐从依赖土地专项了有商业税种。清代也用用上了借贷和对外贸易的关税税收，从而降低了对土地税的依赖。王朝更替，往往是民间经济崩溃，产生流民和外敌。
 
-![img](https://img2.doubanio.com/view/subject/l/public/s4027083.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 ## [The Magical Monkey King](https://book.douban.com/subject/2669009/)
+
+![img](https://img2.doubanio.com/view/subject/l/public/s4027083.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 Ji-Li Jiang Youshan Tang / 2004 / Shen's Books
 
@@ -42,9 +45,9 @@ Ji-Li Jiang Youshan Tang / 2004 / Shen's Books
 
 我给它【4星】：我的两个孩子都是西游记迷。在图书馆的书架上看到这本书，就借来给给他俩读，顺便自己也读了。我很奇怪作者署名为什么不是吴承恩，读来之后，觉得书确实不是吴承恩写的西游记的翻译，更像是民间传说或者评书里讲的西游那样，有许多自己的改编之处。大闹天宫，是猴子为妖魔的阶段，睥睨一切，唯我独尊，凭借本事，闹龙宫，闯地府，反天庭，偷蟠桃，喝御酒，吃仙丹，活脱脱的“问题男孩儿”。也正是这样，爱热闹的孩子们，会崇拜猴王的打破一切束缚的本领与勇气，正切和他们的少年心气。
 
-![img](https://img1.doubanio.com/view/subject/l/public/s6874549.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
-
 ## [The Joy of Sex](https://book.douban.com/subject/5459321/)
+
+![img](https://img1.doubanio.com/view/subject/l/public/s6874549.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 Alex Comfort / 2009 / Three Rivers Press
 
@@ -52,9 +55,9 @@ Alex Comfort / 2009 / Three Rivers Press
 
 我给它【5星】：是本可以等孩子们到了对性感兴趣的年龄时候买给他们做礼物的书。是非常棒的关于性和两性教育的好书。如果把性爱比作美食，那么这本书就是教你如何成为鉴赏家和厨师。本书从认识性爱的“原料”和“食材”开始，介绍人体内外各部位在性爱中的作用，然后慢慢过渡到开胃菜，也就是性爱的各种前戏和辅助工具，情景。然后介绍主菜的性爱姿势，手法，变化，过程。最后则是提高情趣的一些“酱料”，如性游戏，癖好，玩具，等等。从受众来讲，本书内容多数是面向的是平常的性取向的人群，而对于LGBT人群，或其他有特殊癖好的人群，并无太多涉及。从书的结构来讲，都是由篇幅不长的小文章组成，每天文章着重介绍一个概念，读起来非常轻松没有负担感。作者在文章中表现出的宽容和善意，也让人感觉舒服。
 
-![img](https://img2.doubanio.com/view/subject/l/public/s26034002.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
-
 ## [中国是部金融史](https://book.douban.com/subject/21331443/)
+
+![img](https://img2.doubanio.com/view/subject/l/public/s26034002.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 陈雨露 杨忠恕 / 2013 / 北京联合出版公司
 
@@ -62,9 +65,9 @@ Alex Comfort / 2009 / Three Rivers Press
 
 我给它【4星】：用通史的写法，从周朝一直写到唐朝，围绕金融，货币，税收，经济政策来写王朝更替，权力利益流转。表面是说经济，实际是说政治。 经济，说白了就是如何创造财富。在古代创富的主要资源就是土地，人力。政治，则是财富如何分配调拨使用，其中涉及的则是皇权，官僚和人民三种力量的博弈。中国传统社会基本是皇权与官僚的博弈，从而出现了集权-分权，土地兼并和抑制兼并，货币官铸-私铸等等的政治经济循环怪圈儿。而皇权与官僚势力的平衡游戏则很少考虑民权。前面二者若势均力敌，且同时放松对人民的巧取豪夺，经济就会好一些，人民还可安心的做几年治世的韭菜。而无论哪一方做大，都不免加重对小民的盘剥。一旦小民破产，流民四起，一个王朝也就差不多到头了。
 
-![img](https://img9.doubanio.com/view/subject/l/public/s33752255.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
-
 ## [传统十论](https://book.douban.com/subject/34788663/)
+
+![img](https://img9.doubanio.com/view/subject/l/public/s33752255.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 秦晖 / 2019 / 山西人民出版社
 
@@ -72,9 +75,9 @@ Alex Comfort / 2009 / Three Rivers Press
 
 我给它【5星】：用事实反驳了中国的传统是宗法社会宗族自制的观点。从宏观历史的角度对中国文化做出了“外儒内法”的判断，复议了“其上申韩者，其下必佛老”的观点。秦晖教授指出中国千年来提倡儒家，但实际上的社会政治经济运行遵循的则是法家的基于“人性恶”提出的生活哲学。秦教授提出将西方思想与儒家思想融合，解构“法道互补”的弊端，或许是中国能进入公民社会的一个出路。所以，认为中国社会是“温情脉脉”的家族自治是一个错觉，表面上提倡儒家思想，让人民仁义礼智信，温良恭俭让，实际上却是法家的威权极权统治。被儒家思想教育出来的人进入社会，面对威权，要么加入它成为恶龙，要么选择佛老消极避世。真是呜呼那个哀哉！
 
-![img](https://img2.doubanio.com/view/subject/l/public/s27279163.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
-
 ## [孔子](https://book.douban.com/subject/25740395/)
+
+![img](https://img2.doubanio.com/view/subject/l/public/s27279163.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 [日]井上靖 / 2014 / 北京十月文艺出版社
 
@@ -82,9 +85,9 @@ Alex Comfort / 2009 / Three Rivers Press
 
 我给它【4星】：孔子是个怎样的人，恐怕不太容易还原了。一旦成圣，成真，成佛，后世人再看他的言行，必然是透过了层层滤镜的，凭空添加许多想像。所以，写圣人的书是否畅销，关键是，看你的想象符合多少人的期望了。本书的主人公是孔子，但孔子不是直接出现的，而是通过叙述者蔫姜的回忆呈现的。或者说是呈现是作者井上靖想象的蔫姜眼里的孔子。作者是通过还原《论语》中一些孔子的“嘉言”的发表的情境，来厘清哪些是孔子的话，哪些不是。而小说的形式，是《会饮篇》类似的那种对话式样：鲁地孔学研究会的学者或提问或发表争论，蔫姜解答和定音。作者想要读者记住的，是孔子面对豪雨、剧雷、强烈的电光时，“自管静坐原地”，“暂且任由疾风迅雷拍打脸面、拍打心灵，如此这般，虚心等候天地之怒平息下来”。像不像老僧入定？
 
-![img](https://img9.doubanio.com/view/subject/l/public/s34393644.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
-
 ## [彷徨](https://book.douban.com/subject/34858982/)
+
+![img](https://img9.doubanio.com/view/subject/l/public/s34393644.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
 鲁迅 / 2022 / 人民文学出版社
 
