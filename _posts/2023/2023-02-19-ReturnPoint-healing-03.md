@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折返点 2307 | 疗伤第3周"
+title: "折返点 2307 | 疗伤第三周"
 date: "2023-02-19 07:48:59"
 categories: 折返点
 auth: conge
