@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "折返点 2307 | 疗伤第3周"
-date: "2023-02-18 07:48:59"
+date: "2023-02-19 07:48:59"
 categories: 折返点
 auth: conge
 tags: 跑步 跖骨痛 
@@ -78,5 +78,5 @@ tags: 跑步 跖骨痛
 * [我的Strava页面](https://www.strava.com/athletes/57680242)
 
 ```
-2023-02-18 初稿
+2023-02-19 初稿
 ```
