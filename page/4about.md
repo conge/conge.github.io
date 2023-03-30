@@ -68,7 +68,7 @@ Lework帮了我的大忙，在这里鸣谢一下。没有他的的script，我�
 2022-08-13 增加链接到跑步、读书、冥想、FCS和周记等页面
 2022-08-20 升级 fontawesome 到 Version 6.1.2 并且把 icons 换成了 self-host
 2022-09-28 把评论系统的数据库从 LeanCloud 换成了 MongoDB，并且解决了由 Vercel.app 被墙引起的国内 ip 无法评论的问题。住在墙内真悲哀。
-2022-12-23 启用域名 conge.livingwithfcs.orgs
+2022-12-23 启用域名 conge.livingwithfcs.org
 ```
 
 {% include comments.html %}
