@@ -38,7 +38,7 @@ tags: 跑步
 > 
 > 如果疼痛还在，但没有加重，那么就重复上面的过程，用慢跑保持习惯。直到不疼了，再重新恢复跑量和跑速。
 
-从上面的途中看到，在12月中旬到一月初，我明显的减少了跑量，但是，我还是心急，分别在12月底和1月初的时候，尝试了两次半马。虽然我的可以带伤完成半马，但我意识到，这不是恢复身体应该做的。我应该听从身体的警告，而不是一再的试验身体的极限在何处。毕竟，我跑步的目的，可不是为了挑战身体极限。
+从上面的图片中看到，在12月中旬到一月初，我明显的减少了跑量，但是，我还是心急，分别在12月底和1月初的时候，尝试了两次半马。虽然我的可以带伤完成半马，但我意识到，这不是恢复身体应该做的。我应该听从身体的警告，而不是一再的试验身体的极限在何处。毕竟，我跑步的目的，可不是为了挑战身体极限。
 
 于是一月底，在写了《[接下来的一个月,疗伤](https://conge.livingwithfcs.org/2023/01/30/ReturnPoint-healing/)》之后，我把疗伤放到第一位，减少跑量，降低速度。只用小强度锻炼，来保持运动习惯。
 
@@ -86,22 +86,22 @@ tags: 跑步
 
 ## 记录文章
 
-- 2023-05-23 Tue. [折返点 2320 | 复跑第九周](https://conge.livingwithfcs.org/2023/05/23/ReturnPoint-training-09/) 
-- 2023-05-15 Mon. [折返点 2319 | 复跑第八周](https://conge.livingwithfcs.org/2023/05/15/ReturnPoint-training-08/)
-- 2023-05-09 Tue. [折返点 2318 | 复跑第七周](https://conge.livingwithfcs.org/2023/05/09/ReturnPoint-training-07/) 
-- 2023-05-01 Mon. [折返点 2317 | 复跑第六周](https://conge.livingwithfcs.org/2023/05/01/ReturnPoint-training-06/) 
-- 2023-04-24 Mon. [折返点 2316 | 复跑第五周](https://conge.livingwithfcs.org/2023/04/24/ReturnPoint-training-05/) 
-- 2023-04-16 Sun. [折返点 2315 | 复跑第四周](https://conge.livingwithfcs.org/2023/04/16/ReturnPoint-training-04/) 
-- 2023-04-09 Sun. [折返点 2314 | 复跑第三周](https://conge.livingwithfcs.org/2023/04/09/ReturnPoint-training-03/) 
-- 2023-04-03 Mon. [折返点 2313 | 复跑第二周](https://conge.livingwithfcs.org/2023/04/03/ReturnPoint-training-02/) 
-- 2023-03-30 Thu. [折返点 2312 | 复跑第一周](https://conge.livingwithfcs.org/2023/03/30/ReturnPoint-training-01/) 
-- 2023-03-21 Tue. [折返点 2311 | 疗伤第七周](https://conge.livingwithfcs.org/2023/03/21/ReturnPoint-healing-07/) 
-- 2023-03-14 Tue. [折返点 2310 | 疗伤第六周](https://conge.livingwithfcs.org/2023/03/14/ReturnPoint-healing-06/) 
-- 2023-03-05 Sun. [折返点 2309 | 疗伤第五周](https://conge.livingwithfcs.org/2023/03/05/ReturnPoint-healing-05/) 
-- 2023-02-26 Sun. [折返点 2308 | 疗伤第四周](https://conge.livingwithfcs.org/2023/02/26/ReturnPoint-healing-04/) 
-- 2023-02-19 Sun. [折返点 2307 | 疗伤第三周](https://conge.livingwithfcs.org/2023/02/19/ReturnPoint-healing-03/) 
-- 2023-02-11 Sat. [折返点 2306 | 疗伤第二周](https://conge.livingwithfcs.org/2023/02/11/ReturnPoint-healing-02/) 
-- 2023-02-04 Sat. [折返点 2305 | 疗伤第一周](https://conge.livingwithfcs.org/2023/02/04/ReturnPoint-healing-01/) 
+- 2023-05-23 Tue. [折返点 2320  复跑第九周](https://conge.livingwithfcs.org/2023/05/23/ReturnPoint-training-09/) 
+- 2023-05-15 Mon. [折返点 2319  复跑第八周](https://conge.livingwithfcs.org/2023/05/15/ReturnPoint-training-08/)
+- 2023-05-09 Tue. [折返点 2318  复跑第七周](https://conge.livingwithfcs.org/2023/05/09/ReturnPoint-training-07/) 
+- 2023-05-01 Mon. [折返点 2317  复跑第六周](https://conge.livingwithfcs.org/2023/05/01/ReturnPoint-training-06/) 
+- 2023-04-24 Mon. [折返点 2316  复跑第五周](https://conge.livingwithfcs.org/2023/04/24/ReturnPoint-training-05/) 
+- 2023-04-16 Sun. [折返点 2315  复跑第四周](https://conge.livingwithfcs.org/2023/04/16/ReturnPoint-training-04/) 
+- 2023-04-09 Sun. [折返点 2314  复跑第三周](https://conge.livingwithfcs.org/2023/04/09/ReturnPoint-training-03/) 
+- 2023-04-03 Mon. [折返点 2313  复跑第二周](https://conge.livingwithfcs.org/2023/04/03/ReturnPoint-training-02/) 
+- 2023-03-30 Thu. [折返点 2312  复跑第一周](https://conge.livingwithfcs.org/2023/03/30/ReturnPoint-training-01/) 
+- 2023-03-21 Tue. [折返点 2311  疗伤第七周](https://conge.livingwithfcs.org/2023/03/21/ReturnPoint-healing-07/) 
+- 2023-03-14 Tue. [折返点 2310  疗伤第六周](https://conge.livingwithfcs.org/2023/03/14/ReturnPoint-healing-06/) 
+- 2023-03-05 Sun. [折返点 2309  疗伤第五周](https://conge.livingwithfcs.org/2023/03/05/ReturnPoint-healing-05/) 
+- 2023-02-26 Sun. [折返点 2308  疗伤第四周](https://conge.livingwithfcs.org/2023/02/26/ReturnPoint-healing-04/) 
+- 2023-02-19 Sun. [折返点 2307  疗伤第三周](https://conge.livingwithfcs.org/2023/02/19/ReturnPoint-healing-03/) 
+- 2023-02-11 Sat. [折返点 2306  疗伤第二周](https://conge.livingwithfcs.org/2023/02/11/ReturnPoint-healing-02/) 
+- 2023-02-04 Sat. [折返点 2305  疗伤第一周](https://conge.livingwithfcs.org/2023/02/04/ReturnPoint-healing-01/) 
 
 
 ## Running log
