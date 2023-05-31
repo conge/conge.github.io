@@ -43,7 +43,7 @@ tags: 阅读 读书 读书笔记 心理学 冥想 觉醒 小说 沟通
 
 ![img](https://img2.doubanio.com/view/subject/l/public/s28942463.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
-[白银时代](https://book.douban.com/subject/26847506/)
+## [白银时代](https://book.douban.com/subject/26847506/)
 
 王小波 / 2015 / 中信出版社
 
@@ -73,7 +73,7 @@ tags: 阅读 读书 读书笔记 心理学 冥想 觉醒 小说 沟通
 
 ![img](https://img1.doubanio.com/view/subject/l/public/s34021307.jpg){:height="220px" width="150px" referrerPolicy="no-referrer"}
 
-[沉默的大多数](https://book.douban.com/subject/30187785/)
+## [沉默的大多数](https://book.douban.com/subject/30187785/)
 
 王小波 / 2016 / 作家出版社
 
