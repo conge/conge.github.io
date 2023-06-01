@@ -110,7 +110,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 308,
+				"count": 307,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -834,7 +834,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21523,
+				"count": 21500,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -1454,7 +1454,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 874,
+				"count": 873,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1545,10 +1545,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1721,
+				"count": 1720,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1636,7 +1636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 244,
+				"count": 243,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1728,10 +1728,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 484,
+				"count": 482,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1744,7 +1744,9 @@
 			"honor_infos": [],
 			"other_versions_count": 0,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png"
+			],
 			"card_subtitle": "[法]皮埃尔·佩利西耶 / 2021 / 北京联合出版公司",
 			"book_subtitle": "走进他人内心的7项修炼",
 			"id": "35445960",
@@ -1788,7 +1790,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -1813,7 +1815,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 766,
+				"count": 763,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1987,7 +1989,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9567,
+				"count": 9559,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2082,7 +2084,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 569,
+				"count": 568,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -2356,7 +2358,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13975,
+				"count": 13951,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -2535,7 +2537,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 818,
+				"count": 817,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -2894,7 +2896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17542,
+				"count": 17540,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -3084,7 +3086,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1591,
+				"count": 1590,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -3175,7 +3177,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12851,
+				"count": 12808,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3273,7 +3275,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2843,
+				"count": 2842,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3368,7 +3370,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4067,
+				"count": 4066,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -3993,7 +3995,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1059,
+				"count": 1058,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -4084,10 +4086,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 675,
+				"count": 674,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4435,7 +4437,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 343,
+				"count": 342,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4521,7 +4523,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9804,
+				"count": 9789,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4698,7 +4700,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3225,
+				"count": 3218,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -4790,7 +4792,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10831,
+				"count": 10747,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4976,10 +4978,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 51,
+				"count": 50,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 6.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -5066,7 +5068,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9654,
+				"count": 9653,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -5336,7 +5338,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2570,
+				"count": 2569,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -5427,7 +5429,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1448,
+				"count": 1446,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -5516,7 +5518,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 543,
+				"count": 542,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -5607,7 +5609,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 148,
+				"count": 145,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -5700,7 +5702,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1847,
+				"count": 1846,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -5970,7 +5972,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1532,
+				"count": 1529,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6505,7 +6507,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2289,
+				"count": 2284,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -6682,10 +6684,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 462,
+				"count": 459,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -6865,7 +6867,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3349,
+				"count": 3348,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -7048,7 +7050,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7788,
+				"count": 7785,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -7510,7 +7512,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16761,
+				"count": 16719,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -7704,7 +7706,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82145,
+				"count": 82131,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -7975,10 +7977,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16464,
+				"count": 16456,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -8074,7 +8076,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15279,
+				"count": 15274,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -8446,7 +8448,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7598,
+				"count": 7592,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -8637,7 +8639,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 826,
+				"count": 825,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -9005,7 +9007,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21921,
+				"count": 21913,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -9102,7 +9104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11461,
+				"count": 11455,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -9287,7 +9289,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17397,
+				"count": 17377,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -9654,10 +9656,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22410,
+				"count": 22377,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.2
+				"value": 9.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10000,7 +10002,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2505,
+				"count": 2503,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -10266,7 +10268,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2262,
+				"count": 2261,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -10445,7 +10447,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18074,
+				"count": 18061,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -10703,7 +10705,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15755,
+				"count": 15743,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -10979,7 +10981,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3435,
+				"count": 3433,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -11068,10 +11070,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 663,
+				"count": 661,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.5
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11159,7 +11161,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 57718,
+				"count": 57675,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -11184,6 +11186,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -11257,7 +11260,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4087,
+				"count": 4075,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -11532,7 +11535,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34765,
+				"count": 34752,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -11633,7 +11636,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5300,
+				"count": 5299,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -11721,7 +11724,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2299,
+				"count": 2298,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -11909,7 +11912,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2363,
+				"count": 2362,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -11927,6 +11930,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -12620,7 +12624,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1411,
+				"count": 1409,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -12712,7 +12716,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14773,
+				"count": 14757,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -13158,7 +13162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1541,
+				"count": 1540,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -13430,7 +13434,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4530,
+				"count": 4526,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -13520,7 +13524,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16082,
+				"count": 16077,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -13618,7 +13622,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4295,
+				"count": 4289,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -13636,6 +13640,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -13979,7 +13984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2730,
+				"count": 2727,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -14071,7 +14076,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 603,
+				"count": 602,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -14248,7 +14253,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16001,
+				"count": 15993,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -14342,10 +14347,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 640,
+				"count": 639,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.9
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -14548,6 +14553,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -14982,7 +14988,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 55781,
+				"count": 55741,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -15080,7 +15086,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20203,
+				"count": 20199,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -15174,7 +15180,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5265,
+				"count": 5264,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -15719,7 +15725,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2230,
+				"count": 2224,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -15812,7 +15818,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2360,
+				"count": 2359,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -16243,7 +16249,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6429,
+				"count": 6426,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -16437,7 +16443,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8397,
+				"count": 8394,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -17517,7 +17523,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 81340,
+				"count": 81266,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -17789,7 +17795,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32161,
+				"count": 32158,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -18615,7 +18621,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6739,
+				"count": 6734,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -19680,7 +19686,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21118,
+				"count": 21106,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -19944,7 +19950,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 531,
+				"count": 530,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -20037,7 +20043,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48544,
+				"count": 48542,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -20127,7 +20133,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 67222,
+				"count": 67219,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -20214,7 +20220,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119212,
+				"count": 119208,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -21385,7 +21391,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15971,
+				"count": 15958,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -21483,7 +21489,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1822,
+				"count": 1819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -21666,7 +21672,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2629,
+				"count": 2627,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -21760,7 +21766,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11813,
+				"count": 11811,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -21850,7 +21856,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10709,
+				"count": 10702,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -21948,7 +21954,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32188,
+				"count": 32168,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -22048,7 +22054,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9336,
+				"count": 9325,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -22326,7 +22332,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69692,
+				"count": 69586,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -22519,7 +22525,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15986,
+				"count": 15975,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -22708,7 +22714,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 89679,
+				"count": 89632,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -22732,6 +22738,7 @@
 			"other_versions_count": 15,
 			"is_show": false,
 			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -22804,10 +22811,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1718,
+				"count": 1717,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -23254,7 +23261,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2974,
+				"count": 2973,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -23785,10 +23792,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22,
+				"count": 21,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -24060,7 +24067,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3709,
+				"count": 3707,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -24158,7 +24165,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23499,
+				"count": 23489,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -24336,7 +24343,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3490,
+				"count": 3489,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -24621,7 +24628,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7060,
+				"count": 7058,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -24815,7 +24822,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 38129,
+				"count": 38060,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -24918,7 +24925,7 @@
 				"count": 3226,
 				"max": 10,
 				"star_count": 3,
-				"value": 5.9
+				"value": 5.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -25004,7 +25011,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2189,
+				"count": 2186,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -25103,7 +25110,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 76466,
+				"count": 76452,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -25293,7 +25300,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12919,
+				"count": 12917,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -25386,7 +25393,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24222,
+				"count": 24218,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -25477,7 +25484,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1637,
+				"count": 1636,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -25571,7 +25578,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2202,
+				"count": 2201,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -25939,7 +25946,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 982,
+				"count": 981,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -26030,7 +26037,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6063,
+				"count": 6056,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -26048,6 +26055,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -26394,7 +26402,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10911,
+				"count": 10909,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -26493,7 +26501,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20380,
+				"count": 20372,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -26592,7 +26600,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23142,
+				"count": 23135,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -26691,7 +26699,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5648,
+				"count": 5643,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -26871,7 +26879,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 51923,
+				"count": 51899,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -27056,7 +27064,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33470,
+				"count": 33453,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -27156,7 +27164,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1797,
+				"count": 1796,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -27520,7 +27528,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2030,
+				"count": 2029,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -27703,7 +27711,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3925,
+				"count": 3923,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -27794,7 +27802,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8816,
+				"count": 8810,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -27888,7 +27896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2048,
+				"count": 2046,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -28709,7 +28717,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5088,
+				"count": 5081,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -28803,7 +28811,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4344,
+				"count": 4343,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -29553,7 +29561,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7064,
+				"count": 7062,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -29654,7 +29662,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 953,
+				"count": 951,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -29746,7 +29754,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11600,
+				"count": 11599,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -29935,7 +29943,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1692,
+				"count": 1691,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -30119,7 +30127,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1751,
+				"count": 1750,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -30301,7 +30309,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2692,
+				"count": 2691,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -30748,7 +30756,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22009,
+				"count": 21992,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -31039,7 +31047,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3829,
+				"count": 3828,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -31847,7 +31855,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25466,
+				"count": 25447,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -32298,7 +32306,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5375,
+				"count": 5373,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -32665,7 +32673,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6104,
+				"count": 6103,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.7
@@ -32754,7 +32762,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4752,
+				"count": 4749,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -32772,6 +32780,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -32841,7 +32850,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40,
+				"count": 39,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -33554,7 +33563,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21610,
+				"count": 21608,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -33731,7 +33740,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3888,
+				"count": 3889,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -34092,7 +34101,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1242,
+				"count": 1241,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -34182,7 +34191,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1219,
+				"count": 1218,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -34362,7 +34371,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1417,
+				"count": 1416,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -34452,7 +34461,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1740,
+				"count": 1739,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -34543,7 +34552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1402,
+				"count": 1401,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -34717,7 +34726,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1563,
+				"count": 1562,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -34986,7 +34995,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1712,
+				"count": 1711,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -35782,7 +35791,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9901,
+				"count": 9896,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -36131,7 +36140,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11542,
+				"count": 11540,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -37023,7 +37032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2553,
+				"count": 2552,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -37297,7 +37306,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 851,
+				"count": 850,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -37388,7 +37397,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3514,
+				"count": 3513,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.2
@@ -37652,7 +37661,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7245,
+				"count": 7243,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -37829,7 +37838,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5655,
+				"count": 5652,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -37918,7 +37927,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15224,
+				"count": 15223,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -38016,7 +38025,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 118775,
+				"count": 118747,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -38288,10 +38297,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22580,
+				"count": 22578,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.3
+				"value": 7.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -38475,7 +38484,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 138635,
+				"count": 138626,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -38663,7 +38672,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 72488,
+				"count": 72464,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -38760,7 +38769,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 67332,
+				"count": 67303,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -38857,7 +38866,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82984,
+				"count": 82950,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -38954,7 +38963,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 103343,
+				"count": 103315,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -39150,7 +39159,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50002,
+				"count": 49992,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -39419,7 +39428,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 117155,
+				"count": 117136,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -39955,7 +39964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9482,
+				"count": 9478,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -40212,7 +40221,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35587,
+				"count": 35562,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -40569,7 +40578,7 @@
 				"count": 1800,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -40746,7 +40755,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 878,
+				"count": 877,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -40832,7 +40841,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25550,
+				"count": 25545,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -41365,7 +41374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2624,
+				"count": 2623,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -41542,7 +41551,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6655,
+				"count": 6654,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -41725,7 +41734,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12444,
+				"count": 12441,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -41818,7 +41827,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3825,
+				"count": 3824,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -42171,7 +42180,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1962,
+				"count": 1961,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -42435,7 +42444,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82678,
+				"count": 82671,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -42714,7 +42723,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 154741,
+				"count": 154728,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -42893,7 +42902,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9830,
+				"count": 9828,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -43007,6 +43016,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -43687,7 +43697,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 568,
+				"count": 567,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -44139,7 +44149,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1291,
+				"count": 1290,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -44227,7 +44237,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49207,
+				"count": 49199,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -45141,6 +45151,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "(美) 莱茵哈特 / 2010 / 重庆出版社",
@@ -45297,7 +45308,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2771,
+				"count": 2770,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -45392,7 +45403,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6544,
+				"count": 6543,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -45481,7 +45492,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10220,
+				"count": 10218,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -45572,7 +45583,7 @@
 				"count": 626,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -46285,7 +46296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6217,
+				"count": 6216,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -46372,7 +46383,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8720,
+				"count": 8714,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -46551,7 +46562,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1418,
+				"count": 1417,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -46643,7 +46654,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16402,
+				"count": 16400,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -46814,7 +46825,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25291,
+				"count": 25289,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -46998,7 +47009,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34512,
+				"count": 34510,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -47440,7 +47451,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10344,
+				"count": 10342,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -47973,7 +47984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3239,
+				"count": 3235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -48070,7 +48081,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 36281,
+				"count": 36276,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -49542,7 +49553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5999,
+				"count": 5998,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -50340,7 +50351,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42610,
+				"count": 42608,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -50433,7 +50444,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3970,
+				"count": 3969,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -50523,7 +50534,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 77287,
+				"count": 77281,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -51489,7 +51500,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 56936,
+				"count": 56933,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -52768,7 +52779,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22354,
+				"count": 22347,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -54236,7 +54247,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 160,
+				"count": 159,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -54991,7 +55002,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4602,
+				"count": 4601,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -55326,7 +55337,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12442,
+				"count": 12438,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -55594,7 +55605,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14834,
+				"count": 14833,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -55677,7 +55688,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3991,
+				"count": 3990,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -55765,7 +55776,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4056,
+				"count": 4055,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -57224,7 +57235,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 814,
+				"count": 813,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -57312,10 +57323,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87,
+				"count": 86,
 				"max": 10,
-				"star_count": 4,
-				"value": 8.3
+				"star_count": 4.5,
+				"value": 8.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -58871,7 +58882,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3578,
+				"count": 3579,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.4
@@ -59383,7 +59394,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14265,
+				"count": 14264,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -59468,7 +59479,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33508,
+				"count": 33507,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -60498,7 +60509,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49943,
+				"count": 49942,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -61090,7 +61101,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1090,
+				"count": 1089,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -61676,7 +61687,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17759,
+				"count": 17756,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -62262,7 +62273,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32381,
+				"count": 32367,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -62436,7 +62447,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18623,
+				"count": 18622,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -62530,7 +62541,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4163,
+				"count": 4162,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -62628,7 +62639,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22486,
+				"count": 22475,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -63160,10 +63171,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2127,
+				"count": 2126,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -63247,7 +63258,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88120,
+				"count": 88116,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -63343,7 +63354,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 272252,
+				"count": 272215,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -63666,7 +63677,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 480283,
+				"count": 480241,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -64267,7 +64278,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6028,
+				"count": 6027,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -64868,7 +64879,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 29176,
+				"count": 29167,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -65123,7 +65134,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18925,
+				"count": 18926,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -65826,7 +65837,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40444,
+				"count": 40443,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -65909,7 +65920,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16580,
+				"count": 16581,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -66193,7 +66204,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 143836,
+				"count": 143833,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -67002,7 +67013,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15258,
+				"count": 15257,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -67187,7 +67198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 92499,
+				"count": 92492,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -68254,7 +68265,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2035,
+				"count": 2033,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -68525,7 +68536,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 97516,
+				"count": 97508,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -73060,7 +73071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2414,
+				"count": 2415,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -74021,7 +74032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1339,
+				"count": 1338,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -75565,7 +75576,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 107557,
+				"count": 107544,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -75658,7 +75669,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 81557,
+				"count": 81542,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -75751,7 +75762,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59520,
+				"count": 59514,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -76195,7 +76206,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3904,
+				"count": 3903,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -76460,7 +76471,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 149426,
+				"count": 149386,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -76556,7 +76567,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 143882,
+				"count": 143850,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -76826,7 +76837,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5814,
+				"count": 5813,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -77175,7 +77186,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227572,
+				"count": 227563,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -77262,7 +77273,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 195909,
+				"count": 195908,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -77443,7 +77454,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42174,
+				"count": 42159,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -77801,7 +77812,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1291,
+				"count": 1290,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -78574,7 +78585,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 97684,
+				"count": 97671,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -79334,7 +79345,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21756,
+				"count": 21753,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -79500,7 +79511,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 127825,
+				"count": 127813,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -79590,7 +79601,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111681,
+				"count": 111678,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -79675,7 +79686,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 203966,
+				"count": 203942,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -80031,7 +80042,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11272,
+				"count": 11271,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -80707,7 +80718,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48167,
+				"count": 48159,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -80874,7 +80885,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22034,
+				"count": 22032,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -80957,7 +80968,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 100180,
+				"count": 100175,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -81042,7 +81053,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 345108,
+				"count": 345092,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -81134,7 +81145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27864,
+				"count": 27863,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -81219,7 +81230,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65526,
+				"count": 65522,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -81643,7 +81654,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7068,
+				"count": 7067,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -81979,7 +81990,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 31040,
+				"count": 31041,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -82064,7 +82075,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 213509,
+				"count": 213507,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -82244,7 +82255,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212271,
+				"count": 212265,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -82418,7 +82429,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16238,
+				"count": 16237,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -82507,7 +82518,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 110989,
+				"count": 110987,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -82592,7 +82603,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23863,
+				"count": 23862,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -82679,7 +82690,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 54190,
+				"count": 54183,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -83022,7 +83033,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19082,
+				"count": 19081,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -83115,7 +83126,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 124728,
+				"count": 124715,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -83392,7 +83403,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 117440,
+				"count": 117426,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -83484,7 +83495,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 158115,
+				"count": 158111,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -83574,7 +83585,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 728684,
+				"count": 728614,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
