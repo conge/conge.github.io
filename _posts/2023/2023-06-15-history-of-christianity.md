@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《印度佛教史》读后感"
+title: "《基督教史》读后感"
 date: "2023-06-15 10:07:50"
 categories: 阅读
 auth: conge
