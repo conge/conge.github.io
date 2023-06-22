@@ -37,13 +37,13 @@ tags: 跑步
 
 | Date     |                                Pics                                  |
 | :------- | :------------------------------------------------------------------: |
-| 202305604 | ![20230604.jpeg](https://s2.loli.net/2023/06/14/UJ1drg5Cicw9B7Y.jpg) |
-| 202305605 | ![20230605.jpeg](https://s2.loli.net/2023/06/14/cU8dseqA4YgbjEP.jpg) |
-| 202305606 | ![20230606.jpeg](https://s2.loli.net/2023/06/14/Rb72EolT6gDv8JK.jpg) |
-| 202305607 | ![20230607.jpeg](https://s2.loli.net/2023/06/14/O3BruNFbZCfcsIW.jpg) |
-| 202306608 | ![20230608.jpeg](https://s2.loli.net/2023/06/14/2PNtWIxpT39FUrD.jpg) |
-| 202306609 | ![20230609.jpeg](https://s2.loli.net/2023/06/14/6PNqMUOjVzxpBEX.jpg) |
-| 202306610 | ![20230610.jpeg](https://s2.loli.net/2023/06/14/NgfD7rFk4tsn6Yy.jpg) |
+| 20230604 | ![20230604.jpeg](https://s2.loli.net/2023/06/14/UJ1drg5Cicw9B7Y.jpg) |
+| 20230605 | ![20230605.jpeg](https://s2.loli.net/2023/06/14/cU8dseqA4YgbjEP.jpg) |
+| 20230606 | ![20230606.jpeg](https://s2.loli.net/2023/06/14/Rb72EolT6gDv8JK.jpg) |
+| 20230607 | ![20230607.jpeg](https://s2.loli.net/2023/06/14/O3BruNFbZCfcsIW.jpg) |
+| 20230608 | ![20230608.jpeg](https://s2.loli.net/2023/06/14/2PNtWIxpT39FUrD.jpg) |
+| 20230609 | ![20230609.jpeg](https://s2.loli.net/2023/06/14/6PNqMUOjVzxpBEX.jpg) |
+| 20230610 | ![20230610.jpeg](https://s2.loli.net/2023/06/14/NgfD7rFk4tsn6Yy.jpg) |
 
 
 ## 我的更多跑步数据展示
