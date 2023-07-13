@@ -134,7 +134,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!-- 在读000开始 -->
 {% for m in site.data.movie %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ m.subject.cover_url }}" data-src="{{ m.subject.cover_url }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="https://dou.img.lithub.cc/movie/{{ m.subject.id }}.jpg" data-src="https://dou.img.lithub.cc/movie/{{ m.subject.id }}.jpg" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
           <div class="hexo-douban-title"><a target="_blank" href="{{ m.subject.url }}"> {{ m.subject.title}}</a></div>
           <div class="hexo-douban-meta">
@@ -167,7 +167,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!-- 想读000开始 -->
     {% for mu in site.data.music %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ mu.subject.cover_url }}" data-src="{{ mu.subject.cover_url }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="https://dou.img.lithub.cc/music/{{ mu.subject.id }}.jpg" data-src="https://dou.img.lithub.cc/music/{{ mu.subject.id }}.jpg" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
           <div class="hexo-douban-title"><a target="_blank" href="{{ mu.subject.url }}"> {{ mu.subject.title}}</a></div>
           <div class="hexo-douban-meta">
@@ -199,7 +199,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!--id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time -->
     {% for book in site.data.book %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ book.subject.cover_url }}" data-src="{{ book.subject.cover_url }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="https://dou.img.lithub.cc/book/{{ book.subject.id }}.jpg" data-src="https://dou.img.lithub.cc/book/{{ book.subject.id }}.jpg" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
           <div class="hexo-douban-title"><a target="_blank" href="{{ book.subject.url }}"> {{ book.subject.title }}</a></div>
           <div class="hexo-douban-meta">
