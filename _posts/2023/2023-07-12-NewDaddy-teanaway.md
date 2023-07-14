@@ -77,6 +77,8 @@ tags: 新爸五年计划 女儿 儿子 假期 露营
 
 ![20230712_02.jpeg](https://s2.loli.net/2023/07/14/PIvFqVr4GzaCDoy.jpg)
 
+![20230712_03.jpeg](https://s2.loli.net/2023/07/14/sYhaFPe45LJkV7Q.jpg)
+
 ```
 2023-07-12 初稿
 
