@@ -11,7 +11,7 @@ tags: 新爸五年计划 儿子 女儿 露营 度假
 
 一个月以前，7月6日的时候，我们去了Kalaloch Beach露营。只可惜我的手机7月4日掉水里坏掉了，没有照相。本文也就无图了。
 
-我们这是第二次去那里露营，上一次去是2021年8月份的时候。经历也记录在博客上： [新爸五年计划 | 215 Kalaloch Beach Campground](https://conge.livingwithfcs.org/2021/08/14/NewDaddy-Kalaloch-Beach-camping/)。  
+我们这是第二次去那里露营，上一次去是2021年8月份的时候。经历也记录在博客上： 见[新爸五年计划 - 215 Kalaloch Beach Campground](https://conge.livingwithfcs.org/2021/08/14/NewDaddy-Kalaloch-Beach-camping/)。  
 
 Kalaloch Beach营地在太平洋岸边， Olympia山下，位于Forks, WA，距离我们常去的Lake Quinault很近。  
 
