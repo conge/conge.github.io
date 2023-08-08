@@ -94,7 +94,7 @@ tags: 阅读 读书 读书笔记 心理学 冥想 觉醒 小说 民族学 政治
 
 我给它【3星】：本书主题是“Self-care”作者从印度教五层躯壳说得到启发，认为自我照顾应该从躯体，能量，心智，智慧和纯粹喜悦五个维度来进行。作者开发了问卷，用来衡量人们当下在五个维度的状况，进而将五个维度分为十几个次级维度，针对每个次级维度，书按照简单介绍，如何判断强项弱项，代表人物，代表歌曲，建议行动的安排书写。 作者的问卷是个商业产品，并不见得有科学意义。作者的建议也比较女性化，或中性化。且作者时不时的会有提及身份政治身份认同的不觉醒表现。 可能会对一部分人有吸引力，不是我的菜。读这本书是因为喜欢题目和封面。
 
-[!<img src="https://neodb.social/media/item/book/2023/07/20/e680e44f-2623-4810-972a-8181e4ed6421.png)](https://neodb.social/book/7OUi5zugvgLSL0P5x4Q56Z)
+<img src="https://neodb.social/media/item/book/2023/07/20/e680e44f-2623-4810-972a-8181e4ed6421.png" width="150" height="220" referrerPolicy="no-referrer"> 
 
 ### 8. [清醒梦 醒着做](https://neodb.social/book/7OUi5zugvgLSL0P5x4Q56Z)心随意动，实现做梦自由！
 
