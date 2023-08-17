@@ -199,7 +199,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2899,
+				"count": 2895,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -286,7 +286,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10867,
+				"count": 10866,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -305,7 +305,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[英] 尼尔·盖曼 / 2017 / 北京联合出版公司",
 			"book_subtitle": "十周年作者修订版",
@@ -651,7 +652,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 698,
+				"count": 694,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -830,7 +831,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2600,
+				"count": 2598,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -849,7 +850,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[意] 普里莫·莱维 / 2017 / 中信出版社",
 			"book_subtitle": "",
@@ -1197,10 +1199,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 189,
+				"count": 188,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.7
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -1467,7 +1469,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194,
+				"count": 192,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1651,7 +1653,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10151,
+				"count": 10145,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1928,7 +1930,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6779,
+				"count": 6777,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2292,7 +2294,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 480,
+				"count": 479,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -2653,7 +2655,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 358,
+				"count": 356,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2929,7 +2931,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 323,
+				"count": 322,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3020,10 +3022,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 236,
+				"count": 235,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3036,7 +3038,9 @@
 			"honor_infos": [],
 			"other_versions_count": 24,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "王小波 / 2015 / 中信出版社",
 			"book_subtitle": "",
 			"id": "26847506",
@@ -3080,7 +3084,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -3284,7 +3288,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1115,
+				"count": 1113,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3375,7 +3379,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22654,
+				"count": 22636,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3905,7 +3909,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1072,
+				"count": 1071,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -3923,7 +3927,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[英] 凯瑟琳•曼尼克斯（Kathryn Mannix） / 2021 / 湛庐文化/河南科学技术出版社",
 			"book_subtitle": "",
@@ -4085,7 +4090,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1811,
+				"count": 1807,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4177,7 +4182,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 322,
+				"count": 319,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -4269,7 +4274,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 582,
+				"count": 580,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -4354,7 +4359,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 988,
+				"count": 985,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -4528,7 +4533,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10029,
+				"count": 10025,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4623,7 +4628,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 609,
+				"count": 608,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -4641,7 +4646,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美国] 理查德·费曼 [美] R.莱顿 / 2019 / 湖南科学技术出版社",
 			"book_subtitle": "",
@@ -4896,7 +4902,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15701,
+				"count": 15683,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4914,7 +4920,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "周岭 / 2020 / 人民邮电出版社",
 			"book_subtitle": "开启自我改变的原动力",
@@ -5433,7 +5440,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17711,
+				"count": 17706,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -5528,7 +5535,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 115,
+				"count": 114,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5621,7 +5628,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1677,
+				"count": 1678,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -5712,7 +5719,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15209,
+				"count": 15175,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5905,7 +5912,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4231,
+				"count": 4229,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -5924,7 +5931,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "馮唐 / 2020 / 北京联合出版公司",
 			"book_subtitle": "",
@@ -6086,7 +6094,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20,
+				"count": 19,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.9
@@ -6458,7 +6466,9 @@
 			"honor_infos": [],
 			"other_versions_count": 9,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "Eckhart Tolle / 2004 / New World Library",
 			"book_subtitle": "A Guide to Spiritual Enlightenment",
 			"id": "2082251",
@@ -6502,7 +6512,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -6620,7 +6630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 695,
+				"count": 694,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -6795,7 +6805,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 986,
+				"count": 985,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -6971,7 +6981,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 398,
+				"count": 397,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -7057,7 +7067,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10331,
+				"count": 10325,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -7234,7 +7244,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3705,
+				"count": 3697,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -7327,7 +7337,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16189,
+				"count": 16077,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -7603,7 +7613,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9833,
+				"count": 9831,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -7873,10 +7883,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2738,
+				"count": 2733,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -7964,7 +7974,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1550,
+				"count": 1547,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8237,7 +8247,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1929,
+				"count": 1928,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -8864,7 +8874,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4829,
+				"count": 4827,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -9046,7 +9056,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2495,
+				"count": 2494,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -9588,7 +9598,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7978,
+				"count": 7975,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10050,7 +10060,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19466,
+				"count": 19435,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -10153,7 +10163,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 793,
+				"count": 792,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -10244,7 +10254,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 83894,
+				"count": 83860,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -10269,7 +10279,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "吴承恩 / 2004 / 人民文学出版社",
 			"book_subtitle": "",
@@ -10514,7 +10525,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17231,
+				"count": 17216,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -10613,7 +10624,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15519,
+				"count": 15515,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -10978,7 +10989,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7818,
+				"count": 7816,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -11079,7 +11090,7 @@
 				"count": 351,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -11276,7 +11287,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "双雪涛 / 2022 / 北京日报出版社",
 			"book_subtitle": "",
@@ -11437,7 +11449,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5879,
+				"count": 5876,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -11536,7 +11548,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22286,
+				"count": 22284,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -11633,7 +11645,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11820,
+				"count": 11812,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -11747,7 +11759,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美]马丁·塞利格曼（Martin E.P. Seligman） / 2020 / 浙江教育出版社",
 			"book_subtitle": "",
@@ -11817,7 +11830,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18708,
+				"count": 18695,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -11929,7 +11942,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "（美）马丁·塞利格曼（Martin E.P. Seligman） / 2021 / 浙江教育出版社",
 			"book_subtitle": "",
@@ -12094,10 +12108,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3573,
+				"count": 3572,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.7
+				"value": 6.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -12183,7 +12197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24059,
+				"count": 24034,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -12531,7 +12545,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2677,
+				"count": 2675,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -12707,7 +12721,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2301,
+				"count": 2299,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -12977,7 +12991,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18688,
+				"count": 18684,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -13235,7 +13249,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16718,
+				"count": 16706,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -13254,7 +13268,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "莫言 / 2020 / 人民文学出版社",
 			"book_subtitle": "",
@@ -13510,7 +13525,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3509,
+				"count": 3508,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -13599,7 +13614,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 774,
+				"count": 773,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -13690,7 +13705,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60689,
+				"count": 60649,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -13789,7 +13804,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4806,
+				"count": 4799,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -14064,7 +14079,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35687,
+				"count": 35675,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -14090,7 +14105,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "袁哲生 / 2017 / 北京联合出版公司",
 			"book_subtitle": "",
@@ -14164,7 +14180,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5410,
+				"count": 5409,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -14343,7 +14359,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6265,
+				"count": 6262,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -15066,7 +15082,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 369,
+				"count": 368,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -15245,7 +15261,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15811,
+				"count": 15793,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -15266,10 +15282,9 @@
 					"title": "豆瓣图书Top250"
 				}
 			],
-			"other_versions_count": 79,
+			"other_versions_count": 78,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
@@ -15511,7 +15526,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 974,
+				"count": 973,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -15802,7 +15817,9 @@
 			"honor_infos": [],
 			"other_versions_count": 4,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "Seneca / 2005 / Penguin Books",
 			"book_subtitle": "",
 			"id": "1828762",
@@ -15846,7 +15863,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -15962,7 +15979,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4639,
+				"count": 4638,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -15980,7 +15997,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 弗兰克·赫伯特 / 2017 / 江苏凤凰文艺出版社",
 			"book_subtitle": "沙丘救世主",
@@ -16051,10 +16069,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16319,
+				"count": 16316,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 7.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16149,7 +16167,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4709,
+				"count": 4697,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -16510,7 +16528,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2943,
+				"count": 2941,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -16708,7 +16726,9 @@
 			"honor_infos": [],
 			"other_versions_count": 73,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "阿道司·赫胥黎 (Aldous Huxley) / 2014 / 陕西师范大学出版社",
 			"book_subtitle": "",
 			"id": "25838937",
@@ -16752,7 +16772,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -16777,7 +16797,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16992,
+				"count": 16981,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -16800,7 +16820,9 @@
 			],
 			"other_versions_count": 56,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[德]赫尔曼·黑塞 / 2010 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "4908883",
@@ -16844,7 +16866,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -16869,7 +16891,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 736,
+				"count": 735,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -16887,7 +16909,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[法] 莫泊桑 / 2021 / 人民文学出版社",
 			"book_subtitle": "",
@@ -16958,7 +16981,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 623,
+				"count": 622,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -17075,7 +17098,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "陈年喜 / 2021 / 台海出版社",
 			"book_subtitle": "",
@@ -17231,10 +17255,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 208,
+				"count": 207,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -17321,7 +17345,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2869,
+				"count": 2861,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -17413,7 +17437,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2072,
+				"count": 2071,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -17507,7 +17531,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 58675,
+				"count": 58628,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -17533,7 +17557,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[日]冈岛二人 / 2019 / 化学工业出版社",
 			"book_subtitle": "",
@@ -17605,7 +17630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20575,
+				"count": 20571,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -17724,7 +17749,9 @@
 			],
 			"other_versions_count": 4,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[意] 卡洛·罗韦利 / 2017 / 湖南科学技术出版社",
 			"book_subtitle": "量子引力之旅",
 			"id": "27156306",
@@ -17768,7 +17795,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -17816,7 +17843,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 迈克尔·波伦 / 2017 / 中信出版社",
 			"book_subtitle": "食物的自然史",
@@ -18147,7 +18175,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1397,
+				"count": 1396,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -18245,10 +18273,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2416,
+				"count": 2412,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -18510,10 +18538,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 398,
+				"count": 397,
 				"max": 10,
 				"star_count": 5,
-				"value": 9.6
+				"value": 9.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -18683,7 +18711,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 739,
+				"count": 738,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -18769,7 +18797,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6815,
+				"count": 6811,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -18795,7 +18823,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "姚鄂梅 / 2021 / 人民文学出版社",
 			"book_subtitle": "",
@@ -18955,7 +18984,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8707,
+				"count": 8704,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -20035,7 +20064,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87278,
+				"count": 87207,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -20307,7 +20336,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32677,
+				"count": 32668,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -20509,7 +20538,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 露丝·史兰倩丝卡 / 2020 / 理想国·广西师范大学出版社",
 			"book_subtitle": "",
@@ -20583,7 +20613,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1858,
+				"count": 1856,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -20601,7 +20631,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 威廉·斯蒂克斯鲁德（William Stixrud） 奈德·约翰逊（Ned Johnson） / 2020 / 机械工业出版社",
 			"book_subtitle": "",
@@ -21131,7 +21162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7086,
+				"count": 7080,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -21157,7 +21188,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "陈年喜 / 2021 / 天津人民出版社",
 			"book_subtitle": "",
@@ -22196,7 +22228,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22193,
+				"count": 22183,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -22553,7 +22585,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48657,
+				"count": 48655,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -22643,7 +22675,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 67340,
+				"count": 67338,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -22730,7 +22762,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119426,
+				"count": 119423,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -23028,7 +23060,8 @@
 			"other_versions_count": 43,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[日]村上春树 / 2018 / 上海译文出版社",
 			"book_subtitle": "",
@@ -23900,7 +23933,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16594,
+				"count": 16588,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -23998,7 +24031,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1930,
+				"count": 1929,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -24180,7 +24213,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2742,
+				"count": 2739,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -24274,7 +24307,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11905,
+				"count": 11899,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -24291,7 +24324,6 @@
 			"other_versions_count": 85,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[法]加缪 / 2016 / 天津人民出版社",
@@ -24365,7 +24397,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11122,
+				"count": 11117,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -24457,7 +24489,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33273,
+				"count": 33255,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -24557,7 +24589,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9924,
+				"count": 9912,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -24582,7 +24614,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[意] 达里奥·福 / 2016 / 上海译文出版社",
 			"book_subtitle": "",
@@ -24656,7 +24689,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1724,
+				"count": 1723,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -24835,7 +24868,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 77807,
+				"count": 77696,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -24859,8 +24892,8 @@
 			"other_versions_count": 59,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[德] 赫尔曼·黑塞 / 2017 / 天津人民出版社",
 			"book_subtitle": "一首印度的诗",
@@ -25028,7 +25061,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16951,
+				"count": 16940,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -25124,7 +25157,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3982,
+				"count": 3983,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -25216,7 +25249,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 94141,
+				"count": 94067,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -25312,7 +25345,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1821,
+				"count": 1820,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -26585,7 +26618,9 @@
 			],
 			"other_versions_count": 10,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "都梁 / 2017 / 北京联合出版公司",
 			"book_subtitle": "",
 			"id": "27167368",
@@ -26629,7 +26664,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -26658,7 +26693,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23831,
+				"count": 23827,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -26836,7 +26871,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3573,
+				"count": 3571,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -27139,7 +27174,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[德]申克·阿伦斯 / 2021 / 人民邮电出版社",
 			"book_subtitle": "如何实现从阅读到写作",
@@ -27314,7 +27350,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42287,
+				"count": 42235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -27339,7 +27375,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png"
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "史铁生 / 2011 / 人民文学出版社",
 			"book_subtitle": "",
@@ -27413,10 +27450,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3267,
+				"count": 3265,
 				"max": 10,
 				"star_count": 3,
-				"value": 5.8
+				"value": 5.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -27503,7 +27540,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2409,
+				"count": 2407,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -27602,7 +27639,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 79130,
+				"count": 79104,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -27792,7 +27829,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13113,
+				"count": 13112,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -27885,7 +27922,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24547,
+				"count": 24543,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -27902,7 +27939,8 @@
 			"other_versions_count": 7,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[日] 东野圭吾 / 2017 / 北京联合出版公司",
 			"book_subtitle": "",
@@ -27975,7 +28013,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1679,
+				"count": 1676,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -28437,10 +28475,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 998,
+				"count": 997,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -28528,7 +28566,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6386,
+				"count": 6377,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -28892,7 +28930,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11224,
+				"count": 11219,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -28991,7 +29029,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21075,
+				"count": 21067,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -29090,7 +29128,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23961,
+				"count": 23950,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -29189,7 +29227,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5979,
+				"count": 5976,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -29207,7 +29245,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "吴晓乐 / 2020 / 中国友谊出版公司",
 			"book_subtitle": "",
@@ -29368,7 +29407,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53481,
+				"count": 53470,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -29553,7 +29592,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34397,
+				"count": 34390,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -29653,7 +29692,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1878,
+				"count": 1877,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -30017,7 +30056,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2135,
+				"count": 2131,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -30109,7 +30148,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2755,
+				"count": 2754,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -30128,7 +30167,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "张玮 / 2018 / 中信出版集团",
 			"book_subtitle": "时代扑面而来，转瞬即成历史",
@@ -30290,7 +30330,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9152,
+				"count": 9149,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -30384,7 +30424,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2115,
+				"count": 2113,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -31205,7 +31245,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5474,
+				"count": 5470,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -31299,7 +31339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4392,
+				"count": 4391,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -31318,7 +31358,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[英] 肯·福莱特 / 2021 / 江苏凤凰文艺出版社",
 			"book_subtitle": "",
@@ -31486,10 +31527,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 626,
+				"count": 625,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.4
+				"value": 7.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -32048,7 +32089,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7227,
+				"count": 7220,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -32067,7 +32108,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[印度] Abhijit Banerjee [法]  Esther Duflo / 2018 / 中信出版社",
 			"book_subtitle": "我们为什么摆脱不了贫穷",
@@ -32148,7 +32190,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1011,
+				"count": 1010,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -32167,7 +32209,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "彭凯平 / 2020 / 中信出版集团",
 			"book_subtitle": "写给中国青年的幸福枕边书",
@@ -32239,7 +32282,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11691,
+				"count": 11690,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -32352,7 +32395,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "尹建莉 / 2016 / 百花洲文艺出版社",
 			"book_subtitle": "可能是有史以来实操性最强的家教书",
@@ -32427,7 +32471,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1713,
+				"count": 1712,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -32792,7 +32836,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2765,
+				"count": 2764,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -32885,7 +32929,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 932,
+				"count": 931,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -33169,7 +33213,9 @@
 			"honor_infos": [],
 			"other_versions_count": 1,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "Philip Gourevitch / 1999 / Picador",
 			"book_subtitle": "Stories from Rwanda",
 			"id": "2212076",
@@ -33213,7 +33259,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -33239,7 +33285,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23046,
+				"count": 23026,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -33530,7 +33576,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3946,
+				"count": 3941,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -34249,7 +34295,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 802,
+				"count": 801,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -34339,7 +34385,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26949,
+				"count": 26923,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -35157,10 +35203,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6166,
+				"count": 6165,
 				"max": 10,
 				"star_count": 3,
-				"value": 5.8
+				"value": 5.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -35246,7 +35292,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4969,
+				"count": 4967,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -35443,7 +35489,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "（英）狄更斯 / 2011 / 上海译文出版社",
 			"book_subtitle": "",
@@ -35530,7 +35577,9 @@
 			"honor_infos": [],
 			"other_versions_count": 2,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "Matthew McConaughey / 2020 / Headline",
 			"book_subtitle": "",
 			"id": "35169407",
@@ -35574,7 +35623,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -35866,7 +35915,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1396,
+				"count": 1395,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -35957,7 +36006,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1465,
+				"count": 1463,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -36046,7 +36095,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21932,
+				"count": 21928,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -36133,7 +36182,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3331,
+				"count": 3330,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -36315,7 +36364,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2273,
+				"count": 2272,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -36494,7 +36543,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1238,
+				"count": 1237,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -36584,10 +36633,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1271,
+				"count": 1268,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -36674,7 +36723,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1250,
+				"count": 1249,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -36764,7 +36813,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1261,
+				"count": 1260,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -36854,7 +36903,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1452,
+				"count": 1451,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -36944,7 +36993,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1776,
+				"count": 1775,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37035,10 +37084,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1435,
+				"count": 1434,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -37209,7 +37258,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1606,
+				"count": 1605,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -37298,7 +37347,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1504,
+				"count": 1503,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37388,7 +37437,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1679,
+				"count": 1678,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37478,7 +37527,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1743,
+				"count": 1741,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -37567,7 +37616,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1844,
+				"count": 1843,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -37656,7 +37705,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1982,
+				"count": 1981,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -37745,7 +37794,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2024,
+				"count": 2023,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37835,10 +37884,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2125,
+				"count": 2124,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -37923,7 +37972,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2260,
+				"count": 2259,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -38097,10 +38146,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2776,
+				"count": 2775,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -38186,7 +38235,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3225,
+				"count": 3224,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -38203,7 +38252,8 @@
 			"other_versions_count": 0,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png"
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "烽火戏诸侯 / 2013 / 江苏文艺出版社",
 			"book_subtitle": "白马出凉州",
@@ -38273,7 +38323,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10025,
+				"count": 10024,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -38290,7 +38340,8 @@
 			"other_versions_count": 1,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png"
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "烽火戏诸侯 / 2013 / 江苏文艺出版社",
 			"book_subtitle": "西北有雏凤",
@@ -38621,7 +38672,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11778,
+				"count": 11776,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -38712,7 +38763,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6541,
+				"count": 6539,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.7
@@ -38908,7 +38959,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "【美】马克•威廉姆斯 【美】丹尼•彭曼 / 2013 / 九州出版社",
 			"book_subtitle": "在喧嚣的世界中获取安宁",
@@ -39692,7 +39744,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1860,
+				"count": 1858,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -39877,7 +39929,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3569,
+				"count": 3567,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.2
@@ -40141,7 +40193,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7380,
+				"count": 7376,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -40319,7 +40371,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5747,
+				"count": 5744,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -40336,7 +40388,8 @@
 			"other_versions_count": 5,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[日] 村上春树 / 2011 / 上海译文出版社",
 			"book_subtitle": "",
@@ -40407,7 +40460,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15509,
+				"count": 15505,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -40505,7 +40558,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120386,
+				"count": 120360,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -40690,7 +40743,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 78,
+				"count": 77,
 				"max": 10,
 				"star_count": 3,
 				"value": 6.3
@@ -40777,7 +40830,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22807,
+				"count": 22805,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -40875,7 +40928,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2371,
+				"count": 2370,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -40964,7 +41017,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 139332,
+				"count": 139324,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -41063,7 +41116,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1610,
+				"count": 1609,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -41080,7 +41133,6 @@
 			"other_versions_count": 144,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 路易莎·梅·奥尔科特 / 2017 / 江西人民出版社",
@@ -41153,7 +41205,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 74538,
+				"count": 74514,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -41250,7 +41302,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69144,
+				"count": 69124,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -41347,7 +41399,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 85058,
+				"count": 85035,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -41371,7 +41423,8 @@
 			"other_versions_count": 12,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[意] 埃莱娜·费兰特 / 2017 / 人民文学出版社",
 			"book_subtitle": "那不勒斯四部曲2",
@@ -41443,7 +41496,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 105918,
+				"count": 105881,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -41540,7 +41593,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14725,
+				"count": 14724,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -41639,7 +41692,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 51173,
+				"count": 51154,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -41908,7 +41961,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 118369,
+				"count": 118352,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -42110,7 +42163,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[英] 格雷戈·麦吉沃恩 (Greg McKeown) / 2016 / 浙江人民出版社",
 			"book_subtitle": "如何应对拥挤不堪的工作和生活",
@@ -42182,10 +42236,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 167,
+				"count": 166,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -42268,7 +42322,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4780,
+				"count": 4779,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -42443,7 +42497,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9822,
+				"count": 9817,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -42700,7 +42754,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 38427,
+				"count": 38375,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -43054,7 +43108,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1852,
+				"count": 1851,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -43145,7 +43199,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2039,
+				"count": 2038,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -43321,7 +43375,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25904,
+				"count": 25899,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -43676,7 +43730,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4558,
+				"count": 4556,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -43854,7 +43908,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2664,
+				"count": 2663,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -44117,7 +44171,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2688,
+				"count": 2687,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -44320,7 +44374,9 @@
 			],
 			"other_versions_count": 10,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[英] 尼尔·麦格雷戈 / 2014 / 新星出版社",
 			"book_subtitle": "",
 			"id": "25746578",
@@ -44364,7 +44420,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -44912,7 +44968,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 83296,
+				"count": 83288,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -45100,7 +45156,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2237,
+				"count": 2236,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -45191,7 +45247,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 155815,
+				"count": 155802,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -45370,7 +45426,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9978,
+				"count": 9974,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -45387,7 +45443,8 @@
 			"other_versions_count": 8,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[英] 石黑一雄 / 2016 / 上海译文出版社",
 			"book_subtitle": "",
@@ -45458,7 +45515,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15617,
+				"count": 15614,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -46619,7 +46676,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1431,
+				"count": 1428,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -46635,7 +46692,9 @@
 			"honor_infos": [],
 			"other_versions_count": 43,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "海伦·凯勒 / 2015 / 北京联合出版公司",
 			"book_subtitle": "",
 			"id": "26762873",
@@ -46679,7 +46738,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -46705,7 +46764,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50624,
+				"count": 50603,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -46893,7 +46952,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4826,
+				"count": 4825,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -46998,7 +47057,9 @@
 			"honor_infos": [],
 			"other_versions_count": 7,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[意]安伯托·艾柯 / 2015 / 中信出版社",
 			"book_subtitle": "插图修订版",
 			"id": "26276409",
@@ -47042,7 +47103,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -47774,10 +47835,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2865,
+				"count": 2863,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.3
+				"value": 9.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -47869,7 +47930,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6618,
+				"count": 6615,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -47888,7 +47949,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "冯唐 / 2018 / 北京联合出版公司",
 			"book_subtitle": "",
@@ -48335,7 +48397,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "武志红 / 2015 / 北京联合出版公司",
 			"book_subtitle": "",
@@ -48761,7 +48824,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6284,
+				"count": 6283,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -48848,7 +48911,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9291,
+				"count": 9285,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -48952,7 +49015,9 @@
 			"honor_infos": [],
 			"other_versions_count": 7,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "(日)村上春树 / 2009 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "3932981",
@@ -48996,7 +49061,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -49024,7 +49089,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1459,
+				"count": 1458,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -49043,7 +49108,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 戴维·艾伦 / 2016 / 中信出版社",
 			"book_subtitle": "无压工作的艺术",
@@ -49115,7 +49181,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16567,
+				"count": 16564,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -49286,7 +49352,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25457,
+				"count": 25456,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -49311,7 +49377,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[英] 肯·福莱特 / 2017 / 江苏凤凰文艺出版社",
 			"book_subtitle": "世纪三部曲 2",
@@ -49468,7 +49535,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35011,
+				"count": 35005,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -49493,7 +49560,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 瑞·达利欧 / 2018 / 中信出版社",
 			"book_subtitle": "",
@@ -49908,7 +49976,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10499,
+				"count": 10493,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -50108,7 +50176,8 @@
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
 				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 霍华德·马克斯 / 2015 / 中信出版社",
 			"book_subtitle": "",
@@ -50180,7 +50249,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 232,
+				"count": 231,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -50440,7 +50509,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3445,
+				"count": 3444,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -50530,7 +50599,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37090,
+				"count": 37076,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -50547,7 +50616,8 @@
 			"other_versions_count": 17,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[英] 石黑一雄 / 2011 / 上海译文出版社",
 			"book_subtitle": "",
@@ -50631,7 +50701,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29727527.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 11,
+			"other_versions_count": 10,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
@@ -51069,7 +51139,9 @@
 			"honor_infos": [],
 			"other_versions_count": 179,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "雨果 / 2006 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "1885261",
@@ -51113,7 +51185,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -51906,7 +51978,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3371,
+				"count": 3372,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -51999,7 +52071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6083,
+				"count": 6081,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -52462,7 +52534,9 @@
 			"honor_infos": [],
 			"other_versions_count": 74,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[法] 罗曼·罗兰 / 2015 / 中央编译出版社",
 			"book_subtitle": "",
 			"id": "26707865",
@@ -52506,7 +52580,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -52796,7 +52870,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43183,
+				"count": 43174,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -52979,7 +53053,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 77713,
+				"count": 77709,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -52995,7 +53069,9 @@
 			"honor_infos": [],
 			"other_versions_count": 12,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[英] 蕾秋·乔伊斯 / 2013 / 北京联合出版公司",
 			"book_subtitle": "",
 			"id": "24934182",
@@ -53039,7 +53115,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -53943,7 +54019,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 57168,
+				"count": 57164,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -55152,7 +55228,8 @@
 			"other_versions_count": 0,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg"
+				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "李尚龙 / 2018 / 北京联合出版公司",
 			"book_subtitle": "",
@@ -55220,7 +55297,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22740,
+				"count": 22730,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -55238,7 +55315,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "白先勇 / 2010 / 广西师范大学出版社",
 			"book_subtitle": "",
@@ -55910,7 +55988,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3746,
+				"count": 3745,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -56341,7 +56419,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 41430,
+				"count": 41428,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -56442,7 +56520,9 @@
 			"honor_infos": [],
 			"other_versions_count": 2,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "周濂 / 2012 / 中国人民大学出版社",
 			"book_subtitle": "",
 			"id": "10601137",
@@ -56486,7 +56566,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -57775,7 +57855,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12698,
+				"count": 12695,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -58043,7 +58123,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14970,
+				"count": 14968,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -58126,7 +58206,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4015,
+				"count": 4014,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -58564,7 +58644,7 @@
 				"count": 2259,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9
+				"value": 8.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -59255,7 +59335,9 @@
 			"honor_infos": [],
 			"other_versions_count": 127,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "George Orwell / 1961 / New American Library",
 			"book_subtitle": "",
 			"id": "1424314",
@@ -59299,7 +59381,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -60012,7 +60094,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8225,
+				"count": 8224,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -61915,7 +61997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33570,
+				"count": 33568,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -61931,7 +62013,9 @@
 			"honor_infos": [],
 			"other_versions_count": 4,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "古典 / 2010 / 中国书店",
 			"book_subtitle": "原来我还可以这样活",
 			"id": "4953695",
@@ -61975,7 +62059,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -62704,7 +62788,9 @@
 			"honor_infos": [],
 			"other_versions_count": 10,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "鲁迅 / 1973 / 人民文学出版社",
 			"book_subtitle": "",
 			"id": "2046916",
@@ -62748,7 +62834,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -62787,7 +62873,9 @@
 			"honor_infos": [],
 			"other_versions_count": 11,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "鲁迅 / 1973 / 人民文学出版社",
 			"book_subtitle": "",
 			"id": "2025454",
@@ -62831,7 +62919,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -62870,7 +62958,9 @@
 			"honor_infos": [],
 			"other_versions_count": 8,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "Jared Diamond / 2012 / Viking Adult",
 			"book_subtitle": "What Can We Learn from Traditional Societies?",
 			"id": "10955437",
@@ -62914,7 +63004,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -62937,7 +63027,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50012,
+				"count": 50011,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -64115,7 +64205,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17886,
+				"count": 17884,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -64701,7 +64791,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32732,
+				"count": 32724,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -64875,7 +64965,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18738,
+				"count": 18737,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -65067,7 +65157,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22769,
+				"count": 22765,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -65334,7 +65424,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14086,
+				"count": 14085,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -65599,7 +65689,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2132,
+				"count": 2131,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -65686,7 +65776,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88291,
+				"count": 88290,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -65782,7 +65872,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 274886,
+				"count": 274861,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -66105,7 +66195,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 484053,
+				"count": 484013,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -67307,7 +67397,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 29614,
+				"count": 29607,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -67562,7 +67652,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19004,
+				"count": 19003,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -68098,7 +68188,9 @@
 			"honor_infos": [],
 			"other_versions_count": 5,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "Marti Olsen Laney / 2008 / 华东师范大学出版社",
 			"book_subtitle": "如何在外向的世界中获得成功",
 			"id": "2980795",
@@ -68142,7 +68234,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -68256,7 +68348,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40516,
+				"count": 40515,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -68440,7 +68532,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png"
+				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "[美] 贾森·弗里德 [丹] 戴维·海涅迈尔·汉森 / 2010 / 中信出版社",
 			"book_subtitle": "更为简单有效的商业思维",
@@ -68622,7 +68715,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 144040,
+				"count": 144038,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -68638,7 +68731,9 @@
 			"honor_infos": [],
 			"other_versions_count": 7,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "韩寒 / 2010 / 国际文化出版公司",
 			"book_subtitle": "",
 			"id": "5275059",
@@ -68682,7 +68777,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -69244,7 +69339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 38473,
+				"count": 38472,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -69260,7 +69355,9 @@
 			"honor_infos": [],
 			"other_versions_count": 7,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "李笑来 / 2009 / 电子工业出版社",
 			"book_subtitle": "运用心智获得解放",
 			"id": "3609132",
@@ -69304,7 +69401,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -69441,7 +69538,7 @@
 					"title": "热门经济学图书TOP10"
 				}
 			],
-			"other_versions_count": 14,
+			"other_versions_count": 13,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -69605,7 +69702,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 93072,
+				"count": 93057,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -70936,7 +71033,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 97983,
+				"count": 97978,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -71115,10 +71212,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1957,
+				"count": 1956,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.4
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -72557,7 +72654,9 @@
 			"honor_infos": [],
 			"other_versions_count": 61,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "(法)儒勒·凡尔纳 / 1979 / 中国青年出版社",
 			"book_subtitle": "",
 			"id": "2215160",
@@ -72601,7 +72700,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -75462,7 +75561,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2425,
+				"count": 2424,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -76349,7 +76448,9 @@
 			],
 			"other_versions_count": 9,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "（英）多丽丝﹒莱辛 / 2000 / 译林出版社",
 			"book_subtitle": "",
 			"id": "1103080",
@@ -76393,7 +76494,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -77969,7 +78070,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 108544,
+				"count": 108532,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -78062,7 +78163,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82659,
+				"count": 82644,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -78155,7 +78256,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60124,
+				"count": 60112,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -78337,7 +78438,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1647,
+				"count": 1646,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -78599,7 +78700,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3909,
+				"count": 3908,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -78864,7 +78965,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 152351,
+				"count": 152303,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -78960,7 +79061,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 146795,
+				"count": 146739,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -79579,7 +79680,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228252,
+				"count": 228238,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -79666,7 +79767,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 196094,
+				"count": 196093,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -79847,7 +79948,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43436,
+				"count": 43409,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -79870,7 +79971,9 @@
 			],
 			"other_versions_count": 26,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "鲁迅 / 1973 / 人民文学出版社",
 			"book_subtitle": "",
 			"id": "1915958",
@@ -79914,7 +80017,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -80114,7 +80217,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2282,
+				"count": 2281,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -80203,10 +80306,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1301,
+				"count": 1300,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -80289,7 +80392,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 177,
+				"count": 176,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -80303,11 +80406,9 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s1341991.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 3,
+			"other_versions_count": 1,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "陈平原 / 2005 / 复旦大学出版社",
 			"book_subtitle": "",
 			"id": "1320315",
@@ -80351,7 +80452,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -80978,7 +81079,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98577,
+				"count": 98564,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -81316,7 +81417,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10683,
+				"count": 10682,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -81738,7 +81839,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21937,
+				"count": 21934,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -81904,7 +82005,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128970,
+				"count": 128955,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -81994,7 +82095,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111819,
+				"count": 111816,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -82010,7 +82111,9 @@
 			"honor_infos": [],
 			"other_versions_count": 107,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "小仲马 / 1997 / 外国文学出版社",
 			"book_subtitle": "",
 			"id": "1013380",
@@ -82054,7 +82157,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -82077,7 +82180,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 206175,
+				"count": 206155,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -82254,7 +82357,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60833,
+				"count": 60832,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -82780,7 +82883,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s8942631.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 46,
+			"other_versions_count": 45,
 			"is_show": false,
 			"vendor_icons": [],
 			"card_subtitle": "米兰·昆德拉 Milan Kundera / 1988/11/15 / 時報文化",
@@ -82866,7 +82969,9 @@
 			"honor_infos": [],
 			"other_versions_count": 62,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[日] 村上春树 / 1989 / 漓江出版社",
 			"book_subtitle": "",
 			"id": "1330096",
@@ -82910,7 +83015,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -83099,7 +83204,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48553,
+				"count": 48544,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -83349,7 +83454,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 100708,
+				"count": 100698,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -83365,7 +83470,9 @@
 			"honor_infos": [],
 			"other_versions_count": 30,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[日] 村上春树 / 2003 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "1059419",
@@ -83409,7 +83516,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -83432,7 +83539,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 346035,
+				"count": 346009,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -83455,7 +83562,9 @@
 			],
 			"other_versions_count": 62,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[日] 村上春树 / 2001 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "1046265",
@@ -83499,7 +83608,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -83522,7 +83631,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27996,
+				"count": 27994,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -83607,7 +83716,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65797,
+				"count": 65788,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -83966,7 +84075,9 @@
 			"honor_infos": [],
 			"other_versions_count": 18,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[捷克] 米兰·昆德拉 / 2004 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "1037954",
@@ -84010,7 +84121,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -84033,7 +84144,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7107,
+				"count": 7106,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -84201,7 +84312,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13958,
+				"count": 13957,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -84369,7 +84480,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 31214,
+				"count": 31212,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -84385,7 +84496,9 @@
 			"honor_infos": [],
 			"other_versions_count": 24,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[捷克] 米兰·昆德拉 / 2004 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "1013225",
@@ -84429,7 +84542,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -84452,7 +84565,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 214466,
+				"count": 214460,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -84473,7 +84586,7 @@
 					"title": "卡夫卡文学奖历届得主代表作"
 				}
 			],
-			"other_versions_count": 46,
+			"other_versions_count": 45,
 			"is_show": false,
 			"vendor_icons": [],
 			"card_subtitle": "[捷克] 米兰·昆德拉 / 2003 / 上海译文出版社",
@@ -84625,7 +84738,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212433,
+				"count": 212431,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -84815,7 +84928,9 @@
 			"honor_infos": [],
 			"other_versions_count": 86,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "伏尼契(爱尔兰) sf qrewqwer / 1953 / 中国青年出版社",
 			"book_subtitle": "",
 			"id": "1012637",
@@ -84861,7 +84976,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -84886,7 +85001,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111127,
+				"count": 111123,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -84971,7 +85086,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23944,
+				"count": 23942,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -84989,7 +85104,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png"
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "陈丹青 / 2005 / 广西师范大学出版社",
 			"book_subtitle": "",
@@ -85057,7 +85173,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 54568,
+				"count": 54564,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -85163,7 +85279,9 @@
 			"honor_infos": [],
 			"other_versions_count": 102,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "[法] 大仲马 / 2001 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "1084973",
@@ -85207,7 +85325,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -85313,7 +85431,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 993,
+				"count": 992,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -85398,7 +85516,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19164,
+				"count": 19161,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -85491,7 +85609,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 125782,
+				"count": 125766,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -85583,7 +85701,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9771,
+				"count": 9770,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -85754,7 +85872,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 118292,
+				"count": 118280,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -85846,7 +85964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 158687,
+				"count": 158672,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -85936,7 +86054,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 735517,
+				"count": 735431,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
