@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "折返点 2334 | 烟雾的一周 "
-date: "2023-08-24 10:21:24"
+date: "2023-08-28 10:21:24"
 categories: 折返点
 auth: conge
 tags: 跑步 旅行
@@ -77,6 +77,6 @@ tags: 跑步 旅行
 * [我的Strava页面](https://www.strava.com/athletes/57680242)
 
 ```
-2023-08-24 初稿
+2023-08-28 初稿
 ```
 
