@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折返点 2334 | 烟雾的一周 "
+title: "折返点 2334 - 烟雾的一周 "
 date: "2023-08-28 10:21:24"
 categories: 折返点
 auth: conge
