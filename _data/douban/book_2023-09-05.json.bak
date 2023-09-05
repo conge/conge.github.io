@@ -22,7 +22,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 450786,
+				"count": 450696,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -467,7 +467,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15606,
+				"count": 15604,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -819,7 +819,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2919,
+				"count": 2917,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10898,
+				"count": 10896,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -999,7 +999,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 186,
+				"count": 185,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1272,7 +1272,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 761,
+				"count": 759,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -1633,7 +1633,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1159,
+				"count": 1158,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2273,7 +2273,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10237,
+				"count": 10235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2371,7 +2371,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 428,
+				"count": 425,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2550,7 +2550,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6805,
+				"count": 6804,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -2917,7 +2917,7 @@
 				"count": 485,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.4
+				"value": 9.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -3097,7 +3097,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 639,
+				"count": 638,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -3730,7 +3730,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1306,
+				"count": 1305,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -3908,7 +3908,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1128,
+				"count": 1125,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -3999,7 +3999,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22952,
+				"count": 22933,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4016,7 +4016,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 205,
+					"rank": 203,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -4354,7 +4354,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 218,
+				"count": 217,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -4710,7 +4710,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1837,
+				"count": 1836,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -4802,7 +4802,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 342,
+				"count": 341,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4894,10 +4894,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 609,
+				"count": 607,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -4979,7 +4979,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1060,
+				"count": 1057,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5153,7 +5153,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10143,
+				"count": 10138,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -5522,7 +5522,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16133,
+				"count": 16114,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -6060,7 +6060,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17755,
+				"count": 17753,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -6248,7 +6248,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1702,
+				"count": 1701,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -6339,7 +6339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15722,
+				"count": 15706,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -7159,7 +7159,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1120,
+				"count": 1119,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -7425,7 +7425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 989,
+				"count": 988,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -7601,7 +7601,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 409,
+				"count": 407,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -7656,7 +7656,7 @@
 			"title": "内在工程（全新修订本）",
 			"uri": "douban://douban.com/book/35044160",
 			"subtype": "book",
-			"intro": "",
+			"intro": "\"《内在工程》通过萨古鲁的人生经历和生活感悟，为读者呈现认知自我的基本概念，打开尚未知晓的“自我地图”。并从“身体”“头脑”“能量”“喜悦”这几个方面入手，帮助读者去剖析自我、认识自我，从而发现自我，进而找到自我。\n《内在工程》的内容能够使每位读者在书中看到自己的影子，听到自己的声音，触摸到自己的内心。在萨古鲁的感召下，愿我们每个人都能向内，找到真正的自我。\"",
 			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
@@ -7687,7 +7687,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10466,
+				"count": 10459,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -7864,7 +7864,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3822,
+				"count": 3816,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -7957,7 +7957,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17940,
+				"count": 17864,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -8233,7 +8233,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9881,
+				"count": 9878,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -8594,7 +8594,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1569,
+				"count": 1568,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -8867,10 +8867,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1947,
+				"count": 1946,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.9
+				"value": 8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9140,7 +9140,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1647,
+				"count": 1646,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -9494,7 +9494,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4856,
+				"count": 4855,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -9676,10 +9676,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2535,
+				"count": 2531,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.8
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -9853,10 +9853,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 508,
+				"count": 507,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -10034,7 +10034,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3432,
+				"count": 3431,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -10218,7 +10218,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8035,
+				"count": 8033,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -10680,7 +10680,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20023,
+				"count": 19996,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -10874,7 +10874,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 84303,
+				"count": 84281,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -10891,7 +10891,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 67,
+					"rank": 68,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -11145,7 +11145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17427,
+				"count": 17419,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -11244,7 +11244,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15581,
+				"count": 15578,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -11609,7 +11609,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7883,
+				"count": 7880,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -12168,7 +12168,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22390,
+				"count": 22385,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -12265,7 +12265,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11919,
+				"count": 11916,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -12361,7 +12361,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 152,
+				"count": 151,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -12450,7 +12450,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18999,
+				"count": 18989,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -12728,7 +12728,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3597,
+				"count": 3595,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -12817,7 +12817,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24472,
+				"count": 24453,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -13165,7 +13165,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2725,
+				"count": 2722,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -13522,7 +13522,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4909,
+				"count": 4907,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -13611,7 +13611,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18836,
+				"count": 18830,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -13869,7 +13869,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16954,
+				"count": 16942,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -14145,7 +14145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3532,
+				"count": 3531,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -14325,7 +14325,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 61388,
+				"count": 61366,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -14424,7 +14424,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5008,
+				"count": 4997,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -14609,7 +14609,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3213,
+				"count": 3212,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -14699,7 +14699,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35945,
+				"count": 35938,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -14800,7 +14800,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5448,
+				"count": 5445,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -14979,7 +14979,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6323,
+				"count": 6318,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -15077,7 +15077,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2489,
+				"count": 2487,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -15254,7 +15254,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 252,
+				"count": 251,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -15702,10 +15702,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 382,
+				"count": 380,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.6
+				"value": 6.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -15881,7 +15881,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16164,
+				"count": 16144,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -16328,10 +16328,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1606,
+				"count": 1604,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16508,7 +16508,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2593,
+				"count": 2592,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -16598,7 +16598,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4658,
+				"count": 4657,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -16688,10 +16688,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16365,
+				"count": 16361,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.8
+				"value": 7.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -16786,7 +16786,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4811,
+				"count": 4807,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -17147,7 +17147,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2992,
+				"count": 2990,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -17239,7 +17239,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 697,
+				"count": 695,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -17416,7 +17416,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17250,
+				"count": 17237,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -17600,7 +17600,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 628,
+				"count": 627,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -17691,7 +17691,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2487,
+				"count": 2486,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -17964,7 +17964,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2923,
+				"count": 2922,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -18150,7 +18150,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59446,
+				"count": 59405,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -18249,7 +18249,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20658,
+				"count": 20653,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -18265,9 +18265,9 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECK4465FI?type=rank&category=book&rank_type=topn_book",
-					"rank": 3,
-					"title": "热门物理科普图书TOP10"
+					"uri": "douban://douban.com/subject_collection/book_top250",
+					"rank": 250,
+					"title": "豆瓣图书Top250"
 				}
 			],
 			"other_versions_count": 6,
@@ -18345,7 +18345,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5395,
+				"count": 5392,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -18794,7 +18794,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1404,
+				"count": 1403,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -18892,7 +18892,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2462,
+				"count": 2458,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -19157,7 +19157,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 399,
+				"count": 398,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -19416,7 +19416,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6897,
+				"count": 6891,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -19603,7 +19603,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8786,
+				"count": 8784,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -20683,7 +20683,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88670,
+				"count": 88612,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -20955,7 +20955,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32765,
+				"count": 32761,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -21232,7 +21232,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1872,
+				"count": 1871,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -21781,7 +21781,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7165,
+				"count": 7164,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -22847,7 +22847,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22450,
+				"count": 22441,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -23204,7 +23204,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48670,
+				"count": 48669,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -23294,7 +23294,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 67359,
+				"count": 67357,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -23381,7 +23381,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119463,
+				"count": 119458,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -23662,10 +23662,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1762,
+				"count": 1760,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -24201,7 +24201,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 492,
+				"count": 491,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -24552,7 +24552,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16785,
+				"count": 16779,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -24832,7 +24832,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2767,
+				"count": 2766,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -24926,7 +24926,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11933,
+				"count": 11931,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -25017,7 +25017,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11214,
+				"count": 11210,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -25109,7 +25109,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33539,
+				"count": 33526,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -25209,7 +25209,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10049,
+				"count": 10044,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -25309,7 +25309,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1732,
+				"count": 1731,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -25488,7 +25488,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 79815,
+				"count": 79738,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -25682,7 +25682,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17173,
+				"count": 17160,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -25778,7 +25778,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4006,
+				"count": 4005,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -25870,7 +25870,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 95321,
+				"count": 95269,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -25966,7 +25966,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1843,
+				"count": 1842,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -27129,7 +27129,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 591,
+				"count": 590,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -27216,7 +27216,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3819,
+				"count": 3818,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -27314,7 +27314,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23924,
+				"count": 23922,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -27492,7 +27492,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3603,
+				"count": 3601,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -27777,7 +27777,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7364,
+				"count": 7362,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -27971,7 +27971,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43342,
+				"count": 43290,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -28071,7 +28071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3279,
+				"count": 3278,
 				"max": 10,
 				"star_count": 3,
 				"value": 5.8
@@ -28161,10 +28161,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2459,
+				"count": 2454,
 				"max": 10,
-				"star_count": 4.5,
-				"value": 8.5
+				"star_count": 4,
+				"value": 8.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -28260,7 +28260,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 79907,
+				"count": 79885,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -28450,7 +28450,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13153,
+				"count": 13151,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -28543,7 +28543,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24637,
+				"count": 24632,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.7
@@ -28637,7 +28637,7 @@
 				"count": 1688,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.9
+				"value": 6.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -29096,7 +29096,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1002,
+				"count": 1001,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -29187,7 +29187,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6501,
+				"count": 6497,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -29280,7 +29280,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2929,
+				"count": 2927,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -29551,7 +29551,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11295,
+				"count": 11292,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -29650,7 +29650,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21260,
+				"count": 21250,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -29667,7 +29667,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 230,
+					"rank": 231,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -29749,7 +29749,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24184,
+				"count": 24172,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -29766,7 +29766,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 238,
+					"rank": 243,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -29848,7 +29848,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6050,
+				"count": 6049,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -30028,7 +30028,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53860,
+				"count": 53848,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -30213,7 +30213,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34601,
+				"count": 34593,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -30230,7 +30230,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 105,
+					"rank": 107,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -30313,7 +30313,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1902,
+				"count": 1899,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -30677,7 +30677,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2160,
+				"count": 2157,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -30769,7 +30769,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2792,
+				"count": 2791,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -30860,7 +30860,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4155,
+				"count": 4151,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -30951,7 +30951,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9242,
+				"count": 9240,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -31045,7 +31045,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2132,
+				"count": 2131,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -31866,7 +31866,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5562,
+				"count": 5559,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -32710,7 +32710,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7267,
+				"count": 7266,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -32811,7 +32811,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1034,
+				"count": 1033,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -32998,7 +32998,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1678,
+				"count": 1677,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -33184,7 +33184,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1362,
+				"count": 1361,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -33457,10 +33457,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2782,
+				"count": 2781,
 				"max": 10,
-				"star_count": 4,
-				"value": 7.5
+				"star_count": 3.5,
+				"value": 7.4
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -33719,14 +33719,14 @@
 		],
 		"charts": [],
 		"platforms": [],
-		"vote_count": 4,
+		"vote_count": 3,
 		"create_time": "2021-02-10 14:12:58",
 		"status": "done",
 		"id": 2725165021,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 444,
+				"count": 443,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -33906,7 +33906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23311,
+				"count": 23303,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -34097,7 +34097,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 168,
+				"count": 167,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -34197,7 +34197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3973,
+				"count": 3972,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -35006,7 +35006,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27381,
+				"count": 27349,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -35827,7 +35827,7 @@
 				"count": 6178,
 				"max": 10,
 				"star_count": 3,
-				"value": 5.8
+				"value": 5.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -35913,7 +35913,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5017,
+				"count": 5014,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -36092,7 +36092,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1346,
+				"count": 1345,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -36182,7 +36182,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 309,
+				"count": 308,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -36627,7 +36627,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1486,
+				"count": 1484,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -36716,7 +36716,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21990,
+				"count": 21988,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -36893,7 +36893,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3906,
+				"count": 3905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -36985,7 +36985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2283,
+				"count": 2281,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37164,10 +37164,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1246,
+				"count": 1243,
 				"max": 10,
 				"star_count": 4,
-				"value": 8
+				"value": 8.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -37254,7 +37254,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1278,
+				"count": 1275,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -37344,7 +37344,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1257,
+				"count": 1255,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37434,7 +37434,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1269,
+				"count": 1267,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37524,7 +37524,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1461,
+				"count": 1459,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37614,7 +37614,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1784,
+				"count": 1783,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37705,7 +37705,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1443,
+				"count": 1440,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -37879,7 +37879,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1614,
+				"count": 1612,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -37968,7 +37968,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1512,
+				"count": 1510,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -38148,7 +38148,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1750,
+				"count": 1748,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -38326,7 +38326,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1988,
+				"count": 1987,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -38415,7 +38415,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2029,
+				"count": 2028,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -38505,7 +38505,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2130,
+				"count": 2129,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -38593,7 +38593,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2266,
+				"count": 2265,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -38767,7 +38767,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2783,
+				"count": 2782,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -38856,7 +38856,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3237,
+				"count": 3236,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -38944,7 +38944,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10054,
+				"count": 10052,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -39293,7 +39293,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11833,
+				"count": 11830,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -39562,7 +39562,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 993,
+				"count": 992,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -39744,7 +39744,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2946,
+				"count": 2945,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -40095,7 +40095,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1860,
+				"count": 1859,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -40185,7 +40185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2662,
+				"count": 2659,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -40365,7 +40365,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1879,
+				"count": 1877,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -40814,7 +40814,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7405,
+				"count": 7403,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -41081,7 +41081,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15569,
+				"count": 15567,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -41179,7 +41179,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120755,
+				"count": 120736,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -41451,7 +41451,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22878,
+				"count": 22877,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -41638,7 +41638,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 139512,
+				"count": 139504,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -41827,7 +41827,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 75058,
+				"count": 75036,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -41924,7 +41924,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69588,
+				"count": 69564,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -42021,7 +42021,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 85558,
+				"count": 85542,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -42118,7 +42118,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 106532,
+				"count": 106504,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -42215,7 +42215,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14765,
+				"count": 14761,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -42314,7 +42314,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 51468,
+				"count": 51454,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -42583,7 +42583,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 118690,
+				"count": 118673,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -42767,7 +42767,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3895,
+				"count": 3892,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -43119,7 +43119,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9914,
+				"count": 9911,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -43376,7 +43376,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39204,
+				"count": 39170,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -43909,10 +43909,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 889,
+				"count": 888,
 				"max": 10,
 				"star_count": 3,
-				"value": 6.3
+				"value": 6.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -43995,7 +43995,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25997,
+				"count": 25985,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -44011,9 +44011,9 @@
 			"honor_infos": [
 				{
 					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 249,
-					"title": "豆瓣图书Top250"
+					"uri": "douban://douban.com/subject_collection/2018_book_882?type=rank&category=book&rank_type=year",
+					"rank": 2,
+					"title": "2018年度外国文学(小说类)"
 				}
 			],
 			"other_versions_count": 1,
@@ -44439,7 +44439,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2353,
+				"count": 2352,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -44791,7 +44791,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2693,
+				"count": 2691,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -44879,7 +44879,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12577,
+				"count": 12576,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -44971,7 +44971,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3874,
+				"count": 3873,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -45324,7 +45324,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1994,
+				"count": 1993,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -45588,7 +45588,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 83443,
+				"count": 83437,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -45776,7 +45776,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2247,
+				"count": 2246,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -45867,7 +45867,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 156109,
+				"count": 156101,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -46046,7 +46046,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10031,
+				"count": 10028,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -46135,7 +46135,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15658,
+				"count": 15656,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -47296,7 +47296,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1464,
+				"count": 1463,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -47384,7 +47384,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50982,
+				"count": 50962,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -47572,7 +47572,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4834,
+				"count": 4833,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -48550,7 +48550,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6640,
+				"count": 6639,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -48640,7 +48640,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10319,
+				"count": 10318,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -49178,7 +49178,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4458,
+				"count": 4457,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -49531,7 +49531,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9440,
+				"count": 9436,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -49801,7 +49801,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16610,
+				"count": 16609,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -49972,10 +49972,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25505,
+				"count": 25502,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.7
+				"value": 8.8
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -50155,7 +50155,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35130,
+				"count": 35128,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -50596,7 +50596,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10549,
+				"count": 10548,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -51129,10 +51129,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3500,
+				"count": 3496,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 8.6
+				"value": 8.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -51219,7 +51219,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37310,
+				"count": 37298,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -51398,7 +51398,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42167,
+				"count": 42166,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -52691,7 +52691,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6114,
+				"count": 6113,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -53046,7 +53046,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6462,
+				"count": 6461,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -53490,7 +53490,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43282,
+				"count": 43276,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -53673,7 +53673,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 77820,
+				"count": 77816,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -54295,7 +54295,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3582,
+				"count": 3581,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -54366,264 +54366,6 @@
 			"star_count": 4,
 			"value": 4
 		},
-		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/1060703/ 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1060703/interest/1436834565",
-		"tags": [
-			"官场小说"
-		],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2018-08-15 03:31:34",
-		"status": "done",
-		"id": 1436834565,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 443,
-				"max": 10,
-				"star_count": 4,
-				"value": 7.7
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2004-05"
-			],
-			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s1673676.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s1673676.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [],
-			"other_versions_count": 4,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "周梅森 / 2004 / 作家出版社",
-			"book_subtitle": "",
-			"id": "1060703",
-			"author": [
-				"周梅森"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "a5733a",
-				"_base_color": [
-					0.08847736625514406,
-					0.648,
-					0.49019607843137253
-				],
-				"secondary_color": "f9f7f4",
-				"_avg_color": [
-					0.10818713450292394,
-					0.28643216080402006,
-					0.7803921568627451
-				],
-				"primary_color_dark": "7f582c"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/1060703.jpg",
-			"min_sale_price": null,
-			"press": [
-				"作家出版社"
-			],
-			"pages": [
-				"424"
-			],
-			"sharing_url": "https://book.douban.com/subject/1060703/",
-			"url": "https://book.douban.com/subject/1060703/",
-			"title": "我主沉浮",
-			"uri": "douban://douban.com/book/1060703",
-			"subtype": "book",
-			"intro": "一切都在演变，一切都无定数。不论功臣，还是罪人，他们曾共同创造了这段历史，引领着一个民主在不断探索中走到了今天！　　周梅森以一个省级领导班子为叙事主体，精心塑造了省长赵安邦、省委书记裴一弘、省委副书记于华北等一批高级领导干部形象。同时，首次将笔触伸入到了经济生活的核心，揭示了资本和资本运作的秘密，市场经济和权力经济的关系，成功地刻画了资本大鳄自原崴，腐败“精英”钱惠人的艺术形象，对我国二十五年来的改革实践进行了深刻反思，故事惊心动魄，令人警醒，令人震撼。　　毫无疑问，这是一部具有史诗品格的大气之作，是作者继《中国制造》、《至高利益》、《绝对权力》、《国家公诉》之后的又一次成功突破。",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "书的主线是对致幻剂药物作用的科学研究史，主要访问的是美国的科学家。支线是致幻剂的发现，使用，被禁，地下应用的过程。探讨了致幻剂对神秘经验以及宗教经验的影响。作者还记录了自己使用致幻剂的感受与经历。像作者的其他著作一样，作者的书写很精彩。",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 5,
-			"value": 5
-		},
-		"sharing_text": "我的评分：★★★★★ 书的主线是对致幻剂药物作用的科学研究史，主要访问的是美国的科学家。支线是致幻剂的发现，使用，被禁，地下应用的过程。探讨了致幻剂对神秘经验以及宗教经验的影响。作者还记录了自己使用致幻剂的感受与经历。像作者的其他著作一... https://book.douban.com/subject/30224074/ 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30224074/interest/1415371694",
-		"tags": [
-			"科普",
-			"社会学",
-			"psychology",
-			"致幻剂"
-		],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 2,
-		"create_time": "2018-08-04 05:17:18",
-		"status": "done",
-		"id": 1415371694,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 39,
-				"max": 10,
-				"star_count": 4.5,
-				"value": 8.9
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2018-5-15"
-			],
-			"pic": {
-				"large": "https://img1.doubanio.com/view/subject/l/public/s29769907.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29769907.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [],
-			"other_versions_count": 3,
-			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "Michael Pollan / 2018",
-			"book_subtitle": "What the New Science of Psychedelics Teaches Us about Consciousness, Dying, Addiction, Depression, and Transcendence",
-			"id": "30224074",
-			"author": [
-				"Michael Pollan"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": true,
-				"primary_color_light": "5f7272",
-				"_base_color": [
-					0.5,
-					0.16666666666666666,
-					0.023529411764705882
-				],
-				"secondary_color": "f4f9f9",
-				"_avg_color": [
-					0.5897435897435898,
-					0.33333333333333337,
-					0.15294117647058825
-				],
-				"primary_color_dark": "3f4c4c"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/30224074.jpg",
-			"min_sale_price": null,
-			"press": [],
-			"pages": [],
-			"sharing_url": "https://book.douban.com/subject/30224074/",
-			"url": "https://book.douban.com/subject/30224074/",
-			"title": "How to Change Your Mind",
-			"uri": "douban://douban.com/book/30224074",
-			"subtype": "book",
-			"intro": "Michael Pollan, whose curiosity about our eating habits led to thoughtful, culturally transformative writing in The Omnivore’s Dilemma and, most recently, Food Rules, here explores the potential psilocybin and other psychedelics hold for transformation of the spiritual and emotional kind. As he tells it in How to Change Your Mind, a fascinating, sometimes moving look at the history and uses of psychoactive compounds, Pollan avoided such drugs in his youth, but later in life became intrigued by the opportunity “to become more ‘open’—especially at this age, when the grooves of mental habit have been etched so deep as to seem inescapable.” And then there was the chance of experiencing a spiritual epiphany—“touching the face of God,” as one ecstatic user put it. Pollan’s natural skepticism and wry humor is a good match for the detailed accounts he includes of mind-blowing, trip-induced revelations. Ultimately, whether such experiences lead to genuine insight into, say, the origins of the universe or what we can expect after death seems less interesting to Pollan than the hope psychedelics offer people suffering from depression, addiction, and acute illness. Can magic mushrooms be used more broadly for “the betterment of well people”? Readers who begin reading Pollan’s book feeling doubtful about the responsible use of psychedelics may find their own minds changed by his engaging, enlightened, and persuasive combination of personal and journalistic research. “I felt as if I were standing on the edge of a wide-open frontier, squinting to make out something wondrous,” he writes, and with him as our guide, so do we. —Sarah Harrison Smith, Amazon Book Review",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": false
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 4,
-			"value": 4
-		},
-		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/30229756/ 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30229756/interest/1408048679",
-		"tags": [
-			"个人管理",
-			"英文原版"
-		],
-		"charts": [],
-		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2018-07-24 06:44:55",
-		"status": "done",
-		"id": 1408048679,
-		"is_private": false,
-		"subject": {
-			"rating": {
-				"count": 118,
-				"max": 10,
-				"star_count": 3.5,
-				"value": 6.7
-			},
-			"controversy_reason": "",
-			"pubdate": [
-				"2018-5-15"
-			],
-			"pic": {
-				"large": "https://img2.doubanio.com/view/subject/l/public/s29775163.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29775163.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
-			},
-			"honor_infos": [],
-			"other_versions_count": 3,
-			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
-			"card_subtitle": "Benjamin Spall Michael Xander / 2018 / Portfolio",
-			"book_subtitle": "How Successful People Start Every Day Inspired",
-			"id": "30229756",
-			"author": [
-				"Benjamin Spall",
-				"Michael Xander"
-			],
-			"is_released": true,
-			"vendor_original_price": "",
-			"color_scheme": {
-				"is_dark": false,
-				"primary_color_light": "f0f2ec",
-				"_base_color": [
-					0.22222222222222196,
-					0.024096385542168704,
-					0.9764705882352941
-				],
-				"secondary_color": "f8f9f4",
-				"_avg_color": [
-					0.07936507936507926,
-					0.0882352941176471,
-					0.9333333333333333
-				],
-				"primary_color_dark": "f0f2ec"
-			},
-			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/30229756.jpg",
-			"min_sale_price": null,
-			"press": [
-				"Portfolio"
-			],
-			"pages": [
-				"288"
-			],
-			"sharing_url": "https://book.douban.com/subject/30229756/",
-			"url": "https://book.douban.com/subject/30229756/",
-			"title": "My Morning Routine",
-			"uri": "douban://douban.com/book/30229756",
-			"subtype": "book",
-			"intro": "\"A guide to the early morning habits that boost your productivity and relax you—featuring interviews with leaders like Arianna Huffington, General Stanley McChrystal, Marie Kondo, and more.\"\nMarie Kondo performs a quick tidying ritual to quiet her mind before leaving the house. The president of Pixar and Walt Disney Animation Studios, Ed Catmull, mixes three shots of espresso with three scoops of cocoa powder and two sweeteners. Fitness expert Jillian Michaels doesn't set an alarm, because her five-year-old jolts her from sleep by jumping into bed for a cuddle every morning.\nPart instruction manual, part someone else's diary, the authors of My Morning Routine interviewed  sixty-four of today's most successful people, including  three-time Olympic gold medalist Rebecca Soni, Twitter cofounder Biz Stone, and General Stanley McChrystal–and offer advice on creating a routine of your own.\nSome routines are all about early morning exercise and spartan living; others are more leisurely and self-indulgent. What they have in common is they don't feel like a chore. Once you land on the right routine, you'll look forward to waking up.\nThis comprehensive guide will show you how to get into a routine that works for you so that you can develop the habits that move you forward. Just as a Jenga stack is only as sturdy as its foundational blocks, the choices we make throughout our day depend on the intentions we set in the morning. Like it or not, our morning habits form the stack that our whole day is built on.\nWhether you want to boost your productivity, implement a workout or meditation routine, or just learn to roll with the punches in the morning, this book has you covered.",
-			"buy_more_uri": "",
-			"null_rating_reason": "",
-			"article_intros": [],
-			"vendor_sale_price": "",
-			"has_ebook": true
-		}
-	},
-	{
-		"comment": "",
-		"rating": {
-			"count": 1,
-			"max": 5,
-			"star_count": 4,
-			"value": 4
-		},
 		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/1865089/ 来自@豆瓣App",
 		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/1865089/interest/1404586431",
 		"tags": [
@@ -54639,7 +54381,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 57219,
+				"count": 57214,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -54705,90 +54447,269 @@
 		}
 	},
 	{
-		"comment": "",
+		"comment": "原本希望凭借本书学一些美籍华人小孩成长经历的。\nJimmy是一个聪明孩子，只是兴趣不在学校，不在家长给安排好的路，而是自己走了一条不平常的路。\n这本书通篇大白话，读起来轻松。",
 		"rating": {
 			"count": 1,
 			"max": 5,
-			"star_count": 4,
-			"value": 4
+			"star_count": 3,
+			"value": 3
 		},
-		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/26897263/ 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26897263/interest/1393775579",
+		"sharing_text": "我的评分：★★★ 原本希望凭借本书学一些美籍华人小孩成长经历的。\nJimmy是一个聪明孩子，只是兴趣不在学校，不在家长给安排好的路，而是自己走了一条不平常的路。\n这本书通篇大白话，读起来轻松。 https://book.douban.com/subject/30152134/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/30152134/interest/1393775204",
 		"tags": [
-			"贾平凹",
-			"散文",
-			"文学"
+			"英文原著",
+			"传记",
+			"美国",
+			"移民",
+			"成长"
 		],
 		"charts": [],
 		"platforms": [],
-		"vote_count": 0,
-		"create_time": "2018-07-17 05:19:31",
+		"vote_count": 1,
+		"create_time": "2018-06-26 01:26:30",
 		"status": "done",
-		"id": 1393775579,
+		"id": 1393775204,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1073,
+				"count": 746,
 				"max": 10,
-				"star_count": 3.5,
-				"value": 7.3
+				"star_count": 4,
+				"value": 7.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"2016-11-1"
+				"2018-3-3"
 			],
 			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s29108206.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29108206.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29699319.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29699319.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
 			"other_versions_count": 1,
 			"is_show": false,
 			"vendor_icons": [],
-			"card_subtitle": "贾平凹 / 2016 / 九州出版社",
-			"book_subtitle": "",
-			"id": "26897263",
+			"card_subtitle": "Jimmy O. Yang / 2018 / Da Capo Press",
+			"book_subtitle": "An Immigrant's Guide to Disappointing Your Parents",
+			"id": "30152134",
 			"author": [
-				"贾平凹"
+				"Jimmy O. Yang"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
 			"color_scheme": {
-				"is_dark": false,
-				"primary_color_light": "f2f1f1",
+				"is_dark": true,
+				"primary_color_light": "586b72",
 				"_base_color": [
-					0,
-					0.004237288135593325,
-					0.9254901960784314
+					0.5454545454545454,
+					0.2291666666666666,
+					0.18823529411764706
 				],
-				"secondary_color": "f9f4f4",
+				"secondary_color": "f4f8f9",
 				"_avg_color": [
-					0.09259259259259282,
-					0.03846153846153845,
-					0.9176470588235294
+					0.611111111111111,
+					0.08108108108108117,
+					0.2901960784313726
 				],
-				"primary_color_dark": "f2f1f1"
+				"primary_color_dark": "3a474c"
 			},
 			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/26897263.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/30152134.jpg",
 			"min_sale_price": null,
 			"press": [
-				"九州出版社"
+				"Da Capo Press"
 			],
 			"pages": [
-				"320"
+				"240"
 			],
-			"sharing_url": "https://book.douban.com/subject/26897263/",
-			"url": "https://book.douban.com/subject/26897263/",
-			"title": "愿人生从容",
-			"uri": "douban://douban.com/book/26897263",
+			"sharing_url": "https://book.douban.com/subject/30152134/",
+			"url": "https://book.douban.com/subject/30152134/",
+			"title": "How to American",
+			"uri": "douban://douban.com/book/30152134",
 			"subtype": "book",
-			"intro": "★贾平凹文学生涯中极高水平散文精选，愿你人生从容，献给每一个在生命旅途中跋涉的人。\n★【献给每一个在生命旅途中跋涉的你】：在这孤独的世间，你我都是生命的的朝圣者，也是生命的跋涉者，我们追寻人生的真意，难免失望和迷茫。贾平凹先生的文字，直指本心，洞彻心扉，无异于荒漠中一道清泉。\n真正的从容，不是躲避纷争与喧嚣，而是平静地面对困惑与烦恼。人生的旅途，苦与乐总是相随，禁得住多少曲折，才配得上多少幸福。\n贾平凹先生用诚挚朴素的笔触，写他所见、所感的人和事，字里行间，无不闪烁着灼目的智慧。\n读过书中贾平凹先生呈现的人生片段，我们终将明白，从容不是随波逐流，不要过早地顺从强悍的命运，唯有默守初心，才能做成真的自己。\n人生的真正意义，在于淡定从容地过这一生。\n",
+			"intro": "Standup comic, actor and fan favorite from HBO's Silicon Valley and the film Crazy Rich Asians shares his memoir of growing up as a Chinese immigrant in California and making it in Hollywood.\n\"I turned down a job in finance to pursue a career in stand-up comedy. My dad thought I was crazy. But I figured it was better to disappoint my parents for a few years than to disappoint myself for the rest of my life. I had to disappoint them in order to pursue what I loved. That was the only way to have my Chinese turnip cake and eat an American apple pie too.\"\nJimmy O. Yang is a standup comedian, film and TV actor and fan favorite as the character Jian Yang from the popular HBO series Silicon Valley. In How to American, he shares his story of growing up as a Chinese immigrant who pursued a Hollywood career against the wishes of his parents: Yang arrived in Los Angeles from Hong Kong at age 13, learned English by watching BET RapCity for three hours a day, and worked as a strip club DJ while pursuing his comedy career. He chronicles a near deportation episode during a college trip Tijuana to finally becoming a proud US citizen ten years later. Featuring those and many other hilarious stories, while sharing some hard-earned lessons, How to American mocks stereotypes while offering tongue in cheek advice on pursuing the American dreams of fame, fortune, and strippers.",
 			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
 			"has_ebook": false
+		}
+	},
+	{
+		"comment": "看这本书的同时，我还在看另外一本讲述纽约法拉盛的中国移民的纪实文学，书大概是被禁了，在豆瓣都无法输入相关信息。然而，那是我熟悉的纽约的一部分，庇护，绿卡，工作，底层的生活。\n白先勇笔下的纽约客，是我从没有见过的。然而白先勇的文字，真是好。",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ 看这本书的同时，我还在看另外一本讲述纽约法拉盛的中国移民的纪实文学，书大概是被禁了，在豆瓣都无法输入相关信息。然而，那是我熟悉的纽约的一部分，庇护，绿卡，工作，底层的生活。\n白先勇笔下的纽约客，是我从没有见过的。然而白... https://book.douban.com/subject/5337243/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/5337243/interest/1380777776",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2018-05-28 15:09:48",
+		"status": "done",
+		"id": 1380777776,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 22830,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 8.7
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2010-10"
+			],
+			"pic": {
+				"large": "https://img2.doubanio.com/view/subject/l/public/s4526473.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s4526473.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 3,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "白先勇 / 2010 / 广西师范大学出版社",
+			"book_subtitle": "",
+			"id": "5337243",
+			"author": [
+				"白先勇"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "f2dbbc",
+				"_base_color": [
+					0.09696969696969697,
+					0.22000000000000003,
+					0.9803921568627451
+				],
+				"secondary_color": "f9f7f4",
+				"_avg_color": [
+					0.09226190476190477,
+					0.22134387351778656,
+					0.9921568627450981
+				],
+				"primary_color_dark": "f2dbbc"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/5337243.jpg",
+			"min_sale_price": null,
+			"press": [
+				"广西师范大学出版社"
+			],
+			"pages": [
+				"276"
+			],
+			"sharing_url": "https://book.douban.com/subject/5337243/",
+			"url": "https://book.douban.com/subject/5337243/",
+			"title": "纽约客",
+			"uri": "douban://douban.com/book/5337243",
+			"subtype": "book",
+			"intro": "《纽约客》是白先勇在六十年代就已着手创作的小说系列，《纽约客》之名或许借自美国著名文学杂志New Yorker，却与《台北人》正好成为一个浑成的佳对。从收录在《纽约客》尔雅版这个集子中的六篇小说来看，《谪仙记》和《谪仙怨》写于二十世纪六十年代，《夜曲》和《骨灰》发表在二十世纪七、八十年代，《Danny Boy》和《Tea for Two》则是最近几年创作的作品。仔细对照这些分属不同时期的小说，或许可以发现，体现在白先勇《纽约客》中的创作立场，经历了一个从上个世纪的国族（中国）立场，到近年来的世界主义的变化过程。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 5,
+			"value": 5
+		},
+		"sharing_text": "我的评分：★★★★★ https://book.douban.com/subject/26093161/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26093161/interest/1352334080",
+		"tags": [
+			"死亡",
+			"医学",
+			"生命",
+			"英文原版"
+		],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2018-04-13 15:03:58",
+		"status": "done",
+		"id": 1352334080,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 1984,
+				"max": 10,
+				"star_count": 4.5,
+				"value": 9.2
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2014-10-7"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s29181768.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s29181768.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 5,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "Atul Gawande / 2014 / Metropolitan Books",
+			"book_subtitle": "Medicine and What Matters in the End",
+			"id": "26093161",
+			"author": [
+				"Atul Gawande"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "f2ead7",
+				"_base_color": [
+					0.11728395061728393,
+					0.10887096774193544,
+					0.9725490196078431
+				],
+				"secondary_color": "f9f8f4",
+				"_avg_color": [
+					0.11728395061728393,
+					0.11249999999999996,
+					0.9411764705882353
+				],
+				"primary_color_dark": "f2ead7"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26093161.jpg",
+			"min_sale_price": null,
+			"press": [
+				"Metropolitan Books"
+			],
+			"pages": [
+				"304"
+			],
+			"sharing_url": "https://book.douban.com/subject/26093161/",
+			"url": "https://book.douban.com/subject/26093161/",
+			"title": "Being Mortal",
+			"uri": "douban://douban.com/book/26093161",
+			"subtype": "book",
+			"intro": "In Being Mortal, bestselling author Atul Gawande tackles the hardest challenge of his profession: how medicine can not only improve life but also the process of its ending\nMedicine has triumphed in modern times, transforming birth, injury, and infectious disease from harrowing to manageable. But in the inevitable condition of aging and death, the goals of medicine seem too frequently to run counter to the interest of the human spirit. Nursing homes, preoccupied with safety, pin patients into railed beds and wheelchairs. Hospitals isolate the dying, checking for vital signs long after the goals of cure have become moot. Doctors, committed to extending life, continue to carry out devastating procedures that in the end extend suffering.\nGawande, a practicing surgeon, addresses his profession’s ultimate limitation, arguing that quality of life is the desired goal for patients and families. Gawande offers examples of freer, more socially fulfilling models for assisting the infirm and dependent elderly, and he explores the varieties of hospice care to demonstrate that a person's last weeks or months may be rich and dignified.\nFull of eye-opening research and riveting storytelling, Being Mortal asserts that medicine can comfort and enhance our experience even to the end, providing not only a good life but also a good end.",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
 		}
 	},
 	{
@@ -54799,84 +54720,175 @@
 			"star_count": 4,
 			"value": 4
 		},
-		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/26394065/ 来自@豆瓣App",
-		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26394065/interest/1404587236",
+		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/4175473/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/4175473/interest/1347885224",
 		"tags": [
-			"跑步",
-			"励志",
-			"生活方式",
-			"长跑"
+			"小说",
+			"亚历山大",
+			"外国文学",
+			"英国文学"
 		],
 		"charts": [],
 		"platforms": [],
 		"vote_count": 0,
-		"create_time": "2018-07-14 13:22:33",
+		"create_time": "2018-04-13 15:03:29",
 		"status": "done",
-		"id": 1404587236,
+		"id": 1347885224,
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 153,
+				"count": 3752,
 				"max": 10,
-				"star_count": 3.5,
-				"value": 6.5
+				"star_count": 4.5,
+				"value": 8.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"2015-6"
+				"2010-8"
 			],
 			"pic": {
-				"large": "https://img9.doubanio.com/view/subject/l/public/s28076714.jpg",
-				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s28076714.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+				"large": "https://img2.doubanio.com/view/subject/l/public/s28376013.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s28376013.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 0,
+			"other_versions_count": 5,
 			"is_show": false,
-			"vendor_icons": [],
-			"card_subtitle": "【美】本•戴维斯 / 2015 / 四川人民出版社",
+			"vendor_icons": [
+				"https://img2.doubanio.com/f/frodo/68f74e04bccf438edfef28e385a0430e25f482eb/pics/vendors/logo_toutiao.jpg",
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "[英] 玛丽·瑞瑙特 / 2010 / 上海人民出版社",
 			"book_subtitle": "",
-			"id": "26394065",
+			"id": "4175473",
 			"author": [
-				"【美】本•戴维斯"
+				"[英] 玛丽·瑞瑙特"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a2a5a2",
+				"primary_color_light": "a56119",
 				"_base_color": [
-					0.3333333333333333,
-					0.018181818181818243,
-					0.8627450980392157
+					0.08585858585858586,
+					0.846153846153846,
+					0.9176470588235294
 				],
-				"secondary_color": "f4f9f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.5303030303030306,
-					0.055837563451776734,
-					0.7725490196078432
+					0.08403361344537814,
+					0.5265486725663716,
+					0.8862745098039215
 				],
-				"primary_color_dark": "7d7f7d"
+				"primary_color_dark": "7f4b13"
 			},
 			"type": "book",
-			"cover_url": "https://dou.img.lithub.cc/book/26394065.jpg",
+			"cover_url": "https://dou.img.lithub.cc/book/4175473.jpg",
 			"min_sale_price": null,
 			"press": [
-				"四川人民出版社"
+				"上海人民出版社"
 			],
 			"pages": [
-				"224"
+				"436"
 			],
-			"sharing_url": "https://book.douban.com/subject/26394065/",
-			"url": "https://book.douban.com/subject/26394065/",
-			"title": "跑步，成为最好的自己",
-			"uri": "douban://douban.com/book/26394065",
+			"sharing_url": "https://book.douban.com/subject/4175473/",
+			"url": "https://book.douban.com/subject/4175473/",
+			"title": "波斯少年",
+			"uri": "douban://douban.com/book/4175473",
 			"subtype": "book",
-			"intro": "\"22岁那年，体重166公斤的本跌入了人生谷底。“超重”的体型不仅让他成为别人眼中的异类，还使他身陷抑郁情绪的阴霾。面对这些，本走进了一个孤独的死胡同，他选择逃避与沉沦，远离家人和朋友，让自己沉迷在赌博带来的虚幻中。\n圣诞之夜，一向疼爱他的奶奶问了一句 “你快乐吗？”，这个寻常的问题如针刺般扎进了本的心中，他顿时感到如梦初醒，重新审视起自己糟糕的生活。这回，本决意走上自我救赎的道路，他选择了跑步，从此，这项简单的运动带他进入了新的生活旅程，他完成了一次次自我挑战，不断创造新的个人跑步纪录。\n\"",
+			"intro": "玛丽·瑞瑙特在《天堂之火》中讲述了亚历山大20岁继位以前的人生，而《波斯少年》则以第一人称回忆录的动人之笔，续写大帝最后的七年。故事叙述者是一位真实的波斯人——亚历山大青春俊美的伴侣巴勾鄂斯。\n这少年幼时被卖为奴隶，辗转成了波斯国王大流士的男宠，他起初只从宫闱传闻里听说亚历山大震动朝野的胜利。后来在高伽米拉战场上，亚历山大再次击败大流士，将他赶上逃亡之路。大流士故后，巴勾鄂斯被作为求和礼物献入亚历山大的内廷。\n亚历山大对声色享受体验尚浅，但对感情向来需求很深；巴勾鄂斯善于悦人，却一直无处实现少年的恋梦。他们的相遇恰似命中注定。征途漫漫，爱情给了亚历山大无限安慰，历经刺杀阴谋、异族联姻与军心浮动，他对巴勾鄂斯始终未减眷恋。\n瑞瑙特不但以大师手笔再现了一代军事天才的光荣与梦想，而且一反亚历山大故事从希腊人出发的传统视角，借波斯人眼光写出胜利者与臣服民族难以弥合的鸿沟。作为历史小说，《波斯少年》不仅大气磅礴，细节精确，考据严谨，而且全书洋溢着一种罕见的深情与人性之光，与现代读者无有阻隔。\n【书评一览】\n她[张爱玲]看过Mary Renault的《The King Must Die》，看得津津有味。——水晶《蝉：夜访张爱玲》，1971年\n玛丽•瑞瑙特代表了历史小说的最高理想——使读者获得对过去的新洞见。……她在作品中真实自然地展示希腊世界的生活与道德，而且把双性爱、同性爱和异性爱都视为常态，予以从容的表现。——《纽约时报》\n玛丽•瑞瑙特属于极少数长年创作而精品迭出的作家，她写到的每一个题材都予人新鲜的惊奇感。——《华尔街日报》\n玛丽•瑞瑙特的亚历山大三部曲是20世纪原创性最令人意外的艺术品之一。——戈尔•维达尔，著名美国作家\n刻画深爱着战士（亚历山大）的半是男子的这位宫廷宠臣，需要娴熟的技法，瑞瑙特女士成就斐然。——《大西洋月刊》",
 			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
+		}
+	},
+	{
+		"comment": "",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 4,
+			"value": 4
+		},
+		"sharing_text": "我的评分：★★★★ https://book.douban.com/subject/10601137/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/10601137/interest/1323442874",
+		"tags": [
+			"随笔"
+		],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2018-03-04 05:07:39",
+		"status": "done",
+		"id": 1323442874,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 13483,
+				"max": 10,
+				"star_count": 4,
+				"value": 7.6
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2012-4-1"
+			],
+			"pic": {
+				"large": "https://img2.doubanio.com/view/subject/l/public/s9070992.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s9070992.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 2,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "周濂 / 2012 / 中国人民大学出版社",
+			"book_subtitle": "",
+			"id": "10601137",
+			"author": [
+				"周濂"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": false,
+				"primary_color_light": "bcc2f2",
+				"_base_color": [
+					0.6481481481481483,
+					0.22222222222222215,
+					0.9529411764705882
+				],
+				"secondary_color": "f4f5f9",
+				"_avg_color": [
+					0.6468253968253967,
+					0.17355371900826444,
+					0.9490196078431372
+				],
+				"primary_color_dark": "bcc2f2"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/10601137.jpg",
+			"min_sale_price": null,
+			"press": [
+				"中国人民大学出版社"
+			],
+			"pages": [
+				"306"
+			],
+			"sharing_url": "https://book.douban.com/subject/10601137/",
+			"url": "https://book.douban.com/subject/10601137/",
+			"title": "你永远都无法叫醒一个装睡的人",
+			"uri": "douban://douban.com/book/10601137",
+			"subtype": "book",
+			"intro": "本书精选学术新锐周濂十年来公开发表的随笔文章，包括时评、书评及其部分学术文章等。作者以其深厚的专业学养作为根基，把他对幸福、公正、德性生活、民主、自由、道德等等这些问题的哲学思考融进一个个现实故事和活泼泼的生命体验中，用最真切的道德直觉和清醒的问题意识和柳叶刀式的 概念分析能力，一猛子扎进问题的深处，把深邃的哲学拉回到“粗糙的地面”。\n在本书中，作者想告诉我们，在一个乌烟瘴气的喧嚣迷茫时代，在一个颠倒是非的时代里生活，个体性的痛楚可想而知，除非你放弃自身的价值标准，与这个肮脏的时代握手言和，或者闭上眼睛装睡。可是即使是在外部环境非常糟糕的情况下，一个人依然可以选择过一种合乎德性的生活，并以此来安排自己的日常生活，依然可以选择不止做个“好人”，还可以做个“好公民”。",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
 		}
 	},
 	{
@@ -55831,7 +55843,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1129,
+				"count": 1128,
 				"max": 10,
 				"star_count": 2.5,
 				"value": 5.2
@@ -55917,7 +55929,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22838,
+				"count": 22830,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -58743,7 +58755,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15014,
+				"count": 15011,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -58826,7 +58838,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4024,
+				"count": 4023,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -62532,7 +62544,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14340,
+				"count": 14338,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -62617,7 +62629,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33588,
+				"count": 33587,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -63647,7 +63659,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50031,
+				"count": 50028,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -64825,7 +64837,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17918,
+				"count": 17915,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -65411,7 +65423,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32823,
+				"count": 32819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -65585,7 +65597,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18770,
+				"count": 18768,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -65777,7 +65789,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22830,
+				"count": 22823,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -66044,7 +66056,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14104,
+				"count": 14105,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -66396,7 +66408,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88325,
+				"count": 88324,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -66492,7 +66504,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 275534,
+				"count": 275514,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -66815,7 +66827,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 484997,
+				"count": 484965,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -68017,7 +68029,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 29715,
+				"count": 29707,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -68272,7 +68284,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19032,
+				"count": 19030,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -69051,7 +69063,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16581,
+				"count": 16580,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -69134,7 +69146,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7904,
+				"count": 7903,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -69335,7 +69347,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 144076,
+				"count": 144075,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -70049,7 +70061,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5360,
+				"count": 5359,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -70322,7 +70334,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 93186,
+				"count": 93183,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -71382,7 +71394,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2084,
+				"count": 2083,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -71653,7 +71665,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98089,
+				"count": 98087,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -75472,7 +75484,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5985,
+				"count": 5984,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -75739,7 +75751,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1864,
+				"count": 1863,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -78604,7 +78616,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13049,
+				"count": 13048,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -78690,7 +78702,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 108779,
+				"count": 108760,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -78783,7 +78795,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 82895,
+				"count": 82879,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -78876,7 +78888,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 60287,
+				"count": 60274,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -79058,7 +79070,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1669,
+				"count": 1668,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -79585,7 +79597,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 153074,
+				"count": 153047,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -79681,7 +79693,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 147632,
+				"count": 147601,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -80300,7 +80312,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228418,
+				"count": 228413,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -80387,7 +80399,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 196149,
+				"count": 196145,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -80568,7 +80580,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43773,
+				"count": 43764,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -81703,7 +81715,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 98781,
+				"count": 98764,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -82207,7 +82219,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46237,
+				"count": 46235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -82463,7 +82475,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21978,
+				"count": 21977,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -82629,7 +82641,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 129251,
+				"count": 129236,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -82719,7 +82731,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111860,
+				"count": 111856,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -82804,7 +82816,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 206679,
+				"count": 206642,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -83828,7 +83840,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48643,
+				"count": 48641,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -83995,7 +84007,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22186,
+				"count": 22183,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -84078,7 +84090,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 100847,
+				"count": 100841,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -84163,7 +84175,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 346303,
+				"count": 346294,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -84255,7 +84267,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 28020,
+				"count": 28019,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -84340,7 +84352,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65855,
+				"count": 65850,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -84508,7 +84520,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2696,
+				"count": 2695,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -84936,7 +84948,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13969,
+				"count": 13968,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -85021,7 +85033,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10807,
+				"count": 10805,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -85189,7 +85201,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 214596,
+				"count": 214588,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -85362,7 +85374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 212462,
+				"count": 212463,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -85625,7 +85637,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111147,
+				"count": 111146,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -85710,10 +85722,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23969,
+				"count": 23965,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.1
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -85797,7 +85809,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 54666,
+				"count": 54662,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -86233,7 +86245,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 126093,
+				"count": 126078,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -86250,7 +86262,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 39,
+					"rank": 40,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -86496,7 +86508,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 118501,
+				"count": 118484,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -86588,7 +86600,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 158891,
+				"count": 158881,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -86678,7 +86690,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 737193,
+				"count": 737102,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
