@@ -253,7 +253,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1174,
+				"count": 1173,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -649,7 +649,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21143,
+				"count": 21134,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -729,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16282,
+				"count": 16281,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -809,10 +809,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 38871,
+				"count": 38869,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"genres": [
 				"民谣"
@@ -890,7 +890,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17568,
+				"count": 17567,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1143,7 +1143,7 @@
 					"name": "The Future Sound of London"
 				}
 			],
-			"is_playable": false,
+			"is_playable": true,
 			"uri": "douban://douban.com/music/1779031",
 			"is_released": true,
 			"is_show": false,
@@ -1428,7 +1428,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 52799,
+				"count": 52798,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1583,7 +1583,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16992,
+				"count": 16991,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -1737,7 +1737,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 547,
+				"count": 546,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -2797,7 +2797,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40415,
+				"count": 40408,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2874,7 +2874,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18773,
+				"count": 18770,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3800,7 +3800,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20364,
+				"count": 20362,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -3954,7 +3954,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9973,
+				"count": 9969,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4032,7 +4032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27635,
+				"count": 27634,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4109,7 +4109,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 32858,
+				"count": 32854,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4258,7 +4258,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43397,
+				"count": 43388,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4418,7 +4418,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 34812,
+				"count": 34811,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -4494,7 +4494,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 40628,
+				"count": 40629,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4646,7 +4646,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 64480,
+				"count": 64474,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4718,7 +4718,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48119,
+				"count": 48111,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4790,7 +4790,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46310,
+				"count": 46300,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4861,7 +4861,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24873,
+				"count": 24870,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -4929,7 +4929,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 44737,
+				"count": 44727,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -5074,7 +5074,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18544,
+				"count": 18542,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5218,7 +5218,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 57461,
+				"count": 57459,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5365,7 +5365,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20283,
+				"count": 20279,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5755,7 +5755,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19523,
+				"count": 19521,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5907,7 +5907,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10647,
+				"count": 10646,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
