@@ -24,7 +24,9 @@ tags: 跑步 FCS
 
 ![2023-09-27-racers.png](https://s2.loli.net/2023/09/27/A6xPdCtgGHuMkbJ.png)
 
+![2023-09-27-racers_arrowhead.jpeg](https://s2.loli.net/2023/09/28/j7GaeZEVH4gRbdN.jpg)
 
+![2023-09-27-racers_ionis.png](https://s2.loli.net/2023/09/28/icPVZkQ5AsyDLjG.png)
 
 
 ## 我的跑步
