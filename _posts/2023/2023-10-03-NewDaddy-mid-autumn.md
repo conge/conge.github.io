@@ -5,6 +5,7 @@ date: "2023-10-03 13:11:43"
 categories: 父范学堂
 auth: conge
 tags: 新爸五年计划 女儿 儿子
+yid: A-jLiuplHqA
 ---
 * content
 {:toc}
@@ -80,7 +81,7 @@ tags: 新爸五年计划 女儿 儿子
 
 试着贴一下 Youtube 视频，不知能不能看到。
 
-{% include youtubePlayer.html id=A-jLiuplHqA %}
+{% include youtubePlayer.html id=page.yid %}
 
 | Date     | Pics  |
 | :------- | :------------------------------------------------------------------: |
