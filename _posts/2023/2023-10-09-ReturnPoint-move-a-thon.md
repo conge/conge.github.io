@@ -30,7 +30,7 @@ Move-a-thon 大概可以翻译成“动起来马拉松”，借马拉松之名�
 | 儿子的班级是红色 | ![20231009-move-son.jpeg](https://s2.loli.net/2023/10/10/IWVP3MxwJikmroc.jpg) |
 | 女儿的班级是绿色 | ![20231009-move-daughter_2.jpeg](https://s2.loli.net/2023/10/10/17OiFXo8KzrGYRj.jpg) |
 | 起点 | ![20231006.jpeg](https://s2.loli.net/2023/10/10/9Fve1dApfKDNEim.jpg) |
-| 学校操场上的一个圆环，提醒学生们如果有成图，可以有多种方式处理情绪和解决问题，而不需要诉诸暴力 | ![20231009-move-mood.jpeg](https://s2.loli.net/2023/10/10/5q2ZOIXae89F3Ld.jpg) |
+| 学校操场上的一个圆环，提醒学生们如果有冲突，可以有多种方式处理情绪和解决问题，而不需要诉诸暴力 | ![20231009-move-mood.jpeg](https://s2.loli.net/2023/10/10/5q2ZOIXae89F3Ld.jpg) |
 
 ## 战绩
 
