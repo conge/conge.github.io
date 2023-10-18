@@ -78,7 +78,7 @@ tags: 新爸五年计划 女儿 儿子
 
 哦，我还带回来半袋子的苹果。
 
-妻子第二天用苹果烘培了甜品，叫做“”，又送给 Jeff 家。
+妻子第二天用苹果烘培了甜品，叫做“Apple Crisp”([食谱](https://belleofthekitchen.com/apple-crisp/))，又送给 Jeff 家。
 
 这样的邻里往来，同样让人感受温暖甜蜜，正与金秋应景。
 
