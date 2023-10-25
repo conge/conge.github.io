@@ -61,13 +61,22 @@ tags: 冥想 呼吸
 | --------------------------------- |
 | 图片作者： [Jill Wellington](https://unsplash.com/photos/78A265wPiO4) |
 
-> 我近期些的有关[冥想](https://conge.github.io/tag/#冥想)的其他文章:
->
-> - 2022-06-16 Thu. [冥想与腹式呼吸](/2022/06/16/belly-breathing/)
-> - 2022-05-10 Tue. [冥想的根本](/2022/05/10/basics/)
-> - 2022-04-27 Wed. [冥想，从练习坐姿开始 ](/2022/04/27/sitting/)
-> - 2022-04-08 Fri. [简单冥想](/2022/04/08/simple-meditation/)
+## 我的冥想相关文章
 
+> * [有关简单冥想练习的问答](https://conge.livingwithfcs.org/2022/04/15/Q-and-A-about-meditation/)
+> * [冥想与呼吸](https://conge.livingwithfcs.org/2022/04/22/breathing/)
+> * [冥想，从练习坐姿开始](https://conge.livingwithfcs.org/2022/04/27/sitting/)
+> * [冥想的时候浑身不得劲](https://conge.livingwithfcs.org/2022/05/03/unsettling/)
+> * [冥想的根本](https://conge.livingwithfcs.org/2022/05/10/basics/)
+> * [冥想的最佳环境](https://conge.livingwithfcs.org/2022/05/17/meditation-env/)
+> * [冥想是有坏处的](https://conge.livingwithfcs.org/2022/06/03/disadvantages/)
+> * [冥想可以不闭眼睛么？](https://conge.livingwithfcs.org/2022/06/09/eye/)
+> * [冥想与腹式呼吸](https://conge.livingwithfcs.org/2022/06/16/belly-breathing/)
+> * [冥想与逆腹式呼吸](https://conge.livingwithfcs.org/2022/06/24/alternative-breathing/)
+> * [冥想过程好不好，怎么评估呢?](https://conge.livingwithfcs.org/2022/06/29/no-judgement/)
+> * [冥想与太极](https://conge.livingwithfcs.org/2022/07/06/taichi/)
+> * [冥想中的端坐、引导音频、分神和腿麻问题](https://conge.livingwithfcs.org/2022/07/27/meditation-difficulties/)
+> * [折返点 2241 - 连续冥想了999天了](https://conge.livingwithfcs.org/2022/10/16/ReturnPoint-999-meditations/)
 ```
 2022-06-24 初稿
 ```
