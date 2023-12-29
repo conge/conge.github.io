@@ -16,9 +16,7 @@ type: page
 - [微信读书](https://r.qq.com)
 - [Libby App](https://libbyapp.com/shelf)
 - [Z-libray](https://z-lib.org/): z-lib is gone. RIP.
-  - [zlib.吴磊磊.中国](https://zlib.xn--irr646fa.xn--fiqs8s/)
-  - [Zebra 书籍搜索](https://zebra.9farm.com/)
-  - [z-lib book searcher](https://github.com/book-searcher-org/book-searcher)
+  - [z-lib book searcher](https://github.com/conge/book-searcher)
   - [Hallow Lib](https://bk.hallowlib.org/): 看上去是另一个z-lib 索引网站
 - [传硕](https://www.7sbook.com/): 公版书在线阅读与Epub下载
 - [知轩藏书](http://zxcs.me/)：网络小说下载
@@ -46,6 +44,26 @@ type: page
 - 网页截图: `FireShot`
 - api管理: `Postman`
 - 脚本管理器: `Tampermonkey`
+
+## Z-libray 备用镜像 (Not Tested)
+
+* https://zlib.pro
+* https://pangniao.net/z-library-zui-xin-di-zhi.html
+* https://zbook.lol/
+* https://zlib.knat.network/
+* https://zlib.qtoh.xyz/
+* https://zlib.awesc.com/
+* https://book.vergedx.me/
+* https://zlib.pseudoyu.com/
+* https://read.liugezhou.online/
+* https://book-searcher.eu.org/
+* https://zlib.zwt.one/
+* https://zlib.missuo.me/
+* https://zlibrary.shuziyimin.org/
+* https://bk.hallowlib.org/
+* https://1lib.ink/
+* https://annas-archive.org/
+
 
 ## Comments
 
