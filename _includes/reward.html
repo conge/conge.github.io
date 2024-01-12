@@ -13,7 +13,7 @@
       <img class="image" src="{{ site.reward.alipay }}" />
       <span>支付宝赞赏</span>
     </label>
-    {% endif %} {% if site.reward.paypal %}
+    {% endif %} 
       <a class="reward-button post-reward" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
         <span class="icon is-small">
           <i class="fa fa-paypal"></i>
@@ -22,15 +22,15 @@
       </a>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" rel="noopener" id="paypal-donate-form">
         <input type="hidden" name="cmd" value="_donations">
-        <input type="hidden" name="business" value="{{ site.reward.paypal }}">
+        <input type="hidden" name="business" value="9VTNWW3HMQJD6">
         <input type="hidden" name="currency_code" value="USD">
       </form>
-    {% endif %} {% if site.reward.buymeacoffee %}  
-      <a class="reward-button post-reward" href="https://www.buymeacoffee.com/{{ site.reward.buymeacoffee }}" target="_blank" rel="noopener" data-type="buymeacoffee">
+    
+      <a class="reward-button post-reward" href="https://www.buymeacoffee.com/qingyang" target="_blank" rel="noopener" data-type="buymeacoffee">
         <span class="icon is-small">
           <i class="fa fa-coffee"></i>
         </span>
         <span>请我喝咖啡</span></a>
-    {% endif %} 
+    
   </div>
 </div>

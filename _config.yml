@@ -57,8 +57,8 @@ reward:
   enable: true
   wechat: /assets/images/WechatIMG26.jpeg
   alipay: #/assets/images/reward/alipay.png #url to qrcode pic
-  buymeacoffee: qingyang
-  paypal: 9VTNWW3HMQJD6
+# buymeacoffee: qingyang
+# paypal: 9VTNWW3HMQJD6
 
 
 # statistic analysis 统计代码
