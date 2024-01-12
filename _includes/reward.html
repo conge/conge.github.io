@@ -2,6 +2,25 @@
 <div id="post-reward" class="post-reward">
   <!---input type="checkbox" name="reward" id="reward" hidden="" /--->
   <label class="reward-button" >赞赏支持</label>
+  {% if site.reward.paypal %}
+  <a class="reward-button post-reward" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
+    <span class="icon is-small">
+      <i class="fa fa-paypal"></i>
+    </span>
+    <span>Paypal</span>
+  </a>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" rel="noopener" id="paypal-donate-form">
+    <input type="hidden" name="cmd" value="_donations">
+    <input type="hidden" name="business" value="9VTNWW3HMQJD6">
+    <input type="hidden" name="currency_code" value="USD">
+  </form>
+{% endif %} {% if site.reward.buymeacoffee %}  
+  <a class="reward-button post-reward" href="https://www.buymeacoffee.com/qingyang" target="_blank" rel="noopener" data-type="buymeacoffee">
+    <span class="icon is-small">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span>请我喝咖啡</span></a>
+{% endif %} 
   <div class="qr-code">
     {% if site.reward.wechat %}
     <label class="qr-code-image" >
@@ -15,25 +34,7 @@
     </label>
     {% endif %}
 
-  {% if site.reward.paypal %}
-      <a class="reward-button post-reward" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
-        <span class="icon is-small">
-          <i class="fa fa-paypal"></i>
-        </span>
-        <span>Paypal</span>
-      </a>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" rel="noopener" id="paypal-donate-form">
-        <input type="hidden" name="cmd" value="_donations">
-        <input type="hidden" name="business" value="9VTNWW3HMQJD6">
-        <input type="hidden" name="currency_code" value="USD">
-      </form>
-    {% endif %} {% if site.reward.buymeacoffee %}  
-      <a class="reward-button post-reward" href="https://www.buymeacoffee.com/qingyang" target="_blank" rel="noopener" data-type="buymeacoffee">
-        <span class="icon is-small">
-          <i class="fa fa-coffee"></i>
-        </span>
-        <span>请我喝咖啡</span></a>
-    {% endif %} 
+
 
   </div>
 </div>
