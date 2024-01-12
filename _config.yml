@@ -56,10 +56,10 @@ Waline:
 reward:
   enable: true
   wechat: /assets/images/WechatIMG26.jpeg
-  alipay: #/assets/images/reward/alipay.png #url to qrcode pic
-# buymeacoffee: qingyang
-# paypal: 9VTNWW3HMQJD6
-
+  buymeacoffee: qingyang
+  paypal: 9VTNWW3HMQJD6
+  alipay: #/assets/images/reward/alipay.png
+ 
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
