@@ -26,16 +26,6 @@
     }
   }
 
-  #reward:checked {
-    & ~ .qr-code {
-      display: block;
-    }
-
-    & ~ .reward-button {
-      display: none;
-    }
-  }
-
   .qr-code {
     display: none;
 
