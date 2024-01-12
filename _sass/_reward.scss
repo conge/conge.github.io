@@ -59,22 +59,6 @@
   }
 }
 
-.donate {
-  position: relative;
-}
-.donate .qrcode {
-  display: none;
-  position: absolute;
-  z-index: 99;
-  bottom: 2.5em;
-  line-height: 0;
-  overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
-  border-radius: 4px;
-}
-.donate .qrcode img {
-  max-width: 280px;
-}
 .post-reward:hover .qrcode {
   display: block;
 }

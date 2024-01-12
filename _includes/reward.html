@@ -1,7 +1,7 @@
 {% if site.reward.enable %}
 <div id="post-reward" class="post-reward">
   <!---input type="checkbox" name="reward" id="reward" hidden="" /--->
-  <label class="reward-button" for="reward">打开一个通道 接受赞赏支持 请您布施</label>
+  <label class="reward-button" for="reward">赞赏支持</label>
   <div class="qr-code">
     {% if site.reward.wechat %}
     <label class="qr-code-image" for="reward">
@@ -13,8 +13,11 @@
       <img class="image" src="{{ site.reward.alipay }}" />
       <span>支付宝赞赏</span>
     </label>
-    {% endif %} 
-      <a class="reward-button post-reward" for="reward" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
+    {% endif %}
+  </div>
+</div>
+  {% if site.reward.paypal %}
+      <a class="reward-button post-reward" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
         <span class="icon is-small">
           <i class="fa fa-paypal"></i>
         </span>
@@ -25,12 +28,13 @@
         <input type="hidden" name="business" value="9VTNWW3HMQJD6">
         <input type="hidden" name="currency_code" value="USD">
       </form>
-    
-      <a class="reward-button post-reward" for="reward" href="https://www.buymeacoffee.com/qingyang" target="_blank" rel="noopener" data-type="buymeacoffee">
+    {% endif %} {% if site.reward.buymeacoffee %}  
+      <a class="reward-button post-reward" href="https://www.buymeacoffee.com/qingyang" target="_blank" rel="noopener" data-type="buymeacoffee">
         <span class="icon is-small">
           <i class="fa fa-coffee"></i>
         </span>
         <span>请我喝咖啡</span></a>
-    
-  </div>
-</div>
+    {% endif %} 
+
+<script></script>
+{% endif %}
