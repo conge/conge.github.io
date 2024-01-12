@@ -55,8 +55,11 @@ Waline:
 # 赞赏
 reward:
   enable: true
-  wechat: /assets/images/WechatIMG26.jpeg
-  alipay: #/assets/images/reward/alipay.png
+  wechat: /assets/images/WechatIMG26.jpeg #url to qrcode pic
+  alipay: #/assets/images/reward/alipay.png #url to qrcode pic
+  buymeacoffee: qingyang # user name for buyme a coffee
+  paypal: 9VTNWW3HMQJD6 #paypal business code https://www.paypal.com/donate/?business=9xxxxxx6&no_recurring=0&currency_code=USD
+  patreon: #
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即

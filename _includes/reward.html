@@ -1,7 +1,7 @@
 {% if site.reward.enable %}
 <div id="post-reward" class="post-reward">
-  <input type="checkbox" name="reward" id="reward" hidden="" />
-  <label class="reward-button" for="reward">赞赏支持</label>
+  <!---input type="checkbox" name="reward" id="reward" hidden="" /--->
+  <label class="reward-button" for="reward">打开一个通道 接受赞赏支持 请您布施</label>
   <div class="qr-code">
     {% if site.reward.wechat %}
     <label class="qr-code-image" for="reward">
@@ -13,9 +13,24 @@
       <img class="image" src="{{ site.reward.alipay }}" />
       <span>支付宝赞赏</span>
     </label>
-    {% endif %}
+    {% endif %} {% if site.reward.alipay %}
+      <a class="button donate" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
+        <span class="icon is-small">
+          <i class="fab fa-paypal"></i>
+        </span>
+        <span>Paypal</span>
+      </a>
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" rel="noopener" id="paypal-donate-form">
+        <input type="hidden" name="cmd" value="_donations">
+        <input type="hidden" name="business" value="{{ site.reward.paypal }}">
+        <input type="hidden" name="currency_code" value="USD">
+      </form>
+    {% endif %} {% if site.reward.buymeacoffee %}  
+      <a class="button donate" href="https://www.buymeacoffee.com/{{ site.reward.buymeacoffee }}" target="_blank" rel="noopener" data-type="buymeacoffee">
+        <span class="icon is-small">
+          <i class="fas fa-coffee"></i>
+        </span>
+        <span>请我喝咖啡</span></a>
+    {% endif %} 
   </div>
 </div>
-
-<script></script>
-{% endif %}
