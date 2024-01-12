@@ -75,96 +75,96 @@
 .donate .qrcode img {
   max-width: 280px;
 }
-.donate:hover .qrcode {
+.post-reward:hover .qrcode {
   display: block;
 }
-.donate:first-child:not(:last-child) .qrcode {
+.post-reward:first-child:not(:last-child) .qrcode {
   left: -0.75rem;
 }
-.donate:last-child:not(:first-child) .qrcode {
+.post-reward:last-child:not(:first-child) .qrcode {
   right: -0.75rem;
 }
-.donate[data-type="afdian"] {
+.post-reward[data-type="afdian"] {
   color: #fff;
   background-color: #885fd9;
   border-color: transparent;
 }
-.donate[data-type="afdian"]:active {
+.post-reward[data-type="afdian"]:active {
   background-color: #794ad4;
 }
-.donate[data-type="afdian"]:hover {
+.post-reward[data-type="afdian"]:hover {
   background-color: #8055d7;
 }
-.donate[data-type="afdian"]:focus:not(:active) {
+.post-reward[data-type="afdian"]:focus:not(:active) {
   box-shadow: 0 0 0 0.125em rgba(136,95,217,0.25);
 }
-.donate[data-type="alipay"] {
+.post-reward[data-type="alipay"] {
   color: #fff;
   background-color: #00a0e8;
   border-color: transparent;
 }
-.donate[data-type="alipay"]:active {
+.post-reward[data-type="alipay"]:active {
   background-color: #008ecf;
 }
-.donate[data-type="alipay"]:hover {
+.post-reward[data-type="alipay"]:hover {
   background-color: #0097db;
 }
-.donate[data-type="alipay"]:focus:not(:active) {
+.post-reward[data-type="alipay"]:focus:not(:active) {
   box-shadow: 0 0 0 0.125em rgba(0,160,232,0.25);
 }
-.donate[data-type="buymeacoffee"] {
+.post-reward[data-type="buymeacoffee"] {
   color: rgba(0,0,0,0.7);
   background-color: #fd0;
   border-color: transparent;
 }
-.donate[data-type="buymeacoffee"]:active {
+.post-reward[data-type="buymeacoffee"]:active {
   background-color: #e6c700;
 }
-.donate[data-type="buymeacoffee"]:hover {
+.post-reward[data-type="buymeacoffee"]:hover {
   background-color: #f2d200;
 }
-.donate[data-type="buymeacoffee"]:focus:not(:active) {
+.post-reward[data-type="buymeacoffee"]:focus:not(:active) {
   box-shadow: 0 0 0 0.125em rgba(255,221,0,0.25);
 }
-.donate[data-type="paypal"] {
+.post-reward[data-type="paypal"] {
   color: rgba(0,0,0,0.7);
   background-color: #feb700;
   border-color: transparent;
 }
-.donate[data-type="paypal"]:active {
+.post-reward[data-type="paypal"]:active {
   background-color: #e5a500;
 }
-.donate[data-type="paypal"]:hover {
+.post-reward[data-type="paypal"]:hover {
   background-color: #f1ae00;
 }
-.donate[data-type="paypal"]:focus:not(:active) {
+.post-reward[data-type="paypal"]:focus:not(:active) {
   box-shadow: 0 0 0 0.125em rgba(254,183,0,0.25);
 }
-.donate[data-type="patreon"] {
+.post-reward[data-type="patreon"] {
   color: #fff;
   background-color: #ff424d;
   border-color: transparent;
 }
-.donate[data-type="patreon"]:active {
+.post-reward-reward[data-type="patreon"]:active {
   background-color: #ff2835;
 }
-.donate[data-type="patreon"]:hover {
+.post-reward[data-type="patreon"]:hover {
   background-color: #ff3541;
 }
-.donate[data-type="patreon"]:focus:not(:active) {
+.post-reward[data-type="patreon"]:focus:not(:active) {
   box-shadow: 0 0 0 0.125em rgba(255,66,77,0.25);
 }
-.donate[data-type="wechat"] {
+.post-reward[data-type="wechat"] {
   color: #fff;
   background-color: #1aad19;
   border-color: transparent;
 }
-.donate[data-type="wechat"]:active {
+.post-reward[data-type="wechat"]:active {
   background-color: #179716;
 }
-.donate[data-type="wechat"]:hover {
+.post-reward[data-type="wechat"]:hover {
   background-color: #18a217;
 }
-.donate[data-type="wechat"]:focus:not(:active) {
+.post-reward[data-type="wechat"]:focus:not(:active) {
   box-shadow: 0 0 0 0.125em rgba(26,173,25,0.25);
 }
