@@ -20,7 +20,7 @@
     <span>请我喝咖啡</span></a>
 {% endif %} 
   <input type="checkbox" name="reward" id="reward" hidden="" />
-  <label class="reward-button" >微信赞赏</label>
+  <label class="reward-button"  for="reward">微信赞赏</label>
   
   <div class="qr-code">
     {% if site.reward.wechat %}
@@ -29,7 +29,7 @@
       <span>微信赞赏</span>
     </label>
     {% endif %} {% if site.reward.alipay %}
-    <label class="qr-code-image" >
+    <label class="qr-code-image" for="reward" >
       <img class="image" src="{{ site.reward.alipay }}" />
       <span>支付宝赞赏</span>
     </label>
