@@ -1,7 +1,7 @@
 {% if site.reward.enable %}
 <div id="post-reward" class="post-reward">
   {% if site.reward.paypal %}
-  <a class="reward-button post-reward" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
+  <a class="reward-button" data-type="paypal" onclick="document.getElementById('paypal-donate-form').submit()">
     <span class="icon is-small">
       <i class="fa fa-paypal"></i>
     </span>
@@ -13,7 +13,7 @@
     <input type="hidden" name="currency_code" value="USD">
   </form>
 {% endif %} {% if site.reward.buymeacoffee %}  
-  <a class="reward-button post-reward" href="https://www.buymeacoffee.com/qingyang" target="_blank" rel="noopener" data-type="buymeacoffee">
+  <a class="reward-button" href="https://www.buymeacoffee.com/qingyang" target="_blank" rel="noopener" data-type="buymeacoffee">
     <span class="icon is-small">
       <i class="fa fa-coffee"></i>
     </span>
