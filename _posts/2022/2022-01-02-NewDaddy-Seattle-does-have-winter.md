@@ -4,7 +4,7 @@ title: "新爸五年计划 | 235 不能说西雅图雪少了"
 date: "2022-01-02 22:15:51"
 categories: 父范学堂
 auth: conge
-tags: 新爸五年计划 儿子 育儿 女儿
+tags: 新爸五年计划 儿子 育儿 女儿 钢琴
 
 ---
 * content

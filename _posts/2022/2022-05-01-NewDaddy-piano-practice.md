@@ -4,7 +4,7 @@ title: "新爸五年计划 | 252 不爱练琴怎么办？"
 date: "2022-05-01 08:13:20"
 categories: 父范学堂
 auth: conge
-tags: 新爸五年计划 育儿 女儿
+tags: 新爸五年计划 育儿 女儿 钢琴
 
 ---
 * content
