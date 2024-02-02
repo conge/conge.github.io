@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 一月读金融，比特币，心理学，传记，小说…9本"
-date: "2024-01-05 11:08:50"
+date: "2024-02-02 12:11:50"
 categories: 阅读
 auth: conge
 tags: 阅读 读书 读书笔记 金融学 心理学 小说 数学
@@ -207,5 +207,5 @@ Thich Nhat Hanh / 2004 / Sounds True, Incorporated
 
 
 ```
-2024-01-05 初稿
+2024-02-02 初稿
 ```
