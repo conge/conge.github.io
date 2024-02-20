@@ -100,7 +100,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 122,
+				"count": 121,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -173,7 +173,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2993,
+				"count": 2991,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.8
@@ -571,7 +571,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17617,
+				"count": 17612,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -649,7 +649,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21972,
+				"count": 21959,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -729,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16482,
+				"count": 16478,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -809,7 +809,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39061,
+				"count": 39057,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -890,7 +890,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17777,
+				"count": 17773,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -968,7 +968,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 403,
+				"count": 402,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1428,7 +1428,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 52962,
+				"count": 52959,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1583,7 +1583,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17035,
+				"count": 17033,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -2720,7 +2720,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5914,
+				"count": 5913,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2797,7 +2797,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 41404,
+				"count": 41392,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2874,7 +2874,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19276,
+				"count": 19268,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3037,8 +3037,8 @@
 			"title": "Discreet Music",
 			"url": "https://music.douban.com/subject/1441368/",
 			"pic": {
-				"large": "https://img3.doubanio.com/view/subject/m/public/s2142222.jpg",
-				"normal": "https://img3.doubanio.com/view/subject/s/public/s2142222.jpg"
+				"large": "https://img3.doubanio.com/view/subject/m/public/s7013242.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/s/public/s7013242.jpg"
 			},
 			"singer": [
 				{
@@ -3061,19 +3061,19 @@
 			"card_subtitle": "Brian Eno Gavin Bryars The Cockpit Ensemble / 2004",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "696672",
+				"primary_color_light": "627264",
 				"_base_color": [
-					0.7083333333333335,
-					0.10526315789473684,
-					0.14901960784313725
+					0.3511904761904761,
+					0.1393034825870646,
+					0.788235294117647
 				],
-				"secondary_color": "f6f4f9",
+				"secondary_color": "f4f9f5",
 				"_avg_color": [
-					0.6666666666666666,
-					0.06666666666666674,
-					0.17647058823529413
+					0.4074074074074074,
+					0.2432432432432433,
+					0.2901960784313726
 				],
-				"primary_color_dark": "46444c"
+				"primary_color_dark": "414c42"
 			},
 			"type": "music",
 			"id": "1441368",
@@ -3260,7 +3260,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24684,
+				"count": 24679,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3338,7 +3338,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 72797,
+				"count": 72774,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3490,7 +3490,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 517,
+				"count": 516,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -3569,7 +3569,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5779,
+				"count": 5777,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3645,7 +3645,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1454,
+				"count": 1453,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -3800,7 +3800,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20648,
+				"count": 20644,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -3954,7 +3954,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10547,
+				"count": 10538,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4032,7 +4032,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27998,
+				"count": 27991,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4109,7 +4109,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 33742,
+				"count": 33722,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4186,7 +4186,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7694,
+				"count": 7692,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -4258,7 +4258,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 44407,
+				"count": 44384,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4335,7 +4335,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2126,
+				"count": 2125,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -4418,7 +4418,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35141,
+				"count": 35133,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -4494,7 +4494,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 41151,
+				"count": 41139,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4646,7 +4646,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 65546,
+				"count": 65522,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4718,7 +4718,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49822,
+				"count": 49787,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4790,7 +4790,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 47199,
+				"count": 47180,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4861,7 +4861,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25246,
+				"count": 25239,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -4929,7 +4929,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 45880,
+				"count": 45861,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -5074,7 +5074,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19027,
+				"count": 19020,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5218,7 +5218,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 58235,
+				"count": 58221,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5365,7 +5365,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20651,
+				"count": 20645,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5681,7 +5681,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5784,
+				"count": 5783,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5755,7 +5755,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19689,
+				"count": 19686,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5834,7 +5834,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16790,
+				"count": 16788,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5907,7 +5907,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10892,
+				"count": 10891,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6048,7 +6048,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10164,
+				"count": 10159,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
