@@ -61,11 +61,11 @@ Heart rate
 
 Laps：  
 
-    * ![2024-02-15-laps.png](https://s2.loli.net/2024/02/16/WtauG9s1nYXhD4U.png)
+* ![2024-02-15-laps.png](https://s2.loli.net/2024/02/16/WtauG9s1nYXhD4U.png)
     
 HR:
 
-    * ![2024-02-15-hr.png](https://s2.loli.net/2024/02/16/HlSinkELxBAWesN.png)
+* ![2024-02-15-hr.png](https://s2.loli.net/2024/02/16/HlSinkELxBAWesN.png)
 
 ### 复盘 ：
 
