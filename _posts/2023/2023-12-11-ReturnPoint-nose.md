@@ -4,7 +4,7 @@ title: "折返点 2349 - 闭嘴 用鼻子呼吸"
 date: "2023-12-11 08:12:50"
 categories: 折返点
 auth: conge
-tags: 跑步 呼吸法
+tags: 跑步 呼吸
 ---
 * content
 {:toc}

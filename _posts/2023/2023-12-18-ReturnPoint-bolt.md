@@ -4,7 +4,7 @@ title: "折返点 2350 - 风、喘、气、息"
 date: "2023-12-18 15:12:37"
 categories: 折返点
 auth: conge
-tags: 跑步 呼吸法
+tags: 跑步 呼吸
 ---
 * content
 {:toc}
