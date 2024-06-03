@@ -30,6 +30,7 @@ tags: 跑步 马拉松 隧道马拉松 2024 AM55
 
 ## 隧道马拉松 2024 训练周记
 
+- 2024-06-03 Tue. [折返点 2420 - 2025 隧道马训练第 17 周 减量](https://conge.livingwithfcs.org/2024/06/03/ReturnPoint-am55-week17/) 
 - 2024-05-28 Tue. [折返点 2420 - 2025 隧道马训练第 16 周 终于去成了赛道预览](https://conge.livingwithfcs.org/2024/05/28/ReturnPoint-am55-week16/) 
 - 2024-05-23 Thu. [折返点 2420 - 2024 隧道马训练第 15 周 去不成的赛道预览](https://conge.livingwithfcs.org/2024/05/23/ReturnPoint-am55-week15/) 
 - 2024-05-13 Mon. [折返点 2419 - 2024 隧道马训练第 14 周 本次训练中最快的半马](https://conge.livingwithfcs.org/2024/05/13/ReturnPoint-am55-week14/) 
