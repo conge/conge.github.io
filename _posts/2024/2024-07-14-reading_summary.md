@@ -100,9 +100,10 @@ tags: 阅读 读书 读书笔记 动物保护 文学 觉醒
 世界的濒危动植物，便是人类的“矿井金丝雀”。它们倒下，说明自然环境已经不适合生存。我们只有一个地球，无处可逃。如果不做点儿什么，那么倒下的就将是我们。人们为了发展经济，去破坏环境，是不可取的。动物保护的关键，是恢复环境到适合动植物生存的状态。因保护朱鹮而恢复生态农业的佐渡，农产品的受欢迎，也说明重视环保是明智之举。
 
 书的再版后记中，记录了中日开展合作，把中国朱鹮引入日本，通过人工增殖、野外繁殖和环境保护，将朱鹮恢复到上千只，还算可安抚人心。
-<img src="https://dou.img.lithub.cc/book/6313440.jpg" width="150" height="220" referrerPolicy="no-referrer"> 
 
 ## 文学小说
+
+<img src="https://dou.img.lithub.cc/book/6313440.jpg" width="150" height="220" referrerPolicy="no-referrer"> 
 
 ### 05. [细雪](https://c.im/@conge@neodb.social/112706145681332722)
 
@@ -126,9 +127,9 @@ tags: 阅读 读书 读书笔记 动物保护 文学 觉醒
 
 整部书难说是多么有趣，但慢慢悠悠的流畅的读下来了。相亲的各种礼节、过程，处人与人相处的方式，得到细细的展现。在好面子这一点上，东亚人似乎有相通之处。
 
-<img src="https://dou.img.lithub.cc/book/36892954.jpg" width="150" height="220" referrerPolicy="no-referrer"> 
-
 ## 修行觉醒
+
+<img src="https://dou.img.lithub.cc/book/36892954.jpg" width="150" height="220" referrerPolicy="no-referrer"> 
 
 ### 06. [无：生命的最佳状态](https://c.im/@conge@neodb.social/112630168320643021)
 
