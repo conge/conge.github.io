@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折返点 36 - 一周做了两次比赛义工"
+title: "折返点 2436 - 一周做了两次比赛义工"
 date: "2024-09-14 08:12:15"
 categories: 折返点
 auth: conge
