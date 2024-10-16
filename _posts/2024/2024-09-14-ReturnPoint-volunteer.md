@@ -133,19 +133,19 @@ tags: 跑步 马拉松 隧道马拉松 2024 AM55
 
 | week 36, 2024 |
 | :-----------: |
-|  |
+| ![2024_week36.png](https://s2.loli.net/2024/10/17/ovl8OXJxH4Fm6Eb.png) |
 
 ## 折返点
 
 | Date     | Pics  |
 | :------- | :------------------------------------------------------------------: |
-| 20240902 |  |
-| 20240903 |  |
-| 20240904 |  |
-| 20240905 |  |
-| 20240906 |  |
-| 20240907 |  |
-| 20240908 |  |  
+| 20240902 | ![20240902.webp](https://s2.loli.net/2024/10/17/RUyiEHXeZGa3kAg.webp) |
+| 20240903 | ![20240903.webp](https://s2.loli.net/2024/10/17/V3zRB2wS7lPTFDe.webp) |
+| 20240904 | ![20240904.webp](https://s2.loli.net/2024/10/17/GZEBMAD4LlVJ6mX.webp) |
+| 20240905 | ![20240905.webp](https://s2.loli.net/2024/10/17/WNyF5gaXA1hmZCP.webp) |
+| 20240906 | ![20240906.webp](https://s2.loli.net/2024/10/17/xwnHEIFzQ6T3U4l.webp) |
+| 20240907 | ![20240907.webp](https://s2.loli.net/2024/10/17/Grs9QaxpRIoCnwF.webp) |
+| 20240908 | ![20240908.webp](https://s2.loli.net/2024/10/17/Z5CPsSNVED4aKGe.webp) |  
 
 ## 我的更多跑步数据展示
 
@@ -155,4 +155,5 @@ tags: 跑步 马拉松 隧道马拉松 2024 AM55
 
 ```
 2024-09-14 发布
+2024-10-16 补图
 ```
