@@ -69,19 +69,19 @@ tags: 跑步 跑步问答
 
 | week 42, 2024 |
 | :-----------: |
-|  |
+| ![2024_week42.png](https://s2.loli.net/2024/10/21/JaX5NO4xjiBI3ht.png) |
 
 ## 折返点
 
 | Date     | Pics  |
 | :------- | :------------------------------------------------------------------: |
-| 20241014 |  |
-| 20241015 |  |
-| 20241016 |  |
-| 20241017 |  |
-| 20241018 |  |
-| 20241019 |  |
-| 20241020 |  |  
+| 20241014 | ![20241014.webp](https://s2.loli.net/2024/10/21/JNxgSQlaZb5D8T7.webp) |
+| 20241015 | ![20241015.webp](https://s2.loli.net/2024/10/21/UfDNd5sHJrmBgE1.webp) |
+| 20241016 | ![20241016.webp](https://s2.loli.net/2024/10/21/xHQaipyklznwXuR.webp) |
+| 20241017 | ![20241017.webp](https://s2.loli.net/2024/10/21/qI39ltpYEBPvQDy.webp) |
+| 20241018 | ![20241018.webp](https://s2.loli.net/2024/10/21/oGjThI7z8K3nOp5.webp) |
+| 20241019 | ![20241019.webp](https://s2.loli.net/2024/10/21/8BROvFenhADGHxJ.webp) |
+| 20241020 | ![20241020.webp](https://s2.loli.net/2024/10/21/poB1ytOhzVleDPn.webp) |  
 
 ## 我的更多跑步数据展示
 
