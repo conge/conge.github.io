@@ -4,7 +4,7 @@ title: "折返点 2447 冬泳 cold plunge"
 date: "2024-11-27 14:35:35"
 categories: 折返点
 auth: conge
-tags: 跑步 
+tags: 跑步 冬泳
 ---
 * content
 {:toc}
