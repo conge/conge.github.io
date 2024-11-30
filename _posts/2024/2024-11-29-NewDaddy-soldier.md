@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "父范学堂 2447 跟孩子们一起完了《士兵突击》"
+title: "父范学堂 2447 跟孩子们一起看完了《士兵突击》"
 date: "2024-11-29 15:45:41"
 categories: 父范学堂
 auth: conge
