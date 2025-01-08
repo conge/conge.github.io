@@ -31,9 +31,9 @@ tags: 阅读 读书 读书笔记 历史 小说
 
 ## 美国史
 
-<img src="https://dou.img.lithub.cc/book/4218900.jpg" width="150" height="220" referrerPolicy="no-referrer">
+<img src="https://neodb.social/m/book/2021/09/1706c1db25-9520-4be0-8b0f-ced9a8b90756.jpg" width="150" height="220" referrerPolicy="no-referrer">
 
-### 01 [美国人的历史](https://neodb.social/m/book/2021/09/1706c1db25-9520-4be0-8b0f-ced9a8b90756.jpg" width="150" height="220" referrerPolicy="no-referrer">
+### 01 [美国人的历史](https://c.im/@conge@neodb.social/113743296474029543)
 
 [英] 保罗·约翰逊 / 2010 / 中央编译出版社
 
