@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "折返点 2501 新年跑和清华冬季勇士赛"
-date: "2025-01-09 139:01:26"
+date: "2025-01-09 13:01:26"
 categories: 折返点 
 auth: conge
 tags: 跑步
