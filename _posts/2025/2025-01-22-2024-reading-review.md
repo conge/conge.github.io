@@ -19,8 +19,8 @@ tags: 阅读 总结
 
 ### 读过多少种？
 
-2024 年我读书主打的还是通识。涉猎的书的涉及 [历史](https://conge.livingwithfcs.org/tag/#历史），[小说](https://conge.livingwithfcs.org/tag/#小说），[军事](https://conge.livingwithfcs.org/tag/#军事)
-，[地理](https://conge.livingwithfcs.org/tag/#地理），[佛教](https://conge.livingwithfcs.org/tag/#佛教），[觉醒](https://conge.livingwithfcs.org/tag/#觉醒），[健康](https://conge.livingwithfcs.org/tag/#健康），[育儿](https://conge.livingwithfcs.org/tag/#育儿），[跑步](https://conge.livingwithfcs.org/tag/#跑步），[社会学](https://conge.livingwithfcs.org/tag/#社会学），[宇宙](https://conge.livingwithfcs.org/tag/#宇宙），[心理学](https://conge.livingwithfcs.org/tag/#心理学），[睡眠](https://conge.livingwithfcs.org/tag/#睡眠），[CBT](https://conge.livingwithfcs.org/tag/#CBT)，[动物保护](https://conge.livingwithfcs.org/tag/#动物保护），[文学](https://conge.livingwithfcs.org/tag/#文学），[艺术](https://conge.livingwithfcs.org/tag/#艺术），[传记](https://conge.livingwithfcs.org/tag/#传记），[营养学](https://conge.livingwithfcs.org/tag/#营养学），[数学](https://conge.livingwithfcs.org/tag/#数学），[金融学](https://conge.livingwithfcs.org/tag/#金融学)。
+2024 年我读书主打的还是通识。涉猎的书的涉及 [历史](https://conge.livingwithfcs.org/tag/#历史)，[小说](https://conge.livingwithfcs.org/tag/#小说)，[军事](https://conge.livingwithfcs.org/tag/#军事)
+，[地理](https://conge.livingwithfcs.org/tag/#地理)，[佛教](https://conge.livingwithfcs.org/tag/#佛教)，[觉醒](https://conge.livingwithfcs.org/tag/#觉醒)，[健康](https://conge.livingwithfcs.org/tag/#健康)，[育儿](https://conge.livingwithfcs.org/tag/#育儿)，[跑步](https://conge.livingwithfcs.org/tag/#跑步)，[社会学](https://conge.livingwithfcs.org/tag/#社会学)，[宇宙](https://conge.livingwithfcs.org/tag/#宇宙)，[心理学](https://conge.livingwithfcs.org/tag/#心理学)，[睡眠](https://conge.livingwithfcs.org/tag/#睡眠)，[CBT](https://conge.livingwithfcs.org/tag/#CBT)，[动物保护](https://conge.livingwithfcs.org/tag/#动物保护)，[文学](https://conge.livingwithfcs.org/tag/#文学)，[艺术](https://conge.livingwithfcs.org/tag/#艺术)，[传记](https://conge.livingwithfcs.org/tag/#传记)，[营养学](https://conge.livingwithfcs.org/tag/#营养学)，[数学](https://conge.livingwithfcs.org/tag/#数学)，[金融学](https://conge.livingwithfcs.org/tag/#金融学)。
 
 2024 所读书，书单的来源大致如下：
 
