@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折返点 2505 冬勇赛 从围观者到自来卷儿"
+title: "折返点 2505 冬勇赛 勇者恒强"
 date: "2025-02-06 13:24:54"
 categories: 折返点 
 auth: conge
