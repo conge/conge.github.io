@@ -133,7 +133,7 @@ jobs:
         # 遍历图片 URL 并下载图片
         for url in $image_urls; do
           filename=$(basename "$url")
-          filepath="assets/images/neodb/cover/$filename"
+          filepath="assets/images/neodb/$filename"
           # 检查文件是否已存在
           if [ -f "$filepath" ]; then
             echo "Skipping $filename - File already exists"
@@ -155,4 +155,4 @@ jobs:
         committer_email: 'github-actions[bot]@users.noreply.github.com'
         add: |
           './_data/neodb'
-          './assets/images/neodb/cover'
+          './assets/images/neodb'
