@@ -56,14 +56,14 @@ jobs:
         echo "REMOTE_PAGES=$REMOTE_PAGES" >> $GITHUB_ENV
 
     # 对比本地的 UUID 和远程 UUID，相等就跳过，不相等就下载新数据
-    - name: UUID Compare
-      run: |
-        if [ ${{ env.REMOTE_UUID }} != ${{ env.CURRENT_UUID }} ]; then
-          echo "Variables are not equal. Running the next steps."
-        else
-          echo "Variables are equal. Skipping the next steps."
-          exit 0
-        fi
+    #- name: UUID Compare
+    #  run: |
+    #    if [ ${{ env.REMOTE_UUID }} != ${{ env.CURRENT_UUID }} ]; then
+    #      echo "Variables are not equal. Running the next steps."
+    #    else
+    #      echo "Variables are equal. Skipping the next steps."
+    #      exit 0
+    #    fi
 
     # 下载所有数据
     - name: Get All NeoDB
@@ -97,25 +97,22 @@ jobs:
         cd ..
 
     # 按 category 分类 JSON 数据
-    #- name: Categorize JSON by Category
-    #  if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
-    #  run: |
-    #    # 创建输出目录
-    #    mkdir -p ${{ env.WORK_DIR }}/_data/neodb
-    #
-    #    # 提取所有 category 值
-    #    categories=$(jq -r '.data[].item.category | unique[]' ${{ env.WORK_DIR }}/_data/neodb/neodb_data.json)
-    #
-    #    # 按 category 分类并保存为单独的文件
-    #    #for category in $categories; do
-    #    #  jq --arg cat "$category" '.data | map(select(.item.category == $cat))' ${{ env.WORK_DIR }}/_data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/_data/neodb/${category}.json
-    #    #done
-    #
-    #    for category in $categories; do
-    #      jq --arg cat "$category" '{data: [.data[] | select(.item.category == $cat)]}' ${{ env.WORK_DIR }}/assets/data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/assets/data/neodb/categorized/${category}.json
-    #    done
-    #
-    #    echo "JSON 数据已按 category 分类！"
+    - name: Categorize JSON by Category
+      #if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
+      run: |
+        # 创建输出目录
+        mkdir -p ${{ env.WORK_DIR }}/_data/neodb
+    
+        # 提取所有 category 值
+        categories=$(jq -r '.data[].item.category | unique[]' ${{ env.WORK_DIR }}/_data/neodb/neodb_data.json)
+    
+        # 按 category 分类并保存为单独的文件
+    
+        for category in $categories; do
+          jq --arg cat "$category" '{data: [.data[] | select(.item.category == "$cat")]}' ${{ env.WORK_DIR }}/assets/data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/assets/data/neodb/categorized/${category}.json
+        done
+    
+        echo "JSON 数据已按 category 分类！"
 
     - name: Download NeoDB Cover
       if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
