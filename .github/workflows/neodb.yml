@@ -37,7 +37,7 @@ jobs:
     - name: Get Local Current UUID
       run: |
         CURRENT_UUID() {
-          jq -r '.data[0].item.uuid' assets/data/neodb/neodb_data.json
+          jq -r '.data[0].item.uuid' _data/neodb/neodb_data.json
         }
         echo "CURRENT_UUID=$(CURRENT_UUID)" >> $GITHUB_ENV
 
@@ -71,7 +71,7 @@ jobs:
       run: |
         pages=${{ env.REMOTE_PAGES }}
 
-        mkdir -p ${{ env.WORK_DIR }}/assets/data/neodb
+        mkdir -p ${{ env.WORK_DIR }}/_data/neodb
 
         # 个人使用，新建 WorkDIR ，排除 vercel.json 和 package.json 等
         mkdir neodb
@@ -125,7 +125,7 @@ jobs:
         fi
 
         # 读取本地的 neodb_data.json 文件内容
-        json=$(cat assets/data/neodb/neodb_data.json)
+        json=$(cat _data/neodb/neodb_data.json)
 
         # 提取图片 URL
         image_urls=$(echo "$json" | jq -r '.data[].item.cover_image_url')
