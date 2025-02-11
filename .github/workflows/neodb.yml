@@ -1,10 +1,11 @@
 # .github/workflows/neodb.yml
+# ref: https://github.com/eallion/eallion.com/blob/main/.github/workflows/sync-neodb-data.yml
 name: neodb
 
 on:
 #  schedule:
   # every monday
-#    - cron: "0 9 * * 1"
+  - cron: "0 9 * * *"
   # watch:
   #   types: [started]
 
