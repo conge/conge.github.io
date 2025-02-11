@@ -146,7 +146,7 @@ jobs:
 
     # 把修改后的数据提交到 GitHub 仓库
     - name: Git Add and Commit
-      if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
+      #if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
       uses: EndBug/add-and-commit@v9
       with:
         message: 'chore(data): update neodb data'
