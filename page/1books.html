@@ -197,7 +197,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
   <div id="hexo-douban-item3">
     <!-- 已读000开始 -->
     <!--id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time -->
-    {% for book in site.data.books %}
+    {% for book in site.data.books.data %}
     <div class="hexo-douban-item">
       <div class="hexo-douban-picture"><img src="{{ book.item.cover_image_url }}" data-src="{{ book.item.cover_image_url }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
