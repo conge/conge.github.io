@@ -3,15 +3,15 @@
 name: neodb
 
 on:
-#  schedule:
-  # every monday
-  - cron: "0 9 * * *"
-  # watch:
-  #   types: [started]
+    schedule:
+    - cron: "0 0 * * *"
+    watch:
+      types: [started]
+  
 
-  workflow_dispatch:
-  repository_dispatch:
-    types: [sync-neodb]
+#  workflow_dispatch:
+#  repository_dispatch:
+#    types: [sync-neodb]
 
 jobs:
   synch_neodb:
