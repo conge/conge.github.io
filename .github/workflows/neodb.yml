@@ -92,21 +92,25 @@ jobs:
         jq -c -s '{data: map(.data[]) | unique | sort_by(.created_time) | reverse, pages: map(.pages)[0], count: map(.count)[0]}' *.json > neodb_data.json
 
         # 更新 NeoDB 数据
-        cp -f neodb_data.json ${{ env.WORK_DIR }}/assets/data/neodb/
+        cp -f neodb_data.json ${{ env.WORK_DIR }}/_data/neodb/
 
     # 按 category 分类 JSON 数据
     - name: Categorize JSON by Category
       if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
       run: |
         # 创建输出目录
-        mkdir -p ${{ env.WORK_DIR }}/assets/data/neodb
+        mkdir -p ${{ env.WORK_DIR }}/_data/neodb
 
         # 提取所有 category 值
-        categories=$(jq -r '.data[].item.category | unique[]' ${{ env.WORK_DIR }}/assets/data/neodb/neodb_data.json)
+        categories=$(jq -r '.data[].item.category | unique[]' ${{ env.WORK_DIR }}/_data/neodb/neodb_data.json)
 
         # 按 category 分类并保存为单独的文件
+        #for category in $categories; do
+        #  jq --arg cat "$category" '.data | map(select(.item.category == $cat))' ${{ env.WORK_DIR }}/_data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/_data/neodb/${category}.json
+        #done
+
         for category in $categories; do
-          jq --arg cat "$category" '.data | map(select(.item.category == $cat))' ${{ env.WORK_DIR }}/assets/data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/assets/data/neodb/${category}.json
+          jq --arg cat "$category" '{data: [.data[] | select(.item.category == $cat)]}' ${{ env.WORK_DIR }}/assets/data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/assets/data/neodb/categorized/${category}.json
         done
 
         echo "JSON 数据已按 category 分类！"
