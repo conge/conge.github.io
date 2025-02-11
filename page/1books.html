@@ -199,15 +199,15 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!--id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time -->
     {% for book in site.data.neodb.book %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ book.item.cover_image_url }}" data-src="{{ book.item.cover_image_url }}" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ book.data.item.cover_image_url }}" data-src="{{ book.data.item.cover_image_url }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href="{{ book.item.id }}"> {{ book.item.title }}</a></div>
+          <div class="hexo-douban-title"><a target="_blank" href="{{ book.data.item.id }}"> {{ book.data.item.title }}</a></div>
           <!--div class="hexo-douban-meta">
             {{ book.subject.card_subtitle }}
           </div -->
-          <div class="hexo-douban-meta">{{ book.created_time | date: "%Y-%m-%d" }}
-            读过 | {{ book.tags | join: ", " }} | 豆瓣评分 {{ book.item.rating }}</div>
-          <div class="hexo-douban-comments">我给它【{{ book.rating_grade }}分】：{{ book.comment_text }}</div>
+          <div class="hexo-douban-meta">{{ book.data.created_time | date: "%Y-%m-%d" }}
+            读过 | {{ book.data.tags | join: ", " }} | 豆瓣评分 {{ book.data.item.rating }}</div>
+          <div class="hexo-douban-comments">我给它【{{ book.data.rating_grade }}分】：{{ book.data.comment_text }}</div>
       </div>
     </div>
     {% endfor %}
