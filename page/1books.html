@@ -134,12 +134,12 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
     <!-- 在读000开始 -->
 {% for m in site.data.neodb.movie.data %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="{{ m.item.cover_image_url }}" data-src="{ {m.item.cover_image_url }} " referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ m.item.cover_image_url }}" data-src="{{ m.item.cover_image_url }} " referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
           <div class="hexo-douban-title"><a target="_blank" href="{{ m.item.id }}"> {{ m.item.title}}</a></div>
-          <div class="hexo-douban-meta">
+          <!--div class="hexo-douban-meta">
             {{ m.subject.card_subtitle }}
-          </div>
+          </div-->
           <div class="hexo-douban-meta">{{ m.created_time | date: "%Y-%m-%d" }}
             看过 | {{ m.tags | join: ", " }} | 豆瓣评分 {{ m.item.rating }}</div>
           <div class="hexo-douban-comments">我给它【{{ m.rating_grade }} 分】： {{ m.comment }}</div>
