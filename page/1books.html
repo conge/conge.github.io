@@ -132,17 +132,17 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
   <!--      在读 start      -->
   <div id="hexo-douban-item1">
     <!-- 在读000开始 -->
-{% for m in site.data.movie %}
+{% for m in site.data.neodb.movie.data %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="https://dou.img.lithub.cc/movie/{{ m.subject.id }}.jpg" data-src="https://dou.img.lithub.cc/movie/{{ m.subject.id }}.jpg" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ m.item.cover_image_url }}" data-src="{ {m.item.cover_image_url }} " referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href="{{ m.subject.url }}"> {{ m.subject.title}}</a></div>
+          <div class="hexo-douban-title"><a target="_blank" href="{{ m.item.id }}"> {{ m.item.title}}</a></div>
           <div class="hexo-douban-meta">
             {{ m.subject.card_subtitle }}
           </div>
-          <div class="hexo-douban-meta">{{ m.create_time | date: "%Y-%m-%d" }}
-            看过 | {{ m.tags | join: ", " }} | 豆瓣评分 {{ m.subject.rating.value }}</div>
-          <div class="hexo-douban-comments">我给它【{{ m.rating.star_count }}星】： {{ m.comment }}</div>
+          <div class="hexo-douban-meta">{{ m.created_time | date: "%Y-%m-%d" }}
+            看过 | {{ m.tags | join: ", " }} | 豆瓣评分 {{ m.item.rating }}</div>
+          <div class="hexo-douban-comments">我给它【{{ m.rating_grade }} 分】： {{ m.comment }}</div>
       </div>
     </div>
     {% endfor %}
@@ -165,17 +165,17 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
   <!-- 想读 start -->
   <div id="hexo-douban-item2">
     <!-- 想读000开始 -->
-    {% for mu in site.data.music %}
+    {% for mu in site.data.neodb.music.data %}
     <div class="hexo-douban-item">
-      <div class="hexo-douban-picture"><img src="https://dou.img.lithub.cc/music/{{ mu.subject.id }}.jpg" data-src="https://dou.img.lithub.cc/music/{{ mu.subject.id }}.jpg" referrerpolicy="no-referrer"></div>
+      <div class="hexo-douban-picture"><img src="{{ mu.item.cover_image_url }}" data-src="{{ mu.item.cover_image_url }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
-          <div class="hexo-douban-title"><a target="_blank" href="{{ mu.subject.url }}"> {{ mu.subject.title}}</a></div>
-          <div class="hexo-douban-meta">
+          <div class="hexo-douban-title"><a target="_blank" href="{{ mu.item.id }}"> {{ mu.item.title}}</a></div>
+          <!--div class="hexo-douban-meta">
             {{ mu.subject.card_subtitle }}
-          </div>
-          <div class="hexo-douban-meta">{{ mu.create_time | date: "%Y-%m-%d" }}
+          </div-->
+          <div class="hexo-douban-meta">{{ mu.created_time | date: "%Y-%m-%d" }}
             听过 | {{ mu.tags | join: ", " }} |豆瓣 评分 {{ mu.subject.rating.value }}</div>
-          <div class="hexo-douban-comments">我给它【{{ mu.rating.star_count }}星】： {{ mu.comment }}</div>
+          <div class="hexo-douban-comments">我给它【{{ mu.rating_grade }}星】： {{ mu.comment_text }}</div>
       </div>
     </div>
     {% endfor %}
@@ -197,7 +197,7 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
   <div id="hexo-douban-item3">
     <!-- 已读000开始 -->
     <!--id,title,subtitle,intro,poster,pubdate,url,rating,star,star_time -->
-    {% for book in site.data.books.data %}
+    {% for book in site.data.neodb.book.data %}
     <div class="hexo-douban-item">
       <div class="hexo-douban-picture"><img src="{{ book.item.cover_image_url }}" data-src="{{ book.item.cover_image_url }}" referrerpolicy="no-referrer"></div>
       <div class="hexo-douban-info">
