@@ -92,6 +92,7 @@ jobs:
         jq -c -s '{data: map(.data[]) | unique | sort_by(.created_time) | reverse, pages: map(.pages)[0], count: map(.count)[0]}' *.json > neodb_data.json
 
         # 更新 NeoDB 数据
+        mkdir -p ${{ env.WORK_DIR }}/_data/neodb/
         cp -f neodb_data.json ${{ env.WORK_DIR }}/_data/neodb/
 
     # 按 category 分类 JSON 数据
@@ -153,5 +154,5 @@ jobs:
         committer_name: 'github-actions[bot]'
         committer_email: 'github-actions[bot]@users.noreply.github.com'
         add: |
-          './assets/data/neodb'
+          './_data/neodb'
           './assets/images/neodb/cover'
