@@ -110,7 +110,7 @@ jobs:
         # 按 category 分类并保存为单独的文件
     
         for category in $categories; do
-          jq --arg cat "$category" '{data: [.data[] | select(.item.category == $cat)]}' ${{ env.WORK_DIR }}/assets/data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/assets/data/neodb/categorized/${category}.json
+          jq --arg cat "$category" '{data: [.data[] | select(.item.category == $cat)]}' ${{ env.WORK_DIR }}/assets/data/neodb/neodb_data.json > ${{ env.WORK_DIR }}/assets/data/neodb/${category}.json
         done
     
         echo "JSON 数据已按 category 分类！"
