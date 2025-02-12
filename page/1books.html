@@ -207,7 +207,9 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
           </div -->
           <div class="hexo-douban-meta">{{ book.created_time | date: "%Y-%m-%d" }}
             读过 | {{ book.tags | join: ", " }} | 豆瓣评分 {{ book.item.rating }}</div>
-          <div class="hexo-douban-comments">我给它【{{ book.rating_grade }}分】：{{ book.comment_text }}</div>
+          {% assign comment_text_with_br = book.comment_text | newline_to_br %}
+            
+          <div class="hexo-douban-comments">我给它【{{ book.rating_grade }}分】：{{ comment_text_with_br }}</div>
       </div>
     </div>
     {% endfor %}
