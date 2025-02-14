@@ -142,7 +142,8 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
           </div-->
           <div class="hexo-douban-meta">{{ m.created_time | date: "%Y-%m-%d" }}
             看过 | {{ m.tags | join: ", " }} | 豆瓣评分 {{ m.item.rating }}</div>
-          <div class="hexo-douban-comments">我给它【{{ m.rating_grade }} 分】： {{ m.comment }}</div>
+            {% assign comment_text_with_br =  m.comment_text | newline_to_br %}
+          <div class="hexo-douban-comments">我给它【{{ m.rating_grade }} 分】： {{ comment_text_with_br }}</div>
       </div>
     </div>
     {% endfor %}
@@ -175,7 +176,8 @@ note: borrowed from https://github.com/Duter2016/Duter2016.github.io/blob/master
           </div-->
           <div class="hexo-douban-meta">{{ mu.created_time | date: "%Y-%m-%d" }}
             听过 | {{ mu.tags | join: ", " }} |豆瓣 评分 {{ mu.subject.rating.value }}</div>
-          <div class="hexo-douban-comments">我给它【{{ mu.rating_grade }}星】： {{ mu.comment_text }}</div>
+            {% assign comment_text_with_br =  mu.comment_text | newline_to_br %}
+          <div class="hexo-douban-comments">我给它【{{ mu.rating_grade }}星】： {{ comment_text_with_br }}</div>
       </div>
     </div>
     {% endfor %}
