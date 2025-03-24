@@ -249,7 +249,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3171,
+				"count": 3172,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.8
@@ -329,7 +329,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1366,
+				"count": 1368,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -352,7 +352,7 @@
 					"name": "The Future Sound Of London"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1428041",
 			"is_released": true,
 			"is_show": false,
@@ -410,7 +410,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6046,
+				"count": 6049,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -488,7 +488,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39246,
+				"count": 39248,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -566,7 +566,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18870,
+				"count": 18871,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -589,7 +589,7 @@
 					"name": "Damien Rice"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/2286005",
 			"is_released": true,
 			"is_show": false,
@@ -647,7 +647,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17844,
+				"count": 17848,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -670,7 +670,7 @@
 					"name": "许巍"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1478828",
 			"is_released": true,
 			"is_show": false,
@@ -725,7 +725,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23638,
+				"count": 23669,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -805,7 +805,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 16889,
+				"count": 16894,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -885,7 +885,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39492,
+				"count": 39499,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -966,7 +966,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18219,
+				"count": 18229,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1044,7 +1044,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 471,
+				"count": 472,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1067,7 +1067,7 @@
 					"name": "The Future Sound of London"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1466643",
 			"is_released": true,
 			"is_show": false,
@@ -1121,7 +1121,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1011,
+				"count": 1012,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -1144,7 +1144,7 @@
 					"name": "Enya"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/3219362",
 			"is_released": true,
 			"is_show": false,
@@ -1219,7 +1219,7 @@
 					"name": "The Future Sound of London"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1779031",
 			"is_released": true,
 			"is_show": false,
@@ -1273,7 +1273,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 178,
+				"count": 179,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -1296,7 +1296,7 @@
 					"name": "The Future Sound of London"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1764751",
 			"is_released": true,
 			"is_show": false,
@@ -1504,7 +1504,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53242,
+				"count": 53244,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1527,7 +1527,7 @@
 					"name": "Damien Rice"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1394590",
 			"is_released": true,
 			"is_show": false,
@@ -1659,7 +1659,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17132,
+				"count": 17136,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -1682,7 +1682,7 @@
 					"name": "许巍"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/3223853",
 			"is_released": true,
 			"is_show": false,
@@ -2035,10 +2035,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121,
+				"count": 122,
 				"max": 10,
 				"star_count": 4.5,
-				"value": 9.1
+				"value": 9
 			},
 			"genres": [
 				"电子"
@@ -2058,7 +2058,7 @@
 					"name": "William Basinski"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1981944",
 			"is_released": true,
 			"is_show": false,
@@ -2416,7 +2416,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4017,
+				"count": 4018,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2514,7 +2514,7 @@
 					"name": "The Innocence Mission"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1404703",
 			"is_released": true,
 			"is_show": false,
@@ -2592,7 +2592,7 @@
 					"name": "Damien Rice"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1396321",
 			"is_released": true,
 			"is_show": false,
@@ -2720,7 +2720,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37149,
+				"count": 37150,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2743,7 +2743,7 @@
 					"name": "Damien Rice"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1889074",
 			"is_released": true,
 			"is_show": false,
@@ -2796,7 +2796,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5941,
+				"count": 5943,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -2873,7 +2873,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 43736,
+				"count": 43801,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2896,7 +2896,7 @@
 					"name": "王菲"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1394808",
 			"is_released": true,
 			"is_show": false,
@@ -2950,7 +2950,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20308,
+				"count": 20327,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -2973,7 +2973,7 @@
 					"name": "窦唯"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1395136",
 			"is_released": true,
 			"is_show": false,
@@ -3127,7 +3127,7 @@
 					"name": "The Cockpit Ensemble"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1441368",
 			"is_released": true,
 			"is_show": false,
@@ -3257,7 +3257,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17142,
+				"count": 17143,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -3280,7 +3280,7 @@
 					"name": "萧敬腾"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/3092491",
 			"is_released": true,
 			"is_show": false,
@@ -3336,7 +3336,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25228,
+				"count": 25234,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3414,7 +3414,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 74885,
+				"count": 74909,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3437,7 +3437,7 @@
 					"name": "周杰伦"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1846771",
 			"is_released": true,
 			"is_show": false,
@@ -3645,7 +3645,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5868,
+				"count": 5869,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3876,7 +3876,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21120,
+				"count": 21125,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4030,7 +4030,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11868,
+				"count": 11886,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4108,7 +4108,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 28748,
+				"count": 28758,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4131,7 +4131,7 @@
 					"name": "黑豹"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1413627",
 			"is_released": true,
 			"is_show": false,
@@ -4185,7 +4185,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35603,
+				"count": 35634,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4334,7 +4334,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46681,
+				"count": 46719,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4357,7 +4357,7 @@
 					"name": "窦唯"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/2299845",
 			"is_released": true,
 			"is_show": false,
@@ -4411,7 +4411,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2166,
+				"count": 2168,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -4494,7 +4494,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 35794,
+				"count": 35804,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -4570,7 +4570,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42055,
+				"count": 42061,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4593,7 +4593,7 @@
 					"name": "张楚"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1407472",
 			"is_released": true,
 			"is_show": false,
@@ -4722,7 +4722,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 67916,
+				"count": 67957,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4794,7 +4794,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 53315,
+				"count": 53378,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4817,7 +4817,7 @@
 					"name": "Pink Floyd"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1395685",
 			"is_released": true,
 			"is_show": false,
@@ -4866,7 +4866,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48924,
+				"count": 48945,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4889,7 +4889,7 @@
 					"name": "Pink Floyd"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1394664",
 			"is_released": true,
 			"is_show": false,
@@ -4937,7 +4937,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25926,
+				"count": 25941,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -5005,7 +5005,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 48495,
+				"count": 48543,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -5028,7 +5028,7 @@
 					"name": "Radiohead"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1394653",
 			"is_released": true,
 			"is_show": false,
@@ -5078,7 +5078,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8789,
+				"count": 8791,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5150,7 +5150,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19858,
+				"count": 19872,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5294,7 +5294,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 59939,
+				"count": 59955,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5317,7 +5317,7 @@
 					"name": "张悬"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1788174",
 			"is_released": true,
 			"is_show": false,
@@ -5367,7 +5367,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6554,
+				"count": 6557,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -5390,7 +5390,7 @@
 					"name": "Air"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1394897",
 			"is_released": true,
 			"is_show": false,
@@ -5441,7 +5441,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21348,
+				"count": 21360,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5757,7 +5757,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5919,
+				"count": 5921,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5831,7 +5831,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20055,
+				"count": 20061,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5854,7 +5854,7 @@
 					"name": "许巍"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1439087",
 			"is_released": true,
 			"is_show": false,
@@ -5910,7 +5910,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17006,
+				"count": 17009,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -5933,7 +5933,7 @@
 					"name": "许巍"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1406881",
 			"is_released": true,
 			"is_show": false,
@@ -5983,7 +5983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11334,
+				"count": 11343,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6006,7 +6006,7 @@
 					"name": "Nirvana"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1401436",
 			"is_released": true,
 			"is_show": false,
@@ -6056,7 +6056,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4036,
+				"count": 4037,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -6124,7 +6124,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10917,
+				"count": 10933,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -6147,7 +6147,7 @@
 					"name": "The Smashing Pumpkins"
 				}
 			],
-			"is_playable": true,
+			"is_playable": false,
 			"uri": "douban://douban.com/music/1394848",
 			"is_released": true,
 			"is_show": false,
