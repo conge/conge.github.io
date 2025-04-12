@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "听见 FCS 的声音 FCS 急救你第 34 期电子通讯"
+title: "听见 FCS 的声音 FCS 基金会第 34 期电子通讯"
 date: "2025-04-12 13:01:40 PDT"
 categories: FCS
 auth: conge
