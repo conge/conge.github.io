@@ -24,7 +24,7 @@ tags: FCS 罕见病
 **6 月 12 日周四 中午 12:00-13:00（美国东部时间）**  
 | 活动内容    |                         Seth Baum 博士                                |
 | :--------- | :-----------------------------------------------------------------: |
-|欢迎参加由** FCS 基金会医学顾问委员会成员 Seth Baum 博士**主讲的 FCS 现状研讨会。  </p>🔗 注册信息将通过邮件发送，并同步更新在官网：[https://www.livingwithfcs.org/](https://www.livingwithfcs.org/)  </p>🌟 特别鸣谢** Ionis **和** Arrowhead **对本项目的慷慨资助！  |<img src="https://d2dgo7ivtbkyn1.cloudfront.net/images/livingwithfcs/Baum%2C%20Seth_headshot.jpg"  height="220" referrerPolicy="no-referrer">  |
+|<p>欢迎参加由**FCS 基金会医学顾问委员会成员 Seth Baum 博士**主讲的 FCS 现状研讨会。</p>  <p>🔗 注册信息将通过邮件发送，并同步更新在官网：[https://www.livingwithfcs.org/](https://www.livingwithfcs.org/)</p>  <p>🌟 特别鸣谢**Ionis**和**Arrowhead**对本项目的慷慨资助！</p>  |<img src="https://d2dgo7ivtbkyn1.cloudfront.net/images/livingwithfcs/Baum%2C%20Seth_headshot.jpg"  height="220" referrerPolicy="no-referrer">  |
 
 ----
 
@@ -49,7 +49,7 @@ tags: FCS 罕见病
 
 |     |                         2025 年                              |
 | :--------- | :----------------------------------------------------------------- |
-|<img src="https://d2dgo7ivtbkyn1.cloudfront.net/images/livingwithfcs/Stay%20Tuned.jpg"  height="100" referrerPolicy="no-referrer"> | **📢 FCS 基金会患者-照护者峰会**</p>（9 月举行）详情近期公布！  |
+|<img src="https://d2dgo7ivtbkyn1.cloudfront.net/images/livingwithfcs/Stay%20Tuned.jpg"  height="100" referrerPolicy="no-referrer"> | <p>**📢 FCS 基金会患者-照护者峰会**</p><p>（9 月举行）详情近期公布！ </p> |
 
 ----
 
@@ -120,7 +120,7 @@ tags: FCS 罕见病
 
 |     |                         启事                              |
 | :--------- | :----------------------------------------------------------------- |
-| <img src="https://d2dgo7ivtbkyn1.cloudfront.net/images/livingwithfcs/240_F_339091161_qLITjF7hWBuleTk6dJKwkftJH2MPoTQV.jpg"  height="100" referrerPolicy="no-referrer">     |                         我们需要你的帮助，来更新官网资讯，期待您的参与：  </p>- ✍️ 分享患者/照护者故事  </p>- 🍲 投稿健康食谱                                 |
+| <img src="https://d2dgo7ivtbkyn1.cloudfront.net/images/livingwithfcs/240_F_339091161_qLITjF7hWBuleTk6dJKwkftJH2MPoTQV.jpg"  height="100" referrerPolicy="no-referrer">     |                         <p>我们需要你的帮助，来更新官网资讯，期待您的参与：  </p><p>- ✍️ 分享患者/照护者故事  </p><p>- 🍲 投稿健康食谱 </p>                                |
 
 📩 来稿请提交至：[editor@livingwithfcs.org](editor@livingwithfcs.org)  
 🌐 访问官网：[https://www.livingwithfcs.org/](https://www.livingwithfcs.org/)  
