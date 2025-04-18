@@ -22,8 +22,9 @@ tags: FCS 罕见病
 敬请预留时间！
 
 **6 月 12 日周四 中午 12:00-13:00（美国东部时间）**  
-| 活动内容    |                         Seth Baum 博士                                |
-| :--------- | :-----------------------------------------------------------------: |
+
+| 活动内容     |                         Seth Baum 博士                              |  
+| :--------- | :-----------------------------------------------------------------: |  
 |欢迎参加由**FCS 基金会医学顾问委员会成员 Seth Baum 博士**主讲的 FCS 现状研讨会。  <br>🔗 注册信息将通过邮件发送，并同步更新在官网：[https://www.livingwithfcs.org/](https://www.livingwithfcs.org/)  <br>🌟 特别鸣谢**Ionis**和**Arrowhead**对本项目的慷慨资助！ |<img src="https://d2dgo7ivtbkyn1.cloudfront.net/images/livingwithfcs/Baum%2C%20Seth_headshot.jpg"  height="220" referrerPolicy="no-referrer">  |
 
 ----
