@@ -70,7 +70,9 @@ SU跑群的群跑活动，一开始只是在 Bellevue 有活动。光伟和我�
 
 马上，就是波士顿马拉松了，跑友们就要动身前往波士顿，参加可能是地球上最知名的马拉松比赛了。
 
-祝愿他们都能跑的开心！
+祝愿大家都能跑的开心！
+
+![SUtoBoston2025.jpg](https://s2.loli.net/2025/04/19/Eyr41mcoRgVtwSH.jpg)
 
 ## Running log
 
