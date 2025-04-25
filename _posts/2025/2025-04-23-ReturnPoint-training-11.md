@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "折返点 2516 训练第 11 周， 20 英里长崩，但恢复向好"
-date: "2025-04-23 15:24:01"
+date: "2025-04-23 15:24:01 PDT"
 categories: 折返点 
 auth: conge
 tags: 跑步 马拉松训练 
