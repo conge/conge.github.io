@@ -9,9 +9,11 @@ tags: 儿子 女儿 生日
 * content
 {:toc}
 
-上一篇《[礼物](https://conge.livingwithfcs.org/2025/05/23/NewDaddy-gifts/)》之后，盘点了买的礼物。
+上一篇《[礼物](https://conge.livingwithfcs.org/2025/05/23/NewDaddy-gifts/)》之中，盘点了花钱买的礼物。
 
 女儿虽然有存零花钱，但她送给弟弟的礼物却不是买的。今天就来展示她送给弟弟的手工礼物。
+
+
 
 
 ## 星空家园
