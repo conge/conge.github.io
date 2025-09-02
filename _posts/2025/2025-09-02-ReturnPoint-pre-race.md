@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "折返点 2535 抱佛脚的一周"
-date: "2025-09-02 1714:18:53 PDT"
+date: "2025-09-02 14:18:53 PDT"
 categories: 折返点
 auth: conge
 tags: 跑步
