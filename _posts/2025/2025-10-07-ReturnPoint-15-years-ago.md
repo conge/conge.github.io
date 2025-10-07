@@ -38,7 +38,7 @@ tags: 跑步
 
 这周最吸引为的是，15 年前的这张参加 5K 比赛前的留影。
 
-![](https://lh4.ggpht.com/_RUybzjjnawE/TKnw-r4QtrI/AAAAAAAAAq8/_qxac0u3lrM/s1600-h/102_058212.jpg)
+![102_058212.jpg](https://s2.loli.net/2025/10/08/EItA6LH5yhjXYF2.jpg)
 
 图中，我带的帽子穿的短裤，我现在还在用。上衣是一次出差的时候，丢了。不知是丢在旅馆还是机场了。要是没丢的话，应该也还能穿很久。跑步真是这样鞋子很快磨坏，其他的装备却长久陪伴。
 
