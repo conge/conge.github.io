@@ -82,7 +82,7 @@ tags: 跑步
 | 20251014 | ![20251014.webp](https://s2.loli.net/2025/10/22/eX4pln9ybRaCr6j.webp) |
 | 20251015 | ![20251015.webp](https://s2.loli.net/2025/10/22/ydA9TtajZxESp7W.webp) |
 | 20251016 | ![20251016.webp](https://s2.loli.net/2025/10/22/i8GHgNlA4Kuj5dO.webp) |
-| 20251018 |  |
+| 20251018 | ![20251018.webp](https://s2.loli.net/2025/10/22/KfNJPBdV6yz25MU.webp) |
 | 20251019 | ![20251019.webp](https://s2.loli.net/2025/10/22/fhqYZoIU3V2mOBg.webp) |
 
 ## 我的更多跑步数据展示
