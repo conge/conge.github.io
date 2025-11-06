@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "父范学堂 2543 采蘑菇记：从好奇到收获"
-date: "2025-10-23 22:45:23 PDT"
+title: "父范学堂 2543 蘑菇展览"
+date: "2025-10-30 22:45:23 PDT"
 categories: 父范学堂
 auth: conge
 tags: 儿子 女儿 蘑菇
