@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "父范学堂 2542 采蘑菇记：从好奇到收获"
+title: "父范学堂 2543 采蘑菇记：从好奇到收获"
 date: "2025-10-23 22:45:23 PDT"
 categories: 父范学堂
 auth: conge
