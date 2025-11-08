@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025 十月读 私人生活史 心理学 数学 哈利波特 6 本 "
+title: "2025 十月读 私人生活史 心理学 数学 哈利波特 6 本"
 date: "2025-11-07 14:06:09 PDT"
 categories: 阅读
 auth: conge
@@ -9,16 +9,21 @@ tags: 阅读 读书 读书笔记 心理学 小说 哈利波特 数学
 * content
 {:toc}
 
-十月，哈利波特的第六本读完。私人生活史中记录了49年来集体化破坏了传统家庭模式后，家庭模式向核心家庭的转换，继而引起的造成的社会关系的转型。消灭了旧问题，带来了新问题。
+## 引子
 
-了解了辩证行为疗法 DBT 的对情绪情感障碍的有效性。
-
-应妻子的要求，读了《The Seven Principles for Making Marriage Work》。我想，少读点儿书，多和她一起做些事情，就不用读这书了吧。有了孩子之后，夫妻间共同的活动时间反而少了。
-
-在思维的世界待久了，就有点儿不怎么想读书了。
+十月，读了六本书。
 
 
 
+
+
+[哈利波特的第六本](https://conge.livingwithfcs.org/2025/11/07/reading_summary/#06-哈利波特与混血王子)读完。私人生活史类别中读了《[私人生活的变革](https://conge.livingwithfcs.org/2025/11/07/reading_summary/#01-私人生活的变革)》，其中中记录了49年来集体化破坏了传统家庭模式后，家庭模式向核心家庭的转换，继而引起的造成的社会关系的转型。一切都解释的通。人类常常满足于解释的通。之余是不是真的那样，则不怎们真的在意。自以为消灭了旧问题，却带来了新问题。反正，总有问题需要解决，就可以一直有事做了。
+
+心理学方面，通过《[DBT 就这么简单](https://conge.livingwithfcs.org/2025/11/07/reading_summary/#02-dbt-就这么简单)》了解了辩证行为疗法 DBT 的对情绪情感障碍的有效性。
+
+应妻子的要求，读了《[The Seven Principles for Making Marriage Work](https://conge.livingwithfcs.org/2025/11/07/reading_summary/#03-the-seven-principles-for-making-marriage-work)》。我想，少读点儿书，多和她一起做些事情，就不用读这书了吧。有了孩子之后，夫妻间共同的活动时间反而少了。
+
+在思维的世界待久了，就有点儿不怎么想读书了。- 《[哥德尔、艾舍尔、巴赫](https://conge.livingwithfcs.org/2025/11/07/reading_summary/#04-哥德尔艾舍尔巴赫)》和《[启发每个人思维的数学小书](https://conge.livingwithfcs.org/2025/11/07/reading_summary/#05-启发每个人思维的数学小书)》都是那种试图让你在思维世界待着的书。哲学，数学，都是理性的产物。写这些书的人，都多少少都对理性有些过度吹捧，过度迷信。至少是好奇心驱动。
 
 ## 私人生活
 
