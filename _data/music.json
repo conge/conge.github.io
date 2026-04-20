@@ -59,13 +59,13 @@
 				"primary_color_light": "5e6e72",
 				"_base_color": [
 					0.5370370370370371,
-					0.17647058823529418,
-					0.4
+					0.17821782178217815,
+					0.396078431372549
 				],
 				"secondary_color": "f4f8f9",
 				"_avg_color": [
-					0.4848484848484849,
-					0.0916666666666667,
+					0.48611111111111116,
+					0.1,
 					0.47058823529411764
 				],
 				"primary_color_dark": "3e494c"
@@ -134,19 +134,19 @@
 			"card_subtitle": "不是花火呀 / 2021",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726557",
+				"primary_color_light": "726b5d",
 				"_base_color": [
-					0.08333333333333333,
-					0.23529411764705882,
-					0.06666666666666667
+					0.11111111111111112,
+					0.1875,
+					0.06274509803921569
 				],
-				"secondary_color": "f9f7f4",
+				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.09999999999999999,
-					0.25,
-					0.0784313725490196
+					0.08333333333333333,
+					0.21052631578947367,
+					0.07450980392156863
 				],
-				"primary_color_dark": "4c433a"
+				"primary_color_dark": "4c473e"
 			},
 			"type": "music",
 			"id": "35326243",
@@ -212,19 +212,19 @@
 			"card_subtitle": "不是花火呀 / 2021",
 			"color_scheme": {
 				"is_dark": false,
-				"primary_color_light": "cedef2",
+				"primary_color_light": "cdddf2",
 				"_base_color": [
-					0.5925925925925926,
-					0.14754098360655743,
+					0.5945945945945946,
+					0.1516393442622951,
 					0.9568627450980393
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.603448275862069,
-					0.12184873949579836,
+					0.6011904761904762,
+					0.11764705882352947,
 					0.9333333333333333
 				],
-				"primary_color_dark": "cedef2"
+				"primary_color_dark": "cdddf2"
 			},
 			"type": "music",
 			"id": "35454170",
@@ -253,7 +253,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3278,
+				"count": 3282,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.8
@@ -289,11 +289,11 @@
 			"card_subtitle": "群星 许镜清 / 1986",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59a5e",
+				"primary_color_light": "a5995d",
 				"_base_color": [
-					0.13963963963963968,
-					0.4327485380116959,
-					0.6705882352941176
+					0.13777777777777775,
+					0.43604651162790703,
+					0.6745098039215687
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
@@ -301,7 +301,7 @@
 					0.43396226415094336,
 					0.6235294117647059
 				],
-				"primary_color_dark": "7f7648"
+				"primary_color_dark": "7f7547"
 			},
 			"type": "music",
 			"id": "4308199",
@@ -334,7 +334,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1463,
+				"count": 1466,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -367,9 +367,9 @@
 			"card_subtitle": "The Future Sound Of London / 1994",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "5c6b72",
+				"primary_color_light": "5c6d72",
 				"_base_color": [
-					0.5555555555555555,
+					0.5416666666666666,
 					0.19672131147540983,
 					0.23921568627450981
 				],
@@ -379,7 +379,7 @@
 					0.12499999999999993,
 					0.4392156862745098
 				],
-				"primary_color_dark": "3d474c"
+				"primary_color_dark": "3d484c"
 			},
 			"type": "music",
 			"id": "1428041",
@@ -451,9 +451,9 @@
 				"is_dark": true,
 				"primary_color_light": "726157",
 				"_base_color": [
-					0.06333333333333341,
-					0.23696682464454974,
-					0.8274509803921568
+					0.06000000000000005,
+					0.23584905660377367,
+					0.8313725490196079
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -461,7 +461,7 @@
 					0.21686746987951816,
 					0.3254901960784314
 				],
-				"primary_color_dark": "4c413a"
+				"primary_color_dark": "4c403a"
 			},
 			"type": "music",
 			"id": "2305563",
@@ -495,7 +495,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39346,
+				"count": 39348,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -530,17 +530,17 @@
 				"is_dark": true,
 				"primary_color_light": "6f91a5",
 				"_base_color": [
-					0.563063063063063,
-					0.324561403508772,
+					0.5622222222222222,
+					0.3289473684210527,
 					0.8941176470588236
 				],
 				"secondary_color": "f4f8f9",
 				"_avg_color": [
-					0.5170068027210885,
-					0.2367149758454106,
-					0.8117647058823529
+					0.5204081632653063,
+					0.23557692307692307,
+					0.8156862745098039
 				],
-				"primary_color_dark": "566f7f"
+				"primary_color_dark": "556f7f"
 			},
 			"type": "music",
 			"id": "1960229",
@@ -615,8 +615,8 @@
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.20175438596491216,
-					0.09743589743589738,
+					0.19999999999999987,
+					0.10256410256410249,
 					0.7647058823529411
 				],
 				"primary_color_dark": "7e7f70"
@@ -656,7 +656,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18013,
+				"count": 18012,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -691,15 +691,15 @@
 				"is_dark": true,
 				"primary_color_light": "4aa4a5",
 				"_base_color": [
-					0.50187265917603,
-					0.5527950310559007,
-					0.6313725490196078
+					0.5018115942028986,
+					0.5508982035928144,
+					0.6549019607843137
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
 					0.5032679738562091,
-					0.37777777777777777,
-					0.5294117647058824
+					0.375,
+					0.5333333333333333
 				],
 				"primary_color_dark": "397e7f"
 			},
@@ -735,7 +735,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25023,
+				"count": 25046,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -768,19 +768,19 @@
 			"card_subtitle": "The Beatles / 1967",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72672e",
+				"primary_color_light": "72682f",
 				"_base_color": [
-					0.1380952380952381,
-					0.5932203389830508,
-					0.23137254901960785
+					0.14215686274509806,
+					0.5862068965517241,
+					0.22745098039215686
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
 					0.13703703703703704,
-					0.3688524590163935,
-					0.47843137254901963
+					0.3658536585365853,
+					0.4823529411764706
 				],
-				"primary_color_dark": "4c441f"
+				"primary_color_dark": "4c451f"
 			},
 			"type": "music",
 			"id": "1394665",
@@ -816,7 +816,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17216,
+				"count": 17218,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -849,17 +849,17 @@
 			"card_subtitle": "The Beatles / 1969",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725e23",
+				"primary_color_light": "725d22",
 				"_base_color": [
-					0.12323232323232325,
-					0.6874999999999999,
-					0.9411764705882353
+					0.12228796844181461,
+					0.6983471074380165,
+					0.9490196078431372
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.055555555555555504,
-					0.1451612903225806,
-					0.48627450980392156
+					0.05833333333333324,
+					0.15873015873015872,
+					0.49411764705882355
 				],
 				"primary_color_dark": "4c3e17"
 			},
@@ -897,7 +897,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 39788,
+				"count": 39795,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -934,13 +934,13 @@
 				"_base_color": [
 					0,
 					0,
-					0.21176470588235294
+					0.21568627450980393
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
 					0,
 					0,
-					0.3686274509803922
+					0.37254901960784315
 				],
 				"primary_color_dark": "4c4c4c"
 			},
@@ -979,7 +979,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18522,
+				"count": 18526,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -1012,19 +1012,19 @@
 			"card_subtitle": "许巍 / 1997",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "696972",
+				"primary_color_light": "696472",
 				"_base_color": [
-					0.6666666666666666,
-					0.08333333333333333,
-					0.09411764705882353
+					0.7222222222222222,
+					0.12,
+					0.09803921568627451
 				],
-				"secondary_color": "f4f4f9",
+				"secondary_color": "f6f4f9",
 				"_avg_color": [
-					0.7499999999999997,
-					0.0425531914893617,
-					0.1843137254901961
+					0.7500000000000003,
+					0.041666666666666664,
+					0.18823529411764706
 				],
-				"primary_color_dark": "46464c"
+				"primary_color_dark": "46434c"
 			},
 			"type": "music",
 			"id": "1407498",
@@ -1093,15 +1093,15 @@
 				"is_dark": true,
 				"primary_color_light": "6c726e",
 				"_base_color": [
-					0.388888888888889,
-					0.056603773584905724,
-					0.20784313725490197
+					0.3888888888888888,
+					0.057692307692307626,
+					0.20392156862745098
 				],
 				"secondary_color": "f4f9f6",
 				"_avg_color": [
-					0.08333333333333393,
-					0.02816901408450714,
-					0.2784313725490196
+					0.08333333333333333,
+					0.02777777777777768,
+					0.2823529411764706
 				],
 				"primary_color_dark": "484c49"
 			},
@@ -1254,8 +1254,8 @@
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
 					0.07407407407407411,
-					0.17999999999999994,
-					0.39215686274509803
+					0.17821782178217815,
+					0.396078431372549
 				],
 				"primary_color_dark": "4c433d"
 			},
@@ -1327,7 +1327,7 @@
 				"_base_color": [
 					0,
 					0,
-					0.9803921568627451
+					0.984313725490196
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
@@ -1400,19 +1400,19 @@
 			"card_subtitle": "Juliana Hatfield / 2008",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "919aa5",
+				"primary_color_light": "909aa5",
 				"_base_color": [
-					0.5916666666666667,
-					0.12345679012345671,
+					0.5873015873015873,
+					0.12962962962962954,
 					0.6352941176470588
 				],
 				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.5925925925925922,
-					0.06569343065693428,
-					0.5372549019607843
+					0.5925925925925929,
+					0.06617647058823527,
+					0.5333333333333333
 				],
-				"primary_color_dark": "6f767f"
+				"primary_color_dark": "6e767f"
 			},
 			"type": "music",
 			"id": "3183327",
@@ -1480,17 +1480,17 @@
 				"is_dark": true,
 				"primary_color_light": "a54c09",
 				"_base_color": [
-					0.07164404223227754,
-					0.9444444444444444,
-					0.9176470588235294
+					0.07196969696969696,
+					0.944206008583691,
+					0.9137254901960784
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.08239700374531833,
-					0.3836206896551724,
+					0.08143939393939392,
+					0.3793103448275862,
 					0.9098039215686274
 				],
-				"primary_color_dark": "7f3a07"
+				"primary_color_dark": "7f3b07"
 			},
 			"type": "music",
 			"id": "2367087",
@@ -1565,9 +1565,9 @@
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.12096774193548387,
-					0.2520325203252033,
-					0.9647058823529412
+					0.11827956989247314,
+					0.2510121457489879,
+					0.9686274509803922
 				],
 				"primary_color_dark": "f2e4b7"
 			},
@@ -1603,7 +1603,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 959,
+				"count": 960,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -1636,19 +1636,19 @@
 			"card_subtitle": "许巍 / 2008",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "94a5a4",
+				"primary_color_light": "9ca590",
 				"_base_color": [
-					0.4895833333333333,
-					0.10526315789473684,
-					0.596078431372549
+					0.23611111111111124,
+					0.1276595744680851,
+					0.3686274509803922
 				],
-				"secondary_color": "f4f9f9",
+				"secondary_color": "f7f9f4",
 				"_avg_color": [
-					0.4629629629629631,
-					0.05421686746987949,
-					0.6509803921568628
+					0.4666666666666668,
+					0.05952380952380948,
+					0.6588235294117647
 				],
-				"primary_color_dark": "727f7e"
+				"primary_color_dark": "787f6f"
 			},
 			"type": "music",
 			"id": "3225858",
@@ -1722,9 +1722,9 @@
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
-					0.6250000000000003,
-					0.02816901408450714,
-					0.5568627450980392
+					0.6249999999999991,
+					0.02797202797202807,
+					0.5607843137254902
 				],
 				"primary_color_dark": "7c7f7f"
 			},
@@ -1792,19 +1792,19 @@
 			"card_subtitle": "Juliana Hatfield / 2005",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72281e",
+				"primary_color_light": "72281d",
 				"_base_color": [
-					0.019125683060109273,
-					0.7349397590361446,
+					0.02150537634408602,
+					0.746987951807229,
 					0.3254901960784314
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.02657004830917877,
-					0.6699029126213593,
+					0.024509803921568634,
+					0.6601941747572815,
 					0.403921568627451
 				],
-				"primary_color_dark": "4c1a14"
+				"primary_color_dark": "4c1a13"
 			},
 			"type": "music",
 			"id": "1486175",
@@ -1870,19 +1870,19 @@
 			"card_subtitle": "Peaches / 2000",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5526b",
+				"primary_color_light": "a5516a",
 				"_base_color": [
-					0.9494047619047619,
-					0.5045045045045045,
-					0.8705882352941177
+					0.9508928571428571,
+					0.5067873303167422,
+					0.8666666666666667
 				],
 				"secondary_color": "f9f4f6",
 				"_avg_color": [
-					0.949438202247191,
-					0.429951690821256,
-					0.8117647058823529
+					0.95,
+					0.43269230769230765,
+					0.8156862745098039
 				],
-				"primary_color_dark": "7f3f52"
+				"primary_color_dark": "7f3e51"
 			},
 			"type": "music",
 			"id": "1774553",
@@ -2019,17 +2019,17 @@
 			"card_subtitle": "Aaron Booth / 2008",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "5d6a72",
+				"primary_color_light": "5e6a72",
 				"_base_color": [
-					0.5625,
-					0.18433179723502305,
+					0.5641025641025642,
+					0.1797235023041475,
 					0.8509803921568627
 				],
-				"secondary_color": "f4f8f9",
+				"secondary_color": "f4f7f9",
 				"_avg_color": [
-					0.48484848484848486,
-					0.5238095238095238,
-					0.49411764705882355
+					0.4823232323232323,
+					0.5196850393700787,
+					0.4980392156862745
 				],
 				"primary_color_dark": "3e474c"
 			},
@@ -2103,7 +2103,7 @@
 				],
 				"secondary_color": "f9f4f9",
 				"_avg_color": [
-					0.8666666666666667,
+					0.8333333333333334,
 					0.20833333333333334,
 					0.09411764705882353
 				],
@@ -2172,10 +2172,10 @@
 			"card_subtitle": "Coastal / 2001",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "1f5c72",
+				"primary_color_light": "1e5c72",
 				"_base_color": [
-					0.5437158469945356,
-					0.7261904761904762,
+					0.543010752688172,
+					0.7380952380952381,
 					0.32941176470588235
 				],
 				"secondary_color": "f4f8f9",
@@ -2249,17 +2249,17 @@
 			"card_subtitle": "Coastal / 2004",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "979da5",
+				"primary_color_light": "969da5",
 				"_base_color": [
 					0.5972222222222223,
-					0.08888888888888889,
-					0.5294117647058824
+					0.08955223880597014,
+					0.5254901960784314
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.5999999999999996,
-					0.06849315068493146,
-					0.5725490196078431
+					0.5925925925925922,
+					0.06206896551724136,
+					0.5686274509803921
 				],
 				"primary_color_dark": "74787f"
 			},
@@ -2336,8 +2336,8 @@
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
-					0.29166666666666696,
-					0.01739130434782615,
+					0.3333333333333333,
+					0.013043478260869643,
 					0.9019607843137255
 				],
 				"primary_color_dark": "edf2f2"
@@ -2404,19 +2404,19 @@
 			"card_subtitle": "Yiruma / 2005",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "3c4672",
+				"primary_color_light": "3b4572",
 				"_base_color": [
-					0.6363636363636364,
-					0.47311827956989244,
-					0.36470588235294116
+					0.637037037037037,
+					0.4787234042553192,
+					0.3686274509803922
 				],
 				"secondary_color": "f4f5f9",
 				"_avg_color": [
-					0.6363636363636364,
-					0.47311827956989244,
-					0.36470588235294116
+					0.6401515151515151,
+					0.4680851063829788,
+					0.3686274509803922
 				],
-				"primary_color_dark": "282e4c"
+				"primary_color_dark": "272e4c"
 			},
 			"type": "music",
 			"id": "1756521",
@@ -2484,13 +2484,13 @@
 				"primary_color_light": "565372",
 				"_base_color": [
 					0.6818181818181818,
-					0.26829268292682934,
-					0.1607843137254902
+					0.275,
+					0.1568627450980392
 				],
 				"secondary_color": "f5f4f9",
 				"_avg_color": [
-					0.9761904761904763,
-					0.25609756097560976,
+					0.9750000000000001,
+					0.24390243902439032,
 					0.3215686274509804
 				],
 				"primary_color_dark": "39374c"
@@ -2565,9 +2565,9 @@
 				],
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
-					0.4466666666666666,
-					0.1515151515151515,
-					0.6470588235294118
+					0.4444444444444444,
+					0.14634146341463414,
+					0.6431372549019608
 				],
 				"primary_color_dark": "627f7d"
 			},
@@ -2603,7 +2603,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6277,
+				"count": 6278,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -2644,9 +2644,9 @@
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.10317460317460315,
-					0.24561403508771928,
-					0.6705882352941176
+					0.10077519379844953,
+					0.25000000000000006,
+					0.6745098039215687
 				],
 				"primary_color_dark": "7f735f"
 			},
@@ -2756,7 +2756,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37235,
+				"count": 37239,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -2789,17 +2789,17 @@
 			"card_subtitle": "Damien Rice / 2006",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a497",
+				"primary_color_light": "a5a597",
 				"_base_color": [
-					0.15079365079365084,
+					0.15873015873015875,
 					0.08536585365853662,
 					0.9647058823529412
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.13768115942028994,
-					0.10900473933649278,
-					0.8274509803921568
+					0.1304347826086956,
+					0.10798122065727701,
+					0.8352941176470589
 				],
 				"primary_color_dark": "7f7e74"
 			},
@@ -2911,7 +2911,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 46102,
+				"count": 46137,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -2944,19 +2944,19 @@
 			"card_subtitle": "王菲 / 1998",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "969ba5",
+				"primary_color_light": "969ca5",
 				"_base_color": [
-					0.6052631578947367,
+					0.5964912280701754,
 					0.09499999999999995,
 					0.7843137254901961
 				],
-				"secondary_color": "f4f6f9",
+				"secondary_color": "f4f7f9",
 				"_avg_color": [
 					0.6449275362318839,
 					0.15131578947368424,
 					0.596078431372549
 				],
-				"primary_color_dark": "73777f"
+				"primary_color_dark": "73787f"
 			},
 			"type": "music",
 			"id": "1394808",
@@ -2989,7 +2989,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21209,
+				"count": 21224,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -3031,8 +3031,8 @@
 				"secondary_color": "f4f9f9",
 				"_avg_color": [
 					0.4219858156028369,
-					0.31756756756756765,
-					0.5803921568627451
+					0.31543624161073824,
+					0.5843137254901961
 				],
 				"primary_color_dark": "377f7a"
 			},
@@ -3096,19 +3096,19 @@
 			"card_subtitle": "metro trip / 2006",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a57531",
+				"primary_color_light": "a57632",
 				"_base_color": [
-					0.09817351598173518,
-					0.7019230769230769,
-					0.8156862745098039
+					0.09837962962962965,
+					0.6956521739130435,
+					0.8117647058823529
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.07608695652173914,
-					0.5679012345679012,
+					0.0750915750915751,
+					0.5617283950617283,
 					0.6352941176470588
 				],
-				"primary_color_dark": "7f5a26"
+				"primary_color_dark": "7f5b26"
 			},
 			"type": "music",
 			"id": "1484261",
@@ -3139,7 +3139,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 502,
+				"count": 503,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -3264,9 +3264,9 @@
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.01950354609929078,
-					0.6482758620689655,
-					0.5686274509803921
+					0.019298245614035092,
+					0.6506849315068493,
+					0.5725490196078431
 				],
 				"primary_color_dark": "7f2e26"
 			},
@@ -3300,7 +3300,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17220,
+				"count": 17222,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.9
@@ -3333,19 +3333,19 @@
 			"card_subtitle": "萧敬腾 / 2008",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59ca5",
+				"primary_color_light": "a59177",
 				"_base_color": [
-					0.8333333333333334,
-					0.05612244897959192,
-					0.7686274509803922
+					0.09259259259259263,
+					0.2769230769230768,
+					0.2549019607843137
 				],
-				"secondary_color": "f9f4f9",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.9833333333333334,
-					0.07518796992481208,
-					0.5215686274509804
+					0.9696969696969698,
+					0.082089552238806,
+					0.5254901960784314
 				],
-				"primary_color_dark": "7f787f"
+				"primary_color_dark": "7f6f5c"
 			},
 			"type": "music",
 			"id": "3092491",
@@ -3380,7 +3380,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25647,
+				"count": 25650,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -3413,19 +3413,19 @@
 			"card_subtitle": "郑钧 / 1994",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726e6c",
+				"primary_color_light": "726e6b",
 				"_base_color": [
-					0.06410256410256397,
-					0.0577777777777777,
+					0.059523809523809625,
+					0.062222222222222255,
 					0.8823529411764706
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
-					0.9666666666666668,
-					0.04273504273504271,
-					0.4588235294117647
+					0.9666666666666663,
+					0.04237288135593229,
+					0.4627450980392157
 				],
-				"primary_color_dark": "4c4948"
+				"primary_color_dark": "4c4947"
 			},
 			"type": "music",
 			"id": "1404457",
@@ -3459,7 +3459,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 76775,
+				"count": 76810,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -3492,19 +3492,19 @@
 			"card_subtitle": "周杰伦 / 2007",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "725048",
+				"primary_color_light": "72534b",
 				"_base_color": [
-					0.030303030303030293,
-					0.36666666666666664,
-					0.11764705882352941
+					0.033333333333333326,
+					0.3448275862068966,
+					0.11372549019607843
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.01851851851851849,
-					0.313953488372093,
-					0.33725490196078434
+					0.018518518518518545,
+					0.3103448275862069,
+					0.3411764705882353
 				],
-				"primary_color_dark": "4c3530"
+				"primary_color_dark": "4c3732"
 			},
 			"type": "music",
 			"id": "1846771",
@@ -3566,17 +3566,17 @@
 			"card_subtitle": "郑钧 / 2006",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "721918",
+				"primary_color_light": "721a19",
 				"_base_color": [
 					0.0019607843137254832,
-					0.7834101382488479,
-					0.8509803921568627
+					0.7798165137614679,
+					0.8549019607843137
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.001831501831501825,
-					0.7459016393442622,
-					0.47843137254901963
+					0.0018115942028985772,
+					0.7603305785123967,
+					0.4745098039215686
 				],
 				"primary_color_dark": "4c1110"
 			},
@@ -3693,7 +3693,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5892,
+				"count": 5893,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -3927,7 +3927,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21471,
+				"count": 21477,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -3960,19 +3960,19 @@
 			"card_subtitle": "崔健 / 1989",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726d6a",
+				"primary_color_light": "726d68",
 				"_base_color": [
-					0.05555555555555569,
-					0.0697674418604652,
-					0.16862745098039217
+					0.08333333333333333,
+					0.08695652173913043,
+					0.1803921568627451
 				],
-				"secondary_color": "f9f6f4",
+				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.03968253968253971,
-					0.2876712328767123,
-					0.28627450980392155
+					0.031746031746031744,
+					0.28,
+					0.29411764705882354
 				],
-				"primary_color_dark": "4c4847"
+				"primary_color_dark": "4c4945"
 			},
 			"type": "music",
 			"id": "1755958",
@@ -4005,7 +4005,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 5397,
+				"count": 5400,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4040,15 +4040,15 @@
 				"is_dark": true,
 				"primary_color_light": "72636f",
 				"_base_color": [
-					0.8641975308641976,
-					0.13235294117647067,
-					0.8
+					0.8703703703703702,
+					0.13300492610837433,
+					0.796078431372549
 				],
 				"secondary_color": "f9f4f8",
 				"_avg_color": [
-					0.7051282051282052,
-					0.2131147540983607,
-					0.47843137254901963
+					0.7066666666666667,
+					0.20661157024793386,
+					0.4745098039215686
 				],
 				"primary_color_dark": "4c424a"
 			},
@@ -4083,7 +4083,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13217,
+				"count": 13249,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4162,7 +4162,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 29373,
+				"count": 29382,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4240,7 +4240,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 37192,
+				"count": 37216,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4273,19 +4273,19 @@
 			"card_subtitle": "崔健 / 1989",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a50b08",
+				"primary_color_light": "a50c08",
 				"_base_color": [
-					0.0025510204081632772,
-					0.9468599033816426,
+					0.004230118443316426,
+					0.9516908212560387,
 					0.8117647058823529
 				],
-				"secondary_color": "f9f4f4",
+				"secondary_color": "f9f5f4",
 				"_avg_color": [
 					0.0035971223021582697,
 					0.9144736842105262,
 					0.596078431372549
 				],
-				"primary_color_dark": "7f0806"
+				"primary_color_dark": "7f0906"
 			},
 			"type": "music",
 			"id": "1394742",
@@ -4351,19 +4351,19 @@
 			"card_subtitle": "Various Artists / 1992",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a54126",
+				"primary_color_light": "a53c22",
 				"_base_color": [
-					0.034946236559139775,
-					0.7654320987654321,
-					0.6352941176470588
+					0.03358208955223879,
+					0.7928994082840236,
+					0.6627450980392157
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.05291005291005293,
+					0.054232804232804244,
 					0.7159090909090909,
 					0.6901960784313725
 				],
-				"primary_color_dark": "7f321d"
+				"primary_color_dark": "7f2e1a"
 			},
 			"type": "music",
 			"id": "1402221",
@@ -4391,7 +4391,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 49036,
+				"count": 49070,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4426,15 +4426,15 @@
 				"is_dark": true,
 				"primary_color_light": "a5a28b",
 				"_base_color": [
-					0.14705882352941171,
-					0.16037735849056614,
-					0.41568627450980394
+					0.1470588235294117,
+					0.15887850467289716,
+					0.4196078431372549
 				],
 				"secondary_color": "f9f9f4",
 				"_avg_color": [
-					0.15217391304347813,
-					0.17424242424242437,
-					0.5176470588235295
+					0.1521739130434783,
+					0.1755725190839694,
+					0.5137254901960784
 				],
 				"primary_color_dark": "7f7d6b"
 			},
@@ -4502,11 +4502,11 @@
 			"card_subtitle": "Guns N' Roses / 1993",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a55e36",
+				"primary_color_light": "a55d35",
 				"_base_color": [
-					0.059210526315789457,
-					0.6696035242290748,
-					0.8901960784313725
+					0.059523809523809514,
+					0.6754385964912282,
+					0.8941176470588236
 				],
 				"secondary_color": "f9f6f4",
 				"_avg_color": [
@@ -4514,7 +4514,7 @@
 					0.6417910447761194,
 					0.788235294117647
 				],
-				"primary_color_dark": "7f482a"
+				"primary_color_dark": "7f4829"
 			},
 			"type": "music",
 			"id": "1900800",
@@ -4553,7 +4553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 36274,
+				"count": 36278,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -4586,19 +4586,19 @@
 			"card_subtitle": "Nirvana / 1994",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "72605c",
+				"primary_color_light": "725d58",
 				"_base_color": [
-					0.02777777777777779,
-					0.1917808219178082,
-					0.8588235294117647
+					0.03061224489795918,
+					0.22477064220183485,
+					0.8549019607843137
 				],
 				"secondary_color": "f9f5f4",
 				"_avg_color": [
-					0.022727272727272763,
-					0.21782178217821777,
-					0.396078431372549
+					0.028985507246376812,
+					0.22330097087378645,
+					0.403921568627451
 				],
-				"primary_color_dark": "4c403d"
+				"primary_color_dark": "4c3e3b"
 			},
 			"type": "music",
 			"id": "1394566",
@@ -4630,7 +4630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 42742,
+				"count": 42756,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -4671,9 +4671,9 @@
 				],
 				"secondary_color": "f4f9f7",
 				"_avg_color": [
-					0.3000000000000001,
-					0.10869565217391297,
-					0.1803921568627451
+					0.2916666666666668,
+					0.08888888888888888,
+					0.17647058823529413
 				],
 				"primary_color_dark": "414c48"
 			},
@@ -4706,7 +4706,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2649,
+				"count": 2650,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -4739,19 +4739,19 @@
 			"card_subtitle": "Nirvana / 1996",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5626e",
+				"primary_color_light": "a55c70",
 				"_base_color": [
-					0.9696969696969697,
-					0.4074074074074074,
-					0.10588235294117647
+					0.9545454545454546,
+					0.44,
+					0.09803921568627451
 				],
-				"secondary_color": "f9f4f5",
+				"secondary_color": "f9f4f6",
 				"_avg_color": [
-					0.0657051282051282,
-					0.7272727272727273,
-					0.5607843137254902
+					0.06472491909385113,
+					0.7253521126760564,
+					0.5568627450980392
 				],
-				"primary_color_dark": "7f4b55"
+				"primary_color_dark": "7f4756"
 			},
 			"type": "music",
 			"id": "1431850",
@@ -4784,7 +4784,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 69852,
+				"count": 69889,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -4817,10 +4817,10 @@
 			"card_subtitle": "Nirvana / 1991",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "517da5",
+				"primary_color_light": "527da5",
 				"_base_color": [
-					0.5806451612903226,
-					0.5054347826086957,
+					0.5815217391304347,
+					0.5,
 					0.7215686274509804
 				],
 				"secondary_color": "f4f7f9",
@@ -4857,7 +4857,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 56238,
+				"count": 56285,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -4898,8 +4898,8 @@
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.20833333333333334,
-					0.3076923076923077,
+					0.22222222222222224,
+					0.23076923076923078,
 					0.050980392156862744
 				],
 				"primary_color_dark": "4c4c4c"
@@ -4930,7 +4930,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50254,
+				"count": 50276,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -4963,19 +4963,19 @@
 			"card_subtitle": "Pink Floyd / 1979",
 			"color_scheme": {
 				"is_dark": false,
-				"primary_color_light": "f1f1f2",
+				"primary_color_light": "f0f1f2",
 				"_base_color": [
-					0.6666666666666666,
-					0.004219409282700407,
-					0.9294117647058824
+					0.5833333333333334,
+					0.008403361344537785,
+					0.9333333333333333
 				],
-				"secondary_color": "f4f4f9",
+				"secondary_color": "f4f7f9",
 				"_avg_color": [
 					0,
 					0,
 					0.9450980392156862
 				],
-				"primary_color_dark": "f1f1f2"
+				"primary_color_dark": "f0f1f2"
 			},
 			"type": "music",
 			"id": "1394664",
@@ -5002,7 +5002,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26370,
+				"count": 26388,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -5035,19 +5035,19 @@
 			"card_subtitle": "Suede / 1993",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5866b",
+				"primary_color_light": "a5876b",
 				"_base_color": [
-					0.07831325301204818,
-					0.35169491525423735,
-					0.9254901960784314
+					0.08032128514056223,
+					0.3502109704641351,
+					0.9294117647058824
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.036764705882352956,
-					0.4276729559748428,
-					0.6235294117647059
+					0.425,
+					0.6274509803921569
 				],
-				"primary_color_dark": "7f6752"
+				"primary_color_dark": "7f6852"
 			},
 			"type": "music",
 			"id": "1394569",
@@ -5071,7 +5071,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 50841,
+				"count": 50897,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -5145,7 +5145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 8928,
+				"count": 8930,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -5218,7 +5218,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20494,
+				"count": 20505,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5260,8 +5260,8 @@
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
 					0.12429378531073444,
-					0.2622222222222222,
-					0.8823529411764706
+					0.2633928571428571,
+					0.8784313725490196
 				],
 				"primary_color_dark": "7f795e"
 			},
@@ -5331,9 +5331,9 @@
 				],
 				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.41666666666666546,
-					0.008771929824561497,
-					0.8941176470588236
+					0.3333333333333333,
+					0.008733624454148563,
+					0.8980392156862745
 				],
 				"primary_color_dark": "7f7f7f"
 			},
@@ -5364,7 +5364,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 61195,
+				"count": 61221,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -5397,19 +5397,19 @@
 			"card_subtitle": "张悬 / 2006",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "726266",
+				"primary_color_light": "726666",
 				"_base_color": [
-					0.9583333333333334,
-					0.14285714285714285,
+					0,
+					0.10714285714285714,
 					0.10980392156862745
 				],
-				"secondary_color": "f9f4f6",
+				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.19999999999999987,
-					0.042016806722689044,
+					0.16666666666666666,
+					0.03361344537815126,
 					0.4666666666666667
 				],
-				"primary_color_dark": "4c4144"
+				"primary_color_dark": "4c4444"
 			},
 			"type": "music",
 			"id": "1788174",
@@ -5438,7 +5438,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6796,
+				"count": 6800,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -5513,7 +5513,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21912,
+				"count": 21922,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -5546,19 +5546,19 @@
 			"card_subtitle": "Guns N' Roses / 1991",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a57b11",
+				"primary_color_light": "a57b0f",
 				"_base_color": [
-					0.11916264090177135,
-					0.8961038961038961,
-					0.9058823529411765
+					0.12006319115323856,
+					0.9055793991416309,
+					0.9137254901960784
 				],
 				"secondary_color": "f9f8f4",
 				"_avg_color": [
-					0.0748031496062992,
-					0.8037974683544303,
-					0.6196078431372549
+					0.07552083333333333,
+					0.8050314465408804,
+					0.6235294117647059
 				],
-				"primary_color_dark": "7f5e0d"
+				"primary_color_dark": "7f5f0c"
 			},
 			"type": "music",
 			"id": "1401165",
@@ -5626,19 +5626,19 @@
 			"card_subtitle": "郑钧 / 2003",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a57d55",
+				"primary_color_light": "a57b55",
 				"_base_color": [
-					0.08176100628930817,
-					0.4818181818181818,
-					0.43137254901960786
+					0.08024691358024692,
+					0.48648648648648646,
+					0.43529411764705883
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
 					0.0797101449275362,
-					0.3484848484848485,
-					0.5176470588235295
+					0.3458646616541354,
+					0.5215686274509804
 				],
-				"primary_color_dark": "7f6042"
+				"primary_color_dark": "7f5f41"
 			},
 			"type": "music",
 			"id": "1408655",
@@ -5714,9 +5714,9 @@
 				],
 				"secondary_color": "f9f7f4",
 				"_avg_color": [
-					0.8833333333333333,
-					0.09009009009009016,
-					0.43529411764705883
+					0.8787878787878787,
+					0.09734513274336275,
+					0.44313725490196076
 				],
 				"primary_color_dark": "4c4844"
 			},
@@ -5786,19 +5786,19 @@
 			"card_subtitle": "郑钧 / 1999",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a59a98",
+				"primary_color_light": "a59898",
 				"_base_color": [
-					0.02941176470588225,
-					0.07981220657276994,
-					0.8352941176470589
+					0,
+					0.08018867924528313,
+					0.8313725490196079
 				],
-				"secondary_color": "f9f5f4",
+				"secondary_color": "f9f4f4",
 				"_avg_color": [
-					0.009259259259259226,
-					0.11688311688311684,
-					0.6039215686274509
+					0,
+					0.1096774193548387,
+					0.6078431372549019
 				],
-				"primary_color_dark": "7f7775"
+				"primary_color_dark": "7f7575"
 			},
 			"type": "music",
 			"id": "1405425",
@@ -5833,7 +5833,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6024,
+				"count": 6026,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -5949,9 +5949,9 @@
 				],
 				"secondary_color": "f4f6f9",
 				"_avg_color": [
-					0.62,
-					0.28089887640449435,
-					0.34901960784313724
+					0.6217948717948718,
+					0.2888888888888889,
+					0.35294117647058826
 				],
 				"primary_color_dark": "323a4c"
 			},
@@ -5988,7 +5988,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17164,
+				"count": 17168,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -6062,7 +6062,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11681,
+				"count": 11685,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -6095,19 +6095,19 @@
 			"card_subtitle": "Nirvana / 1989",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "6f726c",
+				"primary_color_light": "707272",
 				"_base_color": [
-					0.2499999999999997,
-					0.058823529411764705,
-					0.13333333333333333
+					0.4666666666666659,
+					0.023584905660377405,
+					0.8313725490196079
 				],
-				"secondary_color": "f7f9f4",
+				"secondary_color": "f4f9f8",
 				"_avg_color": [
 					0.3333333333333333,
-					0.018348623853210944,
-					0.42745098039215684
+					0.02777777777777781,
+					0.4235294117647059
 				],
-				"primary_color_dark": "4a4c48"
+				"primary_color_dark": "4a4c4c"
 			},
 			"type": "music",
 			"id": "1401436",
@@ -6136,7 +6136,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 4049,
+				"count": 4051,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -6169,10 +6169,10 @@
 			"card_subtitle": "Nirvana / 2004",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "a5a5a5",
+				"primary_color_light": "a5a4a4",
 				"_base_color": [
 					0,
-					0,
+					0.005347593582887682,
 					0.7333333333333333
 				],
 				"secondary_color": "f9f4f4",
@@ -6181,7 +6181,7 @@
 					0,
 					0.611764705882353
 				],
-				"primary_color_dark": "7f7f7f"
+				"primary_color_dark": "7f7e7e"
 			},
 			"type": "music",
 			"id": "1416696",
@@ -6205,7 +6205,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11663,
+				"count": 11679,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.3
@@ -6238,19 +6238,19 @@
 			"card_subtitle": "The Smashing Pumpkins / 1995",
 			"color_scheme": {
 				"is_dark": true,
-				"primary_color_light": "70726d",
+				"primary_color_light": "6f7172",
 				"_base_color": [
-					0.2499999999999997,
-					0.0449438202247191,
-					0.34901960784313724
+					0.5555555555555554,
+					0.03157894736842109,
+					0.37254901960784315
 				],
-				"secondary_color": "f7f9f4",
+				"secondary_color": "f4f8f9",
 				"_avg_color": [
 					0.13063063063063063,
 					0.3333333333333333,
 					0.43529411764705883
 				],
-				"primary_color_dark": "4a4c49"
+				"primary_color_dark": "4a4b4c"
 			},
 			"type": "music",
 			"id": "1394848",
