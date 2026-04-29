@@ -30,7 +30,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16722f03d5-7396-45a8-b2b3-bd619d98af3f.jpg",
         "rating": 8.1,
-        "rating_count": 79,
+        "rating_count": 81,
         "rating_distribution": [
           0,
           6,
@@ -75,6 +75,74 @@
           {
             "url": "https://bgm.tv/subject/226990"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "杨羽",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "邵庄",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "安宁",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "王辰昊",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "邢冬冬",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "张澜菲",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "李洪绸",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "邢冬冬",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "李洪绸",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "周扬帆",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "刘爱银",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2017-07-05T06:44:49Z",
@@ -112,7 +180,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/168a6667ed-90cb-496d-ae29-082656989ff2.jpg",
         "rating": 8.9,
-        "rating_count": 369,
+        "rating_count": 371,
         "rating_distribution": [
           0,
           0,
@@ -154,6 +222,104 @@
           {
             "url": "https://movie.douban.com/subject/6796133/"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "小林薰",
+            "character_name": "",
+            "person_url": "/api/person/3fAFtwebLcCSkjZ7j5oDSH"
+          },
+          {
+            "role": "actor",
+            "name": "安田成美",
+            "character_name": "",
+            "person_url": "/api/person/1zCS5646VAjqo9fcKALO60"
+          },
+          {
+            "role": "actor",
+            "name": "松重丰",
+            "character_name": "",
+            "person_url": "/api/person/4kCe6bzsAs8pcvQTRESOol"
+          },
+          {
+            "role": "actor",
+            "name": "光石研",
+            "character_name": "",
+            "person_url": "/api/person/0A6tn5LemYpDoyHe7ThrSH"
+          },
+          {
+            "role": "actor",
+            "name": "小田切让",
+            "character_name": "",
+            "person_url": "/api/person/2DWpnDdhIgNmqvLVaU4aNZ"
+          },
+          {
+            "role": "actor",
+            "name": "平田薰",
+            "character_name": "",
+            "person_url": "/api/person/05LBbwvgQHTaoM91vkpLcn"
+          },
+          {
+            "role": "actor",
+            "name": "甲本雅裕",
+            "character_name": "",
+            "person_url": "/api/person/6OqCGi0MnzK5KKLAGapRJo"
+          },
+          {
+            "role": "actor",
+            "name": "清水优",
+            "character_name": "",
+            "person_url": "/api/person/0SE13r2HCZsjvt9veEpmPB"
+          },
+          {
+            "role": "director",
+            "name": "松冈锭司",
+            "character_name": "",
+            "person_url": "/api/person/2soffLTyoMyiQ7BmFjwqN6"
+          },
+          {
+            "role": "director",
+            "name": "山下敦弘",
+            "character_name": "",
+            "person_url": "/api/person/1iMmwihYtcg7NigDiCwHat"
+          },
+          {
+            "role": "director",
+            "name": "小林圣太郎",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "野本史生",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "真边克彦",
+            "character_name": "",
+            "person_url": "/api/person/3OvCgvrn2X4J7tkxVKsS2z"
+          },
+          {
+            "role": "playwright",
+            "name": "向井康介",
+            "character_name": "",
+            "person_url": "/api/person/4Y6jLKvuLjXtxzbEocdMVZ"
+          },
+          {
+            "role": "playwright",
+            "name": "荒井晴彦",
+            "character_name": "",
+            "person_url": "/api/person/0hrPXjplAHU4Q5inzcaaqO"
+          },
+          {
+            "role": "playwright",
+            "name": "安倍夜郎",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2013-10-23T15:18:53Z",
@@ -190,7 +356,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155617971d-0de6-4700-a92f-c305c9035e01.jpg",
         "rating": 9.0,
-        "rating_count": 636,
+        "rating_count": 639,
         "rating_distribution": [
           0,
           0,
@@ -231,6 +397,104 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/3991933/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "小林薰",
+            "character_name": "",
+            "person_url": "/api/person/3fAFtwebLcCSkjZ7j5oDSH"
+          },
+          {
+            "role": "actor",
+            "name": "须藤理彩",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "田畑智子",
+            "character_name": "",
+            "person_url": "/api/person/5uMHxM5W1O79imZoTcLTdI"
+          },
+          {
+            "role": "actor",
+            "name": "松重丰",
+            "character_name": "",
+            "person_url": "/api/person/4kCe6bzsAs8pcvQTRESOol"
+          },
+          {
+            "role": "actor",
+            "name": "绫田俊树",
+            "character_name": "",
+            "person_url": "/api/person/7GRaudUaNzX5zA7ofvqqkO"
+          },
+          {
+            "role": "actor",
+            "name": "安藤玉惠",
+            "character_name": "",
+            "person_url": "/api/person/53wcNisA5BN34JdEnSQZL9"
+          },
+          {
+            "role": "actor",
+            "name": "小田切让",
+            "character_name": "",
+            "person_url": "/api/person/2DWpnDdhIgNmqvLVaU4aNZ"
+          },
+          {
+            "role": "actor",
+            "name": "岩松了",
+            "character_name": "",
+            "person_url": "/api/person/78ssp5PWSVaNVIqga7ytVf"
+          },
+          {
+            "role": "actor",
+            "name": "江原由希子",
+            "character_name": "",
+            "person_url": "/api/person/1r87C9rOn9xt8sUMYFuhm0"
+          },
+          {
+            "role": "director",
+            "name": "松冈锭司",
+            "character_name": "",
+            "person_url": "/api/person/2soffLTyoMyiQ7BmFjwqN6"
+          },
+          {
+            "role": "director",
+            "name": "山下敦弘",
+            "character_name": "",
+            "person_url": "/api/person/1iMmwihYtcg7NigDiCwHat"
+          },
+          {
+            "role": "director",
+            "name": "及川拓郎",
+            "character_name": "",
+            "person_url": "/api/person/3mQ5LWgXyGwWkeKCjHo0dA"
+          },
+          {
+            "role": "playwright",
+            "name": "真边克彦",
+            "character_name": "",
+            "person_url": "/api/person/3OvCgvrn2X4J7tkxVKsS2z"
+          },
+          {
+            "role": "playwright",
+            "name": "向井康介",
+            "character_name": "",
+            "person_url": "/api/person/4Y6jLKvuLjXtxzbEocdMVZ"
+          },
+          {
+            "role": "playwright",
+            "name": "及川拓郎",
+            "character_name": "",
+            "person_url": "/api/person/3mQ5LWgXyGwWkeKCjHo0dA"
+          },
+          {
+            "role": "playwright",
+            "name": "和田清人",
+            "character_name": "",
+            "person_url": "/api/person/4M5NL0s0LGiF8qTgw6JcBf"
           }
         ]
       },
@@ -308,6 +572,32 @@
           {
             "url": "https://movie.douban.com/subject/7916280/"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Michael C. Hall",
+            "character_name": "",
+            "person_url": "/api/person/0FFUkWc2pSKweliGdoN2rQ"
+          },
+          {
+            "role": "actor",
+            "name": "Jennifer Carpenter",
+            "character_name": "",
+            "person_url": "/api/person/33QHoCTmLp3zaVuONwH7r6"
+          },
+          {
+            "role": "director",
+            "name": "约翰·达尔",
+            "character_name": "",
+            "person_url": "/api/person/4oFPboinKYHWywoHcNoz1j"
+          },
+          {
+            "role": "playwright",
+            "name": "Scott Buck",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2012-11-10T16:13:31Z",
@@ -348,13 +638,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d092b7cc-6181-49b6-9b77-629c4230f5c5.jpg",
         "rating": 8.0,
-        "rating_count": 129,
+        "rating_count": 130,
         "rating_distribution": [
           0,
           4,
           20,
-          47,
-          29
+          46,
+          30
         ],
         "tags": [
           "08春",
@@ -389,6 +679,104 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/3003093/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "苍井优",
+            "character_name": "",
+            "person_url": "/api/person/3gAmGfx7k3J6XYN4tGaDtR"
+          },
+          {
+            "role": "actor",
+            "name": "内博贵",
+            "character_name": "",
+            "person_url": "/api/person/5jKtsIyIDHrRcYu7ksmNJn"
+          },
+          {
+            "role": "actor",
+            "name": "向井理",
+            "character_name": "",
+            "person_url": "/api/person/60mIa4exAA44tQR1eNcLow"
+          },
+          {
+            "role": "actor",
+            "name": "杉本哲太",
+            "character_name": "",
+            "person_url": "/api/person/47d2neLzIxF5e00PCTJlRc"
+          },
+          {
+            "role": "actor",
+            "name": "铃木兰兰",
+            "character_name": "",
+            "person_url": "/api/person/6dUqHldiJKcbbViLSFoXf0"
+          },
+          {
+            "role": "actor",
+            "name": "工藤里纱",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "森田彩华",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "奥村知史",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "宅间孝行",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "渡边一计",
+            "character_name": "",
+            "person_url": "/api/person/5NwtizFpSHdi2K2ztNrKGB"
+          },
+          {
+            "role": "actor",
+            "name": "余贵美子",
+            "character_name": "",
+            "person_url": "/api/person/2LM5smPgymDsbIihvNu1Du"
+          },
+          {
+            "role": "actor",
+            "name": "由纪纱织",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "松方弘树",
+            "character_name": "",
+            "person_url": "/api/person/5wTAedHQDzWig2cq3wAHO4"
+          },
+          {
+            "role": "director",
+            "name": "南云圣一",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "久保田充",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "きくち正太",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -426,7 +814,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153667bba4-ae1e-417b-a746-38a1f40944de.jpg",
         "rating": 9.0,
-        "rating_count": 599,
+        "rating_count": 601,
         "rating_distribution": [
           0,
           1,
@@ -441,7 +829,7 @@
           "vor2014",
           "中国",
           "中国大陆",
-          "人文",
+          "内地",
           "吃",
           "吃货",
           "国产",
@@ -469,6 +857,20 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/60781/season/1"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "李立宏",
+            "character_name": "",
+            "person_url": "/api/person/0NztvEwzDhm7pRIkKCbVOE"
+          },
+          {
+            "role": "director",
+            "name": "陈晓卿",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -545,6 +947,50 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/2331675/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "莉莎·戈达德",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Adam Roper",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Punch",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "爱德华·菲多",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "莎拉·斯玛特",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "David Cobham",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "Allan Ahlberg",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -641,6 +1087,38 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/1639/season/3"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "海顿·潘妮蒂尔",
+            "character_name": "",
+            "person_url": "/api/person/3s2kYVHbgyaWT5vpND86fs"
+          },
+          {
+            "role": "actor",
+            "name": "杰克·科尔曼",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "森德希·拉玛莫西",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "艾伦·阿库什",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "Tim Kring",
+            "character_name": "",
+            "person_url": "/api/person/0SRpvXFtQuAJQUtEsZJ1zV"
           }
         ]
       },
@@ -742,6 +1220,50 @@
           {
             "url": "https://www.themoviedb.org/tv/1639/season/2"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Ali Larter",
+            "character_name": "",
+            "person_url": "/api/person/2sjZanZOKh0kUJgA0KDPUQ"
+          },
+          {
+            "role": "actor",
+            "name": "Noah Gray-Cabey",
+            "character_name": "",
+            "person_url": "/api/person/4sngAkveY7nQ44IixrIYi5"
+          },
+          {
+            "role": "actor",
+            "name": "Hayden Panettiere",
+            "character_name": "",
+            "person_url": "/api/person/3s2kYVHbgyaWT5vpND86fs"
+          },
+          {
+            "role": "actor",
+            "name": "Milo Ventimiglia",
+            "character_name": "",
+            "person_url": "/api/person/0wJGFYU7pRZ8Vax8piMTKW"
+          },
+          {
+            "role": "director",
+            "name": "Allan Arkush",
+            "character_name": "",
+            "person_url": "/api/person/2g0GqSTMKhKo9k2olNUAlZ"
+          },
+          {
+            "role": "playwright",
+            "name": "Tim Kring",
+            "character_name": "",
+            "person_url": "/api/person/0SRpvXFtQuAJQUtEsZJ1zV"
+          },
+          {
+            "role": "playwright",
+            "name": "Michael Green",
+            "character_name": "",
+            "person_url": "/api/person/53lr0Pbznks15lztS0Bglm"
+          }
         ]
       },
       "created_time": "2008-10-20T19:50:43Z",
@@ -835,6 +1357,68 @@
           {
             "url": "https://movie.douban.com/subject/1464840/"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "反町隆史",
+            "character_name": "",
+            "person_url": "/api/person/28jkQd8Uz5IA8QackgCGJH"
+          },
+          {
+            "role": "actor",
+            "name": "竹野内丰",
+            "character_name": "",
+            "person_url": "/api/person/74PSdfez2uww6LzLnDmET4"
+          },
+          {
+            "role": "actor",
+            "name": "广末凉子",
+            "character_name": "",
+            "person_url": "/api/person/7iLf4G5alBGKbsLAjl5rEQ"
+          },
+          {
+            "role": "actor",
+            "name": "稻森泉",
+            "character_name": "",
+            "person_url": "/api/person/0JJD0pUGUZi0irCSSFZUBM"
+          },
+          {
+            "role": "actor",
+            "name": "川冈大次郎",
+            "character_name": "",
+            "person_url": "/api/person/4Hd6jw1kO6eE3qrf5jehsD"
+          },
+          {
+            "role": "actor",
+            "name": "山本太郎",
+            "character_name": "",
+            "person_url": "/api/person/33Sqx2hRRpD3Lz9cdbNzPO"
+          },
+          {
+            "role": "actor",
+            "name": "佐藤仁美",
+            "character_name": "",
+            "person_url": "/api/person/1WDgX01DtvWI3HTwLZsdjy"
+          },
+          {
+            "role": "director",
+            "name": "石阪理江子",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "泽田镰作",
+            "character_name": "",
+            "person_url": "/api/person/6LmP1I3cPOmIyKI8fEa5iZ"
+          },
+          {
+            "role": "playwright",
+            "name": "冈田惠和",
+            "character_name": "",
+            "person_url": "/api/person/4L6gxeehDGd6I1ZMiDO0qv"
+          }
         ]
       },
       "created_time": "2008-06-07T22:21:19Z",
@@ -925,6 +1509,98 @@
           {
             "url": "https://www.themoviedb.org/tv/62057/season/1"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "反町隆史",
+            "character_name": "",
+            "person_url": "/api/person/28jkQd8Uz5IA8QackgCGJH"
+          },
+          {
+            "role": "actor",
+            "name": "松岛菜菜子",
+            "character_name": "",
+            "person_url": "/api/person/5KThsC4qCCq7Ydx3P4XPhk"
+          },
+          {
+            "role": "actor",
+            "name": "希良梨",
+            "character_name": "",
+            "person_url": "/api/person/6rrgWRSjYhebD1yo0ecBOX"
+          },
+          {
+            "role": "actor",
+            "name": "近藤芳正",
+            "character_name": "",
+            "person_url": "/api/person/72hixUOX2cGZn9L6VjDUxX"
+          },
+          {
+            "role": "actor",
+            "name": "池内博之",
+            "character_name": "",
+            "person_url": "/api/person/4tsjKMD9qwemhVFF1D5UJb"
+          },
+          {
+            "role": "actor",
+            "name": "中尾彬",
+            "character_name": "",
+            "person_url": "/api/person/2i4riZXe7n8nyQzH4AZtLr"
+          },
+          {
+            "role": "actor",
+            "name": "洼冢洋介",
+            "character_name": "",
+            "person_url": "/api/person/4u35wpCvLGOEs7WKYAAEOO"
+          },
+          {
+            "role": "actor",
+            "name": "小栗旬",
+            "character_name": "",
+            "person_url": "/api/person/2yBQHtFkIUiy4LhrX0XiNv"
+          },
+          {
+            "role": "actor",
+            "name": "藤木直人",
+            "character_name": "",
+            "person_url": "/api/person/3twcDIqrocoM7ulx5jlERL"
+          },
+          {
+            "role": "actor",
+            "name": "中村爱美",
+            "character_name": "",
+            "person_url": "/api/person/7U3cnN7zm9g7xkva4pRtPm"
+          },
+          {
+            "role": "actor",
+            "name": "玉木宏",
+            "character_name": "",
+            "person_url": "/api/person/2jWl9ysLTsyPsEDM1EEdCV"
+          },
+          {
+            "role": "actor",
+            "name": "竹野内丰",
+            "character_name": "",
+            "person_url": "/api/person/74PSdfez2uww6LzLnDmET4"
+          },
+          {
+            "role": "director",
+            "name": "赤羽博",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "中岛悟",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "游川和彦",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-06-07T22:20:45Z",
@@ -985,6 +1661,44 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/2190990/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "刘松仁",
+            "character_name": "",
+            "person_url": "/api/person/5hjo93bvzVl7oGTrzlrOdI"
+          },
+          {
+            "role": "actor",
+            "name": "米雪",
+            "character_name": "",
+            "person_url": "/api/person/0EQczMMGJvxkYW2tUJi4Hu"
+          },
+          {
+            "role": "actor",
+            "name": "汤镇宗",
+            "character_name": "",
+            "person_url": "/api/person/2AImdemWbEJzoBLRQvbJjL"
+          },
+          {
+            "role": "actor",
+            "name": "吴毅将",
+            "character_name": "",
+            "person_url": "/api/person/1uu3LXvbLkTMLlR32MifA0"
+          },
+          {
+            "role": "director",
+            "name": "李铁",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "黄育德",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1049,6 +1763,50 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/2212651/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "陈小艺",
+            "character_name": "",
+            "person_url": "/api/person/7mgdaMxsERtiqaz8VQCNu8"
+          },
+          {
+            "role": "actor",
+            "name": "汤镇宗",
+            "character_name": "",
+            "person_url": "/api/person/2AImdemWbEJzoBLRQvbJjL"
+          },
+          {
+            "role": "actor",
+            "name": "李婷",
+            "character_name": "",
+            "person_url": "/api/person/12CVpMeg8uYW3HbrWQU0i1"
+          },
+          {
+            "role": "actor",
+            "name": "杨青",
+            "character_name": "",
+            "person_url": "/api/person/0fQtt8BYmfsf4UYb3TnZz2"
+          },
+          {
+            "role": "actor",
+            "name": "邵晓微",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "常戎",
+            "character_name": "",
+            "person_url": "/api/person/03QAISSw6cfRS4eewSqyb1"
+          },
+          {
+            "role": "director",
+            "name": "成浩",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1122,6 +1880,308 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/2155359/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "战士强",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "吉雪萍",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "杨晓宁",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "池华琼",
+            "character_name": "",
+            "person_url": "/api/person/03ZThnkRfUDdXvMjcXplup"
+          },
+          {
+            "role": "actor",
+            "name": "何威",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "杨建宇",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "张皓琰",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "周琪",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "胡振强",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "陈钟琰",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "杨黎明",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "杨昆",
+            "character_name": "",
+            "person_url": "/api/person/4HqF2zpo1FgGsAngmDrN56"
+          },
+          {
+            "role": "actor",
+            "name": "叶志康",
+            "character_name": "",
+            "person_url": "/api/person/1hcR38yB4GgwLlmgbhmvDy"
+          },
+          {
+            "role": "actor",
+            "name": "王华英",
+            "character_name": "",
+            "person_url": "/api/person/535FFVfHimSq4raqdBhUqp"
+          },
+          {
+            "role": "actor",
+            "name": "修晶双",
+            "character_name": "",
+            "person_url": "/api/person/7YVSiptunrYDPAPecqSIF0"
+          },
+          {
+            "role": "actor",
+            "name": "张妙珍",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "蔡渊澜",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "佘晨光",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "狄梵",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "姚安濂",
+            "character_name": "",
+            "person_url": "/api/person/2A45JeNjU4OYYG8DfmVJMd"
+          },
+          {
+            "role": "actor",
+            "name": "何政军",
+            "character_name": "",
+            "person_url": "/api/person/1BQegGZmSAQ1g7qlxRqxA9"
+          },
+          {
+            "role": "actor",
+            "name": "王毅刚",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "孔刚",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "张荣华",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "端木和林",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "陈纯",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "刘栋",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "盛晓梅",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "陈奇",
+            "character_name": "",
+            "person_url": "/api/person/1cWWafR7MulOqJQftm9FwO"
+          },
+          {
+            "role": "actor",
+            "name": "费宠",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "张兰",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "曹坤其",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "符浩庆",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "吴苗苗",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "陈兆雄",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "陆野",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "崔慧勤",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "姚积汶",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "金效强",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "张东雄",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "吴鸿宝",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "孙晓梅",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "童文良",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "曹大年",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "马佩坤",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "王敦耀",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "王霞",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "富敏",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "张弘",
+            "character_name": "",
+            "person_url": "/api/person/7koOqmCZYEnfbapYzxaD46"
+          },
+          {
+            "role": "playwright",
+            "name": "张弘",
+            "character_name": "",
+            "person_url": "/api/person/7koOqmCZYEnfbapYzxaD46"
           }
         ]
       },
@@ -1198,6 +2258,122 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/2189642/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "姜文",
+            "character_name": "",
+            "person_url": "/api/person/6GkkfVplEfYpVfS5MqQ9wK"
+          },
+          {
+            "role": "actor",
+            "name": "严晓频",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "王姬",
+            "character_name": "",
+            "person_url": "/api/person/6Iw1jnkQRamt0qEpFutQjy"
+          },
+          {
+            "role": "actor",
+            "name": "马晓晴",
+            "character_name": "",
+            "person_url": "/api/person/45Q6f4OMlnSWIaxExsfjZr"
+          },
+          {
+            "role": "actor",
+            "name": "周丽华",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "高国华",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "刘晓莉",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "慎广兰",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "戴博",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "柯志凌",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "福莱德",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "邢凯",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "郑晓龙",
+            "character_name": "",
+            "person_url": "/api/person/6OqhVGU73ONj2xx3XJnETS"
+          },
+          {
+            "role": "director",
+            "name": "冯小刚",
+            "character_name": "",
+            "person_url": "/api/person/0W3FupEchHJ07otNNEIKmR"
+          },
+          {
+            "role": "playwright",
+            "name": "李晓明",
+            "character_name": "",
+            "person_url": "/api/person/3gmWjNJ59AiyGt7GTYJ4hu"
+          },
+          {
+            "role": "playwright",
+            "name": "郑晓龙",
+            "character_name": "",
+            "person_url": "/api/person/6OqhVGU73ONj2xx3XJnETS"
+          },
+          {
+            "role": "playwright",
+            "name": "李功达",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "冯小刚",
+            "character_name": "",
+            "person_url": "/api/person/0W3FupEchHJ07otNNEIKmR"
+          },
+          {
+            "role": "playwright",
+            "name": "曹桂林",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1295,9 +2471,7 @@
           19
         ],
         "tags": [
-          "cn",
           "中国",
-          "偶像剧",
           "内地",
           "剧集",
           "劇",
@@ -1314,6 +2488,8 @@
           "校園",
           "爱情",
           "电视剧",
+          "童年回忆",
+          "连续剧",
           "青春"
         ],
         "brief": "1990年代，上海某所高校。来自偏远小城的杨铮（李亚鹏）自小好强，大学里亦不例外。他结识不同专业但同爱流汗的乐言（王学兵）、雨森（廖凡）、佳伟（崔达治）和若彤（王渝文）后，四个男生组成了一支男子接力赛跑队伍，若彤做了拉拉队的队长。随后如天使的女孩文慧（徐静蕾）走进杨铮的生活，成为他生命中最重要的人，他不知文慧是雨森暗恋长达一年的女孩，也不知若彤一直对他倾心，而乐言又偷偷爱着若彤，但这些没有影响他们的友情，几个年轻人在操场上度过了许许多多的欢乐时光。\n激情褪去，杨铮与文慧的爱情遭遇生活。杨铮要毕业时，文慧与他就工作问题发生激烈的争吵，两人分手，杨铮去了南方做生意，伤心的文慧开始与雨森交往。雨森察觉到杨铮依旧在文慧心中占有很重的分量时，动情向她表白，却不幸死于车祸，杨铮返校与大伙一起以跑接力的方式将他怀念，并借机对文慧重新展开追求，文慧无法接受。不久文慧之外的所有人毕业离校，若彤进了电视台做记者，乐言成了设计师，杨铮则又回南方。\n一年过去，始终放不下文慧的杨铮再返校园，却得知文慧即将赴美，伤心欲绝。不久他在投机生意中被采访的若彤发现，震惊之余，若彤极力相帮，没能改变他被判入狱一年的命运。期间乐言结识精灵女孩小艾（谢雨欣），两人与若彤等人在心烦意乱时仍会像大学时那样在操场上借助奔跑、呐喊将之赶走。杨铮出狱后几乎一无所有，若彤成了帮助他重建自信的身边人，杨铮对她慢慢由感激转为爱意，这时文慧归国。",
@@ -1330,6 +2506,164 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/86455/season/1"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "李亚鹏",
+            "character_name": "",
+            "person_url": "/api/person/0U2lwMw7UYALSnsmOj9D34"
+          },
+          {
+            "role": "actor",
+            "name": "徐静蕾",
+            "character_name": "",
+            "person_url": "/api/person/7a3H672OEShEbC65aEUQKe"
+          },
+          {
+            "role": "actor",
+            "name": "王学兵",
+            "character_name": "",
+            "person_url": "/api/person/5P2KVuMiEJwz0M5sb473Er"
+          },
+          {
+            "role": "actor",
+            "name": "王渝文",
+            "character_name": "",
+            "person_url": "/api/person/3g0F4JMii2mQO1X4eWSltW"
+          },
+          {
+            "role": "actor",
+            "name": "谢雨欣",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "陈明",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "袁鸣",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "高旗",
+            "character_name": "",
+            "person_url": "/api/person/74uEfFeNowx836uUX9CVrb"
+          },
+          {
+            "role": "actor",
+            "name": "廖凡",
+            "character_name": "",
+            "person_url": "/api/person/5X7udnvcqIzAwPuE5MSyCm"
+          },
+          {
+            "role": "actor",
+            "name": "田震",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "崔达治",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "陈琛",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "龚蓓苾",
+            "character_name": "",
+            "person_url": "/api/person/2eDo4TZVAFwu7dRqW2gumt"
+          },
+          {
+            "role": "actor",
+            "name": "张楚",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "夏志卿",
+            "character_name": "",
+            "person_url": "/api/person/2JSSuswXUuJO9vQ1L2sPNV"
+          },
+          {
+            "role": "actor",
+            "name": "姜虹",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "盛亚人",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "李志良",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "胡艺",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "吴竞",
+            "character_name": "",
+            "person_url": "/api/person/04owdGoFo7OFzOQPATtQum"
+          },
+          {
+            "role": "actor",
+            "name": "郭畅",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "常亚娟",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "张一白",
+            "character_name": "",
+            "person_url": "/api/person/07yaFMw3F1c6zWSK1VJy72"
+          },
+          {
+            "role": "playwright",
+            "name": "刁亦男",
+            "character_name": "",
+            "person_url": "/api/person/2Iza25VI5BsT08tPnotTnz"
+          },
+          {
+            "role": "playwright",
+            "name": "霍昕",
+            "character_name": "",
+            "person_url": "/api/person/5LTgvpDVf4sz9y8fkKGFq2"
+          },
+          {
+            "role": "playwright",
+            "name": "彭涛",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1372,18 +2706,18 @@
           34
         ],
         "tags": [
+          "1990s",
           "1997",
           "t 1997",
           "t cn",
           "t 奇幻",
           "tv",
+          "东亚",
           "中国",
+          "中国动画",
           "人参王国",
-          "动漫",
           "动画",
-          "卡通",
           "国产动画",
-          "国漫",
           "大陆",
           "奇幻",
           "童年",
@@ -1401,6 +2735,26 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/2143839/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "director",
+            "name": "王强",
+            "character_name": "",
+            "person_url": "/api/person/3C8Co7VNngYsHCx09sMmmV"
+          },
+          {
+            "role": "playwright",
+            "name": "宫玉春",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "王德富",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1501,6 +2855,74 @@
           {
             "url": "https://www.themoviedb.org/tv/1639/season/0"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "杰克·科尔曼",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "海顿·潘妮蒂尔",
+            "character_name": "",
+            "person_url": "/api/person/3s2kYVHbgyaWT5vpND86fs"
+          },
+          {
+            "role": "actor",
+            "name": "艾丽·拉特",
+            "character_name": "",
+            "person_url": "/api/person/2sjZanZOKh0kUJgA0KDPUQ"
+          },
+          {
+            "role": "actor",
+            "name": "米洛·文堤米利亚",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "丘增",
+            "character_name": "",
+            "person_url": "/api/person/60GgUoF3iqshZz2koebREe"
+          },
+          {
+            "role": "actor",
+            "name": "森德希·拉玛莫西",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "詹姆斯·凯森·李",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "亚德里安·帕斯达",
+            "character_name": "",
+            "person_url": "/api/person/28acYXiwPRk9oIJw0xcVxc"
+          },
+          {
+            "role": "actor",
+            "name": "扎克瑞·昆图",
+            "character_name": "",
+            "person_url": "/api/person/6uXtTmVZhNXChrf8bnDVg9"
+          },
+          {
+            "role": "director",
+            "name": "Mitch Spinelli",
+            "character_name": "",
+            "person_url": "/api/person/2BCDXyV4G8HLaBs6SZWUT1"
+          },
+          {
+            "role": "playwright",
+            "name": "蒂姆·克林",
+            "character_name": "",
+            "person_url": "/api/person/0SRpvXFtQuAJQUtEsZJ1zV"
+          }
         ]
       },
       "created_time": "2008-05-11T01:41:05Z",
@@ -1536,14 +2958,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27f6befa2a-11a7-4afd-b6c0-d94796da8e77.jpg",
-        "rating": 8.1,
-        "rating_count": 37,
+        "rating": 8.2,
+        "rating_count": 38,
         "rating_distribution": [
           0,
           3,
-          27,
+          26,
           32,
-          38
+          39
         ],
         "tags": [
           "1990s",
@@ -1578,6 +3000,56 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/1440406/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "雷·罗马诺",
+            "character_name": "",
+            "person_url": "/api/person/7CEQQjQGGCurCwNy0oGEk5"
+          },
+          {
+            "role": "actor",
+            "name": "帕翠西亚·希顿",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "布拉德·加内特",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "玛德琳.石文顿",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "索耶·史温顿",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "Philip Rosenthal",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "菲利普·罗森塔尔",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "Tucker Cawley",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1614,7 +3086,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d8816334-96bf-4d31-a350-6a52fef74132.jpg",
         "rating": 9.0,
-        "rating_count": 341,
+        "rating_count": 345,
         "rating_distribution": [
           0,
           1,
@@ -1658,6 +3130,74 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/18335/season/1"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "王宝强",
+            "character_name": "",
+            "person_url": "/api/person/7iPcpZQhbY4Q8Z78Xh3iPQ"
+          },
+          {
+            "role": "actor",
+            "name": "陈思诚",
+            "character_name": "",
+            "person_url": "/api/person/5aFJrQAVk2r0oArVQdvI6G"
+          },
+          {
+            "role": "actor",
+            "name": "段奕宏",
+            "character_name": "",
+            "person_url": "/api/person/43V7hDu6KO16doW319bwUq"
+          },
+          {
+            "role": "actor",
+            "name": "张译",
+            "character_name": "",
+            "person_url": "/api/person/0Kqm7RbTbNcOIiTwcdMe2F"
+          },
+          {
+            "role": "actor",
+            "name": "邢佳栋",
+            "character_name": "",
+            "person_url": "/api/person/5B7yaC8TQ4NIg4SMM2xeCt"
+          },
+          {
+            "role": "actor",
+            "name": "张国强",
+            "character_name": "",
+            "person_url": "/api/person/5RYZpI0sNRVQqPXPewYNDs"
+          },
+          {
+            "role": "actor",
+            "name": "李晨",
+            "character_name": "",
+            "person_url": "/api/person/1kcR1H2qe4YNNnNgMyuMsN"
+          },
+          {
+            "role": "actor",
+            "name": "范雷",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "高峰",
+            "character_name": "",
+            "person_url": "/api/person/72liUsDbRCv5EtZkXIaXVB"
+          },
+          {
+            "role": "director",
+            "name": "康洪雷",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "兰晓龙",
+            "character_name": "",
+            "person_url": "/api/person/3wLXT1LXiEEbB16V1c1Ihw"
           }
         ]
       },
@@ -1703,7 +3243,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155b094f8f-e5b6-4362-8ee1-134b949eb918.jpg",
         "rating": 9.1,
-        "rating_count": 468,
+        "rating_count": 472,
         "rating_distribution": [
           0,
           1,
@@ -1747,6 +3287,86 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/6100/season/1"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "木村拓哉",
+            "character_name": "",
+            "person_url": "/api/person/08YjLleN2tg9KoJQO5jPFd"
+          },
+          {
+            "role": "actor",
+            "name": "山口智子",
+            "character_name": "",
+            "person_url": "/api/person/43bUAONZPMTBmcwBkOiMXc"
+          },
+          {
+            "role": "actor",
+            "name": "竹野内丰",
+            "character_name": "",
+            "person_url": "/api/person/74PSdfez2uww6LzLnDmET4"
+          },
+          {
+            "role": "actor",
+            "name": "稻森泉",
+            "character_name": "",
+            "person_url": "/api/person/0JJD0pUGUZi0irCSSFZUBM"
+          },
+          {
+            "role": "actor",
+            "name": "广末凉子",
+            "character_name": "",
+            "person_url": "/api/person/7iLf4G5alBGKbsLAjl5rEQ"
+          },
+          {
+            "role": "actor",
+            "name": "松隆子",
+            "character_name": "",
+            "person_url": "/api/person/6pFMkBUWvHQp3qCW7ryOmD"
+          },
+          {
+            "role": "actor",
+            "name": "森本治行",
+            "character_name": "",
+            "person_url": "/api/person/1qVIrXAeE50SuxJspAEBN3"
+          },
+          {
+            "role": "actor",
+            "name": "凉",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "丰原功补",
+            "character_name": "",
+            "person_url": "/api/person/3xT87RVDRbiBYalLaxWJQf"
+          },
+          {
+            "role": "director",
+            "name": "永山耕三",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "铃木雅之",
+            "character_name": "",
+            "person_url": "/api/person/2SchQYI3LkXkl9Mj89MSkY"
+          },
+          {
+            "role": "director",
+            "name": "臼井裕词",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "北川悦吏子",
+            "character_name": "",
+            "person_url": "/api/person/07eREeaUu4beHxGBrH2s55"
           }
         ]
       },
@@ -1799,6 +3419,7 @@
           "ドラマ",
           "剧情",
           "喜剧",
+          "女主人公",
           "很不错",
           "我的最愛",
           "新闻女郎",
@@ -1811,7 +3432,6 @@
           "电视剧",
           "电视台",
           "经典",
-          "职业",
           "铃木保奈美",
           "ｆｉｌｍ"
         ],
@@ -1826,6 +3446,86 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/1484469/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "铃木保奈美",
+            "character_name": "",
+            "person_url": "/api/person/3XWTGzdNido1DxpP6no0MB"
+          },
+          {
+            "role": "actor",
+            "name": "泷泽秀明",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "长塚京三",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "藤原纪香",
+            "character_name": "",
+            "person_url": "/api/person/7B8uChHNjMlPU5As5M2c9k"
+          },
+          {
+            "role": "actor",
+            "name": "深田恭子",
+            "character_name": "",
+            "person_url": "/api/person/0UEtq7Vzgl6kLBeAVgQbyr"
+          },
+          {
+            "role": "actor",
+            "name": "野村宏伸",
+            "character_name": "",
+            "person_url": "/api/person/21Jl96lC5nTwJBG2Mk6BPp"
+          },
+          {
+            "role": "actor",
+            "name": "吹越满",
+            "character_name": "",
+            "person_url": "/api/person/1ibPbND1bVyrqCOQ95R7lX"
+          },
+          {
+            "role": "actor",
+            "name": "小野武彦",
+            "character_name": "",
+            "person_url": "/api/person/2TS0ouDoMcq6tvPGqIZNCR"
+          },
+          {
+            "role": "actor",
+            "name": "阿部宽",
+            "character_name": "",
+            "person_url": "/api/person/2yYPx3XIc76y56ACBULF4W"
+          },
+          {
+            "role": "director",
+            "name": "小椋久雄",
+            "character_name": "",
+            "person_url": "/api/person/73AzgG49pmuxqYXIaSy1ry"
+          },
+          {
+            "role": "director",
+            "name": "高丸雅隆",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "田渕久美子",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "高桥留美",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1879,10 +3579,10 @@
         "tags": [
           "1990s",
           "1999",
-          "99春",
           "tv_jp",
           "ドラマ",
           "剧情",
+          "唯美",
           "师生恋",
           "情感",
           "日剧",
@@ -1909,6 +3609,80 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/1464837/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "松岛菜菜子",
+            "character_name": "",
+            "person_url": "/api/person/5KThsC4qCCq7Ydx3P4XPhk"
+          },
+          {
+            "role": "actor",
+            "name": "泷泽秀明",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "黑木瞳",
+            "character_name": "",
+            "person_url": "/api/person/1TEYwo4Rdwg8H3XEQMfGlQ"
+          },
+          {
+            "role": "actor",
+            "name": "西田尚美",
+            "character_name": "",
+            "person_url": "/api/person/1ArmQWaYrcCcml5ma1j5yk"
+          },
+          {
+            "role": "actor",
+            "name": "别所哲也",
+            "character_name": "",
+            "person_url": "/api/person/19DvfE6g8yz1mOHCay4RIY"
+          },
+          {
+            "role": "actor",
+            "name": "白川由美",
+            "character_name": "",
+            "person_url": "/api/person/5znpLMZsdgHBSXVLH3du0t"
+          },
+          {
+            "role": "actor",
+            "name": "山口祐一郎",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "山田麻衣子",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "土井裕泰",
+            "character_name": "",
+            "person_url": "/api/person/6aEzY60nV2AXgTJwvz1S5m"
+          },
+          {
+            "role": "director",
+            "name": "难波一弘",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "片山修",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "游川和彦",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1951,12 +3725,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/166e880f88-87e8-4229-9793-b068911fc2a4.jpg",
         "rating": 8.3,
-        "rating_count": 323,
+        "rating_count": 325,
         "rating_distribution": [
           0,
-          2,
+          3,
           13,
-          52,
+          51,
           33
         ],
         "tags": [
@@ -1991,6 +3765,14 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/1781636/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "director",
+            "name": "E.C. Segar",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2033,7 +3815,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15989f00a8-6d93-4d0d-893b-e653891b89e9.jpg",
         "rating": 9.3,
-        "rating_count": 249,
+        "rating_count": 248,
         "rating_distribution": [
           0,
           0,
@@ -2076,6 +3858,62 @@
           },
           {
             "url": "https://movie.douban.com/subject/1428295/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Antonín Jedlicka",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "弗兰季塞克·菲利波夫斯基",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Viola Zinková",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "约瑟夫·赫利诺马兹",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Artus Kalous",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "P. Kysela",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "E. Smítková",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "兹德内克·米莱尔",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "兹德内克·米莱尔",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2158,6 +3996,62 @@
           {
             "url": "https://movie.douban.com/subject/2138382/"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Teresa Ganzel",
+            "character_name": "",
+            "person_url": "/api/person/6RGBQ0XHd4d6XKMLH3qadr"
+          },
+          {
+            "role": "actor",
+            "name": "Richard Gautier",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Frank Welker",
+            "character_name": "",
+            "person_url": "/api/person/21AkJQhYfdU2V3J8JWqeTs"
+          },
+          {
+            "role": "director",
+            "name": "Robert Alvarez",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "Don Lusk",
+            "character_name": "",
+            "person_url": "/api/person/3scQBjGb56KR3WmpzBqDRV"
+          },
+          {
+            "role": "director",
+            "name": "Paul Sommer",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "Carl Urbano",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "Oscar Dufau",
+            "character_name": "",
+            "person_url": "/api/person/0AKfkKxI9UkHQBGB3LeTWR"
+          },
+          {
+            "role": "director",
+            "name": "Jay Sarbry",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2006-06-07T00:37:29Z",
@@ -2232,6 +4126,68 @@
         "external_resources": [
           {
             "url": "https://movie.douban.com/subject/1498604/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "冈本茉莉",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "水岛裕",
+            "character_name": "",
+            "person_url": "/api/person/31GXQzJwMCda8Vg8kmN5Hr"
+          },
+          {
+            "role": "actor",
+            "name": "白石冬美",
+            "character_name": "",
+            "person_url": "/api/person/6scyrYlj683vUNWtdknrbS"
+          },
+          {
+            "role": "actor",
+            "name": "神山卓三",
+            "character_name": "",
+            "person_url": "/api/person/0kxGm4mjZb4cv3AV8L1kpK"
+          },
+          {
+            "role": "actor",
+            "name": "喜多道枝",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "长谷山治",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "设乐博",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "城山升",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "曽田博久",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "吉田義昭",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2311,6 +4267,50 @@
           {
             "url": "https://movie.douban.com/subject/1449381/"
           }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Allen Swift",
+            "character_name": "",
+            "person_url": "/api/person/7HD90rR7AiwM0nODkOEfjl"
+          },
+          {
+            "role": "actor",
+            "name": "Julia Holewinski",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Leen Jongewaard",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "Talus Taylor",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "Annette Tison",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "Talus Taylor",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "Annette Tison",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2006-06-07T00:36:05Z",
@@ -2348,13 +4348,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151226707a-020a-4e28-93c5-91d881755142.jpg",
         "rating": 8.9,
-        "rating_count": 505,
+        "rating_count": 507,
         "rating_distribution": [
           0,
           1,
           8,
-          37,
-          54
+          38,
+          53
         ],
         "tags": [
           "1980s",
@@ -2395,6 +4395,68 @@
           },
           {
             "url": "https://www.themoviedb.org/tv/1319/season/1"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "戴欣",
+            "character_name": "",
+            "person_url": "/api/person/20ln5RjyIiryq9dssYlbM1"
+          },
+          {
+            "role": "actor",
+            "name": "朱艺",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "倪以临",
+            "character_name": "",
+            "person_url": "/api/person/5saIMiEUKeEt0jS5eIU5MY"
+          },
+          {
+            "role": "actor",
+            "name": "战车",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "胡进庆",
+            "character_name": "",
+            "person_url": "/api/person/6Xs4i1Cy0SSjKpvCvJ7xdc"
+          },
+          {
+            "role": "director",
+            "name": "葛桂云",
+            "character_name": "",
+            "person_url": "/api/person/20u6n8fi3xnwjwC25dF4cR"
+          },
+          {
+            "role": "director",
+            "name": "周克勤",
+            "character_name": "",
+            "person_url": "/api/person/0kl9vPTV7lnzDRBWewwcZ3"
+          },
+          {
+            "role": "playwright",
+            "name": "姚忠礼",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "杨玉良",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "胡进庆",
+            "character_name": "",
+            "person_url": "/api/person/6Xs4i1Cy0SSjKpvCvJ7xdc"
           }
         ]
       },
@@ -2437,7 +4499,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14001511d9-8599-4a0a-9e9e-ec0933fb6ef7.jpg",
         "rating": 9.3,
-        "rating_count": 178,
+        "rating_count": 179,
         "rating_distribution": [
           0,
           1,
@@ -2481,6 +4543,38 @@
           },
           {
             "url": "https://movie.douban.com/subject/1417946/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "Alan Thicke",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Joanna Kerns",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "Kirk Cameron",
+            "character_name": "",
+            "person_url": "/api/person/6YpGvMdyc6DnZBMZ6WWoRL"
+          },
+          {
+            "role": "director",
+            "name": "John Pasquin",
+            "character_name": "",
+            "person_url": "/api/person/07YiwQfw8ilbOY4Kl0IkrG"
+          },
+          {
+            "role": "playwright",
+            "name": "Neal Marlens",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2539,7 +4633,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15eab988ed-8d95-4b0c-a833-6ab27274ea27.jpg",
         "rating": 9.5,
-        "rating_count": 1131,
+        "rating_count": 1134,
         "rating_distribution": [
           0,
           0,
@@ -2591,6 +4685,74 @@
           },
           {
             "url": "https://movie.douban.com/subject/4038495/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "actor",
+            "name": "詹妮弗·安妮斯顿",
+            "character_name": "",
+            "person_url": "/api/person/71efqBbbWyJKpt50nupxZp"
+          },
+          {
+            "role": "actor",
+            "name": "柯特妮·考克斯",
+            "character_name": "",
+            "person_url": "/api/person/53GVTzSew64H9bI5JqnrHE"
+          },
+          {
+            "role": "actor",
+            "name": "丽莎·库卓",
+            "character_name": "",
+            "person_url": "/api/person/6V1Z5EisTd9lZXf7nw7KiQ"
+          },
+          {
+            "role": "actor",
+            "name": "马特·勒布朗",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "actor",
+            "name": "马修·派瑞",
+            "character_name": "",
+            "person_url": "/api/person/1mDPMuOQbLvaEVqDVm15zb"
+          },
+          {
+            "role": "actor",
+            "name": "大卫·休默",
+            "character_name": "",
+            "person_url": "/api/person/6RBMgmSZ9MbjEg0zoabXRM"
+          },
+          {
+            "role": "actor",
+            "name": "詹姆斯·迈克尔·泰勒",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "director",
+            "name": "大卫·克拉尼",
+            "character_name": "",
+            "person_url": "/api/person/72ITnwN3Bn2MnORIdT7QoF"
+          },
+          {
+            "role": "director",
+            "name": "玛尔塔·考夫曼",
+            "character_name": "",
+            "person_url": "/api/person/47WpRVyg5uA2wCunGE6DAw"
+          },
+          {
+            "role": "playwright",
+            "name": "加里·哈勒沃尔森",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "playwright",
+            "name": "凯文·布莱特",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
