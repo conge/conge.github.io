@@ -47,6 +47,20 @@
           {
             "url": "https://music.douban.com/subject/35326243/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "不是花火呀",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "深声文化",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2021-06-29T18:24:06Z",
@@ -105,6 +119,20 @@
           {
             "url": "https://music.douban.com/subject/35454170/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "不是花火呀",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "鲸鱼向海",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2021-06-29T18:23:35Z",
@@ -138,7 +166,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/160de9c9eb-13b3-4359-8202-86cb30ad8c62.jpg",
         "rating": 9.9,
-        "rating_count": 29,
+        "rating_count": 30,
         "rating_distribution": [
           0,
           0,
@@ -174,6 +202,26 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/4308199/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "群星",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "artist",
+            "name": "许镜清",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "鸿艺唱片",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -236,6 +284,20 @@
           {
             "url": "https://music.douban.com/subject/1428041/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Future Sound Of London",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Astralwerks",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2010-07-01T01:20:16Z",
@@ -280,6 +342,7 @@
         "tags": [
           "2000s",
           "china",
+          "engo好听",
           "live",
           "rock",
           "中国",
@@ -289,6 +352,7 @@
           "摇滚",
           "民谣",
           "演唱会",
+          "男声",
           "许巍",
           "青春",
           "音乐"
@@ -304,6 +368,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/2305563/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍",
+            "character_name": "",
+            "person_url": "/api/person/6Dz2r88osTDtaQek2LhGMX"
+          },
+          {
+            "role": "record_label",
+            "name": "金牌大风",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -342,12 +420,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15329c2125-0816-4e98-a757-c6fcaf83633e.jpg",
         "rating": 8.6,
-        "rating_count": 201,
+        "rating_count": 200,
         "rating_distribution": [
           0,
-          1,
+          0,
           15,
-          35,
+          36,
           49
         ],
         "tags": [
@@ -378,6 +456,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1960229/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Chris Garneau",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Absolutely Kosher",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -413,7 +505,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/16b7c6161e-2c3d-4d05-ae15-3e33f59974fa.jpg",
         "rating": 9.3,
-        "rating_count": 110,
+        "rating_count": 111,
         "rating_distribution": [
           2,
           0,
@@ -450,6 +542,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/2286005/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Damien Rice",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Warner Classics UK",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -529,6 +635,20 @@
           {
             "url": "https://music.douban.com/subject/1478828/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍",
+            "character_name": "",
+            "person_url": "/api/person/6Dz2r88osTDtaQek2LhGMX"
+          },
+          {
+            "role": "record_label",
+            "name": "百代步升音乐",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2009-07-07T02:42:14Z",
@@ -566,13 +686,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15eb8e5a28-9183-4196-bfb6-ef7317e39002.jpg",
         "rating": 9.6,
-        "rating_count": 302,
+        "rating_count": 305,
         "rating_distribution": [
           0,
           0,
           3,
-          12,
-          85
+          13,
+          84
         ],
         "tags": [
           "1960s",
@@ -607,6 +727,20 @@
           },
           {
             "url": "https://www.discogs.com/release/2958147"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Beatles",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Parlophone",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -646,13 +780,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15678c9483-b521-4de9-9029-d93d1a47c096.jpg",
         "rating": 9.4,
-        "rating_count": 149,
+        "rating_count": 150,
         "rating_distribution": [
           0,
           0,
-          3,
+          4,
           22,
-          75
+          74
         ],
         "tags": [
           "1960s",
@@ -685,6 +819,20 @@
           },
           {
             "url": "https://music.douban.com/subject/3168903/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Beatles",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Capitol",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -761,6 +909,20 @@
           {
             "url": "https://music.douban.com/subject/1408378/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍 Wei Xu",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "步升音像",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2009-07-03T23:43:20Z",
@@ -836,6 +998,20 @@
           {
             "url": "https://music.douban.com/subject/1407498/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍",
+            "character_name": "",
+            "person_url": "/api/person/6Dz2r88osTDtaQek2LhGMX"
+          },
+          {
+            "role": "record_label",
+            "name": "内蒙古文化音像出版社",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2009-07-03T23:42:52Z",
@@ -896,6 +1072,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1466643/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Future Sound of London",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Astralwerks",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -964,6 +1154,20 @@
           {
             "url": "https://music.douban.com/subject/3219362/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Enya",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "WPCR-13203",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2009-03-16T14:13:23Z",
@@ -1016,6 +1220,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1779031/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Future Sound of London",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Astralwerks",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1077,6 +1295,20 @@
           {
             "url": "https://music.douban.com/subject/1764751/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Future Sound of London",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Astralwerks",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2009-03-16T14:12:40Z",
@@ -1133,6 +1365,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/3183327/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Juliana Hatfield",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Ye Olde Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1196,6 +1442,20 @@
           {
             "url": "https://music.douban.com/subject/2367087/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Various Artists",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Rhino Entertainment Company",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2009-03-01T16:03:16Z",
@@ -1228,8 +1488,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/1651a5e100-f32f-48b6-9abe-1f57cdfdafb5.jpg",
-        "rating": 9.1,
-        "rating_count": 311,
+        "rating": 9.0,
+        "rating_count": 313,
         "rating_distribution": [
           1,
           0,
@@ -1265,6 +1525,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1394590/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Damien Rice",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Vector Recordings",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1331,6 +1605,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/3225858/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍",
+            "character_name": "",
+            "person_url": "/api/person/6Dz2r88osTDtaQek2LhGMX"
+          },
+          {
+            "role": "record_label",
+            "name": "百代音乐",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1405,6 +1693,20 @@
           {
             "url": "https://music.douban.com/subject/3223853/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍",
+            "character_name": "",
+            "person_url": "/api/person/6Dz2r88osTDtaQek2LhGMX"
+          },
+          {
+            "role": "record_label",
+            "name": "步升大风",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-12-09T17:10:51Z",
@@ -1462,6 +1764,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1486175/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Juliana Hatfield",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Ye Olde Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1524,6 +1840,20 @@
           {
             "url": "https://music.douban.com/subject/1774553/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Peaches",
+            "character_name": "",
+            "person_url": "/api/person/5IEwjlXqSBGz5XngAvQaOJ"
+          },
+          {
+            "role": "record_label",
+            "name": "Efa Imports",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-12-08T18:49:45Z",
@@ -1572,6 +1902,26 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/3186394/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Midsummer",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "artist",
+            "name": "Coastal",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "SunSeaSky",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1626,6 +1976,20 @@
           {
             "url": "https://music.douban.com/subject/3073685/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Aaron Booth",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Planting Seeds Records",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-10-20T00:56:43Z",
@@ -1651,14 +2015,14 @@
         ],
         "localized_description": [],
         "cover_image_url": "https://neodb.social/m/album/2021/12/10332da828-f7b3-496a-9716-b3c9bcadfbde.jpg",
-        "rating": null,
-        "rating_count": 4,
+        "rating": 7.6,
+        "rating_count": 5,
         "rating_distribution": [
           0,
           0,
+          60,
           0,
-          0,
-          0
+          40
         ],
         "tags": [
           "ambient",
@@ -1675,6 +2039,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1981944/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "William Basinski",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Musex International",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1725,6 +2103,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1447050/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Coastal",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Words On Music",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1783,6 +2175,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1418007/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Coastal",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Words On Music",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -1857,6 +2263,20 @@
           {
             "url": "https://music.douban.com/subject/1756523/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Yiruma (李闰珉)",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Universal Music Korea",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-08-09T01:40:08Z",
@@ -1926,6 +2346,20 @@
           {
             "url": "https://music.douban.com/subject/1756521/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Yiruma",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "EMI",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-08-09T01:40:01Z",
@@ -1959,13 +2393,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/16de508573-752f-4c2d-bd9c-5fa2f6989464.jpg",
         "rating": 8.5,
-        "rating_count": 13,
+        "rating_count": 15,
         "rating_distribution": [
           0,
           0,
-          15,
-          46,
-          39
+          13,
+          47,
+          40
         ],
         "tags": [
           "18岁",
@@ -1988,6 +2422,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/2154174/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "小娟&山谷里的居民",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "天津市文化艺术音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2064,6 +2512,20 @@
           {
             "url": "https://music.douban.com/subject/1404703/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Innocence Mission",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Badman Records",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-08-09T01:39:33Z",
@@ -2105,18 +2567,18 @@
         ],
         "tags": [
           "2000s",
-          "2004",
           "b sides",
-          "damien rice",
-          "damien_rice",
           "damienrice",
-          "engo好听",
           "ep single",
           "folk",
           "indie",
           "ireland",
           "live",
+          "rock",
+          "低吟浅唱",
+          "喜欢的",
           "地区 爱尔兰",
+          "歌手 damienrice",
           "民谣",
           "爱尔兰",
           "英伦"
@@ -2132,6 +2594,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1396321/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Damien Rice",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Vector Recordings",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2198,6 +2674,20 @@
           {
             "url": "https://music.douban.com/subject/1898588/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Dustin O'Halloran",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Filter U.S.",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-08-09T01:38:35Z",
@@ -2229,13 +2719,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15205ad2fb-787e-4c14-80f9-b285aab90032.jpg",
         "rating": 8.7,
-        "rating_count": 221,
+        "rating_count": 220,
         "rating_distribution": [
           2,
-          1,
+          0,
           10,
           34,
-          53
+          54
         ],
         "tags": [
           "2000s",
@@ -2270,6 +2760,20 @@
           {
             "url": "https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Damien Rice",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Warner Music Group",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-08-09T01:38:03Z",
@@ -2302,13 +2806,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/194068ff63-970e-4852-a307-ba7078bd7f73.jpg",
         "rating": 8.1,
-        "rating_count": 27,
+        "rating_count": 28,
         "rating_distribution": [
           0,
-          8,
-          11,
-          48,
-          33
+          7,
+          14,
+          47,
+          32
         ],
         "tags": [
           "18岁",
@@ -2341,6 +2845,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1997995/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "小娟&山谷里的居民",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "天津文化艺术音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2378,7 +2896,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15b23d2d3b-ec15-462b-9426-d2dac7cda455.jpg",
         "rating": 9.2,
-        "rating_count": 310,
+        "rating_count": 314,
         "rating_distribution": [
           0,
           0,
@@ -2421,6 +2939,20 @@
           {
             "url": "https://www.discogs.com/release/3063172"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "王菲",
+            "character_name": "",
+            "person_url": "/api/person/4DM7f5VddfWHWrx9AuAzpp"
+          },
+          {
+            "role": "record_label",
+            "name": "EMI",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-07-25T22:41:55Z",
@@ -2454,13 +2986,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/169fccc43b-c93c-4d78-b00f-b0032e4a041a.jpg",
         "rating": 9.2,
-        "rating_count": 174,
+        "rating_count": 175,
         "rating_distribution": [
           0,
           0,
           6,
-          27,
-          67
+          28,
+          66
         ],
         "tags": [
           "17岁",
@@ -2494,6 +3026,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1395136/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "窦唯",
+            "character_name": "",
+            "person_url": "/api/person/4UgglQpSdz1oGS3dtZRC2B"
+          },
+          {
+            "role": "record_label",
+            "name": "魔岩唱片",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2550,6 +3096,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1484261/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "metro trip",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "インディーズ・メーカー",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2620,6 +3180,32 @@
           {
             "url": "https://music.douban.com/subject/1441368/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Brian Eno",
+            "character_name": "",
+            "person_url": "/api/person/6v76j338RSfHU4o2kuVUPU"
+          },
+          {
+            "role": "artist",
+            "name": "Gavin Bryars",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "artist",
+            "name": "The Cockpit Ensemble",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Astralwerks",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-06-24T10:58:51Z",
@@ -2676,6 +3262,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/2077221/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Xandria",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Drakkar",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2748,6 +3348,20 @@
           {
             "url": "https://music.douban.com/subject/3092491/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "萧敬腾",
+            "character_name": "",
+            "person_url": "/api/person/0h53lP34kdpOaITueaqG8L"
+          },
+          {
+            "role": "record_label",
+            "name": "華納國際音樂股份有限公司",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-06-24T10:56:38Z",
@@ -2784,13 +3398,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/160f4aed6a-4951-40f6-9499-95958432a6b3.jpg",
         "rating": 8.6,
-        "rating_count": 160,
+        "rating_count": 159,
         "rating_distribution": [
           1,
           1,
           11,
-          39,
-          48
+          40,
+          47
         ],
         "tags": [
           "1990s",
@@ -2825,6 +3439,20 @@
           },
           {
             "url": "https://open.spotify.com/album/5AYyeq6y3PH6Et3BAOHceo"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "郑钧",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "红星音乐生产社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2865,7 +3493,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/158b8693d5-638a-484d-ac21-024ce581aa85.jpg",
         "rating": 7.6,
-        "rating_count": 331,
+        "rating_count": 333,
         "rating_distribution": [
           0,
           6,
@@ -2906,6 +3534,20 @@
           },
           {
             "url": "https://music.douban.com/subject/6545715/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "周杰伦",
+            "character_name": "",
+            "person_url": "/api/person/2x9PvfRaitm1Ps3qNaDup8"
+          },
+          {
+            "role": "record_label",
+            "name": "杰威尔音乐",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -2968,6 +3610,20 @@
           {
             "url": "https://music.douban.com/subject/1499666/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "郑钧",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "广东音像出版社出版",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-06-02T12:47:27Z",
@@ -3005,14 +3661,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/10/15ccb14358-dc7e-47fe-ad5b-fa42be4e7b9d.jpg",
-        "rating": 8.9,
-        "rating_count": 8,
+        "rating": 8.7,
+        "rating_count": 7,
         "rating_distribution": [
           0,
           0,
           0,
-          50,
-          50
+          57,
+          43
         ],
         "tags": [
           "2018",
@@ -3033,6 +3689,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1406413/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Various Artists",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "江西文化音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3084,6 +3754,7 @@
         "tags": [
           "2000s",
           "2010年以前 也清新过",
+          "2014",
           "alternative",
           "indie",
           "rock",
@@ -3095,7 +3766,6 @@
           "欧美",
           "穿过骨头抚摸你",
           "经典",
-          "音乐",
           "音乐天堂"
         ],
         "brief": "满足喜欢欧美音乐的狂热歌迷，唯美另类经典歌曲的汇萃，最具有杀伤力的歌曲，就象名字说的那样，穿过骨头抚摩你，用音乐刺痛你。",
@@ -3109,6 +3779,14 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1404032/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "record_label",
+            "name": "江西文化音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3178,6 +3856,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1408640/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Various Artists",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "江西文化音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3253,6 +3945,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1401426/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Various Artists",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "江西文化音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3332,6 +4038,20 @@
           {
             "url": "https://music.douban.com/subject/1755958/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "崔健",
+            "character_name": "",
+            "person_url": "/api/person/57rqGhitHJZeiuLiLAsvNR"
+          },
+          {
+            "role": "record_label",
+            "name": "可登唱片",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-05-24T12:37:25Z",
@@ -3398,6 +4118,20 @@
           {
             "url": "https://music.douban.com/subject/1431901/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Doors",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Wea International",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-05-24T12:37:10Z",
@@ -3435,7 +4169,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/13c2410dc0-e044-41fd-ae2e-e9ee0f14ba13.jpg",
         "rating": 9.3,
-        "rating_count": 125,
+        "rating_count": 126,
         "rating_distribution": [
           0,
           0,
@@ -3446,14 +4180,14 @@
         "tags": [
           "1990s",
           "1994",
-          "china",
           "engo好听",
           "rock",
-          "thebest",
           "中国",
           "中国摇滚",
           "内地",
           "华语摇滚",
+          "国内摇滚",
+          "国摇 谣",
           "大陆",
           "崔健",
           "崔健 红旗下的蛋",
@@ -3473,6 +4207,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1395110/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "崔健",
+            "character_name": "",
+            "person_url": "/api/person/57rqGhitHJZeiuLiLAsvNR"
+          },
+          {
+            "role": "record_label",
+            "name": "北京北影錄音錄影公司",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3507,11 +4255,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/16a42bc0da-5e70-4d2a-9303-43ababef6305.jpg",
         "rating": 9.0,
-        "rating_count": 212,
+        "rating_count": 214,
         "rating_distribution": [
           1,
-          1,
-          5,
+          0,
+          6,
           32,
           61
         ],
@@ -3520,8 +4268,7 @@
           "1992",
           "1996",
           "2014",
-          "5",
-          "_少年时",
+          "_rock",
           "rock",
           "中国",
           "中国摇滚",
@@ -3547,6 +4294,14 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1413627/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "黑豹",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3582,7 +4337,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/126d54f931-04bc-43e4-ad51-e6c30341b933.jpg",
         "rating": 9.5,
-        "rating_count": 264,
+        "rating_count": 268,
         "rating_distribution": [
           0,
           0,
@@ -3593,15 +4348,15 @@
         "tags": [
           "1980s",
           "1989",
-          "ra",
+          "a",
           "rock",
           "中国",
           "中国摇滚",
           "内地",
+          "初登场",
           "华语",
           "华语摇滚",
           "国内",
-          "国内摇滚",
           "大陆",
           "崔健",
           "摇滚",
@@ -3621,6 +4376,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1394742/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "崔健",
+            "character_name": "",
+            "person_url": "/api/person/57rqGhitHJZeiuLiLAsvNR"
+          },
+          {
+            "role": "record_label",
+            "name": "中国国际广播音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3655,13 +4424,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/12f7679e3c-8040-44d0-8849-71f19f9e2292.jpg",
         "rating": 8.9,
-        "rating_count": 60,
+        "rating_count": 61,
         "rating_distribution": [
           0,
           0,
-          12,
+          13,
           30,
-          58
+          57
         ],
         "tags": [
           "1990s",
@@ -3697,6 +4466,20 @@
           {
             "url": "https://music.douban.com/subject/35387794/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Various Artists",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "中国音乐家音像出版社",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-05-24T12:36:13Z",
@@ -3730,7 +4513,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/discogs_release/2024/12/11/db661d7e-291e-424e-80fc-3a3644838e8e.jpg",
         "rating": 9.3,
-        "rating_count": 393,
+        "rating_count": 397,
         "rating_distribution": [
           1,
           0,
@@ -3742,7 +4525,8 @@
           "18岁",
           "1990s",
           "1994",
-          "2014",
+          "_rock",
+          "b",
           "rock",
           "中国",
           "中国摇滚",
@@ -3783,6 +4567,26 @@
           },
           {
             "url": "https://www.discogs.com/release/6908611"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Dou Wei",
+            "character_name": "",
+            "person_url": "/api/person/4UgglQpSdz1oGS3dtZRC2B"
+          },
+          {
+            "role": "record_label",
+            "name": "1994 Rock Records Co., Ltd.",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "1994 Rock Records Co., Ltd.",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3856,6 +4660,20 @@
           {
             "url": "https://music.douban.com/subject/1900800/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Guns N' Roses",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Gold Line Sp.",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2008-05-24T12:34:08Z",
@@ -3893,13 +4711,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15cdc0f019-d08d-4ebe-b064-c185c6679edc.jpg",
         "rating": 9.6,
-        "rating_count": 258,
+        "rating_count": 262,
         "rating_distribution": [
+          1,
           0,
-          0,
-          2,
+          3,
           12,
-          86
+          84
         ],
         "tags": [
           "1990s",
@@ -3932,6 +4750,20 @@
           },
           {
             "url": "https://www.discogs.com/master/22433"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Nirvana",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -3971,20 +4803,20 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/13263738a0-d52e-4c75-b64b-8b3eeb30809a.jpg",
-        "rating": 9.3,
-        "rating_count": 277,
+        "rating": 9.2,
+        "rating_count": 279,
         "rating_distribution": [
           0,
           0,
           6,
-          24,
-          70
+          25,
+          69
         ],
         "tags": [
+          "16岁",
           "1990s",
           "1994",
           "2014",
-          "ra",
           "rock",
           "中国",
           "中国摇滚",
@@ -3998,8 +4830,7 @@
           "摇滚",
           "民谣",
           "男声",
-          "经典",
-          "音乐"
+          "经典"
         ],
         "brief": "94年，作为滚石“魔岩三杰”之一的张楚，《孤独的人是可耻 的》专辑发行，这张专辑了没有《姐姐》那样令人陶醉的伤感，更多的是对内心的抒发。 专辑中的歌曲的旋律极具无规律性。在音乐里，张楚不仅是一个有巨大内涵的腼腆孩子，更是一个已经跨越了城乡的诗人。所以，即便他后来并没有找到可以带自己回家的“姐姐”，但他依然懂得以孤独者自醒，以卑微者自乐。有人说他是中国最寂寞的歌手，因为他从小四处飘泊流浪， 有人说听他的歌特别感伤，因为歌声浑厚苍茫。他大部份歌曲创作的时候都是走在路上……",
         "id": "https://neodb.social/album/6bQVuWZZyl42Oh2iQCD3up",
@@ -4012,6 +4843,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1407472/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "张楚",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "魔岩唱片",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -4049,13 +4894,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/199798f905-8e16-40f8-8585-c06ff2f010de.jpg",
         "rating": 9.0,
-        "rating_count": 26,
+        "rating_count": 27,
         "rating_distribution": [
           0,
           0,
           11,
-          27,
-          62
+          30,
+          59
         ],
         "tags": [
           "1990s",
@@ -4085,6 +4930,20 @@
           },
           {
             "url": "https://open.spotify.com/album/26paS1Rzj1L0d3Zr1WBTIj"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Nirvana",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -4130,7 +4989,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/151c68ddf0-db14-4d79-9a71-2b74b36c1101.jpg",
         "rating": 9.3,
-        "rating_count": 545,
+        "rating_count": 548,
         "rating_distribution": [
           0,
           1,
@@ -4170,6 +5029,20 @@
           {
             "url": "https://www.discogs.com/master/13814"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Nirvana",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Records",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-12-27T16:05:50Z",
@@ -4207,7 +5080,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/item/spotify_album/2025/01/13/52d68b22-9150-4e65-baff-d527469ffd03.jpg",
         "rating": 9.5,
-        "rating_count": 600,
+        "rating_count": 602,
         "rating_distribution": [
           0,
           1,
@@ -4218,7 +5091,7 @@
         "tags": [
           "1970s",
           "1973",
-          "floyd",
+          "pink",
           "pink_floyd",
           "pinkfloyd",
           "progressive rock",
@@ -4275,6 +5148,20 @@
           {
             "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Pink Floyd",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "(P) 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-12-14T05:10:54Z",
@@ -4312,13 +5199,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/125e5feff3-a6cc-4eb1-ae46-a44e21508430.jpg",
         "rating": 9.5,
-        "rating_count": 450,
+        "rating_count": 453,
         "rating_distribution": [
-          0,
+          1,
           1,
           2,
           16,
-          81
+          80
         ],
         "tags": [
           "14岁",
@@ -4350,6 +5237,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1394664/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Pink Floyd",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Sony/Columbia",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -4384,13 +5285,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/1532ed0381-0000-4cc4-b376-72fcccece411.jpg",
         "rating": 9.1,
-        "rating_count": 204,
+        "rating_count": 205,
         "rating_distribution": [
           1,
-          0,
+          1,
           6,
           25,
-          68
+          67
         ],
         "tags": [
           "1990s",
@@ -4420,6 +5321,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1394569/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Suede",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Nude Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -4453,7 +5368,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15b7c2da05-75f9-4d79-a1af-ec3025467aec.jpg",
         "rating": 9.3,
-        "rating_count": 492,
+        "rating_count": 494,
         "rating_distribution": [
           0,
           1,
@@ -4495,6 +5410,26 @@
           },
           {
             "url": "https://www.discogs.com/master/21491"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Radiohead",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Capitol",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Parlophone",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -4568,6 +5503,20 @@
           {
             "url": "https://www.discogs.com/master/20424"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Nirvana",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Records",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-12-14T05:08:45Z",
@@ -4610,13 +5559,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/1590db8d8a-e50e-444f-a274-743ed8ac5cb9.jpg",
         "rating": 9.2,
-        "rating_count": 180,
+        "rating_count": 184,
         "rating_distribution": [
           0,
           0,
-          4,
+          5,
           29,
-          67
+          66
         ],
         "tags": [
           "1990s",
@@ -4634,7 +5583,7 @@
           "欧美",
           "涅磐",
           "美国",
-          "购得"
+          "自杀促进协会"
         ],
         "brief": "如果说《别介意》（nevermind）使柯特．科本成为了摇滚明星，《子宫中》则使他厌恶地批判着关于他的新地位的一切。音乐上原始化（这得感谢制作人steve albini），在情感上加倍地原始化（他用“埋葬”来压韵“婚姻”），《子宫中》还是更多矛盾的宝藏。好笑，优美，令人心碎，它更像一张出色的唱片而不是自杀遗言。但在后来的日子里，我们听到的将只是悲痛的吼叫了。 kurt cobain以其独有的缓慢低沉的如梦般刺破黑暗的诗吟、快速的齐奏、焦躁不安的和声……使grunge风暴达到了极点，接近燃烧; 也使无数歌迷为之倾倒、疯狂。然而这无法掩饰cobain最深层的恐惧和脆弱的心。在<<in utero>>中nirvana 留下的只是他们音乐里有的那种躁动不安和最深的孤寂。---生命的终点并不是死亡，而是希望的破灭",
         "id": "https://neodb.social/album/3CE9sNqY1Xnb65HOlgsy89",
@@ -4653,6 +5602,20 @@
           },
           {
             "url": "https://www.discogs.com/release/368528"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Nirvana",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -4708,6 +5671,20 @@
           {
             "url": "https://music.douban.com/subject/1766737/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Vargo",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Modernsoul",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-11-07T04:46:01Z",
@@ -4737,12 +5714,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15f9ca6441-a1a3-4030-b2a4-1c7676aec252.jpg",
         "rating": 8.7,
-        "rating_count": 367,
+        "rating_count": 370,
         "rating_distribution": [
           0,
-          1,
+          0,
           9,
-          42,
+          43,
           48
         ],
         "tags": [
@@ -4750,17 +5727,17 @@
           "2006",
           "folk",
           "indie",
-          "life",
-          "pop",
           "华语",
           "台湾",
           "台灣",
-          "国内",
+          "地区 台湾",
           "女声",
           "安溥",
           "张悬",
           "張懸",
+          "歌手 张悬",
           "民谣",
+          "流行",
           "独立",
           "独立音乐"
         ],
@@ -4778,6 +5755,20 @@
           },
           {
             "url": "https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "张悬",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Sony BMG",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -4846,6 +5837,20 @@
           {
             "url": "https://music.douban.com/subject/1394897/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Air",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Astralwerks",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-10-25T01:22:26Z",
@@ -4907,7 +5912,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/15b2d4d1e5-d042-4a46-8455-33c84d09a985.jpg",
         "rating": 9.0,
-        "rating_count": 186,
+        "rating_count": 187,
         "rating_distribution": [
           0,
           0,
@@ -4954,6 +5959,20 @@
           },
           {
             "url": "https://www.discogs.com/release/1012511"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Guns N' Roses",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -5020,6 +6039,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1408655/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "郑钧",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "珠影白天鹅音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -5096,6 +6129,20 @@
           {
             "url": "https://music.douban.com/subject/1407361/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "郑钧",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "EMI CHINA 百代唱片中国部",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-03-13T13:52:47Z",
@@ -5162,6 +6209,20 @@
           {
             "url": "https://music.douban.com/subject/1405425/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "郑钧",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "上海音像公司出版社",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-03-13T13:52:25Z",
@@ -5196,14 +6257,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/11/28053b7f94-eed1-47bd-a40a-f6184f6bf127.jpg",
-        "rating": 7.9,
+        "rating": 7.8,
         "rating_count": 39,
         "rating_distribution": [
           3,
           5,
-          21,
-          38,
-          33
+          20,
+          41,
+          31
         ],
         "tags": [
           "1996",
@@ -5229,6 +6290,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1449967/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "郑钧",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "天津音像出版社",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -5264,14 +6339,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/16610d8571-5cf0-468c-94f9-8ed794138149.jpg",
-        "rating": 9.3,
-        "rating_count": 110,
+        "rating": 9.2,
+        "rating_count": 111,
         "rating_distribution": [
           0,
-          1,
+          2,
           3,
           28,
-          68
+          67
         ],
         "tags": [
           "2000",
@@ -5303,6 +6378,20 @@
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1439087/"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍",
+            "character_name": "",
+            "person_url": "/api/person/6Dz2r88osTDtaQek2LhGMX"
+          },
+          {
+            "role": "record_label",
+            "name": "红星",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
@@ -5379,6 +6468,20 @@
           {
             "url": "https://music.douban.com/subject/1406881/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "许巍",
+            "character_name": "",
+            "person_url": "/api/person/6Dz2r88osTDtaQek2LhGMX"
+          },
+          {
+            "role": "record_label",
+            "name": "江西文化音像出版社",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2007-03-13T13:49:27Z",
@@ -5454,6 +6557,20 @@
           {
             "url": "https://www.discogs.com/master/13773"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Nirvana",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Sub Pop",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2006-06-04T23:12:37Z",
@@ -5514,6 +6631,20 @@
           {
             "url": "https://music.douban.com/subject/1416696/"
           }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "Nirvana",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Geffen Records",
+            "character_name": "",
+            "person_url": null
+          }
         ]
       },
       "created_time": "2006-06-04T21:26:22Z",
@@ -5543,13 +6674,13 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/16f74a91f2-b144-4a2a-bd3f-cee3f5f8ef6e.jpg",
         "rating": 9.3,
-        "rating_count": 106,
+        "rating_count": 109,
         "rating_distribution": [
           0,
           0,
           5,
-          24,
-          71
+          25,
+          70
         ],
         "tags": [
           "1900s",
@@ -5581,6 +6712,20 @@
           },
           {
             "url": "https://www.discogs.com/master/48721"
+          }
+        ],
+        "credits": [
+          {
+            "role": "artist",
+            "name": "The Smashing Pumpkins",
+            "character_name": "",
+            "person_url": null
+          },
+          {
+            "role": "record_label",
+            "name": "Virgin Records",
+            "character_name": "",
+            "person_url": null
           }
         ]
       },
