@@ -764,7 +764,7 @@
             "role": "director",
             "name": "南云圣一",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/2jarHePZ7MrOTBZjNeKkBW"
           },
           {
             "role": "director",
@@ -814,7 +814,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153667bba4-ae1e-417b-a746-38a1f40944de.jpg",
         "rating": 9.0,
-        "rating_count": 601,
+        "rating_count": 602,
         "rating_distribution": [
           0,
           1,
@@ -870,7 +870,7 @@
             "role": "director",
             "name": "陈晓卿",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/14rgzbizrfWfyFooDIV6lk"
           }
         ]
       },
@@ -1046,12 +1046,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/11/27b0223203-b9e1-42f5-a8fd-e4682b41d73a.jpg",
         "rating": 6.8,
-        "rating_count": 52,
+        "rating_count": 53,
         "rating_distribution": [
           0,
           10,
-          54,
-          25,
+          53,
+          26,
           11
         ],
         "tags": [
@@ -1177,28 +1177,28 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/13fbc966b8-6309-4671-b185-c8926ebf34da.jpg",
         "rating": 7.2,
-        "rating_count": 70,
+        "rating_count": 71,
         "rating_distribution": [
           0,
           6,
           41,
-          40,
-          13
+          39,
+          14
         ],
         "tags": [
-          "2000s",
           "2007",
-          "9 10",
-          "adventure",
           "enu",
           "heroes",
           "miloventimiglia",
           "nbc",
           "sci fi",
+          "teleplay",
           "剧集",
           "动作",
+          "弃",
           "惊悚",
           "电视剧",
+          "电视剧美国",
           "科幻",
           "美剧",
           "美国",
@@ -2163,7 +2163,7 @@
             "role": "actor",
             "name": "王霞",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3eUJg4UUVDIUwgXZftPsbk"
           },
           {
             "role": "director",
@@ -2219,7 +2219,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14a28feb2a-a8e7-4bba-bd83-6ed9ba33845a.jpg",
         "rating": 8.4,
-        "rating_count": 107,
+        "rating_count": 108,
         "rating_distribution": [
           0,
           0,
@@ -2707,16 +2707,16 @@
         "tags": [
           "1990s",
           "1997",
-          "t 1997",
-          "t cn",
-          "t 奇幻",
           "tv",
-          "东亚",
           "中国",
-          "中国动画",
           "人参王国",
+          "剧情",
+          "剧集",
+          "动漫",
           "动画",
+          "卡通",
           "国产动画",
+          "国漫",
           "大陆",
           "奇幻",
           "童年",
@@ -2806,7 +2806,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14a2f8a3f5-a467-4768-b8d1-380ba2452f33.jpg",
         "rating": 7.9,
-        "rating_count": 170,
+        "rating_count": 172,
         "rating_distribution": [
           0,
           2,
@@ -3085,7 +3085,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d8816334-96bf-4d31-a350-6a52fef74132.jpg",
         "rating": 9.0,
-        "rating_count": 345,
+        "rating_count": 346,
         "rating_distribution": [
           0,
           1,
@@ -3418,7 +3418,6 @@
           "ドラマ",
           "剧情",
           "喜剧",
-          "女主人公",
           "很不错",
           "我的最愛",
           "新闻女郎",
@@ -3431,6 +3430,7 @@
           "电视剧",
           "电视台",
           "经典",
+          "职业",
           "铃木保奈美",
           "ｆｉｌｍ"
         ],
@@ -3567,11 +3567,11 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d96f0042-14dd-40ad-aad8-623723ff555c.jpg",
         "rating": 8.0,
-        "rating_count": 110,
+        "rating_count": 111,
         "rating_distribution": [
           0,
-          4,
-          19,
+          3,
+          20,
           49,
           28
         ],
@@ -3675,7 +3675,7 @@
             "role": "director",
             "name": "片山修",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/4RNddBs0CjzhQh18jlfLKn"
           },
           {
             "role": "playwright",
@@ -4632,7 +4632,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15eab988ed-8d95-4b0c-a833-6ab27274ea27.jpg",
         "rating": 9.5,
-        "rating_count": 1141,
+        "rating_count": 1142,
         "rating_distribution": [
           0,
           0,
