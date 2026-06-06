@@ -48,7 +48,7 @@
           "国产",
           "大陆",
           "悬疑",
-          "懸疑",
+          "推理",
           "搞笑",
           "李洪绸",
           "犯罪",
@@ -81,19 +81,19 @@
             "role": "actor",
             "name": "杨羽",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/79167gNhEqQ9qZGkTslKhF"
           },
           {
             "role": "actor",
             "name": "邵庄",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/0DiUwQmACRGRMpYw0dfhf8"
           },
           {
             "role": "actor",
             "name": "安宁",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/3ks1L7wZMDw2pG2cNz2px0"
           },
           {
             "role": "actor",
@@ -356,7 +356,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155617971d-0de6-4700-a92f-c305c9035e01.jpg",
         "rating": 9.0,
-        "rating_count": 640,
+        "rating_count": 641,
         "rating_distribution": [
           0,
           0,
@@ -535,13 +535,13 @@
         "localized_description": [],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/13b423a93e-00f0-4af6-8075-e84d662ada06.jpg",
         "rating": 8.0,
-        "rating_count": 43,
+        "rating_count": 44,
         "rating_distribution": [
           2,
           7,
           16,
-          40,
-          35
+          41,
+          34
         ],
         "tags": [
           "2010",
@@ -1186,10 +1186,9 @@
           14
         ],
         "tags": [
+          "2000s",
           "2007",
-          "enu",
           "heroes",
-          "miloventimiglia",
           "nbc",
           "sci fi",
           "teleplay",
@@ -1692,7 +1691,7 @@
             "role": "director",
             "name": "李铁",
             "character_name": "",
-            "person_url": null
+            "person_url": "/api/person/48e0Y4cllh2WbIIyDb1E7s"
           },
           {
             "role": "playwright",
@@ -2806,12 +2805,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/14a2f8a3f5-a467-4768-b8d1-380ba2452f33.jpg",
         "rating": 7.9,
-        "rating_count": 172,
+        "rating_count": 173,
         "rating_distribution": [
           0,
           2,
-          26,
-          44,
+          25,
+          45,
           28
         ],
         "tags": [
@@ -3085,7 +3084,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15d8816334-96bf-4d31-a350-6a52fef74132.jpg",
         "rating": 9.0,
-        "rating_count": 346,
+        "rating_count": 348,
         "rating_distribution": [
           0,
           1,
@@ -3242,7 +3241,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/155b094f8f-e5b6-4362-8ee1-134b949eb918.jpg",
         "rating": 9.1,
-        "rating_count": 475,
+        "rating_count": 480,
         "rating_distribution": [
           0,
           1,
@@ -3724,12 +3723,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/166e880f88-87e8-4229-9793-b068911fc2a4.jpg",
         "rating": 8.3,
-        "rating_count": 325,
+        "rating_count": 324,
         "rating_distribution": [
           0,
-          3,
+          2,
           13,
-          51,
+          52,
           33
         ],
         "tags": [
@@ -3813,8 +3812,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15989f00a8-6d93-4d0d-893b-e653891b89e9.jpg",
-        "rating": 9.3,
-        "rating_count": 248,
+        "rating": 9.4,
+        "rating_count": 247,
         "rating_distribution": [
           0,
           0,
@@ -4347,7 +4346,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151226707a-020a-4e28-93c5-91d881755142.jpg",
         "rating": 8.9,
-        "rating_count": 507,
+        "rating_count": 509,
         "rating_distribution": [
           0,
           1,
@@ -4632,7 +4631,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15eab988ed-8d95-4b0c-a833-6ab27274ea27.jpg",
         "rating": 9.5,
-        "rating_count": 1142,
+        "rating_count": 1146,
         "rating_distribution": [
           0,
           0,
