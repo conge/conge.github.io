@@ -15,6 +15,9 @@ tags: 阅读 读书 读书笔记 设计学 心理学 整理 小说
 
 好容易找了本小说来看，结果也是科学技术设定是重点的科幻小说。
 
+
+
+
 ## 设计
 
 <img src="https://neodb.social/m/book/2021/10/06c1401c95-7a4a-4aaf-953e-b860242047ea.jpg" width="150" height="220" referrerPolicy="no-referrer">
