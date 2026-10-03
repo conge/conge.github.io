@@ -127,21 +127,32 @@ jobs:
         # 读取本地的 neodb_data.json 文件内容
         json=$(cat _data/neodb/neodb_data.json)
 
-        # 提取图片 URL
-        image_urls=$(echo "$json" | jq -r '.data[].item.cover_image_url')
+        # 提取图片 URL（过滤掉 null / 空值，防止 curl 去解析 "null" 主机名）
+        image_urls=$(echo "$json" | jq -r '.data[].item.cover_image_url // empty')
+
+        # 打印没有封面的条目，方便排查是哪一本/哪一部
+        echo "$json" | jq -r '.data[] | select(.item.cover_image_url == null or .item.cover_image_url == "") | "No cover image: \(.item.uuid) | \(.item.category) | \(.item.title // .item.display_title // "?")"'
 
         # 遍历图片 URL 并下载图片
         for url in $image_urls; do
+          # 双保险：跳过空 URL
+          if [ -z "$url" ]; then
+            echo "Skipping empty URL"
+            continue
+          fi
           filename=$(basename "$url")
           filepath="${{ env.WORK_DIR }}/assets/images/neodb/$filename"
           # 检查文件是否已存在
           if [ -f "$filepath" ]; then
             echo "Skipping $filename - File already exists"
           else
-            # 使用 curl 命令下载图片
-            curl -o "$filepath" "$url"
-            echo "Downloaded $filename"
-            echo "REMOTE_UUID=''" >> $GITHUB_ENV
+            # 使用 curl 命令下载图片；下载失败也不中断整个流程
+            if curl -fsSL --retry 2 -o "$filepath" "$url"; then
+              echo "Downloaded $filename"
+              echo "REMOTE_UUID=''" >> $GITHUB_ENV
+            else
+              echo "Failed to download $url - skipped"
+            fi
           fi
         done
 
