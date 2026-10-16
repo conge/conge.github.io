@@ -58,15 +58,15 @@
         "credits": [
           {
             "role": "actor",
-            "name": "安宁",
-            "character_name": "",
-            "person_url": "/api/people/4rs088s0UGiKz3yALrk4oH"
-          },
-          {
-            "role": "actor",
             "name": "杨羽",
             "character_name": "",
             "person_url": "/api/people/79167gNhEqQ9qZGkTslKhF"
+          },
+          {
+            "role": "actor",
+            "name": "安宁",
+            "character_name": "",
+            "person_url": "/api/people/4rs088s0UGiKz3yALrk4oH"
           },
           {
             "role": "actor",
@@ -654,13 +654,13 @@
         "localized_description": [],
         "cover_image_url": "https://neodb.social/m/movie/2021/10/13b423a93e-00f0-4af6-8075-e84d662ada06.jpg",
         "rating": 8.0,
-        "rating_count": 44,
+        "rating_count": 45,
         "rating_distribution": [
           2,
           7,
-          16,
-          41,
-          34
+          15,
+          40,
+          36
         ],
         "tags": null,
         "brief": "",
@@ -911,7 +911,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/153667bba4-ae1e-417b-a746-38a1f40944de.jpg",
         "rating": 9.0,
-        "rating_count": 607,
+        "rating_count": 609,
         "rating_distribution": [
           0,
           1,
@@ -1502,12 +1502,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/16755b4235-0a2a-434a-b8cc-76e2a52ff5b0.jpg",
         "rating": 8.3,
-        "rating_count": 119,
+        "rating_count": 120,
         "rating_distribution": [
           3,
           3,
-          9,
-          45,
+          8,
+          46,
           40
         ],
         "tags": null,
@@ -2670,14 +2670,14 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/17f9435f6c-e89c-4bb1-9c54-be821adfbeba.jpg",
-        "rating": 8.2,
-        "rating_count": 60,
+        "rating": 8.3,
+        "rating_count": 61,
         "rating_distribution": [
           2,
           0,
           18,
-          43,
-          37
+          42,
+          38
         ],
         "tags": null,
         "brief": "在古老的长白山上，有一个人参王国。在一次人参国百年庆典大会上，国王拿出了镇国人参国宝，闪闪发光的国宝被走兽国的熊罴王它们发现了，早就惦记着人参国宝的熊罴，趁机抢走国宝。不料被藏在暗处的飞禽国狡猾的雕王给暗中调包换走了。傻笨熊并没有发现，它把假国宝偷偷藏在树洞里，被喇咕精看见，骗它把国宝放在水族国更安全，正当喇咕精拿着国宝偷跑时，笨熊罴发现受骗，追来把喇咕精打败。小参娃来到走兽国要国宝，使用魔法跟熊罴大战，野兽林的群兽妖们都不是他的对手。熊罴使花招让参娃上当，小兽妖们把国宝偷运到了水族国，参娃寻找而来遭到了喇咕精的暗算，正当危难之时雌鱼母来救，使参娃拿到了假的国宝，他能发现国宝是假的吗？真的国宝还能找回来吗？还要经历那些曲折和磨难呢？",
@@ -3619,7 +3619,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/166e880f88-87e8-4229-9793-b068911fc2a4.jpg",
         "rating": 8.3,
-        "rating_count": 329,
+        "rating_count": 330,
         "rating_distribution": [
           0,
           2,
@@ -4231,8 +4231,8 @@
           }
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/151226707a-020a-4e28-93c5-91d881755142.jpg",
-        "rating": 8.8,
-        "rating_count": 517,
+        "rating": 8.9,
+        "rating_count": 518,
         "rating_distribution": [
           0,
           1,
@@ -4539,7 +4539,7 @@
         ],
         "cover_image_url": "https://neodb.social/m/movie/2021/09/15eab988ed-8d95-4b0c-a833-6ab27274ea27.jpg",
         "rating": 9.5,
-        "rating_count": 1164,
+        "rating_count": 1168,
         "rating_distribution": [
           0,
           0,
