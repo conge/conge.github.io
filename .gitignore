@@ -4,3 +4,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+# 数据同步备份不再入库（历史版本由 git 保存）
+*.bak

@@ -5,6 +5,12 @@ on:
   - cron: "30 0 * * 1"
   watch:
     types: [started]
+  workflow_dispatch:
+
+env:
+  DATA_TYPES: book movie music
+  # 新数据条目数低于旧数据的这个百分比时，视为抓取异常并回滚
+  MIN_KEEP_PERCENT: "90"
 
 jobs:
   douban:
@@ -12,13 +18,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
-    - name: backup data files
+    # doumark 是把抓到的数据 concat 到已有文件后面，所以必须先移走旧文件。
+    # 备份放在 $RUNNER_TEMP（不进仓库），仅用于本次失败回滚；
+    # 历史版本由 git 保存，需要时 git checkout <sha> -- _data/book.json 即可。
+    - name: Stash current data
       run: |
-        mv ./_data/book.json ./_data/douban/book_$(date +%Y-%m-%d).json.bak
-        mv ./_data/music.json ./_data/douban/music_$(date +%Y-%m-%d).json.bak
-        mv ./_data/movie.json ./_data/douban/movie_$(date +%Y-%m-%d).json.bak
+        mkdir -p "$RUNNER_TEMP/douban-backup"
+        for t in $DATA_TYPES; do
+          mv "_data/$t.json" "$RUNNER_TEMP/douban-backup/$t.json"
+        done
 
     - name: book
       uses: lizheming/doumark-action@master
@@ -43,8 +53,44 @@ jobs:
         format: json
         dir: ./_data
 
+    # 抓取失败（空文件、非 JSON、条目数暴跌）时用备份回滚并让任务失败，
+    # 避免把坏数据提交进仓库。
+    - name: Validate and roll back on failure
+      run: |
+        failed=0
+        for t in $DATA_TYPES; do
+          new="_data/$t.json"
+          old="$RUNNER_TEMP/douban-backup/$t.json"
+
+          if [ ! -s "$new" ] || ! jq -e 'type == "array"' "$new" > /dev/null; then
+            echo "::error::$t.json is missing, empty or not a JSON array"
+            failed=1
+            continue
+          fi
+
+          old_count=$(jq 'length' "$old" 2>/dev/null || echo 0)
+          new_count=$(jq 'length' "$new")
+          echo "$t.json: $old_count -> $new_count"
+
+          if [ "$old_count" -gt 0 ] && [ $((new_count * 100)) -lt $((old_count * MIN_KEEP_PERCENT)) ]; then
+            echo "::error::$t.json shrank from $old_count to $new_count entries (< ${MIN_KEEP_PERCENT}%)"
+            failed=1
+          fi
+        done
+
+        if [ "$failed" -ne 0 ]; then
+          for t in $DATA_TYPES; do
+            cp -f "$RUNNER_TEMP/douban-backup/$t.json" "_data/$t.json"
+          done
+          echo "::error::Restored previous data, aborting without commit."
+          exit 1
+        fi
+
     - name: Commit
       uses: EndBug/add-and-commit@v9
       with:
         message: 'chore: update douban data'
-        add: './_data'
+        add: |
+          ./_data/book.json
+          ./_data/movie.json
+          ./_data/music.json
