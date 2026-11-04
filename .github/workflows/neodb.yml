@@ -7,6 +7,12 @@ on:
     - cron: "0 0 * * *"
     watch:
       types: [started]
+    workflow_dispatch:
+      inputs:
+        force:
+          description: "强制全量同步（忽略 UUID/count 比较）"
+          type: boolean
+          default: false
   
 
 #  workflow_dispatch:
@@ -34,41 +40,56 @@ jobs:
         # 把当前目录保存到环境变量中
         echo "WORK_DIR=$(pwd)" >> $GITHUB_ENV
 
-    # 获取本地现有文件中最新的 UUID
-    - name: Get Local Current UUID
+    # 获取本地现有文件中最新的 UUID 和记录总数
+    - name: Get Local Current UUID and Count
       run: |
-        CURRENT_UUID() {
-          jq -r '.data[0].item.uuid' _data/neodb/neodb_data.json
-        }
-        echo "CURRENT_UUID=$(CURRENT_UUID)" >> $GITHUB_ENV
+        {
+          echo "CURRENT_UUID=$(jq -r '.data[0].item.uuid' _data/neodb/neodb_data.json)"
+          echo "CURRENT_COUNT=$(jq -r '.count // (.data | length)' _data/neodb/neodb_data.json)"
+        } >> $GITHUB_ENV
 
-    # 获取远程最新的 UUID
-    - name: Get NeoDB Latest UUID and Pages
+    # 获取远程最新的 UUID、总数与页数
+    - name: Get NeoDB Latest UUID, Count and Pages
       run: |
-        RESPONSE=$(curl -s -X 'GET' \
+        RESPONSE=$(curl -sS -f -X 'GET' \
           'https://neodb.social/api/me/shelf/complete?page=1' \
           -H 'accept: application/json' \
           -H 'Authorization: Bearer ${{ secrets.NEODB_ACCESS_TOKEN }}')
 
         REMOTE_UUID=$(echo "$RESPONSE" | jq -r '.data[0].item.uuid')
+        REMOTE_COUNT=$(echo "$RESPONSE" | jq -r '.count')
         REMOTE_PAGES=$(echo "$RESPONSE" | jq -r '.pages')
 
-        echo "REMOTE_UUID=$REMOTE_UUID" >> $GITHUB_ENV
-        echo "REMOTE_PAGES=$REMOTE_PAGES" >> $GITHUB_ENV
+        # 接口异常时直接失败，避免用空响应覆盖本地数据
+        if [ -z "$REMOTE_UUID" ] || [ "$REMOTE_UUID" = "null" ] ||
+           ! [[ "$REMOTE_COUNT" =~ ^[0-9]+$ ]] || ! [[ "$REMOTE_PAGES" =~ ^[0-9]+$ ]]; then
+          echo "Invalid response from NeoDB: $RESPONSE" >&2
+          exit 1
+        fi
 
-    # 对比本地的 UUID 和远程 UUID，相等就跳过，不相等就下载新数据
-    - name: UUID Compare
+        {
+          echo "REMOTE_UUID=$REMOTE_UUID"
+          echo "REMOTE_COUNT=$REMOTE_COUNT"
+          echo "REMOTE_PAGES=$REMOTE_PAGES"
+        } >> $GITHUB_ENV
+
+    # 对比本地的 UUID / 记录总数和远程值，任一变化就下载新数据
+    # 只比较最新一条的 UUID 不够：补录（回溯日期）的条目会排在最新记录之后，
+    # 最新 UUID 不变，但总数会增加。
+    - name: UUID and Count Compare
       run: |
-        if [ ${{ env.REMOTE_UUID }} != ${{ env.CURRENT_UUID }} ]; then
-          echo "Variables are not equal. Running the next steps."
+        if [ "${{ github.event.inputs.force }}" = "true" ] ||
+           [ "$REMOTE_UUID" != "$CURRENT_UUID" ] || [ "$REMOTE_COUNT" != "$CURRENT_COUNT" ]; then
+          echo "Changed: ${CURRENT_UUID}/${CURRENT_COUNT} -> ${REMOTE_UUID}/${REMOTE_COUNT}. Syncing."
+          echo "NEED_UPDATE=true" >> $GITHUB_ENV
         else
-          echo "Variables are equal. Skipping the next steps."
-          exit 0
+          echo "Unchanged: ${CURRENT_UUID}/${CURRENT_COUNT}. Skipping sync."
+          echo "NEED_UPDATE=false" >> $GITHUB_ENV
         fi
 
     # 下载所有数据
     - name: Get All NeoDB
-      if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
+      if: ${{ env.NEED_UPDATE == 'true' }}
       run: |
         pages=${{ env.REMOTE_PAGES }}
 
@@ -81,16 +102,16 @@ jobs:
         # 下载数据
         for ((i=1; i<=$pages; i++)); do
           url="https://neodb.social/api/me/shelf/complete?page=$i"
-          filename="neodb_data$i.json"
+          filename=$(printf "neodb_data%03d.json" "$i")
 
         # 下载文件并保存为对应的文件名
-        curl -X 'GET' "$url" \
+        curl -fsS -X 'GET' "$url" \
           -H 'accept: application/json' \
           -H 'Authorization: Bearer ${{ secrets.NEODB_ACCESS_TOKEN }}' > "$filename"
         done
 
         # 把所有数据合并成一个文件
-        jq -c -s '{data: map(.data[]) | unique | sort_by(.created_time) | reverse, pages: map(.pages)[0], count: map(.count)[0]}' *.json > neodb_data.json
+        jq -c -s '{data: map(.data[]) | unique | sort_by(.created_time) | reverse, pages: .[0].pages, count: .[0].count}' neodb_data*.json > neodb_data.json
 
         # 更新 NeoDB 数据
         mkdir -p ${{ env.WORK_DIR }}/_data/neodb/
@@ -99,7 +120,7 @@ jobs:
 
     # 按 category 分类 JSON 数据
     - name: Categorize JSON by Category
-      if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
+      if: ${{ env.NEED_UPDATE == 'true' }}
       run: |
         # 创建输出目录
         mkdir -p ${{ env.WORK_DIR }}/_data/neodb
@@ -117,7 +138,7 @@ jobs:
         echo "JSON 数据已按 category 分类！"
 
     - name: Download NeoDB Cover
-      if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
+      if: ${{ env.NEED_UPDATE == 'true' }}
       run: |
         # 检查 neodb_data 目录是否存在，如果不存在则创建
         if [ ! -d "neodb_data" ]; then
@@ -149,7 +170,6 @@ jobs:
             # 使用 curl 命令下载图片；下载失败也不中断整个流程
             if curl -fsSL --retry 2 -o "$filepath" "$url"; then
               echo "Downloaded $filename"
-              echo "REMOTE_UUID=''" >> $GITHUB_ENV
             else
               echo "Failed to download $url - skipped"
             fi
@@ -158,7 +178,7 @@ jobs:
 
     # 把修改后的数据提交到 GitHub 仓库
     - name: Git Add and Commit
-      if: ${{ env.REMOTE_UUID != env.CURRENT_UUID }}
+      if: ${{ env.NEED_UPDATE == 'true' }}
       uses: EndBug/add-and-commit@v9
       with:
         message: 'chore(data): update neodb data'
