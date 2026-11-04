@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     # doumark 是把抓到的数据 concat 到已有文件后面，所以必须先移走旧文件。
     # 备份放在 $RUNNER_TEMP（不进仓库），仅用于本次失败回滚；
@@ -87,7 +87,7 @@ jobs:
         fi
 
     - name: Commit
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v11
       with:
         message: 'chore: update douban data'
         add: |

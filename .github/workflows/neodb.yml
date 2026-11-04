@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     # 检查是否安装了 JQ
     - name: Check JQ
@@ -179,7 +179,7 @@ jobs:
     # 把修改后的数据提交到 GitHub 仓库
     - name: Git Add and Commit
       if: ${{ env.NEED_UPDATE == 'true' }}
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v11
       with:
         message: 'chore(data): update neodb data'
         committer_name: 'github-actions[bot]'
