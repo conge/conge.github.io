@@ -1734,13 +1734,13 @@
           },
           {
             "role": "record_label",
-            "name": "Kitty-Yo",
+            "name": "Efa Imports",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "record_label",
-            "name": "Efa Imports",
+            "name": "Kitty-Yo",
             "character_name": "",
             "person_url": null
           }
@@ -3209,7 +3209,7 @@
       "post_id": 257527433728505728,
       "item": {
         "type": "Album",
-        "title": "赤裸裸",
+        "title": "赤裸裸?!",
         "description": "1994年6月发行。是郑钧的首张专辑，其中《回到拉萨》《赤裸裸》《极乐世界》《灰姑娘》等作品至今在国内广为流传。同时也是很多郑钧迷最喜欢的一张唱片，被列为中国摇滚史上的经典唱片。《赤裸裸》曾经横扫中国五十家电台排行榜榜首，而专辑正版发行量也超过50万张， ……\n郑钧这张专辑主要面对的听众层是从18岁到30岁之间，其中包括高中生、大学生，以及走出校门步入社会时间不久的年轻人，郑钧本人也正是其中的一份子。他曾经对生活、事业和爱情都有着美好的憧憬，但现实生活往往使他的梦想化为泡影，时常自我矛盾的他徘徊于希望与失望，成就与失落中的感受，正是这一代人中十分典型的心态。郑钧把他这份真实的感受，大胆、质朴地流露在他的音乐中，相信会在年轻人中间产生强烈的共鸣。",
         "localized_title": [
           {
@@ -3218,6 +3218,10 @@
           },
           {
             "lang": "zh-cn",
+            "text": "赤裸裸?!"
+          },
+          {
+            "lang": "en",
             "text": "赤裸裸?!"
           }
         ],
@@ -3245,13 +3249,19 @@
         "api_url": "/api/album/1RniumKeEH2YNhil8cnQai",
         "category": "music",
         "parent_uuid": null,
-        "display_title": "赤裸裸",
+        "display_title": "赤裸裸?!",
         "external_resources": [
           {
             "url": "https://music.douban.com/subject/1404457/"
           },
           {
             "url": "https://open.spotify.com/album/5AYyeq6y3PH6Et3BAOHceo"
+          },
+          {
+            "url": "https://musicbrainz.org/release/d8fd8a63-cec2-47d8-9d84-8d51fdbaefb8"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/music/mbReleaseId-d8fd8a63-cec2-47d8-9d84-8d51fdbaefb8"
           }
         ],
         "credits": [
@@ -3312,12 +3322,12 @@
         ],
         "cover_image_url": "https://neodb.social/m/album/2021/09/158b8693d5-638a-484d-ac21-024ce581aa85.jpg",
         "rating": 7.6,
-        "rating_count": 343,
+        "rating_count": 344,
         "rating_distribution": [
           0,
           6,
-          32,
-          39,
+          31,
+          40,
           23
         ],
         "tags": null,
@@ -4684,13 +4694,13 @@
           },
           {
             "role": "record_label",
-            "name": "DGC Records",
+            "name": "Geffen Records",
             "character_name": "",
             "person_url": null
           },
           {
             "role": "record_label",
-            "name": "Geffen Records",
+            "name": "DGC Records",
             "character_name": "",
             "person_url": null
           }
@@ -5021,6 +5031,12 @@
           },
           {
             "url": "https://www.discogs.com/master/21491"
+          },
+          {
+            "url": "https://musicbrainz.org/release/ad0e6676-3e55-4bd6-a9ed-7f6424fd46f6"
+          },
+          {
+            "url": "https://bridge.neodb.net/catalog/music/mbReleaseId-ad0e6676-3e55-4bd6-a9ed-7f6424fd46f6"
           },
           {
             "url": "https://musicbrainz.org/release/3c8cbdc8-555f-3987-8f03-6baf9488d1b0"
